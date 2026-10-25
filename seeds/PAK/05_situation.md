@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-10-25 04:28 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-10-25 09:20 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -50,6 +50,9 @@
 
 周边自然事件（地震 150 km、灾害警报 300 km、NASA 自然事件 150 km 以内）：
 - 2026-10-20 23:16 UTC，USGS 地震目录：M4.6 earthquake · 115 km NNE of Barishal, Pakistan，距项目 47.4 km。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3r1
+
+近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-10-25 07:29 UTC：Opinion | Divided Kashmir, Divergent Roads: How CPEC Failed Where J&K’s Infrastructure Succeeded - The Global Kashmir
 
 ## 喀喇昆仑公路二期（塔科特—哈维连）
 
@@ -78,14 +81,14 @@
 - 2026-10-23 13:44 UTC：Military says 10 militants killed in Gwadar clearance operations - PakTribune。https://news.google.com/rss/articles/CBMikgFBVV95cUxQV2JVeDJqWTF5NmFKbGJUTVY0cnduTlpCTWFjNHJEaDZkczBZV0k4dkJuVm82NGY0ekloX1BDc3R4Zm0tZEhocXhBTWZfQV9PVzViNjdSQVBKTlZaMDJFR213MWhFYVdBSFVvbmxGYldyaGRCNDNLMG1fZl9FYm1ERms1bi1yT0xkazJFUXpUNExuQQ?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-10-25 08:58 UTC：Pakistan’s Gwadar faces stiff competition from Gulf ports - Mangalorean.com
+- 2026-10-25 06:38 UTC：Pakistan reopens Iran border crossing after week-long suspension of trade - The New Indian Express
 - 2026-10-25 01:19 UTC：Gabd border crossing with Iran reopened - Dawn
 - 2026-10-24 16:05 UTC：Baloch Separatists Launch Major Assault On Pakistani Military Base In Gwadar | Videos - Free Press Journal
 - 2026-10-24 14:40 UTC：Gwadar in the Regional Energy Equation: Strategic Opportunity or Costly Promise for Pakistan? - Middle East Monitor
 - 2026-10-24 12:28 UTC：Lawyers’ Club Inaugurated in Gwadar to Boost Cooperation - The Daily CPEC
 - 2026-10-24 07:05 UTC：Gwadar Operation | ISPR Statement | Pakistan Security Forces | Balochistan - Aaj News - Aaj English TV
 - 2026-10-24 07:05 UTC：Gwadar Operation | ISPR Statement | Pakistan Security Forces | Balochistan - Aaj News
-- 2026-10-23 17:44 UTC：Pakistan security forces kill 10 militants in Gwadar operations, ISPR says - Bol News
-- 2026-10-23 16:56 UTC：Beyond Hormuz: What Gwadar can really do for Pakistan's energy security - 24 News HD
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

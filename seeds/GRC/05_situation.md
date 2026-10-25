@@ -4,3 +4,11 @@
 
 - 美国国务院旅行建议：Greece - Level 1: Exercise Normal Precautions（Thu, 23 Oct 2025）。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.grc.html 
 - World Monitor 汇总的旅行建议级别：normal
+
+## 地震（USGS，M4.5+，近 7 天）
+
+- 2026-10-25 05:15 UTC：M4.9，17 km SE of Ambelókipoi, Greece。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sm 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-10-25 05:15 UTC：Green 级 EQ，Earthquake in Greece。https://www.gdacs.org/report.aspx?eventid=1573730&episodeid=1742533&eventtype=EQ 

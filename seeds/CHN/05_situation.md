@@ -33,6 +33,4 @@
 - 2026-10-24 13:26 UTC：Green 级 EQ，Earthquake in China。https://www.gdacs.org/report.aspx?eventid=1573645&episodeid=1742426&eventtype=EQ 
 - 2026-10-24 08:39 UTC：Green 级 EQ，Earthquake in China。https://www.gdacs.org/report.aspx?eventid=1573572&episodeid=1742342&eventtype=EQ 
 - 2026-10-24 08:29 UTC：Green 级 EQ，Earthquake in China。https://www.gdacs.org/report.aspx?eventid=1573577&episodeid=1742350&eventtype=EQ 
-- 2026-10-24 00:07 UTC：Green 级 EQ，Earthquake in China。https://www.gdacs.org/report.aspx?eventid=1573484&episodeid=1742225&eventtype=EQ 
-- 2026-10-22 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033138&episodeid=1&eventtype=WF 
-- 2026-10-20 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033143&episodeid=1&eventtype=WF 
+- 2026-10-22 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033173&episodeid=1&eventtype=WF 

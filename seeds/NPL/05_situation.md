@@ -9,7 +9,7 @@
 
 - 2026-09-04 00:00 UTC：US State Dept Nepal - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 
-# 尼泊尔项目周边近期态势（截至 2026-10-25 04:28 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-10-25 09:20 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -30,8 +30,6 @@
 - 2026-10-22 12:14 UTC：Websites Go Dark As AI Exposes Critical Security Flaws – Himalaya Times - Nepali Patro
 - 2026-10-20 04:01 UTC：Government Decides to Deposit One Month's Salary of Prime Minister and Cabinet Members to Disaster Relief Fund - Ratopati
 - 2026-10-19 18:07 UTC：China cites non-existent Tibetan refugee threats to refuse reopening Nepal border trade post - Tibetan Review
-- 2026-10-18 07:37 UTC：Can Nepal’s hydropower boom withstand a changing Himalaya? - Inquirer.net
-- 2026-10-18 05:14 UTC：Over 2,400 Tonnes of Fruits and Food Items Imported via Korala Border - Nepalnews.com
 
 ## 热索瓦加迪（Timure）口岸边检站
 
@@ -45,8 +43,9 @@
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-10-20 14:58 UTC：Corridor Catastrophe - U.OSU
+- 2026-10-20 04:01 UTC：Government Decides to Deposit One Month's Salary of Prime Minister and Cabinet Members to Disaster Relief Fund - Ratopati
 - 2026-10-19 18:07 UTC：China cites non-existent Tibetan refugee threats to refuse reopening Nepal border trade post - Tibetan Review
-- 2026-10-18 07:37 UTC：Can Nepal’s hydropower boom withstand a changing Himalaya? - Inquirer.net
+- 2026-10-19 01:51 UTC：Can Nepal’s hydropower boom withstand a changing Himalaya? - Asia News Network
 
 ## 上特里苏利 3A 水电站（60 MW）
 
