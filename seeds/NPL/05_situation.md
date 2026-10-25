@@ -9,7 +9,7 @@
 
 - 2026-09-04 00:00 UTC：US State Dept Nepal - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 
-# 尼泊尔项目周边近期态势（截至 2026-10-24 21:31 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-10-25 04:28 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -17,7 +17,7 @@
 
 - 美国国务院旅行建议：Nepal - Level 2: Exercise Increased Caution（发布 Fri, 04 Sep 2026）。来源：https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 - 英国外交部旅行建议最近更新于 2026-10-01 13:09 UTC，更新说明：Removal of information about the Family Assistance Centre at the British Embassy Kathmandu (‘Warnings and insurance’ page).。来源：https://www.gov.uk/foreign-travel-advice/nepal 
-- IODA 近 7 天记录到全国性网络中断告警 2 条。来源：IODA 互联网中断检测（佐治亚理工），https://ioda.inetintel.cc.gatech.edu/
+- IODA 近 7 天记录到全国性网络中断告警 0 条。来源：IODA 互联网中断检测（佐治亚理工），https://ioda.inetintel.cc.gatech.edu/
 
 ## 沙布鲁贝西—热索瓦加迪公路
 
@@ -32,13 +32,13 @@
 - 2026-10-19 18:07 UTC：China cites non-existent Tibetan refugee threats to refuse reopening Nepal border trade post - Tibetan Review
 - 2026-10-18 07:37 UTC：Can Nepal’s hydropower boom withstand a changing Himalaya? - Inquirer.net
 - 2026-10-18 05:14 UTC：Over 2,400 Tonnes of Fruits and Food Items Imported via Korala Border - Nepalnews.com
-- 2026-10-18 04:14 UTC：Can Nepal’s hydropower boom withstand a changing Himalaya? - Hamro Patro
 
 ## 热索瓦加迪（Timure）口岸边检站
 
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-10-23 18:17 UTC：Nepal-Tibet flood death toll surpasses 900, officials say, more than 4,700 missing - ABC11 News。https://news.google.com/rss/articles/CBMirwtBVV95cUxNT1lFazF5ZzB1d1plOVB2VkE5LVQ3anZmTGFSQjhKckRSVHNwM011Rnlhc2otRTRwVWhzeklZVktKaXlMU1ZKYWtScHlIOGh0RmlRc2ZvQkhFS255aWlIYXFucGNqU0VYV0x5QW5MemdwNFlzRnpSeWZuR2YxMUxZbUhHUzJIVllQU3pYZ21yd1B6OFVGbXhCRFBBd01kX2ZIN09lQUtHZlAzZXhRa1o5VVVJRnVtcWFEMnEzR3U1WjRKdmJWQWN1cmxNSzhjQ09ILUhPVHdKLXpjUnFYTzZRcVVOTGYyTnZGb0FUaXlaQ2l4cm5TUjlxcXZ0VDFnek5XOGRFelVkTmxHQ1RlU2RFRTR2dUtqVEpFdzJnUjNldzI3aXdRa19vVXlkUU5aQlJzVVVWU0F4clpSS0JpOWsySjNRTmFfUTlLTTItM2x3anZlV0ZoSjFrVEd2VVpsMExGRl9PWUxlUXV3dm9iQ0F0MElnQ0o0VEhoY1JlVmlySkpWTjl1cTBBYlNwUDBEUzJTOFZGS05xZF9jWHlnXzRuZTRScmI1Z19LVkxhSTg5RG9rNHl5T2lKRU4yRTQzSVJWeU1DY3Z6TWNieDFUQ1FtOUJLcHRrQnQ4TEVRRmI0eUNGWTJwWXVIeDg1RWZ3MXIyU0JhWjd3UVdxREtrTEs2WGpLbVJsTVEtQXVIMGlIMlVGcHp0Z1phRWYtRDA1TWlkdDlwU1V4QlY1YVhMVnhpaVNKeVNfU0NmMkk2YmVBOHFVTVZrOF9NLWtKM1Y3dWhvSENwdTZpYUF0OU55YmJ5eENMM2NJb0pYMlhMWF82Rm1EM2p1LW1OVEZOZ3g1VnhMU1VxYXZwbjdHZjdzZFlDVHNRM0F3Tl9TOExyQlY1TzFMUU9wRjV4MXE2dWd4ODFJck1aQmU2Ty1kSlJYUEh2cFJDMTMyT080dHhYcUpjRHJ4cmE5SjJqRWJXbmh1ZkNsdDNiejgwamRJXzdwbGQ0X05TdzItM0xaM193QWtFVUp2clU4TlpreFBHbTBwbTVMbWRDNTNZVHdTZkVsS2xpVUpuUXVidGV2Q29oZ1AzbmtMbVlEWk1rbTU2dVdjbUtZX2NZQ052aUdiT3ZhWkhCanJOOERRU3hKbURqaEtkaUFyS3d2TGExd2Q3TFFXbzhGOFNKUFlRRFNzN2dSeDQtRVcwZGRRMFRMVUphcThzRkstVEhPd2FodWExUXpYMzdSZFNwRWs0dnFEUTVUVEg1VEVjbXRfLU9La3RUMlFuLVJvNzBoRFh1eTk1VFhJYzdZaV9tVkc5bFR1VS1oT3ljT3lFNVE5dmdBM0tJbVI1UmlGLURSSUdfY202RFZUcUlQa3RiQXduT1BYUlVyRGxaTXYzaEtQSHNQenpfN3R0YmI3T1lSYnRxb3JnVUt6bTdGTE9LZFQ1OEg1YnVScHhXdkhOWllOTHIyZDFSTHRkY2kyTEtfUEpkUFNMeTdCRFQ2OFFKOVhYZUlaUmVjblNNeTdlcUdfSFdMWThTaUZnVmJMTU0yV0ZZckpiVVBqT0ZKOUFuVm5PT3RsQWsyU0pRcXBCNGlZdjVKWnJ2TnNYNy1NVmdhZjBTTGRlQ1VCOXo5NWhiTzRfWmJwM1RLak9iYjVnNlBib1lkYWQ2Vk0zU3EyU01fbTRRdnY5T2JSMG9JNEVaeE94SV9NOEd0Z2pEN3BkRWNxNWFpeFQzN0xhVWR0NE13QXRmZlNaX3dZUktZTFJKTVlCOURiSXg4WmpOT2ZRcWp3eDd0dWs4NW1yWFVMVlp6ZHdzUXBjNzNxMGQwUUk4WHZfbmN6UmZFSXY1OG40RGpndWh0REZLenFCT1BTZmhkYndsaW5RVkMtTTNBVHlOemJIRzJmRHVDSTk5Q3FSZ1o1Zi10SVl6ckprblJQSjdJNTJuLXBtM0JFa0k?oc=5
 - 2026-10-22 14:17 UTC：Flood Victims Seek Resettlement in Khaidi - Ratopati。https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdnFxb0MyVFhvQ1BhWlJBdmRoaTBLelVvNTUwOXRxOVpxdHNRMjNtaDlyZXVoMTFKVFFjZmRkQVNFQmJXOFRHZGlrTF9hWnRjR2dkX2Vfa2RUT0xaVENKLU16VEcycF9OYzlqNWd6NlJnakdEcURtY3REbWpnSUx5aGJ3WjBfMmhkMnh3dlFWMXVUTE9JTERXWjVUbWFpdDltMEI4RVRYeC1fVG5DV3hMbG9vRl9COXpueHNUWmJFZWY3V2M?oc=5
 - 2026-10-20 10:20 UTC：For Timure’s flood survivors, Dashain brings memories of the lives they lost - The Kathmandu Post。https://news.google.com/rss/articles/CBMivgFBVV95cUxPWUtidE9GcTZjRTJ2S3UtOGtZRDBha2M3TmhlMElYQUR3czdhR0c4MEtWWDRCRFJCdHdQd3BMMm13cm5EdnVsT19LejJzRUtham1kNUpUbXFZaVJLV2ppVkhzMHlxR21obTRvZU90OUtGcGUtZ09acDh2T1BOVWJZdkczMmJ0XzNJVVRWQzlnM3dZTjlocTlNWTc2ZW5rQ3Izd2J2TWloMldKS0g4Y0stSlBIbHpOc0RQX0J5ckp3?oc=5
 - 2026-10-20 10:20 UTC：For Timure’s flood survivors, Dashain brings memories of the lives they lost - Hamro Patro。https://news.google.com/rss/articles/CBMiugFBVV95cUxNNTBhWklmS3Bpb2lhRnRLblZnd2ExVmVXVENaeUlQQkxkeHYydkRWZEVWSXFJblFUZ1dISFFTQ0laM1VEci1fTVdXTThuV0xsRFY4SG1oeWw2Yk1SdGF3UFJfUmVHaHlHdXY2X2xyaERKa3ctVUE5YW00eTRMcWpPUHFtcmFDM215UWljSmNVNkpKV18wcEY1VHdaWGdnWHBkalJqLTZ6OThHVkRGUXdLNXM0Mk9MQWVHMmc?oc=5
@@ -47,7 +47,6 @@
 - 2026-10-20 14:58 UTC：Corridor Catastrophe - U.OSU
 - 2026-10-19 18:07 UTC：China cites non-existent Tibetan refugee threats to refuse reopening Nepal border trade post - Tibetan Review
 - 2026-10-18 07:37 UTC：Can Nepal’s hydropower boom withstand a changing Himalaya? - Inquirer.net
-- 2026-10-18 04:14 UTC：Can Nepal’s hydropower boom withstand a changing Himalaya? - Hamro Patro
 
 ## 上特里苏利 3A 水电站（60 MW）
 
@@ -57,8 +56,8 @@
 
 周边自然事件：扫描期间没有记录。
 
-近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-10-18 03:41 UTC：Temporary tower restores 220 kV transmission line damaged by Kaligandaki flood - myRepublica。https://news.google.com/rss/articles/CBMizwFBVV95cUxOeFV3S21kbnFqY01sSVdVdmJoSnkySmFSRFVLRG5tSVd6dDk3MHpPQnVlcXZhaHdROC12NlBjMS1YNFQ0NTJFWmZRczBJWjdWOTZIeFZXMjRVUmxHOTZOSXdwbXhyNVdtaFg0SWRPckNOTndiNmd5aDdxNVpLX2psbVNxVER6ZFFFSFhKTjRQZDdQT2dVcHZOQjNJZ0JVd1Btc3JtaFYxVmtxdDIxQVdmWWFJS0pnN2xzU3dFS3ZyRmh0Vm4taGp1M29VdDlqZ3c?oc=5
+近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-10-25 04:01 UTC：Nepal earns Rs 5.92 billion from electricity exports to India in September - OnlineKhabar English News
 
 ## 吉隆—加德满都跨境铁路（规划）
 

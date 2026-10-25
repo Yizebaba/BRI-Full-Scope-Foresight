@@ -24,3 +24,4 @@
 ## 灾害警报（GDACS，近 14 天）
 
 - 2026-10-24 20:35 UTC：Green 级 EQ，Earthquake in Russia。https://www.gdacs.org/report.aspx?eventid=1573671&episodeid=1742459&eventtype=EQ 
+- 2026-10-22 00:00 UTC：Green 级 WF，Forest fires in Russia。https://www.gdacs.org/report.aspx?eventid=1033087&episodeid=4&eventtype=WF 
