@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-10-25 13:53 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-10-25 17:36 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -81,10 +81,10 @@
 - 2026-10-23 13:44 UTC：Military says 10 militants killed in Gwadar clearance operations - PakTribune。https://news.google.com/rss/articles/CBMikgFBVV95cUxQV2JVeDJqWTF5NmFKbGJUTVY0cnduTlpCTWFjNHJEaDZkczBZV0k4dkJuVm82NGY0ekloX1BDc3R4Zm0tZEhocXhBTWZfQV9PVzViNjdSQVBKTlZaMDJFR213MWhFYVdBSFVvbmxGYldyaGRCNDNLMG1fZl9FYm1ERms1bi1yT0xkazJFUXpUNExuQQ?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-10-25 13:54 UTC：Pakistan’s Gwadar faces stiff competition from Gulf ports - Social News XYZ
 - 2026-10-25 08:58 UTC：Pakistan’s Gwadar faces stiff competition from Gulf ports - Mangalorean.com
 - 2026-10-25 08:48 UTC：Pakistan's Gwadar Port Struggles Against Gulf Rivals in Bunkering Business - Lokmat Times
 - 2026-10-25 08:37 UTC：Pakistan’s Gwadar faces stiff competition from Gulf ports - Punjab Kesari English
-- 2026-10-25 07:54 UTC：Pakistan’s Gwadar faces stiff competition from Gulf ports - Social News XYZ
 - 2026-10-25 06:38 UTC：Pakistan reopens Iran border crossing after week-long suspension of trade - The New Indian Express
 - 2026-10-25 01:19 UTC：Gabd border crossing with Iran reopened - Dawn
 - 2026-10-24 16:05 UTC：Baloch Separatists Launch Major Assault On Pakistani Military Base In Gwadar | Videos - Free Press Journal
