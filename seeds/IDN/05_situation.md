@@ -14,8 +14,3 @@
 - 2026-10-24 21:41 UTC：M4.9，53 km NNW of Fef, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pw 
 - 2026-10-22 10:57 UTC：M4.9，85 km NNW of Curup, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u42q 
 - 2026-10-20 13:27 UTC：M4.5，142 km SSW of Abepura, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3lx 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-10-24 21:41 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1573678&episodeid=1742473&eventtype=EQ 
-- 2026-10-12 00:00 UTC：Green 级 WF，Forest fires in Indonesia。https://www.gdacs.org/report.aspx?eventid=1032893&episodeid=16&eventtype=WF 

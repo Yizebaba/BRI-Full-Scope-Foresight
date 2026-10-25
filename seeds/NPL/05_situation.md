@@ -9,7 +9,7 @@
 
 - 2026-09-04 00:00 UTC：US State Dept Nepal - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 
-# 尼泊尔项目周边近期态势（截至 2026-10-25 09:20 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-10-25 13:53 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -56,6 +56,8 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-10-25 10:07 UTC：Nepal exports electricity worth Rs 5.92 billion to India in Ashoj - The Himalayan Times
+- 2026-10-25 09:09 UTC：Nepal Resumes Electricity Supply to Bangladesh - Ajker Patrika
 - 2026-10-25 04:01 UTC：Nepal earns Rs 5.92 billion from electricity exports to India in September - OnlineKhabar English News
 
 ## 吉隆—加德满都跨境铁路（规划）

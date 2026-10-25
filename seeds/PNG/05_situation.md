@@ -7,6 +7,7 @@
 
 ## 地震（USGS，M4.5+，近 7 天）
 
+- 2026-10-25 10:30 UTC：M5.4，33 km ESE of Ambunti, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tq 
 - 2026-10-25 03:29 UTC：M5.2，63 km NNE of Lae, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4s5 
 - 2026-10-20 14:20 UTC：M4.5，111 km S of Kokopo, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3m7 
 - 2026-10-19 22:42 UTC：M4.9，52 km S of Kokopo, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ic 
@@ -14,5 +15,6 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
+- 2026-10-25 10:30 UTC：Green 级 EQ，Earthquake in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1573768&episodeid=1742580&eventtype=EQ 
 - 2026-10-25 03:29 UTC：Green 级 EQ，Earthquake in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1573720&episodeid=1742519&eventtype=EQ 
-- 2026-10-11 00:00 UTC：Green 级 WF，Forest fires in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1032999&episodeid=14&eventtype=WF 
+- 2026-10-11 00:00 UTC：Green 级 WF，Forest fires in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1032999&episodeid=15&eventtype=WF 
