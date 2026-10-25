@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-10-25 17:36 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-10-25 19:55 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -49,6 +49,7 @@
 ## 喀喇昆仑公路改扩建（雷科特—红其拉甫）
 
 周边自然事件（地震 150 km、灾害警报 300 km、NASA 自然事件 150 km 以内）：
+- 2026-10-25 17:44 UTC，GDACS：Green 级 · Earthquake in Afghanistan，距项目 285.8 km。https://www.gdacs.org/report.aspx?eventid=1573818&episodeid=1742638&eventtype=EQ
 - 2026-10-20 23:16 UTC，USGS 地震目录：M4.6 earthquake · 115 km NNE of Barishal, Pakistan，距项目 47.4 km。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3r1
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
@@ -56,7 +57,8 @@
 
 ## 喀喇昆仑公路二期（塔科特—哈维连）
 
-周边自然事件：扫描期间没有记录。
+周边自然事件（地震 150 km、灾害警报 300 km、NASA 自然事件 150 km 以内）：
+- 2026-10-25 17:44 UTC，GDACS：Green 级 · Earthquake in Afghanistan，距项目 234.3 km。https://www.gdacs.org/report.aspx?eventid=1573818&episodeid=1742638&eventtype=EQ
 
 ## 卡洛特水电站（720 MW）
 
