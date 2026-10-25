@@ -16,3 +16,7 @@
 ## 各国政府旅行建议更新（经 World Monitor）
 
 - 2026-10-16 14:52 UTC：UK FCDO Nigeria。https://www.gov.uk/foreign-travel-advice/nigeria 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-10-18 00:00 UTC：Green 级 WF，Forest fires in Nigeria。https://www.gdacs.org/report.aspx?eventid=1033198&episodeid=1&eventtype=WF 
