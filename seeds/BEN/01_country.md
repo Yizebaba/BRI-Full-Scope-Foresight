@@ -66,7 +66,7 @@
 - 科技期刊论文（篇）：437（2023 年）
 - 高技术出口占制成品出口（%）：30.54（2024 年）
 - 高技术出口（现价美元）：2246 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 2,426 篇（OpenAlex），主要学科：Agricultural and Biological Sciences（578）、Medicine（418）、Environmental Science（417）、Biochemistry, Genetics and Molecular Biology（234）、Social Sciences（134）、Engineering（130）、Physics and Astronomy（65）、Computer Science（57）
+- 2025 年有本国作者参与的论文约 2,423 篇（OpenAlex），主要学科：Agricultural and Biological Sciences（578）、Medicine（419）、Environmental Science（416）、Biochemistry, Genetics and Molecular Biology（234）、Social Sciences（134）、Engineering（130）、Physics and Astronomy（65）、Computer Science（57）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/BEN ；Wikidata https://www.wikidata.org/ （CC0）。

@@ -9,7 +9,7 @@
 
 - 2026-09-04 00:00 UTC：US State Dept Nepal - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 
-# 尼泊尔项目周边近期态势（截至 2026-10-26 05:59 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-10-26 12:47 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -44,13 +44,16 @@
 - 2026-10-20 10:20 UTC：For Timure’s flood survivors, Dashain brings memories of the lives they lost - Hamro Patro。https://news.google.com/rss/articles/CBMiugFBVV95cUxNNTBhWklmS3Bpb2lhRnRLblZnd2ExVmVXVENaeUlQQkxkeHYydkRWZEVWSXFJblFUZ1dISFFTQ0laM1VEci1fTVdXTThuV0xsRFY4SG1oeWw2Yk1SdGF3UFJfUmVHaHlHdXY2X2xyaERKa3ctVUE5YW00eTRMcWpPUHFtcmFDM215UWljSmNVNkpKV18wcEY1VHdaWGdnWHBkalJqLTZ6OThHVkRGUXdLNXM0Mk9MQWVHMmc?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-10-20 14:58 UTC：Corridor Catastrophe - U.OSU
+- 2026-10-25 15:00 UTC：Work to reopen Benighat–Tatopani road completed - myRepublica
 - 2026-10-20 04:01 UTC：Government Decides to Deposit One Month's Salary of Prime Minister and Cabinet Members to Disaster Relief Fund - Ratopati
 - 2026-10-19 18:07 UTC：China cites non-existent Tibetan refugee threats to refuse reopening Nepal border trade post - Tibetan Review
 
 ## 上特里苏利 3A 水电站（60 MW）
 
 周边自然事件：扫描期间没有记录。
+
+近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-10-26 06:18 UTC：Customs-evaded goods seized in Kanchanpur - OnlineKhabar English News
 
 ## 上特里苏利 3A—加德满都 220 kV 输电线
 

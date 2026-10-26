@@ -8,7 +8,7 @@
 - 政府首脑：罗比娜·纳班贾（Nabbanja Robinah）；职位：乌干达总理（Prime Minister of Uganda）
 - 立法机构：乌干达议会（Parliament of Uganda）
 - 中央银行：烏干達銀行（Bank of Uganda）
-- 首都：坎帕拉（Kampala）；货币：烏干達先令（Ugandan shilling）；官方语言：斯瓦希里语（Swahili）、英语（English）
+- 首都：坎帕拉（Kampala）；货币：烏干達先令（Ugandan shilling）；官方语言：英语（English）、斯瓦希里语（Swahili）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：1.00（2024 年）
 - 高技术出口占制成品出口（%）：1.92（2024 年）
 - 高技术出口（现价美元）：2200 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 9,656 篇（OpenAlex），主要学科：Medicine（3,178）、Social Sciences（1,492）、Agricultural and Biological Sciences（996）、Environmental Science（542）、Health Professions（435）、Engineering（419）、Business, Management and Accounting（393）、Computer Science（319）
+- 2025 年有本国作者参与的论文约 9,664 篇（OpenAlex），主要学科：Medicine（3,179）、Social Sciences（1,497）、Agricultural and Biological Sciences（996）、Environmental Science（543）、Health Professions（435）、Engineering（419）、Business, Management and Accounting（394）、Computer Science（319）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/UGA ；Wikidata https://www.wikidata.org/ （CC0）。

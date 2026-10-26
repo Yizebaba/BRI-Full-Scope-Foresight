@@ -8,7 +8,7 @@
 - 政府首脑：博里亚娜·克里什托（Borjana Krišto）；职位：波斯尼亚和黑塞哥维那部长会议主席（Chairman of the Council of Ministers of Bosnia and Herzegovina）
 - 立法机构：波斯尼亚和黑塞哥维那议会（Parliamentary Assembly of Bosnia and Herzegovina）
 - 中央银行：波斯尼亚和黑塞哥维那中央银行（Central Bank of Bosnia and Herzegovina）
-- 首都：萨拉热窝（Sarajevo）；货币：波斯尼亚和黑塞哥维那可兑换马克（convertible mark）、波赫第納爾（Bosnia and Herzegovina dinar）；官方语言：克罗地亚语（Croatian）、塞尔维亚语（Serbian）、波斯尼亚语（Bosnian）
+- 首都：萨拉热窝（Sarajevo）；货币：波斯尼亚和黑塞哥维那可兑换马克（convertible mark）、波赫第納爾（Bosnia and Herzegovina dinar）；官方语言：克罗地亚语（Croatian）、波斯尼亚语（Bosnian）、塞尔维亚语（Serbian）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：13.00（2024 年）
 - 高技术出口占制成品出口（%）：6.16（2024 年）
 - 高技术出口（现价美元）：4.07 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 4,539 篇（OpenAlex），主要学科：Social Sciences（861）、Medicine（826）、Engineering（571）、Arts and Humanities（325）、Computer Science（271）、Environmental Science（242）、Agricultural and Biological Sciences（231）、Business, Management and Accounting（210）
+- 2025 年有本国作者参与的论文约 4,544 篇（OpenAlex），主要学科：Social Sciences（863）、Medicine（826）、Engineering（572）、Arts and Humanities（322）、Computer Science（271）、Environmental Science（243）、Agricultural and Biological Sciences（231）、Business, Management and Accounting（211）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/BIH ；Wikidata https://www.wikidata.org/ （CC0）。

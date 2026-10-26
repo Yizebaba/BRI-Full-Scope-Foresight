@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-10-25 22:28 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-10-26 12:47 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -54,15 +54,22 @@
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-10-25 07:29 UTC：Opinion | Divided Kashmir, Divergent Roads: How CPEC Failed Where J&K’s Infrastructure Succeeded - The Global Kashmir
+- 2026-10-23 05:00 UTC：Karakoram Highway | Facts, Completion Date, & Khunjerab Pass - Britannica
 
 ## 喀喇昆仑公路二期（塔科特—哈维连）
 
 周边自然事件（地震 150 km、灾害警报 300 km、NASA 自然事件 150 km 以内）：
 - 2026-10-25 17:44 UTC，GDACS：Green 级 · Earthquake in Afghanistan，距项目 234.3 km。https://www.gdacs.org/report.aspx?eventid=1573818&episodeid=1742638&eventtype=EQ
 
+近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-10-26 11:31 UTC：CPEC portfolio reaches $50.34bn; 45 of 95 projects completed-INP - Independent News Pakistan
+
 ## 卡洛特水电站（720 MW）
 
 周边自然事件：扫描期间没有记录。
+
+近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-10-26 11:31 UTC：CPEC portfolio reaches $50.34bn; 45 of 95 projects completed-INP - Independent News Pakistan
 
 ## 瓜达尔港
 
@@ -83,14 +90,14 @@
 - 2026-10-23 13:44 UTC：Military says 10 militants killed in Gwadar clearance operations - PakTribune。https://news.google.com/rss/articles/CBMikgFBVV95cUxQV2JVeDJqWTF5NmFKbGJUTVY0cnduTlpCTWFjNHJEaDZkczBZV0k4dkJuVm82NGY0ekloX1BDc3R4Zm0tZEhocXhBTWZfQV9PVzViNjdSQVBKTlZaMDJFR213MWhFYVdBSFVvbmxGYldyaGRCNDNLMG1fZl9FYm1ERms1bi1yT0xkazJFUXpUNExuQQ?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-10-26 10:14 UTC：Pakistani author documents Xinjiang’s heritage, development in new book - Gwadar Pro
+- 2026-10-26 08:47 UTC：Gwadar Situation Today: Life Normal, Online Claims Fall Flat – Pashto News and Current Affairs Channel - Khyber News
 - 2026-10-25 19:54 UTC：Pakistan’s Gwadar faces stiff competition from Gulf ports - Social News XYZ
 - 2026-10-25 08:58 UTC：Pakistan’s Gwadar faces stiff competition from Gulf ports - Mangalorean.com
 - 2026-10-25 08:48 UTC：Pakistan's Gwadar Port Struggles Against Gulf Rivals in Bunkering Business - Lokmat Times
 - 2026-10-25 08:37 UTC：Pakistan’s Gwadar faces stiff competition from Gulf ports - Punjab Kesari English
 - 2026-10-25 06:38 UTC：Pakistan reopens Iran border crossing after week-long suspension of trade - The New Indian Express
 - 2026-10-25 01:19 UTC：Gabd border crossing with Iran reopened - Dawn
-- 2026-10-24 16:05 UTC：Baloch Separatists Launch Major Assault On Pakistani Military Base In Gwadar | Videos - Free Press Journal
-- 2026-10-24 14:40 UTC：Gwadar in the Regional Energy Equation: Strategic Opportunity or Costly Promise for Pakistan? - Middle East Monitor
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

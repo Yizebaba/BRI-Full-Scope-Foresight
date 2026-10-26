@@ -7,7 +7,7 @@
 - 国家元首：哈凯恩德·希奇莱马（Hakainde Hichilema）；职位：赞比亚总统（President of Zambia）
 - 政府首脑：埃德加·伦古（Edgar Lungu）；职位：赞比亚总统（President of Zambia）
 - 立法机构：赞比亚国民议会（National Assembly）
-- 中央银行：Bank of Zambia
+- 中央银行：尚比亞銀行（Bank of Zambia）
 - 首都：卢萨卡（Lusaka）；货币：赞比亚克瓦查（Zambian Kwacha）；官方语言：英语（English）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：14.00（2024 年）
 - 高技术出口占制成品出口（%）：1.47（2024 年）
 - 高技术出口（现价美元）：2342 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 2,943 篇（OpenAlex），主要学科：Medicine（847）、Social Sciences（445）、Agricultural and Biological Sciences（232）、Business, Management and Accounting（214）、Environmental Science（194）、Economics, Econometrics and Finance（151）、Health Professions（126）、Engineering（125）
+- 2025 年有本国作者参与的论文约 2,941 篇（OpenAlex），主要学科：Medicine（847）、Social Sciences（445）、Agricultural and Biological Sciences（231）、Business, Management and Accounting（214）、Environmental Science（194）、Economics, Econometrics and Finance（152）、Health Professions（126）、Engineering（125）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/ZMB ；Wikidata https://www.wikidata.org/ （CC0）。

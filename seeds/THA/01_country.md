@@ -5,7 +5,7 @@
 ## 国家机构与领导人（Wikidata，现任）
 
 - 国家元首：玛哈·哇集拉隆功（Rama X of Thailand）；职位：泰国国王（King of Thailand）
-- 政府首脑：普坦·威乍耶猜（Phumtham Wechayachai）、佩通坦·钦那瓦（Paetongtarn Shinawatra）；职位：泰国总理（Prime Minister of Thailand）
+- 政府首脑：佩通坦·钦那瓦（Paetongtarn Shinawatra）、普坦·威乍耶猜（Phumtham Wechayachai）；职位：泰国总理（Prime Minister of Thailand）
 - 立法机构：泰国国会（National Assembly of Thailand）
 - 中央银行：泰国银行（Bank of Thailand）
 - 首都：曼谷（Bangkok）；货币：泰铢（baht）；官方语言：泰语（Thai）
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：7,797（2024 年）
 - 高技术出口占制成品出口（%）：28.33（2024 年）
 - 高技术出口（现价美元）：613.47 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 69,260 篇（OpenAlex），主要学科：Social Sciences（13,225）、Medicine（11,789）、Engineering（5,849）、Business, Management and Accounting（4,614）、Arts and Humanities（4,503）、Agricultural and Biological Sciences（4,421）、Computer Science（4,338）、Psychology（2,950）
+- 2025 年有本国作者参与的论文约 69,630 篇（OpenAlex），主要学科：Social Sciences（13,345）、Medicine（11,832）、Engineering（5,859）、Business, Management and Accounting（4,654）、Arts and Humanities（4,561）、Agricultural and Biological Sciences（4,430）、Computer Science（4,351）、Psychology（2,976）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/THA ；Wikidata https://www.wikidata.org/ （CC0）。

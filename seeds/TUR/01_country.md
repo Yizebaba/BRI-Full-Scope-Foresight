@@ -5,7 +5,7 @@
 ## 国家机构与领导人（Wikidata，现任）
 
 - 国家元首：雷杰普·塔伊普·埃尔多安（Recep Tayyip Erdoğan）；职位：土耳其总统（President of Turkey）
-- 政府首脑：苏莱曼·德米雷尔（Süleyman Demirel）、图尔古特·厄扎尔（Turgut Özal）、比連德·烏盧蘇（Bülent Ulusu）、耶尔德勒姆·阿克布卢特（Yıldırım Akbulut）、埃达尔·伊诺努（Erdal İnönü）、雷杰普·塔伊普·埃尔多安（Recep Tayyip Erdoğan）；职位：土耳其总统（President of Turkey）
+- 政府首脑：图尔古特·厄扎尔（Turgut Özal）、苏莱曼·德米雷尔（Süleyman Demirel）、耶尔德勒姆·阿克布卢特（Yıldırım Akbulut）、比連德·烏盧蘇（Bülent Ulusu）、埃达尔·伊诺努（Erdal İnönü）、雷杰普·塔伊普·埃尔多安（Recep Tayyip Erdoğan）；职位：土耳其总统（President of Turkey）
 - 立法机构：土耳其大国民议会（Grand National Assembly of Turkey）
 - 中央银行：土耳其共和國中央銀行（Central Bank of the Republic of Turkey）
 - 首都：安卡拉（Ankara）；货币：土耳其里拉（Turkish lira）；官方语言：土耳其语（Turkish）
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：347（2024 年）
 - 高技术出口占制成品出口（%）：5.14（2024 年）
 - 高技术出口（现价美元）：99.04 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 162,500 篇（OpenAlex），主要学科：Medicine（38,867）、Social Sciences（21,448）、Engineering（17,145）、Arts and Humanities（10,616）、Agricultural and Biological Sciences（8,640）、Computer Science（7,827）、Psychology（6,984）、Environmental Science（5,870）
+- 2025 年有本国作者参与的论文约 162,631 篇（OpenAlex），主要学科：Medicine（38,906）、Social Sciences（21,471）、Engineering（17,148）、Arts and Humanities（10,631）、Agricultural and Biological Sciences（8,645）、Computer Science（7,833）、Psychology（6,991）、Environmental Science（5,873）
 - 阿齐兹·桑贾尔（Aziz Sancar）：诺贝尔化学奖，2015 年
 - 奥尔汗·帕穆克（Orhan Pamuk）：诺贝尔文学奖，2006 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。

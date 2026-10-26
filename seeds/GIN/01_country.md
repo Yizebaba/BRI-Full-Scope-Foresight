@@ -67,7 +67,7 @@
 - 科技期刊论文（篇）：54.90（2023 年）
 - 高技术出口占制成品出口（%）：0.90（2016 年）
 - 高技术出口（现价美元）：80 万美元（2016 年）
-- 2025 年有本国作者参与的论文约 658 篇（OpenAlex），主要学科：Medicine（359）、Agricultural and Biological Sciences（53）、Environmental Science（38）、Engineering（35）、Social Sciences（25）、Economics, Econometrics and Finance（19）、Biochemistry, Genetics and Molecular Biology（18）、Health Professions（16）
+- 2025 年有本国作者参与的论文约 659 篇（OpenAlex），主要学科：Medicine（359）、Agricultural and Biological Sciences（53）、Environmental Science（38）、Engineering（35）、Social Sciences（25）、Economics, Econometrics and Finance（19）、Biochemistry, Genetics and Molecular Biology（18）、Health Professions（16）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/GIN ；Wikidata https://www.wikidata.org/ （CC0）。

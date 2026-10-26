@@ -8,7 +8,7 @@
 - 政府首脑：曼努埃尔·奥萨·恩苏埃·恩苏阿（Manuel Osa Nsue Nsua）；职位：赤道几内亚总理（Prime Minister of Equatorial Guinea）
 - 立法机构：议会（Parliament of Equatorial Guinea）
 - 中央银行：中非国家银行（Bank of Central African States）
-- 首都：拉巴斯城（Ciudad de la Paz）；货币：中非非洲金融共同体法郎（Central African CFA franc）；官方语言：西班牙语（Spanish）、葡萄牙语（Portuguese）、法语（French）
+- 首都：拉巴斯城（Ciudad de la Paz）；货币：中非非洲金融共同体法郎（Central African CFA franc）；官方语言：西班牙语（Spanish）、法语（French）、葡萄牙语（Portuguese）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 

@@ -72,7 +72,7 @@
 - 非居民专利申请（件）：91.00（2024 年）
 - 高技术出口占制成品出口（%）：0.22（2024 年）
 - 高技术出口（现价美元）：921 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 1,107 篇（OpenAlex），主要学科：Medicine（231）、Social Sciences（166）、Engineering（148）、Environmental Science（95）、Computer Science（74）、Business, Management and Accounting（64）、Agricultural and Biological Sciences（53）、Health Professions（37）
+- 2025 年有本国作者参与的论文约 1,106 篇（OpenAlex），主要学科：Medicine（231）、Social Sciences（166）、Engineering（148）、Environmental Science（95）、Computer Science（74）、Business, Management and Accounting（64）、Agricultural and Biological Sciences（53）、Health Professions（37）
 - V·S·奈波爾（V. S. Naipaul）：诺贝尔文学奖，2001 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

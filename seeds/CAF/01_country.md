@@ -4,7 +4,7 @@
 
 ## 国家机构与领导人（Wikidata，现任）
 
-- 国家元首：弗朗索瓦·博齐泽（François Bozizé）、福斯坦-阿尔尚热·图瓦德拉（Faustin-Archange Touadéra）；职位：中非共和国总统（President of the Central African Republic）
+- 国家元首：福斯坦-阿尔尚热·图瓦德拉（Faustin-Archange Touadéra）、弗朗索瓦·博齐泽（François Bozizé）；职位：中非共和国总统（President of the Central African Republic）
 - 政府首脑：菲利克斯·莫卢瓦（Félix Moloua）；职位：中非共和国总理（Prime Minister of the Central African Republic）
 - 立法机构：国民议会（National Assembly）
 - 中央银行：中非国家银行（Bank of Central African States）

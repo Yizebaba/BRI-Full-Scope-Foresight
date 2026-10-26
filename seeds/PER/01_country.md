@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：1,081（2024 年）
 - 高技术出口占制成品出口（%）：5.21（2024 年）
 - 高技术出口（现价美元）：2.86 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 21,037 篇（OpenAlex），主要学科：Social Sciences（4,308）、Medicine（3,225）、Agricultural and Biological Sciences（1,509）、Engineering（1,476）、Environmental Science（1,417）、Business, Management and Accounting（1,361）、Computer Science（1,331）、Psychology（1,142）
+- 2025 年有本国作者参与的论文约 21,067 篇（OpenAlex），主要学科：Social Sciences（4,322）、Medicine（3,227）、Agricultural and Biological Sciences（1,514）、Engineering（1,478）、Environmental Science（1,418）、Business, Management and Accounting（1,363）、Computer Science（1,331）、Psychology（1,144）
 - 马里奥·巴尔加斯·略萨（Mario Vargas Llosa）：诺贝尔文学奖，2010 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

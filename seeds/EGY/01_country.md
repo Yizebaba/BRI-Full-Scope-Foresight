@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：1,272（2024 年）
 - 高技术出口占制成品出口（%）：3.81（2024 年）
 - 高技术出口（现价美元）：8.88 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 75,135 篇（OpenAlex），主要学科：Medicine（18,931）、Engineering（8,551）、Agricultural and Biological Sciences（6,159）、Social Sciences（6,074）、Computer Science（4,067）、Arts and Humanities（3,410）、Environmental Science（3,329）、Materials Science（3,294）
+- 2025 年有本国作者参与的论文约 75,125 篇（OpenAlex），主要学科：Medicine（18,931）、Engineering（8,539）、Agricultural and Biological Sciences（6,158）、Social Sciences（6,080）、Computer Science（4,064）、Arts and Humanities（3,410）、Environmental Science（3,328）、Materials Science（3,294）
 - 穆罕默德·巴拉迪（Mohamed ElBaradei）：诺贝尔和平奖，2005 年
 - 艾哈迈德·泽维尔（Ahmed Zewail）：诺贝尔化学奖，1999 年
 - 纳吉布·马哈福兹（Naguib Mahfouz）：诺贝尔文学奖，1988 年

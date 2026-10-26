@@ -33,6 +33,21 @@
 - Chinese companies CRSG：在塞拉利昂出现在 1 个项目中。例：2018 年 Chinese companies CRSG and WAOMC donate food, sporting goods and school bags in Sierra Leone in June 2018
 - Chinese companies WAOMC：在塞拉利昂出现在 1 个项目中。例：2019 年 Chinese companies WAOMC and CRSG donate food to Hastings, Rogbamgba, and Yams Farm communities in Sierra Leone
 
+## 主要贸易伙伴（UN Comtrade，2025 年，镜像：各国对它的申报）
+
+- 中国：塞拉利昂对其出口 13.45 亿美元，自其进口 9.40 亿美元
+- 印度：塞拉利昂对其出口 4737 万美元，自其进口 3.96 亿美元
+- 荷兰：塞拉利昂对其出口 1.80 亿美元，自其进口 5574 万美元
+- 美国：塞拉利昂对其出口 5173 万美元，自其进口 1.18 亿美元
+- 土耳其：塞拉利昂对其出口 139 万美元，自其进口 1.02 亿美元
+- 比利时：塞拉利昂对其出口 4167 万美元，自其进口 4782 万美元
+- 摩洛哥：塞拉利昂对其出口 220 万美元，自其进口 6114 万美元
+- 英国：塞拉利昂对其出口 1387 万美元，自其进口 4826 万美元
+- 巴西：塞拉利昂对其出口 9 万美元，自其进口 5744 万美元
+- 法国：塞拉利昂对其出口 3492 万美元，自其进口 1933 万美元
+- 西班牙：塞拉利昂对其出口 757 万美元，自其进口 4527 万美元
+- 德国：塞拉利昂对其出口 1984 万美元，自其进口 2989 万美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Sierra Leone - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.sle.html

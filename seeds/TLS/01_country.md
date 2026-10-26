@@ -67,7 +67,7 @@
 - 科技期刊论文（篇）：20.70（2023 年）
 - 高技术出口占制成品出口（%）：1.53（2023 年）
 - 高技术出口（现价美元）：55 万美元（2023 年）
-- 2025 年有本国作者参与的论文约 594 篇（OpenAlex），主要学科：Social Sciences（214）、Business, Management and Accounting（60）、Medicine（54）、Agricultural and Biological Sciences（39）、Arts and Humanities（39）、Health Professions（32）、Computer Science（25）、Engineering（25）
+- 2025 年有本国作者参与的论文约 594 篇（OpenAlex），主要学科：Social Sciences（215）、Business, Management and Accounting（59）、Medicine（54）、Agricultural and Biological Sciences（39）、Arts and Humanities（39）、Health Professions（32）、Computer Science（25）、Engineering（25）
 - 卡洛斯·菲利普·西门内斯·贝洛（Carlos Filipe Ximenes Belo）：诺贝尔和平奖，1996 年
 - 若泽·拉莫斯·奥尔塔（José Ramos-Horta）：诺贝尔和平奖，1996 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。

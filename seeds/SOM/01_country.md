@@ -63,7 +63,7 @@
 - 科技期刊论文（篇）：152（2023 年）
 - 本国居民专利申请（件）：1.00（1984 年）
 - 非居民专利申请（件）：7.00（1985 年）
-- 2025 年有本国作者参与的论文约 1,126 篇（OpenAlex），主要学科：Medicine（319）、Social Sciences（207）、Economics, Econometrics and Finance（79）、Health Professions（64）、Agricultural and Biological Sciences（56）、Computer Science（56）、Business, Management and Accounting（50）、Environmental Science（43）
+- 2025 年有本国作者参与的论文约 1,127 篇（OpenAlex），主要学科：Medicine（319）、Social Sciences（207）、Economics, Econometrics and Finance（79）、Health Professions（64）、Agricultural and Biological Sciences（56）、Computer Science（56）、Business, Management and Accounting（50）、Environmental Science（43）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/SOM ；Wikidata https://www.wikidata.org/ （CC0）。

@@ -4,7 +4,7 @@
 
 ## 国家机构与领导人（Wikidata，现任）
 
-- 国家元首：蘇尤克·道馬什（Tamás Sulyok）、鲍卡·安德拉什；职位：匈牙利总统（President of Hungary）
+- 国家元首：鲍卡·安德拉什（András Baka）、蘇尤克·道馬什（Tamás Sulyok）；职位：匈牙利总统（President of Hungary）
 - 政府首脑：毛焦尔·彼得（Péter Magyar）；职位：匈牙利总理（Prime Minister of Hungary）
 - 立法机构：匈牙利国民议会（National Assembly）
 - 中央银行：匈牙利国家银行（Hungarian National Bank）
@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：113（2024 年）
 - 高技术出口占制成品出口（%）：22.57（2024 年）
 - 高技术出口（现价美元）：287.85 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 27,985 篇（OpenAlex），主要学科：Medicine（4,325）、Social Sciences（4,262）、Engineering（2,976）、Agricultural and Biological Sciences（1,868）、Computer Science（1,791）、Arts and Humanities（1,713）、Environmental Science（1,482）、Biochemistry, Genetics and Molecular Biology（1,372）
+- 2025 年有本国作者参与的论文约 28,053 篇（OpenAlex），主要学科：Medicine（4,328）、Social Sciences（4,301）、Engineering（2,978）、Agricultural and Biological Sciences（1,867）、Computer Science（1,793）、Arts and Humanities（1,733）、Environmental Science（1,478）、Biochemistry, Genetics and Molecular Biology（1,369）
 - 克拉斯诺霍尔卡伊·拉斯洛（László Krasznahorkai）：诺贝尔文学奖，2025 年
 - 费伦茨·克劳斯（Ferenc Krausz）：诺贝尔物理学奖，2023 年
 - 考里科·卡塔琳（Katalin Karikó）：诺贝尔生理学或医学奖，2023 年

@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：90.00（2024 年）
 - 高技术出口占制成品出口（%）：13.51（2024 年）
 - 高技术出口（现价美元）：401.10 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 96,851 篇（OpenAlex），主要学科：Medicine（17,687）、Social Sciences（13,890）、Engineering（11,477）、Arts and Humanities（8,459）、Environmental Science（4,790）、Computer Science（4,659）、Agricultural and Biological Sciences（4,632）、Biochemistry, Genetics and Molecular Biology（4,404）
+- 2025 年有本国作者参与的论文约 96,764 篇（OpenAlex），主要学科：Medicine（17,702）、Social Sciences（13,904）、Engineering（11,479）、Arts and Humanities（8,467）、Environmental Science（4,791）、Computer Science（4,663）、Agricultural and Biological Sciences（4,626）、Biochemistry, Genetics and Molecular Biology（4,401）
 - 奥尔加·托卡尔丘克（Olga Tokarczuk）：诺贝尔文学奖，2018 年
 - 维斯瓦娃·辛波斯卡（Wisława Szymborska）：诺贝尔文学奖，1996 年
 - 约瑟夫·罗特布拉特（Joseph Rotblat）：诺贝尔和平奖，1995 年

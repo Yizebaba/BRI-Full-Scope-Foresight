@@ -6,7 +6,7 @@
 
 - 阿基拉·萨拉赫·伊萨（Aguila Saleh Issa）：利比亚现任国家元首。来源：Wikidata
 - 穆罕默德·門菲（Mohamed al-Menfi）：利比亚现任国家元首。来源：Wikidata
-- 阿卜杜勒·哈米德·德拜巴（Abd al-Hamid Dbeibeh）：利比亚现任政府首脑。来源：Wikidata
+- 阿卜杜勒·哈米德·德拜巴（Abd al-Hamid Al-Dabiba）：利比亚现任政府首脑。来源：Wikidata
 - 利比亚国民代表大会（House of Representatives）：利比亚的立法机构。来源：Wikidata
 - 最高国务委员会（利比亚）（High Council of State）：利比亚的立法机构。来源：Wikidata
 - 利比亚中央银行（Central Bank of Libya）：利比亚的中央银行。来源：Wikidata

@@ -77,7 +77,7 @@
 - 非居民专利申请（件）：3,146（2024 年）
 - 高技术出口占制成品出口（%）：3.85（2024 年）
 - 高技术出口（现价美元）：4.09 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 40,084 篇（OpenAlex），主要学科：Social Sciences（7,781）、Medicine（6,117）、Agricultural and Biological Sciences（3,995）、Arts and Humanities（3,524）、Environmental Science（2,494）、Engineering（1,938）、Biochemistry, Genetics and Molecular Biology（1,541）、Computer Science（1,365）
+- 2025 年有本国作者参与的论文约 37,332 篇（OpenAlex），主要学科：Social Sciences（7,798）、Medicine（6,103）、Agricultural and Biological Sciences（3,994）、Arts and Humanities（3,536）、Environmental Science（2,493）、Engineering（1,949）、Biochemistry, Genetics and Molecular Biology（1,496）、Psychology（1,375）
 - 塞萨尔·米尔斯坦（César Milstein）：诺贝尔生理学或医学奖，1984 年
 - 阿道弗·佩雷斯·埃斯基维尔（Adolfo Pérez Esquivel）：诺贝尔和平奖，1980 年
 - 卢伊斯·弗德里科·莱洛伊尔（Luis Federico Leloir）：诺贝尔化学奖，1970 年

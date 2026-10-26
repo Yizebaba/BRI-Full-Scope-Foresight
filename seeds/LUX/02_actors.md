@@ -5,24 +5,24 @@
 ## 本国政府与机构
 
 - 纪尧姆大公储（Guillaume V, Grand Duke of Luxembourg）：卢森堡现任国家元首。来源：Wikidata
-- 维克托·德·托纳科（Victor de Tornaco）：卢森堡现任政府首脑。来源：Wikidata
 - 埃马纽埃尔·塞尔韦（Emmanuel Servais）：卢森堡现任政府首脑。来源：Wikidata
 - 爱德华·蒂尔热（Édouard Thilges）：卢森堡现任政府首脑。来源：Wikidata
+- 维克托·德·托纳科（Victor de Tornaco）：卢森堡现任政府首脑。来源：Wikidata
+- 约瑟夫·贝希（Joseph Bech）：卢森堡现任政府首脑。来源：Wikidata
 - 埃米尔·罗伊特（Émile Reuter）：卢森堡现任政府首脑。来源：Wikidata
+- 费利克斯·德·布洛克豪森（Félix de Blochausen）：卢森堡现任政府首脑。来源：Wikidata
+- 马蒂亚斯·蒙热纳（Mathias Mongenast）：卢森堡现任政府首脑。来源：Wikidata
 - 于贝尔·卢奇（Hubert Loutsch）：卢森堡现任政府首脑。来源：Wikidata
 - 让-雅克·维尔马尔（Jean-Jacques Willmar）：卢森堡现任政府首脑。来源：Wikidata
 - 夏尔-马蒂亚斯·西蒙斯（Charles-Mathias Simons）：卢森堡现任政府首脑。来源：Wikidata
+- 盧克‧弗里登（Luc Frieden）：卢森堡现任政府首脑。来源：Wikidata
 - 皮埃尔·弗里登（Pierre Frieden）：卢森堡现任政府首脑。来源：Wikidata
 - 加斯帕尔-泰奥多尔-伊尼亚斯·德·拉方丹（Gaspard-Théodore-Ignace de la Fontaine）：卢森堡现任政府首脑。来源：Wikidata
-- 费利克斯·德·布洛克豪森（Félix de Blochausen）：卢森堡现任政府首脑。来源：Wikidata
-- 马蒂亚斯·蒙热纳（Mathias Mongenast）：卢森堡现任政府首脑。来源：Wikidata
-- 盧克‧弗里登（Luc Frieden）：卢森堡现任政府首脑。来源：Wikidata
-- 约瑟夫·贝希（Joseph Bech）：卢森堡现任政府首脑。来源：Wikidata
-- 莱昂·考夫曼（Léon Kauffman）：卢森堡现任政府首脑。来源：Wikidata
-- 维克托·托恩（Victor Thorn）：卢森堡现任政府首脑。来源：Wikidata
+- 皮埃尔·普吕姆（Pierre Prüm）：卢森堡现任政府首脑。来源：Wikidata
 - 保罗·艾申（Paul Eyschen）：卢森堡现任政府首脑。来源：Wikidata
 - 皮埃尔·迪蓬（Pierre Dupong）：卢森堡现任政府首脑。来源：Wikidata
-- 皮埃尔·普吕姆（Pierre Prüm）：卢森堡现任政府首脑。来源：Wikidata
+- 莱昂·考夫曼（Léon Kauffman）：卢森堡现任政府首脑。来源：Wikidata
+- 维克托·托恩（Victor Thorn）：卢森堡现任政府首脑。来源：Wikidata
 - 众议院（Chamber of Deputies）：卢森堡的立法机构。来源：Wikidata
 - 卢森堡政府各部门：AidData 记录中的借款方、受援方和项目实施方。
 

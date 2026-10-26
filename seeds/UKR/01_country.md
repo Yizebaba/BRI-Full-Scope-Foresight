@@ -21,6 +21,7 @@
 - 制造业增加值占 GDP（%）：8.3（2025 年）
 - 服务业增加值占 GDP（%）：61.0（2025 年）
 - 通货膨胀率（CPI，%）：12.7（2025 年）
+- 失业率（%，ILO 估算）：9.8（2021 年）
 - 外国直接投资净流入：16.23 亿美元（2025 年）
 - 外债总额：1934.92 亿美元（2024 年）
 - 外债还本付息占出口收入（%）：15.8（2024 年）
@@ -78,7 +79,7 @@
 - 非居民专利申请（件）：1,590（2024 年）
 - 高技术出口占制成品出口（%）：6.37（2024 年）
 - 高技术出口（现价美元）：8.10 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 107,634 篇（OpenAlex），主要学科：Social Sciences（24,017）、Engineering（13,718）、Arts and Humanities（9,244）、Computer Science（8,938）、Medicine（8,784）、Business, Management and Accounting（7,738）、Agricultural and Biological Sciences（6,764）、Economics, Econometrics and Finance（6,275）
+- 2025 年有本国作者参与的论文约 107,718 篇（OpenAlex），主要学科：Social Sciences（24,035）、Engineering（13,721）、Arts and Humanities（9,250）、Computer Science（8,940）、Medicine（8,811）、Business, Management and Accounting（7,743）、Agricultural and Biological Sciences（6,765）、Economics, Econometrics and Finance（6,281）
 - 马林娜·维亚佐夫斯卡（Maryna Viazovska）：菲尔兹奖，2022 年
 - 弗拉基米尔·德林费尔德（Vladimir Drinfeld）：菲尔兹奖，1990 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。

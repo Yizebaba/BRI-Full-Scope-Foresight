@@ -21,6 +21,7 @@
 - 制造业增加值占 GDP（%）：3.5（2015 年）
 - 服务业增加值占 GDP（%）：56.6（2015 年）
 - 通货膨胀率（CPI，%）：91.4（2024 年）
+- 失业率（%，ILO 估算）：12.4（2023 年）
 - 外国直接投资净流入：7300 万美元（2025 年）
 - 货物和服务出口占 GDP（%）：36.7（2015 年）
 - 货物和服务进口占 GDP（%）：28.9（2015 年）
@@ -55,7 +56,7 @@
 ## 科研、创新与获奖
 
 - 科技期刊论文（篇）：17.18（2023 年）
-- 2025 年有本国作者参与的论文约 288 篇（OpenAlex），主要学科：Social Sciences（106）、Medicine（39）、Agricultural and Biological Sciences（33）、Environmental Science（25）、Computer Science（11）、Energy（11）、Engineering（9）、Economics, Econometrics and Finance（6）
+- 2025 年有本国作者参与的论文约 286 篇（OpenAlex），主要学科：Social Sciences（106）、Medicine（39）、Agricultural and Biological Sciences（33）、Environmental Science（25）、Energy（11）、Computer Science（10）、Engineering（8）、Economics, Econometrics and Finance（6）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/SSD ；Wikidata https://www.wikidata.org/ （CC0）。

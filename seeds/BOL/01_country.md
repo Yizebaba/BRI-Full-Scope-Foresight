@@ -8,7 +8,7 @@
 - 政府首脑：罗德里戈·帕斯·佩雷拉（Rodrigo Paz）；职位：玻利维亚总统（president of Bolivia）
 - 立法机构：多民族立法大会（Plurinational Legislative Assembly）
 - 中央银行：玻利维亚中央银行（Central Bank of Bolivia）
-- 首都：拉巴斯（La Paz）、苏克雷（Sucre）；货币：玻利维亚玻利维亚诺（boliviano）；官方语言：艾马拉语（Aymara）、克丘亚语（Quechua）、西班牙语（Spanish）、瓜纳尼语（Guarani）
+- 首都：拉巴斯（La Paz）、苏克雷（Sucre）；货币：玻利维亚玻利维亚诺（boliviano）；官方语言：西班牙语（Spanish）、艾马拉语（Aymara）、克丘亚语（Quechua）、瓜纳尼语（Guarani）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：216（2022 年）
 - 高技术出口占制成品出口（%）：8.79（2024 年）
 - 高技术出口（现价美元）：5118 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 2,711 篇（OpenAlex），主要学科：Social Sciences（642）、Medicine（500）、Environmental Science（247）、Agricultural and Biological Sciences（171）、Arts and Humanities（165）、Engineering（128）、Computer Science（127）、Psychology（115）
+- 2025 年有本国作者参与的论文约 2,717 篇（OpenAlex），主要学科：Social Sciences（642）、Medicine（500）、Environmental Science（249）、Agricultural and Biological Sciences（173）、Arts and Humanities（165）、Engineering（128）、Computer Science（127）、Psychology（115）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/BOL ；Wikidata https://www.wikidata.org/ （CC0）。

@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：3,698（2024 年）
 - 高技术出口占制成品出口（%）：60.40（2024 年）
 - 高技术出口（现价美元）：343.60 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 29,281 篇（OpenAlex），主要学科：Social Sciences（8,351）、Medicine（2,850）、Computer Science（2,765）、Psychology（2,292）、Agricultural and Biological Sciences（2,060）、Engineering（1,801）、Business, Management and Accounting（1,611）、Environmental Science（1,557）
+- 2025 年有本国作者参与的论文约 29,337 篇（OpenAlex），主要学科：Social Sciences（8,387）、Medicine（2,853）、Computer Science（2,769）、Psychology（2,295）、Agricultural and Biological Sciences（2,059）、Engineering（1,802）、Business, Management and Accounting（1,613）、Environmental Science（1,558）
 - 玛丽亚·雷沙（Maria Ressa）：诺贝尔和平奖，2021 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

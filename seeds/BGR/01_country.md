@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：7.00（2024 年）
 - 高技术出口占制成品出口（%）：13.43（2024 年）
 - 高技术出口（现价美元）：33.46 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 14,066 篇（OpenAlex），主要学科：Medicine（2,154）、Engineering（1,893）、Social Sciences（1,453）、Agricultural and Biological Sciences（1,288）、Computer Science（1,235）、Arts and Humanities（730）、Physics and Astronomy（636）、Environmental Science（624）
+- 2025 年有本国作者参与的论文约 14,119 篇（OpenAlex），主要学科：Medicine（2,170）、Engineering（1,891）、Social Sciences（1,457）、Agricultural and Biological Sciences（1,291）、Computer Science（1,236）、Arts and Humanities（740）、Physics and Astronomy（636）、Environmental Science（625）
 - 埃利亞斯·卡內蒂（Elias Canetti）：诺贝尔文学奖，1981 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

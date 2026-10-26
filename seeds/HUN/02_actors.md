@@ -4,8 +4,8 @@
 
 ## 本国政府与机构
 
+- 鲍卡·安德拉什（András Baka）：匈牙利现任国家元首。来源：Wikidata
 - 蘇尤克·道馬什（Tamás Sulyok）：匈牙利现任国家元首。来源：Wikidata
-- 鲍卡·安德拉什：匈牙利现任国家元首。来源：Wikidata
 - 毛焦尔·彼得（Péter Magyar）：匈牙利现任政府首脑。来源：Wikidata
 - 匈牙利国民议会（National Assembly）：匈牙利的立法机构。来源：Wikidata
 - 匈牙利国家银行（Hungarian National Bank）：匈牙利的中央银行。来源：Wikidata

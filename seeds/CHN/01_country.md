@@ -77,7 +77,7 @@
 - 非居民专利申请（件）：156,053（2024 年）
 - 高技术出口占制成品出口（%）：26.28（2024 年）
 - 高技术出口（现价美元）：8567.65 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 1,423,452 篇（OpenAlex），主要学科：Engineering（388,145）、Medicine（217,951）、Computer Science（163,329）、Biochemistry, Genetics and Molecular Biology（83,013）、Environmental Science（82,230）、Materials Science（81,862）、Agricultural and Biological Sciences（66,198）、Social Sciences（40,982）
+- 2025 年有本国作者参与的论文约 1,424,032 篇（OpenAlex），主要学科：Engineering（388,371）、Medicine（217,977）、Computer Science（163,376）、Biochemistry, Genetics and Molecular Biology（83,027）、Environmental Science（82,251）、Materials Science（81,918）、Agricultural and Biological Sciences（66,200）、Social Sciences（41,020）
 - 王虹（Hong Wang）：菲尔兹奖，2026 年
 - 邓煜（Yu Deng）：菲尔兹奖，2026 年
 - 屠呦呦（Tu Youyou）：诺贝尔生理学或医学奖，2015 年

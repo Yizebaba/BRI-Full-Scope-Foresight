@@ -79,7 +79,7 @@
 - 非居民专利申请（件）：110（2020 年）
 - 高技术出口占制成品出口（%）：0.20（2023 年）
 - 高技术出口（现价美元）：986 万美元（2023 年）
-- 2025 年有本国作者参与的论文约 3,119 篇（OpenAlex），主要学科：Medicine（835）、Social Sciences（508）、Environmental Science（320）、Agricultural and Biological Sciences（271）、Biochemistry, Genetics and Molecular Biology（203）、Engineering（133）、Economics, Econometrics and Finance（112）、Immunology and Microbiology（111）
+- 2025 年有本国作者参与的论文约 3,146 篇（OpenAlex），主要学科：Medicine（837）、Social Sciences（514）、Environmental Science（320）、Agricultural and Biological Sciences（274）、Biochemistry, Genetics and Molecular Biology（203）、Engineering（132）、Economics, Econometrics and Finance（119）、Immunology and Microbiology（111）
 - 德尼·慕克维格（Denis Mukwege）：诺贝尔和平奖，2018 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

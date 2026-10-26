@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：47.00（2024 年）
 - 高技术出口占制成品出口（%）：6.02（2021 年）
 - 高技术出口（现价美元）：9.22 亿美元（2021 年）
-- 2025 年有本国作者参与的论文约 6,527 篇（OpenAlex），主要学科：Medicine（1,165）、Engineering（1,021）、Social Sciences（865）、Arts and Humanities（421）、Materials Science（397）、Computer Science（354）、Agricultural and Biological Sciences（289）、Environmental Science（271）
+- 2025 年有本国作者参与的论文约 6,530 篇（OpenAlex），主要学科：Medicine（1,169）、Engineering（1,022）、Social Sciences（865）、Arts and Humanities（420）、Materials Science（398）、Computer Science（352）、Agricultural and Biological Sciences（289）、Environmental Science（271）
 - 阿列斯·比亚利亚茨基（Ales Bialiatski）：诺贝尔和平奖，2022 年
 - 斯韦特兰娜·阿列克西耶维奇（Svetlana Alexievich）：诺贝尔文学奖，2015 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。

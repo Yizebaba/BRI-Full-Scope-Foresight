@@ -21,6 +21,7 @@
 - 制造业增加值占 GDP（%）：5.1（2009 年）
 - 服务业增加值占 GDP（%）：37.0（2025 年）
 - 通货膨胀率（CPI，%）：138.8（2022 年）
+- 失业率（%，ILO 估算）：7.5（2022 年）
 - 外国直接投资净流入：1900 美元（2025 年）
 - 外债总额：220.21 亿美元（2024 年）
 - 外债还本付息占出口收入（%）：3.0（2022 年）
@@ -76,7 +77,7 @@
 - 非居民专利申请（件）：7.00（2020 年）
 - 高技术出口占制成品出口（%）：2.20（2018 年）
 - 高技术出口（现价美元）：87 万美元（2018 年）
-- 2025 年有本国作者参与的论文约 4,215 篇（OpenAlex），主要学科：Medicine（1,524）、Social Sciences（350）、Agricultural and Biological Sciences（340）、Engineering（301）、Environmental Science（187）、Health Professions（185）、Computer Science（182）、Biochemistry, Genetics and Molecular Biology（179）
+- 2025 年有本国作者参与的论文约 4,225 篇（OpenAlex），主要学科：Medicine（1,525）、Social Sciences（351）、Agricultural and Biological Sciences（340）、Engineering（302）、Environmental Science（187）、Health Professions（185）、Computer Science（181）、Biochemistry, Genetics and Molecular Biology（179）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/SDN ；Wikidata https://www.wikidata.org/ （CC0）。

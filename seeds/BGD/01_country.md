@@ -74,7 +74,7 @@
 - 非居民专利申请（件）：302（2024 年）
 - 高技术出口占制成品出口（%）：0.54（2018 年）
 - 高技术出口（现价美元）：2.04 亿美元（2018 年）
-- 2025 年有本国作者参与的论文约 37,302 篇（OpenAlex），主要学科：Medicine（6,666）、Engineering（5,433）、Computer Science（4,271）、Agricultural and Biological Sciences（3,573）、Social Sciences（3,387）、Environmental Science（2,576）、Business, Management and Accounting（1,493）、Materials Science（1,350）
+- 2025 年有本国作者参与的论文约 37,311 篇（OpenAlex），主要学科：Medicine（6,675）、Engineering（5,434）、Computer Science（4,270）、Agricultural and Biological Sciences（3,573）、Social Sciences（3,387）、Environmental Science（2,577）、Business, Management and Accounting（1,485）、Materials Science（1,350）
 - 穆罕默德·尤努斯（Muhammad Yunus）：诺贝尔和平奖，2006 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

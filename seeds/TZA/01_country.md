@@ -8,7 +8,7 @@
 - 政府首脑：薩米婭·蘇盧胡（Samia Suluhu Hassan）；职位：坦桑尼亚总统列表（President of Tanzania）
 - 立法机构：坦桑尼亚国民代表大会（National Assembly）
 - 中央银行：坦桑尼亚银行（Bank of Tanzania）
-- 首都：多多马（Dodoma）；货币：坦桑尼亚先令（Tanzanian shilling）；官方语言：斯瓦希里语（Swahili）、英语（English）
+- 首都：多多马（Dodoma）；货币：坦桑尼亚先令（Tanzanian shilling）；官方语言：英语（English）、斯瓦希里语（Swahili）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -75,7 +75,7 @@
 - 非居民专利申请（件）：1.00（2015 年）
 - 高技术出口占制成品出口（%）：3.01（2024 年）
 - 高技术出口（现价美元）：2743 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 8,749 篇（OpenAlex），主要学科：Medicine（2,141）、Social Sciences（1,455）、Agricultural and Biological Sciences（1,041）、Environmental Science（778）、Engineering（475）、Business, Management and Accounting（427）、Economics, Econometrics and Finance（359）、Health Professions（317）
+- 2025 年有本国作者参与的论文约 8,774 篇（OpenAlex），主要学科：Medicine（2,142）、Social Sciences（1,456）、Agricultural and Biological Sciences（1,057）、Environmental Science（779）、Engineering（475）、Business, Management and Accounting（427）、Economics, Econometrics and Finance（361）、Health Professions（317）
 - 阿卜杜勒-拉扎克·古尔纳（Abdulrazak Gurnah）：诺贝尔文学奖，2021 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

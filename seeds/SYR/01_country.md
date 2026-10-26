@@ -77,7 +77,7 @@
 - 非居民专利申请（件）：23.00（2023 年）
 - 高技术出口占制成品出口（%）：1.38（2010 年）
 - 高技术出口（现价美元）：3881 万美元（2010 年）
-- 2025 年有本国作者参与的论文约 2,765 篇（OpenAlex），主要学科：Medicine（925）、Engineering（213）、Agricultural and Biological Sciences（205）、Computer Science（197）、Social Sciences（183）、Dentistry（176）、Biochemistry, Genetics and Molecular Biology（137）、Environmental Science（124）
+- 2025 年有本国作者参与的论文约 2,790 篇（OpenAlex），主要学科：Medicine（925）、Engineering（214）、Agricultural and Biological Sciences（205）、Computer Science（197）、Social Sciences（183）、Dentistry（176）、Biochemistry, Genetics and Molecular Biology（137）、Environmental Science（125）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/SYR ；Wikidata https://www.wikidata.org/ （CC0）。

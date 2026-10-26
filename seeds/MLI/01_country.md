@@ -8,7 +8,7 @@
 - 政府首脑：Abdoulaye Maïga；职位：马里总理（Prime Minister of Mali）
 - 立法机构：国民议会（National Assembly）
 - 中央银行：西非国家中央银行（Central Bank of West African States）
-- 首都：巴马科（Bamako）；货币：西非非洲金融共同体法郎（West African CFA franc）；官方语言：Bobo、桑海語族（Songhay）、廷巴克語（Tamasheq）、多貢諸語言（Dogon）、富拉语（Fula）、塞努福语支（Senufo）、明揚卡語（Minyanka）、班巴拉语（Bambara）、哈松凯语（Kassonke）、博佐語（Bozo）、索宁克语（Soninke）、马宁卡语（Maninka）、哈桑语（Hassaniya Arabic）
+- 首都：巴马科（Bamako）；货币：西非非洲金融共同体法郎（West African CFA franc）；官方语言：桑海語族（Songhay）、Bobo、廷巴克語（Tamasheq）、多貢諸語言（Dogon）、富拉语（Fula）、明揚卡語（Minyanka）、哈桑语（Hassaniya Arabic）、塞努福语支（Senufo）、班巴拉语（Bambara）、索宁克语（Soninke）、马宁卡语（Maninka）、哈松凯语（Kassonke）、博佐語（Bozo）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -75,7 +75,7 @@
 - 非居民专利申请（件）：7.00（1981 年）
 - 高技术出口占制成品出口（%）：5.36（2023 年）
 - 高技术出口（现价美元）：1386 万美元（2023 年）
-- 2025 年有本国作者参与的论文约 950 篇（OpenAlex），主要学科：Medicine（337）、Agricultural and Biological Sciences（191）、Biochemistry, Genetics and Molecular Biology（81）、Social Sciences（54）、Environmental Science（52）、Health Professions（36）、Immunology and Microbiology（33）、Economics, Econometrics and Finance（31）
+- 2025 年有本国作者参与的论文约 944 篇（OpenAlex），主要学科：Medicine（337）、Agricultural and Biological Sciences（189）、Biochemistry, Genetics and Molecular Biology（81）、Social Sciences（53）、Environmental Science（52）、Health Professions（36）、Immunology and Microbiology（33）、Economics, Econometrics and Finance（31）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/MLI ；Wikidata https://www.wikidata.org/ （CC0）。

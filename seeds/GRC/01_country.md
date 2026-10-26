@@ -75,7 +75,7 @@
 - 非居民专利申请（件）：560（2024 年）
 - 高技术出口占制成品出口（%）：15.01（2024 年）
 - 高技术出口（现价美元）：29.74 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 40,211 篇（OpenAlex），主要学科：Medicine（11,119）、Engineering（4,645）、Social Sciences（3,444）、Computer Science（3,428）、Environmental Science（2,479）、Agricultural and Biological Sciences（1,769）、Biochemistry, Genetics and Molecular Biology（1,640）、Physics and Astronomy（1,459）
+- 2025 年有本国作者参与的论文约 40,175 篇（OpenAlex），主要学科：Medicine（11,108）、Engineering（4,649）、Social Sciences（3,431）、Computer Science（3,427）、Environmental Science（2,479）、Agricultural and Biological Sciences（1,769）、Biochemistry, Genetics and Molecular Biology（1,642）、Physics and Astronomy（1,459）
 - 约瑟夫·斯发基斯（Iosif Sifakis）：图灵奖，2007 年
 - 奥季塞乌斯·埃利蒂斯（Odysseas Elytis）：诺贝尔文学奖，1979 年
 - 喬治·塞菲里斯（Giorgos Seferis）：诺贝尔文学奖，1963 年

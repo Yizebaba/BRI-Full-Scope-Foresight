@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：268（2024 年）
 - 高技术出口占制成品出口（%）：2.08（2023 年）
 - 高技术出口（现价美元）：1.78 亿美元（2023 年）
-- 2025 年有本国作者参与的论文约 21,036 篇（OpenAlex），主要学科：Medicine（3,957）、Computer Science（2,786）、Engineering（2,633）、Social Sciences（2,198）、Business, Management and Accounting（1,485）、Mathematics（882）、Arts and Humanities（754）、Psychology（730）
+- 2025 年有本国作者参与的论文约 21,048 篇（OpenAlex），主要学科：Medicine（3,957）、Computer Science（2,786）、Engineering（2,631）、Social Sciences（2,201）、Business, Management and Accounting（1,487）、Mathematics（883）、Arts and Humanities（755）、Psychology（730）
 - 奧馬爾·亞基（Omar M. Yaghi）：诺贝尔化学奖，2025 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

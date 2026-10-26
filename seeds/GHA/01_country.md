@@ -77,7 +77,7 @@
 - 非居民专利申请（件）：14.00（2023 年）
 - 高技术出口占制成品出口（%）：1.58（2023 年）
 - 高技术出口（现价美元）：2081 万美元（2023 年）
-- 2025 年有本国作者参与的论文约 13,162 篇（OpenAlex），主要学科：Medicine（2,722）、Social Sciences（2,066）、Agricultural and Biological Sciences（1,268）、Environmental Science（1,103）、Business, Management and Accounting（908）、Engineering（829）、Computer Science（625）、Economics, Econometrics and Finance（558）
+- 2025 年有本国作者参与的论文约 13,171 篇（OpenAlex），主要学科：Medicine（2,722）、Social Sciences（2,066）、Agricultural and Biological Sciences（1,268）、Environmental Science（1,105）、Business, Management and Accounting（908）、Engineering（829）、Computer Science（628）、Economics, Econometrics and Finance（559）
 - 科菲·安南（Kofi Annan）：诺贝尔和平奖，2001 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

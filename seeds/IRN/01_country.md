@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：343（2024 年）
 - 高技术出口占制成品出口（%）：0.81（2022 年）
 - 高技术出口（现价美元）：2.06 亿美元（2022 年）
-- 2025 年有本国作者参与的论文约 96,772 篇（OpenAlex），主要学科：Medicine（21,057）、Engineering（16,698）、Social Sciences（5,986）、Agricultural and Biological Sciences（5,566）、Environmental Science（5,248）、Biochemistry, Genetics and Molecular Biology（4,843）、Computer Science（4,819）、Materials Science（4,617）
+- 2025 年有本国作者参与的论文约 96,865 篇（OpenAlex），主要学科：Medicine（21,068）、Engineering（16,717）、Social Sciences（6,006）、Agricultural and Biological Sciences（5,567）、Environmental Science（5,252）、Biochemistry, Genetics and Molecular Biology（4,847）、Computer Science（4,822）、Materials Science（4,619）
 - 纳尔吉斯·穆罕默迪（Narges Mohammadi）：诺贝尔和平奖，2023 年
 - 考切尔·比尔卡尔（Caucher Birkar）：菲尔兹奖，2018 年
 - 玛丽亚姆·米尔扎哈尼（Maryam Mirzakhani）：菲尔兹奖，2014 年

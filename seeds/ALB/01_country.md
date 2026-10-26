@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：1.00（2023 年）
 - 高技术出口占制成品出口（%）：1.53（2024 年）
 - 高技术出口（现价美元）：3308 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 2,951 篇（OpenAlex），主要学科：Social Sciences（625）、Medicine（530）、Computer Science（213）、Environmental Science（208）、Engineering（187）、Business, Management and Accounting（183）、Arts and Humanities（143）、Economics, Econometrics and Finance（126）
+- 2025 年有本国作者参与的论文约 2,960 篇（OpenAlex），主要学科：Social Sciences（626）、Medicine（529）、Computer Science（215）、Environmental Science（208）、Engineering（187）、Business, Management and Accounting（183）、Arts and Humanities（143）、Economics, Econometrics and Finance（129）
 - 加爾各答德肋撒修女（Mother Teresa）：诺贝尔和平奖，1979 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

@@ -27,26 +27,11 @@
 - Bank of Communications：在巴基斯坦出现在 1 个项目中，涉及金额约 3.45 亿美元。例：2017 年 [IPP] Bank of Communications contributes to $1.496 billion loan for 2×660MW Imported Coal Based Independent Po
 - 中国三峡集团（China Three Gorges）：在巴基斯坦出现在 3 个项目中，涉及金额约 3.21 亿美元。例：2013 年 [IPP] CDB provides a $107.7 million loan for 49.5 MW Three Gorges First Wind Farm Project；2016 年 [CPEC, IPP] CDB provides $84.4 million loan for the 49.5 MW Karot Three Gorges Third Wind Farm Project (Linked；2016 年 [CPEC, IPP] CDB provides $84.1 million loan for the 49.5 MW Karot Three Gorges Second Wind Farm Project (Linke
 - Donfang Electric Corporation：在巴基斯坦出现在 2 个项目中，涉及金额约 2.11 亿美元。例：2003 年 Donfang Electric Corporation provides supplier’s credit worth RMB 680 million for acquisition of 69 locomotive；2003 年 Donfang Electric Corporation provides supplier’s credit worth $4.6 million for the acquisition of 69 locomotiv
-- CCB, BoC, China CITIC Bank,：在巴基斯坦出现在 1 个项目中，涉及金额约 1.66 亿美元。例：2021 年 CCB, BoC, China CITIC Bank, and China Bohai Bank participate in $291.2 million syndicated loan for 900MW Bin Q
 - 中信集团（CITIC）：在巴基斯坦出现在 1 个项目中，涉及金额约 1.66 亿美元。例：2021 年 CCB, BoC, China CITIC Bank, and China Bohai Bank participate in $291.2 million syndicated loan for 900MW Bin Q
+- CCB, BoC, China CITIC Bank,：在巴基斯坦出现在 1 个项目中，涉及金额约 1.66 亿美元。例：2021 年 CCB, BoC, China CITIC Bank, and China Bohai Bank participate in $291.2 million syndicated loan for 900MW Bin Q
 - Bank of Jiangsu：在巴基斯坦出现在 1 个项目中，涉及金额约 7232 万美元。例：2015 年 [CPEC, IPP] Bank of Jiangsu provides $64.44 million loan for 100 MW Solar PV Power Plant in Quaid-e-Azam Solar
 - China Bohai Bank：在巴基斯坦出现在 1 个项目中，涉及金额约 6306 万美元。例：2015 年 China Bohai Bank provides $56.1 million loan for 100 MW Crest Energy Pakistan Limited Solar Power Plant at Qua
 - China government：在巴基斯坦出现在 3 个项目中，涉及金额约 1235 万美元。例：2012 年 China government grants the supply of machinery worthing RMB 45.5 million for Attabad Lake (Linked to #72694)；2012 年 China government grants the supply of machinery worth RMB 20 million for Attabad Lake (Linked to #72693)；2015 年 China government grants RMB 900,000 for the feasibility study of Hospital of Gwadar Construction Project (Link
-
-## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
-
-- 中国：巴基斯坦对其出口 22.90 亿美元，自其进口 204.86 亿美元
-- 阿联酋：巴基斯坦对其出口 19.23 亿美元，自其进口 69.54 亿美元
-- 美国：巴基斯坦对其出口 59.33 亿美元，自其进口 27.56 亿美元
-- 沙特阿拉伯：巴基斯坦对其出口 6.92 亿美元，自其进口 41.53 亿美元
-- 印度尼西亚：巴基斯坦对其出口 1.08 亿美元，自其进口 43.44 亿美元
-- 卡塔尔：巴基斯坦对其出口 1.05 亿美元，自其进口 31.68 亿美元
-- 英国：巴基斯坦对其出口 20.87 亿美元，自其进口 6.62 亿美元
-- 德国：巴基斯坦对其出口 16.85 亿美元，自其进口 8.49 亿美元
-- 日本：巴基斯坦对其出口 2.03 亿美元，自其进口 17.39 亿美元
-- 荷兰：巴基斯坦对其出口 15.50 亿美元，自其进口 2.97 亿美元
-- 西班牙：巴基斯坦对其出口 15.98 亿美元，自其进口 2.40 亿美元
-- 科威特：巴基斯坦对其出口 1.17 亿美元，自其进口 16.32 亿美元
 
 ## 发布旅行建议的外国政府
 

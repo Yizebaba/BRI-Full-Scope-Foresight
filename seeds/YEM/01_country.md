@@ -8,7 +8,7 @@
 - 政府首脑：薩利姆·薩利赫·本·布賴克（Salem Saleh bin Braik）；职位：也门总理（Prime Minister of Yemen）
 - 立法机构：也门议会（Parliament of Yemen）
 - 中央银行：Central Bank of Yemen
-- 首都：亚丁（Aden）、萨那（Sanaa）；货币：也门里亚尔（Yemeni Rial）；官方语言：阿拉伯语（Arabic）
+- 首都：亚丁（Aden）、萨那（Sanaa）；货币：也门里亚尔（Yemeni rial）；官方语言：阿拉伯语（Arabic）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -73,7 +73,7 @@
 - 非居民专利申请（件）：6.00（2023 年）
 - 高技术出口占制成品出口（%）：4.83（2015 年）
 - 高技术出口（现价美元）：303 万美元（2015 年）
-- 2025 年有本国作者参与的论文约 4,131 篇（OpenAlex），主要学科：Medicine（749）、Social Sciences（559）、Computer Science（346）、Engineering（345）、Arts and Humanities（314）、Business, Management and Accounting（290）、Mathematics（189）、Dentistry（162）
+- 2025 年有本国作者参与的论文约 4,135 篇（OpenAlex），主要学科：Medicine（748）、Social Sciences（559）、Computer Science（346）、Engineering（345）、Arts and Humanities（317）、Business, Management and Accounting（291）、Mathematics（189）、Dentistry（162）
 - 塔瓦库·卡曼（Tawakkol Karman）：诺贝尔和平奖，2011 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

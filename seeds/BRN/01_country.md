@@ -8,7 +8,7 @@
 - 政府首脑：哈桑纳尔·博尔基亚（Hassanal Bolkiah I of Brunei）；职位：汶萊蘇丹（Sultan of Brunei Darussalam）
 - 立法机构：文莱立法会（Legislative Council of Brunei）
 - 中央银行：文莱货币与金融委员会（Brunei Darussalam Central Bank）
-- 首都：斯里巴加湾市（Bandar Seri Begawan）；货币：文莱元（Brunei dollar）；官方语言：马来语（Malay）、英国英语（British English）
+- 首都：斯里巴加湾市（Bandar Seri Begawan）；货币：文莱元（Brunei dollar）；官方语言：英国英语（British English）、马来语（Malay）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -74,7 +74,7 @@
 - 非居民专利申请（件）：137（2024 年）
 - 高技术出口占制成品出口（%）：1.06（2024 年）
 - 高技术出口（现价美元）：2895 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 2,045 篇（OpenAlex），主要学科：Social Sciences（560）、Engineering（191）、Environmental Science（191）、Computer Science（166）、Medicine（142）、Business, Management and Accounting（141）、Materials Science（103）、Agricultural and Biological Sciences（101）
+- 2025 年有本国作者参与的论文约 2,042 篇（OpenAlex），主要学科：Social Sciences（558）、Engineering（191）、Environmental Science（191）、Computer Science（166）、Medicine（142）、Business, Management and Accounting（141）、Materials Science（103）、Agricultural and Biological Sciences（101）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/BRN ；Wikidata https://www.wikidata.org/ （CC0）。

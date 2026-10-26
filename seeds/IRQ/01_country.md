@@ -74,7 +74,7 @@
 - 科技期刊论文（篇）：16,724（2023 年）
 - 本国居民专利申请（件）：556（2024 年）
 - 非居民专利申请（件）：82.00（2024 年）
-- 2025 年有本国作者参与的论文约 55,424 篇（OpenAlex），主要学科：Medicine（8,768）、Engineering（8,637）、Social Sciences（5,780）、Computer Science（4,861）、Agricultural and Biological Sciences（3,520）、Arts and Humanities（3,441）、Environmental Science（2,745）、Materials Science（2,514）
+- 2025 年有本国作者参与的论文约 55,554 篇（OpenAlex），主要学科：Medicine（8,780）、Engineering（8,640）、Social Sciences（5,813）、Computer Science（4,875）、Agricultural and Biological Sciences（3,524）、Arts and Humanities（3,456）、Environmental Science（2,751）、Materials Science（2,515）
 - 纳迪娅·穆拉德（Nadia Murad）：诺贝尔和平奖，2018 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

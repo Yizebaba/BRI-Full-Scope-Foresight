@@ -5,7 +5,7 @@
 ## 国家机构与领导人（Wikidata，现任）
 
 - 国家元首：纪尧姆大公储（Guillaume V, Grand Duke of Luxembourg）；职位：卢森堡大公（Grand Duke of Luxembourg）
-- 政府首脑：维克托·德·托纳科（Victor de Tornaco）、埃马纽埃尔·塞尔韦（Emmanuel Servais）、爱德华·蒂尔热（Édouard Thilges）、埃米尔·罗伊特（Émile Reuter）、于贝尔·卢奇（Hubert Loutsch）、让-雅克·维尔马尔（Jean-Jacques Willmar）、夏尔-马蒂亚斯·西蒙斯（Charles-Mathias Simons）、皮埃尔·弗里登（Pierre Frieden）、加斯帕尔-泰奥多尔-伊尼亚斯·德·拉方丹（Gaspard-Théodore-Ignace de la Fontaine）、费利克斯·德·布洛克豪森（Félix de Blochausen）、马蒂亚斯·蒙热纳（Mathias Mongenast）、盧克‧弗里登（Luc Frieden）、约瑟夫·贝希（Joseph Bech）、莱昂·考夫曼（Léon Kauffman）、维克托·托恩（Victor Thorn）、保罗·艾申（Paul Eyschen）、皮埃尔·迪蓬（Pierre Dupong）、皮埃尔·普吕姆（Pierre Prüm）；职位：卢森堡首相（Prime Minister of Luxembourg）
+- 政府首脑：埃马纽埃尔·塞尔韦（Emmanuel Servais）、爱德华·蒂尔热（Édouard Thilges）、维克托·德·托纳科（Victor de Tornaco）、约瑟夫·贝希（Joseph Bech）、埃米尔·罗伊特（Émile Reuter）、费利克斯·德·布洛克豪森（Félix de Blochausen）、马蒂亚斯·蒙热纳（Mathias Mongenast）、于贝尔·卢奇（Hubert Loutsch）、让-雅克·维尔马尔（Jean-Jacques Willmar）、夏尔-马蒂亚斯·西蒙斯（Charles-Mathias Simons）、盧克‧弗里登（Luc Frieden）、皮埃尔·弗里登（Pierre Frieden）、加斯帕尔-泰奥多尔-伊尼亚斯·德·拉方丹（Gaspard-Théodore-Ignace de la Fontaine）、皮埃尔·普吕姆（Pierre Prüm）、保罗·艾申（Paul Eyschen）、皮埃尔·迪蓬（Pierre Dupong）、莱昂·考夫曼（Léon Kauffman）、维克托·托恩（Victor Thorn）；职位：卢森堡首相（Prime Minister of Luxembourg）
 - 立法机构：众议院（Chamber of Deputies）
 - 中央银行：无数据
 - 首都：卢森堡市（Luxembourg）；货币：欧元；官方语言：法语（French）、德语（German）、卢森堡语（Luxembourgish）
@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：3,714（2024 年）
 - 高技术出口占制成品出口（%）：5.07（2024 年）
 - 高技术出口（现价美元）：6.35 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 5,344 篇（OpenAlex），主要学科：Social Sciences（880）、Engineering（774）、Computer Science（721）、Medicine（682）、Arts and Humanities（232）、Economics, Econometrics and Finance（219）、Environmental Science（206）、Psychology（193）
+- 2025 年有本国作者参与的论文约 5,349 篇（OpenAlex），主要学科：Social Sciences（881）、Engineering（776）、Computer Science（721）、Medicine（682）、Arts and Humanities（231）、Economics, Econometrics and Finance（219）、Environmental Science（206）、Psychology（194）
 - 朱尔·A·奥夫曼（Jules A. Hoffmann）：诺贝尔生理学或医学奖，2011 年
 - 加布里埃尔·李普曼（Gabriel Lippmann）：诺贝尔物理学奖，1908 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。

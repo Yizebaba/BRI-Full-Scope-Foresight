@@ -5,7 +5,7 @@
 ## 国家机构与领导人（Wikidata，现任）
 
 - 国家元首：敏瑞（Myint Swe）；职位：缅甸总统（President of Myanmar）
-- 政府首脑：敏昂莱（Min Aung Hlaing）；职位：国家顾问（State Counsellor of Myanmar）、國家管理委員會（State Administration Council）
+- 政府首脑：敏昂莱（Min Aung Hlaing）；职位：國家管理委員會（State Administration Council）、国家顾问（State Counsellor of Myanmar）
 - 立法机构：缅甸联邦议会（Assembly of the Union）
 - 中央银行：缅甸中央银行（Central Bank of Myanmar）
 - 首都：内比都（Naypyidaw）；货币：缅甸元（kyat）；官方语言：缅甸语（Burmese）
@@ -69,7 +69,7 @@
 - 科技期刊论文（篇）：234（2023 年）
 - 高技术出口占制成品出口（%）：5.20（2024 年）
 - 高技术出口（现价美元）：2.77 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 737 篇（OpenAlex），主要学科：Medicine（178）、Computer Science（107）、Agricultural and Biological Sciences（81）、Engineering（78）、Social Sciences（62）、Environmental Science（45）、Biochemistry, Genetics and Molecular Biology（25）、Psychology（22）
+- 2025 年有本国作者参与的论文约 735 篇（OpenAlex），主要学科：Medicine（179）、Computer Science（107）、Agricultural and Biological Sciences（81）、Engineering（78）、Social Sciences（59）、Environmental Science（45）、Biochemistry, Genetics and Molecular Biology（25）、Psychology（22）
 - 昂山素季（Aung San Suu Kyi）：诺贝尔和平奖，1991 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

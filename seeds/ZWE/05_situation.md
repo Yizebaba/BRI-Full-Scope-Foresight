@@ -7,4 +7,4 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
-- 2026-10-22 00:00 UTC：Green 级 WF，Forest fires in Botswana, Zimbabwe。https://www.gdacs.org/report.aspx?eventid=1033103&episodeid=5&eventtype=WF 
+- 2026-10-21 00:00 UTC：Green 级 WF，Forest fires in Zimbabwe。https://www.gdacs.org/report.aspx?eventid=1033106&episodeid=8&eventtype=WF 

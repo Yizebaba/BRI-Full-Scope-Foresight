@@ -4,8 +4,8 @@
 
 ## 本国政府与机构
 
-- 安德里·拉乔利纳（Andry Rajoelina）：马达加斯加现任国家元首。来源：Wikidata
 - 米夏埃爾·蘭德里亞尼里納（Michael Randrianirina）：马达加斯加现任国家元首。来源：Wikidata
+- 安德里·拉乔利纳（Andry Rajoelina）：马达加斯加现任国家元首。来源：Wikidata
 - 马米蒂亚纳·拉乔纳里松（Mamitiana Rajaonarison）：马达加斯加现任政府首脑。来源：Wikidata
 - 马达加斯加议会（Parliament of Madagascar）：马达加斯加的立法机构。来源：Wikidata
 - 马达加斯加中央银行（Central Bank of Madagascar）：马达加斯加的中央银行。来源：Wikidata

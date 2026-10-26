@@ -5,7 +5,7 @@
 ## 国家机构与领导人（Wikidata，现任）
 
 - 国家元首：阿基拉·萨拉赫·伊萨（Aguila Saleh Issa）、穆罕默德·門菲（Mohamed al-Menfi）；职位：Chairman of the Presidential Council
-- 政府首脑：阿卜杜勒·哈米德·德拜巴（Abd al-Hamid Dbeibeh）；职位：利比亚总理（Prime Minister of Libya）
+- 政府首脑：阿卜杜勒·哈米德·德拜巴（Abd al-Hamid Al-Dabiba）；职位：利比亚总理（Prime Minister of Libya）
 - 立法机构：利比亚国民代表大会（House of Representatives）、最高国务委员会（利比亚）（High Council of State）
 - 中央银行：利比亚中央银行（Central Bank of Libya）
 - 首都：的黎波里（Tripoli）；货币：利比亚第纳尔（Libyan dinar）；官方语言：阿拉伯语（Arabic）
@@ -71,7 +71,7 @@
 - 非居民专利申请（件）：23.00（1996 年）
 - 高技术出口占制成品出口（%）：0.60（2019 年）
 - 高技术出口（现价美元）：113 万美元（2019 年）
-- 2025 年有本国作者参与的论文约 6,711 篇（OpenAlex），主要学科：Medicine（1,302）、Social Sciences（1,078）、Engineering（646）、Arts and Humanities（455）、Computer Science（452）、Agricultural and Biological Sciences（432）、Business, Management and Accounting（351）、Environmental Science（345）
+- 2025 年有本国作者参与的论文约 7,240 篇（OpenAlex），主要学科：Medicine（1,330）、Social Sciences（1,235）、Engineering（693）、Arts and Humanities（513）、Computer Science（480）、Agricultural and Biological Sciences（455）、Business, Management and Accounting（395）、Environmental Science（374）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/LBY ；Wikidata https://www.wikidata.org/ （CC0）。

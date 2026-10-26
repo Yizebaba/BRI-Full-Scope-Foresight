@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：438（2024 年）
 - 高技术出口占制成品出口（%）：22.86（2024 年）
 - 高技术出口（现价美元）：29.48 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 4,300 篇（OpenAlex），主要学科：Social Sciences（832）、Medicine（653）、Agricultural and Biological Sciences（440）、Environmental Science（389）、Arts and Humanities（257）、Computer Science（253）、Biochemistry, Genetics and Molecular Biology（228）、Engineering（218）
+- 2025 年有本国作者参与的论文约 4,335 篇（OpenAlex），主要学科：Social Sciences（836）、Medicine（673）、Agricultural and Biological Sciences（445）、Environmental Science（390）、Arts and Humanities（254）、Computer Science（253）、Biochemistry, Genetics and Molecular Biology（229）、Engineering（218）
 - 奥斯卡·阿里亚斯·桑切斯（Óscar Arias Sánchez）：诺贝尔和平奖，1987 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

@@ -8,7 +8,7 @@
 - 政府首脑：赫里斯蒂扬·米科斯基（Hristijan Mickoski）；职位：北马其顿总理（Prime Minister of North Macedonia）
 - 立法机构：北馬其頓議會（Assembly of North Macedonia）
 - 中央银行：无数据
-- 首都：斯科普里（Skopje）；货币：北马其顿代纳尔（Macedonian denar）；官方语言：阿尔巴尼亚语（Albanian）、马其顿语（Macedonian）
+- 首都：斯科普里（Skopje）；货币：北马其顿代纳尔（Macedonian denar）；官方语言：马其顿语（Macedonian）、阿尔巴尼亚语（Albanian）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -77,7 +77,7 @@
 - 非居民专利申请（件）：1.00（2024 年）
 - 高技术出口占制成品出口（%）：6.36（2024 年）
 - 高技术出口（现价美元）：4.32 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 3,062 篇（OpenAlex），主要学科：Medicine（575）、Social Sciences（498）、Engineering（291）、Computer Science（286）、Arts and Humanities（163）、Business, Management and Accounting（160）、Agricultural and Biological Sciences（155）、Environmental Science（145）
+- 2025 年有本国作者参与的论文约 3,076 篇（OpenAlex），主要学科：Medicine（579）、Social Sciences（501）、Engineering（291）、Computer Science（286）、Arts and Humanities（163）、Business, Management and Accounting（163）、Agricultural and Biological Sciences（156）、Environmental Science（145）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/MKD ；Wikidata https://www.wikidata.org/ （CC0）。

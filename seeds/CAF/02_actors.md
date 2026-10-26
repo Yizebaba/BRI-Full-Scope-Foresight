@@ -4,8 +4,8 @@
 
 ## 本国政府与机构
 
-- 弗朗索瓦·博齐泽（François Bozizé）：中非现任国家元首。来源：Wikidata
 - 福斯坦-阿尔尚热·图瓦德拉（Faustin-Archange Touadéra）：中非现任国家元首。来源：Wikidata
+- 弗朗索瓦·博齐泽（François Bozizé）：中非现任国家元首。来源：Wikidata
 - 菲利克斯·莫卢瓦（Félix Moloua）：中非现任政府首脑。来源：Wikidata
 - 国民议会（National Assembly）：中非的立法机构。来源：Wikidata
 - 中非国家银行（Bank of Central African States）：中非的中央银行。来源：Wikidata
