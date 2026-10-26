@@ -1,5 +1,5 @@
 {
-"generated": "2026-10-21T20:59:02Z",
+"generated": "2026-10-26T09:42:23Z",
 "source": "UN Comtrade 公共预览接口",
 "countries": {
 "NPL": {
@@ -10,11 +10,11 @@
 "china_year": null
 },
 "PAK": {
-"year": 2025,
-"basis": "本国申报",
-"n_ind": 97,
-"n_partners": 25,
-"china_year": 2025
+"year": null,
+"basis": null,
+"n_ind": 0,
+"n_partners": 0,
+"china_year": null
 },
 "CHN": {
 "year": null,
@@ -514,10 +514,10 @@
 "china_year": 2025
 },
 "SLE": {
-"year": null,
-"basis": null,
+"year": 2025,
+"basis": "镜像：各国对它的申报",
 "n_ind": 0,
-"n_partners": 0,
+"n_partners": 25,
 "china_year": null
 },
 "SOM": {
@@ -535,10 +535,10 @@
 "china_year": null
 },
 "SSD": {
-"year": null,
-"basis": null,
+"year": 2024,
+"basis": "镜像：各国对它的申报",
 "n_ind": 0,
-"n_partners": 0,
+"n_partners": 25,
 "china_year": null
 },
 "SDN": {
