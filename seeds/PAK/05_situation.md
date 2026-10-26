@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-10-26 19:10 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-10-26 23:17 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -85,7 +85,7 @@
 - 2026-10-23 14:25 UTC：Gwadar Security Operation Foils Attacks, 10 Militants Reported Killed - Aaj English TV。https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Gc3h1WEdLWVNzTEREcGNuNzRfNXJFMlltYkVJaHA3NklrNXBScnlHUEZzR1ZaaWg1aDl2MzdzQ2lqdjNaMXc3M19FcFF2YUp6cDZR?oc=5
 - 2026-10-23 14:15 UTC：Pakistan army says 10 killed in counter-terror operations in Gwadar - Latest news from Azerbaijan。https://news.google.com/rss/articles/CBMikgFBVV95cUxPR2F3bTNQNjBqN2xWcDZlN2llV055T2xPVlYzSHBXcm1MbFBfRndtUmJkU2hIZFowVURxbkoyTHAtaldmMlp0VmhpeVZGaWpqUTBWVnJKUldMY25wQkx1N3BLOXllV0x0MWVJZnFNWDlpMFhvbUtLa2ZnQUhoaG5IbnJ0WkhWMThZaUs1WnE1Y045dw?oc=5
 - 2026-10-23 13:54 UTC：10 terrorists, including woman, killed in Gwadar: Pakistan army - Anadolu Ajansı。https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWUyOVN0d0JmRW9aVEtlZlNBQlp3Y1JYT0xlRXl5c2s2d2pkbEV3dFQtYlB4ZFV6VndMcllXMkNVWXF1ZGVMWkZzYnExeVZyaDZQYXdmN3oxa2pNYUhsSWs3NzNaa2pSTDB4a0tXQV94cVF2S015NzJGbEtDYW54VG9XQVRQVEFsdTRLbHV2ekdSNXUyMzVEckRLcWlCMVBtcUZFckFtZ0tuUQ?oc=5
-- 2026-10-23 13:44 UTC：Military says 10 militants killed in Gwadar clearance operations - PakTribune。https://news.google.com/rss/articles/CBMikgFBVV95cUxQV2JVeDJqWTF5NmFKbGJUTVY0cnduTlpCTWFjNHJEaDZkczBZV0k4dkJuVm82NGY0ekloX1BDc3R4Zm0tZEhocXhBTWZfQV9PVzViNjdSQVBKTlZaMDJFR213MWhFYVdBSFVvbmxGYldyaGRCNDNLMG1fZl9FYm1ERms1bi1yT0xkazJFUXpUNExuQQ?oc=5
+- 2026-10-23 12:56 UTC：Gwadar Attacks: What Happened and What We Know About the BLF - Balochistan Pulse。https://news.google.com/rss/articles/CBMiakFVX3lxTE5nMU9tRDhlZkJ4MmNDSDVkQlFMY21DZjRfNHpsVnAzSTdzTmNkV1FIbUtQUlJ6Nl9QT0dhYXhCSk93VGo4Q1ZRV29tdmRKUnZnYlBGeENzNzRqSm5NWng0ZHZsam5tSTZtRVHSAWpBVV95cUxOZzFPbUQ4ZWZCeDJjQ0g1ZEJRTGNtQ2Y0XzR6bFZwM0k3c05jZFdRSG1LUFJSejZfUE9HYWF4QkpPd1RqOENWUVdvbXZkSlJ2Z2JQRnhDczc0akpuTVp4NGR2bGpubUk2bUVR?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-10-26 16:01 UTC：Young Baloch, Gazrawan United Win on Eighth Day of Gwadar Football League - Daily Independent
