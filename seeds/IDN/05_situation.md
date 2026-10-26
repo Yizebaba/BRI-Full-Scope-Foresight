@@ -11,6 +11,12 @@
 
 ## 地震（USGS，M4.5+，近 7 天）
 
+- 2026-10-26 04:53 UTC：M5，45 km NNW of Ende, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y1 
 - 2026-10-24 21:41 UTC：M4.9，53 km NNW of Fef, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pw 
 - 2026-10-22 10:57 UTC：M4.9，85 km NNW of Curup, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u42q 
 - 2026-10-20 13:27 UTC：M4.5，142 km SSW of Abepura, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3lx 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-10-26 04:53 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1573911&episodeid=1742739&eventtype=EQ 
+- 2026-10-26 03:59 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1573900&episodeid=1742728&eventtype=EQ 

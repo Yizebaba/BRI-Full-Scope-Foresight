@@ -9,6 +9,6 @@
 
 - 2026-10-23 00:00 UTC：Green 级 WF，Forest fires in Botswana。https://www.gdacs.org/report.aspx?eventid=1033172&episodeid=4&eventtype=WF 
 - 2026-10-22 00:00 UTC：Green 级 WF，Forest fires in Botswana, Zimbabwe。https://www.gdacs.org/report.aspx?eventid=1033103&episodeid=5&eventtype=WF 
-- 2026-10-21 00:00 UTC：Green 级 WF，Forest fires in Botswana。https://www.gdacs.org/report.aspx?eventid=1033066&episodeid=11&eventtype=WF 
 - 2026-10-20 00:00 UTC：Green 级 WF，Forest fires in Botswana。https://www.gdacs.org/report.aspx?eventid=1033021&episodeid=15&eventtype=WF 
 - 2026-10-20 00:00 UTC：Green 级 WF，Forest fires in Botswana。https://www.gdacs.org/report.aspx?eventid=1033023&episodeid=8&eventtype=WF 
+- 2026-10-20 00:00 UTC：Green 级 WF，Forest fires in Botswana。https://www.gdacs.org/report.aspx?eventid=1033108&episodeid=6&eventtype=WF 

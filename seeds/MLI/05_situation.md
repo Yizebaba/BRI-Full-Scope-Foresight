@@ -19,4 +19,3 @@
 - 2026-10-22 00:00 UTC：Green 级 WF，Forest fires in Mali。https://www.gdacs.org/report.aspx?eventid=1033190&episodeid=2&eventtype=WF 
 - 2026-10-22 00:00 UTC：Green 级 WF，Forest fires in Mali。https://www.gdacs.org/report.aspx?eventid=1033205&episodeid=1&eventtype=WF 
 - 2026-10-22 00:00 UTC：Green 级 WF，Forest fires in Mali。https://www.gdacs.org/report.aspx?eventid=1033207&episodeid=1&eventtype=WF 
-- 2026-10-21 00:00 UTC：Green 级 WF，Forest fires in Mali。https://www.gdacs.org/report.aspx?eventid=1033191&episodeid=2&eventtype=WF 

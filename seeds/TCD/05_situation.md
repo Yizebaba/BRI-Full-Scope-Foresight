@@ -9,4 +9,4 @@
 
 - 2026-10-22 00:00 UTC：Green 级 WF，Forest fires in Chad。https://www.gdacs.org/report.aspx?eventid=1033149&episodeid=5&eventtype=WF 
 - 2026-10-22 00:00 UTC：Green 级 WF，Forest fires in Chad。https://www.gdacs.org/report.aspx?eventid=1033189&episodeid=1&eventtype=WF 
-- 2026-10-21 00:00 UTC：Green 级 WF，Forest fires in Chad。https://www.gdacs.org/report.aspx?eventid=1033105&episodeid=6&eventtype=WF 
+- 2026-10-20 00:00 UTC：Green 级 WF，Forest fires in Chad。https://www.gdacs.org/report.aspx?eventid=1033152&episodeid=4&eventtype=WF 
