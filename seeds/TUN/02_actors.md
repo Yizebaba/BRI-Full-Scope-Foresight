@@ -22,7 +22,7 @@
 
 ## 发布旅行建议的外国政府
 
-- 美国国务院：Tunisia - Level 2: Exercise Increased Caution。https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/tunisia-travel-advisory.html
+- 美国国务院：Tunisia - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tun.html
 
 ## 国际与多边机构
 

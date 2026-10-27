@@ -20,7 +20,7 @@
 
 ## 发布旅行建议的外国政府
 
-- 美国国务院：Tonga - Level 1: Exercise Normal Precautions。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ton.html
+- 美国国务院：Tonga - Level 1: Exercise Normal Precautions。https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/tonga-travel-advisory.html
 
 ## 国际与多边机构
 

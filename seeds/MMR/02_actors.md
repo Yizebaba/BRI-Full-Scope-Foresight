@@ -35,7 +35,7 @@
 
 ## 发布旅行建议的外国政府
 
-- 美国国务院：Burma - Level 4: Do Not Travel。https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/burma-travel-advisory.html
+- 美国国务院：Burma - Level 4: Do Not Travel。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mmr.html
 - US Embassy Myanmar：近期发布或更新了对缅甸的旅行建议（经 World Monitor）
 
 ## 国际与多边机构

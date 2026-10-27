@@ -9,3 +9,7 @@
 
 - 2026-10-26 18:07 UTC：M4.5，74 km SE of Rasht, Tajikistan。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttb5 
 - 2026-10-20 23:16 UTC：M4.6，115 km NNE of Barishal, Pakistan。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3r1 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-10-26 18:07 UTC：Green 级 EQ，Earthquake in Tajikistan。https://www.gdacs.org/report.aspx?eventid=1573997&episodeid=1742840&eventtype=EQ 

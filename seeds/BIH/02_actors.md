@@ -40,7 +40,7 @@
 
 ## 发布旅行建议的外国政府
 
-- 美国国务院：Bosnia and Herzegovina - Level 2: Exercise Increased Caution。https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bosinia-and-herzegovina-travel-advisory.html
+- 美国国务院：Bosnia and Herzegovina - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bih.html
 
 ## 国际与多边机构
 

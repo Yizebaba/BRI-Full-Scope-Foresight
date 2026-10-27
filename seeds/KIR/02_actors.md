@@ -18,7 +18,7 @@
 
 ## 发布旅行建议的外国政府
 
-- 美国国务院：Kiribati - Level 1: Exercise Normal Precautions。https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/kiribati-travel-advisory.html
+- 美国国务院：Kiribati - Level 1: Exercise Normal Precautions。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.kir.html
 
 ## 国际与多边机构
 
