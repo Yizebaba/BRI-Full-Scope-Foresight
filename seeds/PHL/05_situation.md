@@ -4,3 +4,7 @@
 
 - 美国国务院旅行建议：Philippines - Level 2: Exercise Increased Caution（Tue, 01 Sep 2026）。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.phl.html 
 - World Monitor 汇总的旅行建议级别：caution
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-10-27 16:07 UTC：Green 级 EQ，Earthquake in Philippines。https://www.gdacs.org/report.aspx?eventid=1574180&episodeid=1743072&eventtype=EQ 

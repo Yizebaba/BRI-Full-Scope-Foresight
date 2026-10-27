@@ -36,14 +36,14 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-10-27 14:52 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-10-27 20:01 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
 ## 国家层面
 
 - 美国国务院旅行建议：Pakistan - Level 3: Reconsider Travel（发布 Tue, 16 Jun 2026）。来源：https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.pak.html 
-- 英国外交部旅行建议最近更新于 2026-10-13 13:37 UTC，更新说明：Addition of information about emergency measures in Khyber Pakhtunkhwa (‘Warnings and insurance’ page).。来源：https://www.gov.uk/foreign-travel-advice/pakistan 
+- 英国外交部旅行建议最近更新于 2026-10-27 16:05 UTC，更新说明：Updated information about regional tensions (‘Warnings and insurance’ page)。来源：https://www.gov.uk/foreign-travel-advice/pakistan 
 - IODA 近 7 天记录到全国性网络中断告警 0 条。来源：IODA 互联网中断检测（佐治亚理工），https://ioda.inetintel.cc.gatech.edu/
 
 ## 喀喇昆仑公路改扩建（雷科特—红其拉甫）

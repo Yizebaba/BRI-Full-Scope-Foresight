@@ -20,7 +20,3 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-10-23 22:24 UTC：M4.8，6 km ENE of Starobachaty, Russia。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4hi 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-10-26 08:10 UTC：Green 级 EQ，Earthquake in Russia。https://www.gdacs.org/report.aspx?eventid=1573934&episodeid=1742773&eventtype=EQ 
