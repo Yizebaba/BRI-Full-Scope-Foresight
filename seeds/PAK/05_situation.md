@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-10-26 23:17 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-10-27 08:20 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -53,7 +53,6 @@
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-10-25 07:29 UTC：Opinion | Divided Kashmir, Divergent Roads: How CPEC Failed Where J&K’s Infrastructure Succeeded - The Global Kashmir
-- 2026-10-23 05:00 UTC：Karakoram Highway | Facts, Completion Date, & Khunjerab Pass - Britannica
 
 ## 喀喇昆仑公路二期（塔科特—哈维连）
 
@@ -74,28 +73,28 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-10-24 10:08 UTC：Gwadar on the Brink: Islamabad Claims Attack Thwarted, Separatists Claim Base Seized - خبرگزاری صدای افغان(آوا)。https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS0lqU0RuYjg3OEVNTE9Na2RQYnJOQ2o1a01aUDZoMzJ2eHc0SVpRMWtUTTRJUHRVaG1qaGFrdklkWHpzSnh0dHp0R1BZNTJRZnRwcGhHZENiQm0wTUdyVlJMYlNzVnNiVUY3aHBybG1BY1F1S3hJWm5TLWZ6blBKYlo4Z1JoclNxVk9wU0M5NWdnS1VheVNobXkwUGNXSHcxazFIVVltdHhuSHFTTjJJTWJyX1ZsaGZoS3dOcVlKWktWQQ?oc=5
 - 2026-10-24 03:51 UTC：Gwadar Operation: Security Forces Kill 10 Militants, Including a Woman, Foil Terror Attacks - Tapmad。https://news.google.com/rss/articles/CBMixAFBVV95cUxQN19neXVVMEtndEhDbkp3LUVFeU9nN1h1eFVDWjE4SVBwcEYtS19EdUkwTVgxamtzaXg5Uk5sWlVnR2lxMWZJcHJBSlNiYVM0SkVKLTgtQzZuejZfS1NVR3hXME5YRFBES0MzZ1ByaEE0azJKeG84UUI4TmQwUmxYbmtaN2ZNeUxYWXFjRmd4d1o0ZWhiaVEybmpnY2hJMzlLVzZLbEdPN2NiZF90NzBOdWd3T0otRlZKM2xoeFRmNmtlYTg4?oc=5
 - 2026-10-24 01:03 UTC：Pakistan says it killed 10 militants in Gwadar — The Express Tribune - UA.NEWS。https://news.google.com/rss/articles/CBMipgFBVV95cUxQU256bDc3TTBsczZxMmdVTkJlaS1idDVibHVuZktrWWhLVmhaSDNSa1UtYUZ3eXVqWWw3OGdtc2h0TGtQaTR0NjZhNEVDZmNtVTY1Z2dKT2dGUF8zampTTEVnRFhCTHJqSjRXRUtYU2g2LWVUc2RuVmgzSDhHMHZoMEdma2pYUFBSbnprYXpTajNXYzZ5RGdndk5lbGstY3pUWGpxLXV3?oc=5
-- 2026-10-24 00:32 UTC：10 terrorists killed near Gabd border crossing - Business Recorder。https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFSmJWV1lYZVRrdGZ4Qi1nUHdpRktnUjRkaWhoTi1yNDBfU05GWTVkQnNKZEtVSlhweFlMclBPdmJTWWFReHN2TzUzTzdma0ozZ2IwQ1dB0gFWQVVfeXFMUEVKYlZXWVhlVGt0ZnhCLWdQd2lGS2dSNGRpaGhOLXI0MF9TTkZZNWRCc0pkS1VKWHB4WUxyUE92YlNZYVF4c3ZPNTNPN2ZrSjNnYjBDV0E?oc=5
 - 2026-10-23 17:23 UTC：10 terrorists killed as security forces foil Gwadar attacks - Pakistan Today。https://news.google.com/rss/articles/CBMipgFBVV95cUxOdl84Q2NwSUdJYU16c2szLXFCTXlYeDhfYWtzNS1vQXdjdDk1U0xnUEh4dEVaa3JZNjBjQkFpY1RzQTNXcUF0YklRS0VhMnhjT2tmcVktT29qeDlsY3kyT1RORHJNYU9HMjJUV0oyRWU1NnFXY0RBS1BnWkJJWVA4UWlMZTVvZDFoNlVSTlJ6eDROZlp3MXdkaGEwWHN1WXdlcEhjV3dB?oc=5
-- 2026-10-23 15:11 UTC：10 terrorists, including one female, killed in Gwadar: ISPR - GNN | Latest News。https://news.google.com/rss/articles/CBMijAFBVV95cUxOaElMd1B1a1dhNVhFZm5xMTA3Nms5b1NMWVRycVpscHFySWM0d19wREVEelZMLWtTR2dOVmtOeTV6TEl4SFlIS3BueEJyajAtWUtnNUwxVG1ReTVNOTZRN3F0YVlkMlc1dXhjdDVDZF92X3hRcU1wdUoxMThvbkU5cUpGR0M1WWtNeEktYw?oc=5
 - 2026-10-23 14:27 UTC：ISPR says 10 India-sponsored terrorists killed in Gwadar - Daily Times。https://news.google.com/rss/articles/CBMilgFBVV95cUxOdUdEa3dMcG42cHM3STFnRUJoanhqRUJwMWJwWGVVay0waF9CVVNvLXlwVnBoY201ZGp1aldSSmlRX2hvQXJjTkFBa1VybUlNektUUWw3bnEtTkhwUGJPdk1iYVRNYmVnamtKSWhkeXJ3VktoZE5MaDVmdEpNNGhveHgwRFpUTEh6MzVoVFZxQ3lTUnFHZHc?oc=5
 - 2026-10-23 14:25 UTC：Gwadar Security Operation Foils Attacks, 10 Militants Reported Killed - Aaj News。https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pSVhNakNlMHgwX3ZacHdaRElidlhQTUI5dzJaZTZLVk5vNFdtZmh6dzYwT1NLaHFzd0Q3ZXhLTktDa2xBb2hNMEk1MW0?oc=5
-- 2026-10-23 14:25 UTC：Gwadar Security Operation Foils Attacks, 10 Militants Reported Killed - Aaj English TV。https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Gc3h1WEdLWVNzTEREcGNuNzRfNXJFMlltYkVJaHA3NklrNXBScnlHUEZzR1ZaaWg1aDl2MzdzQ2lqdjNaMXc3M19FcFF2YUp6cDZR?oc=5
 - 2026-10-23 14:15 UTC：Pakistan army says 10 killed in counter-terror operations in Gwadar - Latest news from Azerbaijan。https://news.google.com/rss/articles/CBMikgFBVV95cUxPR2F3bTNQNjBqN2xWcDZlN2llV055T2xPVlYzSHBXcm1MbFBfRndtUmJkU2hIZFowVURxbkoyTHAtaldmMlp0VmhpeVZGaWpqUTBWVnJKUldMY25wQkx1N3BLOXllV0x0MWVJZnFNWDlpMFhvbUtLa2ZnQUhoaG5IbnJ0WkhWMThZaUs1WnE1Y045dw?oc=5
+- 2026-10-23 14:05 UTC：Seven Militants Killed As Security Forces Foil Attack On Construction Camp In Gwadar: CM Bugti - UrduPoint。https://news.google.com/rss/articles/CBMimwFBVV95cUxONGZON0FqMTZWX0JfNG1HdGRhNUF4ZnpzbUZkcHd4aDNILXpfVHdMc0dMMXpDRHVCNHRSTVNfcVlWZXQ3bU1IRFdEbmZQUWtGdU9RdVNWZHBUdGcxcktjYS1WNDJwOGdYWW9GcUFuQTlCMEx5c2xrUnp6WExoQzZWdTZaZjVyUHhxZVpJSWgwVm0zNG8xZ2M2bXJBOA?oc=5
 - 2026-10-23 13:54 UTC：10 terrorists, including woman, killed in Gwadar: Pakistan army - Anadolu Ajansı。https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWUyOVN0d0JmRW9aVEtlZlNBQlp3Y1JYT0xlRXl5c2s2d2pkbEV3dFQtYlB4ZFV6VndMcllXMkNVWXF1ZGVMWkZzYnExeVZyaDZQYXdmN3oxa2pNYUhsSWs3NzNaa2pSTDB4a0tXQV94cVF2S015NzJGbEtDYW54VG9XQVRQVEFsdTRLbHV2ekdSNXUyMzVEckRLcWlCMVBtcUZFckFtZ0tuUQ?oc=5
 - 2026-10-23 12:56 UTC：Gwadar Attacks: What Happened and What We Know About the BLF - Balochistan Pulse。https://news.google.com/rss/articles/CBMiakFVX3lxTE5nMU9tRDhlZkJ4MmNDSDVkQlFMY21DZjRfNHpsVnAzSTdzTmNkV1FIbUtQUlJ6Nl9QT0dhYXhCSk93VGo4Q1ZRV29tdmRKUnZnYlBGeENzNzRqSm5NWng0ZHZsam5tSTZtRVHSAWpBVV95cUxOZzFPbUQ4ZWZCeDJjQ0g1ZEJRTGNtQ2Y0XzR6bFZwM0k3c05jZFdRSG1LUFJSejZfUE9HYWF4QkpPd1RqOENWUVdvbXZkSlJ2Z2JQRnhDczc0akpuTVp4NGR2bGpubUk2bUVR?oc=5
+- 2026-10-23 12:43 UTC：10 Terrorists Killed in Gwadar, Including Woman, Says ISPR - https://quettavoice.com/。https://news.google.com/rss/articles/CBMilwFBVV95cUxPWkROa2R3YXhCcWxiV21OaG9KNGR4VDNMVTFNV0VKQ0dFQmp5N3MxVFdodmg4c1dZN1F3TWdlWWp1OHZDSkNENWREbXo2S01Cdi1scHh4VWluNnVMVmRLS0RVdk1tR1g0RkVkam5BU055T04xV2N3SXhzaWF4b05IMkdWSzE1cEhteU1WUDNRaTF2WGx1bFZB?oc=5
+- 2026-10-23 12:14 UTC：Gwadar Clearance Operation leaves 10 Terrorists Dead, including Female Attacker: ISPR - Pakistan Observer。https://news.google.com/rss/articles/CBMirAFBVV95cUxQbWpIclQyZnluNFdYZmFYUVZ2bHZZdDBoakxBd01VTHpZM3oycm1NcFRXZmRROVNlT0pwRng5ZC00dDlmY2tDTEE0SFBXUy0zSVRjbnRlcVBxZ1lUcldFRjlhNm5iOEtYWGI4bmdWOUhndVF2ejQ0Mjh3RjJjbS1LNE5DV0NIVnFWWjZ4a1lFeUJkSnBIaGQ2X29iRmFQUm9VU3AwbFRhSmhsLXBr?oc=5
+- 2026-10-23 11:38 UTC：BLF claims ‘Operation Almas’ in Gwadar: 7 Pakistani personnel killed, CPEC hub in the crosshairs - Moneycontrol.com。https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOWRsS2E4a185V1JGalphVVlWOXhMcnRCTjk5NzJaYjUxWnMtUXVBQXV6UHEybXNIdWFpeng2UkdvR01fenlYVnBzUHYyczI1QVVfXzZTeVVWempJQ0p6aXVRdENEd2NCUlNDb1dHSUJ6Qk1LcEtvb0VBMnJNQ2NoMVJ2RVR0elVTSEM3OS1FUjNTOFd1X0REQnpOV1dhZ3hXWll1TjFBYVpVeEFTMVdBOU82aUJ1R0xFVl91NnlLMC1UV1pzeWJsV3U3SVJ1Tzl5Wnp3REQ3QzA0OVZ5SXBTQTF1a9IB6AFBVV95cUxNQktzazVhUVQ3MFowSlo2dnFQRU9OMmtwOHFqaU5leWlYcndBcTNtVnVOOGRmcWhtU29xWDFIZlFLY1Y5VUR6VXRCdll6QkJYTTZOMjdHUzVnU2wxSER4Q1NEam9GNHBodzBidDNQemxvLUtxVHRlcDhFM3FXY2dDNk85eEwzNXhGb05HQk1vT053ejU5eEJrUWFFV2FFOThYMW5KZWJDcUZzRDJ2U3hSdHNtTW9KR0ZQRllMZVVpSEM2LXI2dU1zLTVOMUxNM3lFNVM4MWRUUlVmSm15Q1JXbEhJcm9XcE5s?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-10-27 05:40 UTC：Operation Almas and the Limits of Military Power: Why Gwadar’s Future Cannot Be Separated from Baloch Sovereignty - Countercurrents
+- 2026-10-26 16:39 UTC：Two People Taken Into Custody in Gwadar Anti-Begging Operation - Daily Independent
 - 2026-10-26 16:01 UTC：Young Baloch, Gazrawan United Win on Eighth Day of Gwadar Football League - Daily Independent
 - 2026-10-26 15:59 UTC：Gwadar Programme Promotes Youth Leadership and Community Participation - Daily Independent
 - 2026-10-26 15:57 UTC：Gwadar Directs Fishermen’s Associations and Private Schools to Complete Registration - Daily Independent
-- 2026-10-26 10:14 UTC：Pakistani author documents Xinjiang’s heritage, development in new book - Gwadar Pro
-- 2026-10-26 08:47 UTC：Gwadar Situation Today: Life Normal, Online Claims Fall Flat – Pashto News and Current Affairs Channel - Khyber News
 - 2026-10-25 19:54 UTC：Pakistan’s Gwadar faces stiff competition from Gulf ports - Social News XYZ
-- 2026-10-25 08:58 UTC：Pakistan’s Gwadar faces stiff competition from Gulf ports - Mangalorean.com
 - 2026-10-25 08:48 UTC：Pakistan's Gwadar Port Struggles Against Gulf Rivals in Bunkering Business - Lokmat Times
+- 2026-10-25 01:19 UTC：Gabd border crossing with Iran reopened - Dawn
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

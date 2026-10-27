@@ -4,11 +4,3 @@
 
 - 美国国务院旅行建议：Botswana - Level 2: Exercise Increased Caution（Wed, 17 Jun 2026）。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bwa.html 
 - World Monitor 汇总的旅行建议级别：caution
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-10-23 00:00 UTC：Green 级 WF，Forest fires in Botswana。https://www.gdacs.org/report.aspx?eventid=1033172&episodeid=7&eventtype=WF 
-- 2026-10-22 00:00 UTC：Green 级 WF，Forest fires in Botswana。https://www.gdacs.org/report.aspx?eventid=1033239&episodeid=1&eventtype=WF 
-- 2026-10-21 00:00 UTC：Green 级 WF，Forest fires in Botswana。https://www.gdacs.org/report.aspx?eventid=1033066&episodeid=12&eventtype=WF 
-- 2026-10-21 00:00 UTC：Green 级 WF，Forest fires in Botswana。https://www.gdacs.org/report.aspx?eventid=1033104&episodeid=4&eventtype=WF 
-- 2026-10-20 00:00 UTC：Green 级 WF，Forest fires in Botswana。https://www.gdacs.org/report.aspx?eventid=1033021&episodeid=17&eventtype=WF 
