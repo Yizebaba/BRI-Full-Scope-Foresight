@@ -200,9 +200,10 @@
 
 ## 港口（IMF PortWatch，截至 2026-10-23 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 123 次（前 30 天 115 次），进口约 753770 公吨，出口约 153313 公吨。
+全国靠港 127 次（前 30 天 120 次），进口约 753770 公吨，出口约 709743 公吨。
 - Douala港：靠港 82 次，进口约 489216 公吨，出口约 47702 公吨
 - Port De Kribi港：靠港 36 次，进口约 246492 公吨，出口约 87668 公吨
 - Limboh港：靠港 5 次，进口约 18062 公吨，出口约 17943 公吨
+- Cameroon - Offshore Oil Terminal 1港：靠港 4 次，进口约 0 公吨，出口约 556430 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

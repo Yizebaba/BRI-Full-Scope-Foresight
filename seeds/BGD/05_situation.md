@@ -16,3 +16,7 @@
 - 2025-12-15 10:34 UTC：US Embassy Bangladesh Security Alert – U. S. Embassy Dhaka, Bangladesh (December 15, 2025)。https://bd.usembassy.gov/security-alert-u-s-embassy-dhaka-bangladesh-december-15-2025/ 
 - 2025-11-21 07:01 UTC：US Embassy Bangladesh Earthquake Alert。https://bd.usembassy.gov/earthquake-alert/ 
 - 2025-09-09 04:43 UTC：US Embassy Bangladesh Health Alert – Bangladesh Added to CDC’s Traveler’s Health Notice on Chikungunya – U. S. Embassy Dhaka, Bangladesh (September 9, 2025)。https://bd.usembassy.gov/health-alert-bangladesh-added-to-cdcs-travelers-health-notice-on-chikungunya-u-s-embassy-dhaka-bangladesh-september-9-2025/ 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-05-21 00:00 UTC：Green 级 DR，Drought in Bangladesh, Bhutan, China, India, Myanmar, Nepal。https://www.gdacs.org/report.aspx?eventid=1027462&episodeid=1&eventtype=DR 

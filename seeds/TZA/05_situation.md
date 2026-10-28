@@ -12,6 +12,4 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
-- 2026-10-23 00:00 UTC：Green 级 WF，Forest fires in Tanzania, Malawi。https://www.gdacs.org/report.aspx?eventid=1033238&episodeid=4&eventtype=WF 
-- 2026-10-23 00:00 UTC：Green 级 WF，Forest fires in Tanzania。https://www.gdacs.org/report.aspx?eventid=1033258&episodeid=3&eventtype=WF 
-- 2026-10-21 00:00 UTC：Green 级 WF，Forest fires in Tanzania。https://www.gdacs.org/report.aspx?eventid=1033193&episodeid=5&eventtype=WF 
+- 2026-05-21 00:00 UTC：Orange 级 DR，Drought in Democratic Republic of Congo, Central African Republic, Cameroon, Eritrea, Ethiopia, Kenya, Niger, Nigeria, Sudan, South Sudan, Chad, Tanzania, Uganda。https://www.gdacs.org/report.aspx?eventid=1027450&episodeid=12&eventtype=DR 

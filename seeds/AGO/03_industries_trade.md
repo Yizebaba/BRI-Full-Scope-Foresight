@@ -203,11 +203,12 @@
 
 ## 港口（IMF PortWatch，截至 2026-10-23 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 180 次（前 30 天 173 次），进口约 1034220 公吨，出口约 685261 公吨。
+全国靠港 185 次（前 30 天 181 次），进口约 1034220 公吨，出口约 922234 公吨。
 - Luanda港：靠港 115 次，进口约 803593 公吨，出口约 189072 公吨
 - Lobito港：靠港 30 次，进口约 201911 公吨，出口约 17207 公吨
 - Namibe港：靠港 18 次，进口约 27935 公吨，出口约 50816 公吨
 - Soyo Angola LNG Terminal港：靠港 17 次，进口约 781 公吨，出口约 428166 公吨
-- Malongo港：靠港 0 次，进口约 0 公吨，出口约 0 公吨
+- Angola - Offshore Oil Terminal 6港：靠港 3 次，进口约 0 公吨，出口约 97386 公吨
+- Angola - Offshore Oil Terminal 2港：靠港 1 次，进口约 0 公吨，出口约 139587 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

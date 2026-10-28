@@ -9,7 +9,11 @@
 
 - 2026-09-04 00:00 UTC：US State Dept Nepal - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 
-# 尼泊尔项目周边近期态势（截至 2026-10-28 17:20 UTC）
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-05-21 00:00 UTC：Green 级 DR，Drought in Bangladesh, Bhutan, China, India, Myanmar, Nepal。https://www.gdacs.org/report.aspx?eventid=1027462&episodeid=1&eventtype=DR 
+
+# 尼泊尔项目周边近期态势（截至 2026-10-28 21:53 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -24,10 +28,8 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-10-28 10:03 UTC：Hundreds missing, including 47 Americans, in deadly Nepal floods, local officials say - ABC News - Breaking News, Latest News and Videos。https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFFKbWhSWTR5S25UT01SQnE4V1Jua044M19rZmJiYzRwRHphTU1GdFBIUi1ORXl2UUF1Y0NzNG00cDVuNzZuZzFjQ0doUTF5VUg1elRPdE02V0UxNFB1U1dub1ZrMnpjR190bnJIV2VWN0ZPbTRucURXYTlkQWlHS2d0XzR4dzgxaGdCWk92OE9paV92VWIzdTlYNE5xQThPNWRzR2N3R0hjUdIBrwFBVV95cUxNYjM2dnl3U1htTjMxc1ctcjBITTVMMXlXQlFCTjNPV2cxOXF6U3BmU2xSZHZRdHI1QTJRYTB6T1kyVVJ0Y2s3UlZQUm1ZS210UUozM0F3M09Sbk1QWU9pTXVwdjBNT3lGRkhnM0NGZU5ha1BuVDJ1R1hKbVR1M0REMkVMdFpZYnhDb2RUdlNSMVpQbHEwUXV5WGxSMFp1ci16M2dzVGhnQlNpTlVHZ3Qw?oc=5
 - 2026-10-27 07:51 UTC：Death toll rises to 162 in Nepal flash floods - DD News。https://news.google.com/rss/articles/CBMie0FVX3lxTFBfdEdFbWhLR2pOczRrMDZVVVhCNEhKeFZmdlhRRTdiSDdhWC1HRlVtYVo4ZVZrZHh4Y2JWZVhuTDRBaE9MbFFpTkJKVmxMVWZNQmc5MzZCaVFUX2g1Qm5QSlN5dFhRbm5wS0o2ZkxtNllFOHg4TkVhcnpNbw?oc=5
 - 2026-10-26 13:27 UTC：Rasuwagadhi Border Crossing Remains Closed for Two Months Due to Flood Damage - Ratopati。https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkg0WjMwT21KM3Raa3BNOUFzV2tzcHFxVVlyMzJDU213ZExQc21TWUNuTU5IM1Q1TFlXa3V1aWtjcUZDZ3AtUFVKeDk4a2R1THRsWjNWcFQ1TEN4S3VrWHBtNktCX3hIUnVGRjFjdWNwMWplSXJjU0NaalJFMGx3YXpBdUZhRnZoSExDdDhsM21PZWxSdTIxZDFoVnloYnFZUkRwRXFuRmRycnc0S2xjVHFTcUFoZDN4VEtESl9DU2dZZw?oc=5
-- 2026-10-22 16:45 UTC：Nepal-Tibet flood death toll surpasses 900, officials say, more than 4,700 missing - ABC30 Fresno。https://news.google.com/rss/articles/CBMi-gpBVV95cUxNckdIdHFsYnR5RFFyYXNFM3lTcjE3T0xKVDBpSk4tTVEtMC12Zm1yWm02T2xlV3FPMmJRNG56X3NTUU1NR2FibURoRjhXcDBHaXFjaGNZaWNIWWNNeGdGSjAwQm9vSHFpQUJYbEdvZjQtX2pZQkdnTTBZUWtYOXNHeTlQNEhSclBiWGM1YlVJWHVKNEVpcFdlcWQ1MHF0NHJ1ZTBwcXUyMDVxdkxRVlhRdTlobzFMcV9aeXA2UXBuMUlMTHo5NXBYZU80UWlteU1UeFNPS0N2NmltbU9feEhoZHlpVkFGcU9vZFZvODNKc3hMMm5DZFAyaXRIWjV5M2JiNzFLeWp3NWhOcUJ5SnZUaThZa3d4WWF4dkJyazhFbmFBbE9CZ3FVSjM1VU11RW1rcGh1YlhUREZibUJnV003S0F1RTV2S0NPT0taTzVOVjdEQXJvSWJJcS03OW9aUGJuMUxZUER2VjIxTl9hS19halJQeks1YXVlelRBNV9LQ1NFdjUzU0hnV2RRa1JGbmJQU0JPNnFSMW55MHVCSl9LbHNTZzZEQy15MHY0b0IwZWFJMWt4dW8wNkloN0VpYkdxcFplU2Z6VTNXb3Y2UXhhN3pwZTItdGxSdGR2VHcxc3FlVnpocjVTSkZ2RlEyU1ZLV003TTNCXy16LVlyQ1Nhd0pXNk9ud0t3M1ZSR2h5ZVR3VzUxeU82NzJRTUFKb2tlUzM1OU54WXptUk5aU0FoRGowZURESUtxNVBDS1Vrd0NHNks4ZXZ3cHpVVjlOS1UzY2RQM2FqUTdxNVlPLUlzVnlnUGZBdks2TFlyRlZXcUdseUlqcTFCaW5pOHZCRHZnTnBlTHhfN0NmMUtGQmhMaGxSekpRSmJYODRwNW9sYjZZazZTa3Rpa1dPWWpicDZRTmhaNVREWVltZlRDWmpSOUsxc2pYeWMtem1lU3d6bV9mdm84OHZpQ09hV2JCcmtQM2hxbkF0TUFqdVFlSHc0LXNvOTIzSDc4ZXJYUVN2M0FIeFBtOV9JREZ5Q0diSnQtcVZtZFJHS1hnT01JU0t2N3UzaE9lRTZSeVc0RXktU2tQbFBULXRYVlFwV1VHVUFWdTNKTGtmaE9sMDRMenB5aGZSZUd3Y3MyVGR5TkMySzV5Z2lza2Q1NG9MenpwMTdwQnBFOS1xVnVzUFRHcGktT01hSjNLcmxKQ0NhQVB2TEtEMTlLb0NJUmpDNm1HYVBsNXBEQ0M0RnREUEp4U29fV1NkTHFfbEhqTkRMVFhFcGJXVVpmajdVM0lmb01KUjRYZkhqY3ZWNS1neUx3c1NnR1d4SlNxOG1ndFBGNWlYenltZ2RVclN3UjB5QkZTNVJYR29VX3o4Q1lacDloZ28xTDUwaE9MQnRBV1IyNl9UQU41Y0JNN1V5MzFPUW9OcXByTTIteUFXSXVkMTNUSXA5N1E2a1cyOG9oRzdReDdGcGdINFZkUWU4T1Y0UWRUdzRuODVvQnp1cmgzUUlZY1QxZlhBWFhmMmdjT3MwNGdtMGkzRTM0TmVyLVE5a0JxTXhkaDd0alhfRHliUmpHVjF1WHctQjlBM2daTWxhcHE0aWdVNEJKUWVSbTllaFJvM19lSEl6VjY4WDNmMkx3OWRjNnpEVC1TNzVGVTdxNmhBTFZZSlhTOUZ5YTFwWWNhVUg2RVJpWnlEQkF3ZlRfeFRaaUYtd3dVME8xWmtNaXNIeXpMMVNIUThrQUhqUVl6SVF5ZW1qMXl2Y0xkYlBSckZ0d2FjNEpwYjBHdmFSUExNMTFCLW5zaEgzdTE3ZFdoc1Fkd1h2ck14c3B6aktpaU5XUU9oa0lPY3dGUXlOYUh6SmdhU0YxOG5MeG5R?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-10-28 08:10 UTC：Shifting Himalayas Above Put Hydropower and Local Revenue at Risk Below - Centre for Investigative Journalism - Nepal
@@ -38,7 +40,6 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-10-28 10:03 UTC：Hundreds missing, including 47 Americans, in deadly Nepal floods, local officials say - ABC News - Breaking News, Latest News and Videos。https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFFKbWhSWTR5S25UT01SQnE4V1Jua044M19rZmJiYzRwRHphTU1GdFBIUi1ORXl2UUF1Y0NzNG00cDVuNzZuZzFjQ0doUTF5VUg1elRPdE02V0UxNFB1U1dub1ZrMnpjR190bnJIV2VWN0ZPbTRucURXYTlkQWlHS2d0XzR4dzgxaGdCWk92OE9paV92VWIzdTlYNE5xQThPNWRzR2N3R0hjUdIBrwFBVV95cUxNYjM2dnl3U1htTjMxc1ctcjBITTVMMXlXQlFCTjNPV2cxOXF6U3BmU2xSZHZRdHI1QTJRYTB6T1kyVVJ0Y2s3UlZQUm1ZS210UUozM0F3M09Sbk1QWU9pTXVwdjBNT3lGRkhnM0NGZU5ha1BuVDJ1R1hKbVR1M0REMkVMdFpZYnhDb2RUdlNSMVpQbHEwUXV5WGxSMFp1ci16M2dzVGhnQlNpTlVHZ3Qw?oc=5
 - 2026-10-28 03:36 UTC：Police Senior Superintendent Deep Shamsher Jabra Discusses Bhote Koshi Flood Rescue Challenges and Technologies - Ratopati。https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWjl6ZXlGbjhoZGtWLUZXUjBoRXFuUE1WbkpmdlQwVG9RSk5MRnJQeXhDTFZrV1N2TW9nRERoalBhTmsyODJvX1p4Tl96cDJ5bFhjWDhYeTEwcFIyQTRmcDhiTVo4dXdEeV9jaGh1cGk5SG1PaHE1WjRQWl9iZjRscFluYjQ2eDhuSXloSzN6TzBoVVpQT0lUbmpYbjdqcW5qYWlKcmpnYjdwa2ttUU1zbkx6cGlYX1hsWE4tU2NCN2NkUnREUHVLajF2XzhUZzQtY3RVczNBYlEwYy10emRTQjBMdw?oc=5
 - 2026-10-28 03:35 UTC：Police Senior Superintendent Deep Shamsher Jabra Discusses Bhote Koshi Flood Rescue Challenges and Technologies - Hamro Patro。https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMkJNZVQ4OEZlaHNiSkd1a0p3VkFoVkU4aV9ob09CVklzSXdBaElQbUNfcFJxdWFNekN3dERCNTAyV3Uxb2tCUWs2Ty1MWTh3YjFRNl91MkRwVVpSMHpDbkctZWpzQU9uM2NNZnFjR2daRGlBSUNwUmlTVWZMYi15cDJqSXI0SUk1QTY0cDNiam9oaFczbENCTGx3ZjRxVXdqVlBGY0d5dGpnU0tlWDluYXBaMjNpWms5elBla2FWMzEtWERtMTZKMjVkRGJyZVlU?oc=5
 - 2026-10-27 07:51 UTC：Death toll rises to 162 in Nepal flash floods - DD News。https://news.google.com/rss/articles/CBMie0FVX3lxTFBfdEdFbWhLR2pOczRrMDZVVVhCNEhKeFZmdlhRRTdiSDdhWC1HRlVtYVo4ZVZrZHh4Y2JWZVhuTDRBaE9MbFFpTkJKVmxMVWZNQmc5MzZCaVFUX2g1Qm5QSlN5dFhRbm5wS0o2ZkxtNllFOHg4TkVhcnpNbw?oc=5
@@ -48,6 +49,7 @@
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-10-28 08:10 UTC：Shifting Himalayas Above Put Hydropower and Local Revenue at Risk Below - Centre for Investigative Journalism - Nepal
+- 2026-10-25 15:00 UTC：Work to reopen Benighat–Tatopani road completed - myRepublica
 - 2026-10-22 07:50 UTC：Nepal wants to test whether COP31 can deliver climate justice - Inquirer.net
 - 2026-10-22 02:08 UTC：After Nepal’s recent disaster, it wants to test whether COP31 can deliver climate justice - Hamro Patro
 
