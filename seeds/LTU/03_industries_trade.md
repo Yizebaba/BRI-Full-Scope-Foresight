@@ -201,10 +201,10 @@
 | 锡及其制品（HS 80，Tin; articles thereof） | 20 美元 | 无数据 |
 | 铅及其制品（HS 78，Lead and articles thereof） | 3 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-10-16 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-10-23 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 272 次（前 30 天 267 次），进口约 1583293 公吨，出口约 1149470 公吨。
-- Klaipeda港：靠港 265 次，进口约 965365 公吨，出口约 1149470 公吨
-- Butinge Oil Terminal港：靠港 7 次，进口约 617928 公吨，出口约 0 公吨
+全国靠港 269 次（前 30 天 271 次），进口约 1596245 公吨，出口约 1291167 公吨。
+- Klaipeda港：靠港 261 次，进口约 805277 公吨，出口约 1291167 公吨
+- Butinge Oil Terminal港：靠港 8 次，进口约 790968 公吨，出口约 0 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

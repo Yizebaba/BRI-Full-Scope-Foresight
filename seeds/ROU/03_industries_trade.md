@@ -203,14 +203,14 @@
 | 铅及其制品（HS 78，Lead and articles thereof） | 1719 美元 | 2664 美元 |
 | 木浆（HS 47，Pulp of wood or other fibrous cellulosic material; recovered (waste an） | 832 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-10-16 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-10-23 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 340 次（前 30 天 344 次），进口约 1244679 公吨，出口约 2358782 公吨。
-- Constantza港：靠港 282 次，进口约 1154241 公吨，出口约 2312617 公吨
-- Midia港：靠港 32 次，进口约 63987 公吨，出口约 23108 公吨
-- Galati港：靠港 7 次，进口约 3034 公吨，出口约 8741 公吨
-- Braila港：靠港 7 次，进口约 5440 公吨，出口约 6375 公吨
-- Romportmet港：靠港 6 次，进口约 6474 公吨，出口约 5412 公吨
-- Mangalia港：靠港 6 次，进口约 11503 公吨，出口约 2529 公吨
+全国靠港 323 次（前 30 天 361 次），进口约 1193423 公吨，出口约 2380135 公吨。
+- Constantza港：靠港 267 次，进口约 1115213 公吨，出口约 2307897 公吨
+- Midia港：靠港 32 次，进口约 53927 公吨，出口约 45292 公吨
+- Galati港：靠港 8 次，进口约 3317 公吨，出口约 14957 公吨
+- Mangalia港：靠港 6 次，进口约 15094 公吨，出口约 560 公吨
+- Braila港：靠港 5 次，进口约 2076 公吨，出口约 8041 公吨
+- Romportmet港：靠港 4 次，进口约 3237 公吨，出口约 2706 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

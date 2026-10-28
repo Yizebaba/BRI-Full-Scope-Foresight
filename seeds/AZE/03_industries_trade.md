@@ -201,9 +201,9 @@
 | 制粉工业产品（HS 11，Products of the milling industry; malt, starches, inulin, wheat gluten） | 2240 美元 | 无数据 |
 | 木浆（HS 47，Pulp of wood or other fibrous cellulosic material; recovered (waste an） | 972 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-10-16 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-10-23 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 201 次（前 30 天 213 次），进口约 466427 公吨，出口约 54785 公吨。
-- Baku Port港：靠港 201 次，进口约 466427 公吨，出口约 54785 公吨
+全国靠港 198 次（前 30 天 213 次），进口约 478028 公吨，出口约 59501 公吨。
+- Baku Port港：靠港 198 次，进口约 478028 公吨，出口约 59501 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

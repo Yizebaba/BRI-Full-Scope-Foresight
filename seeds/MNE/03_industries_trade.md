@@ -183,10 +183,10 @@
 | 锌及其制品（HS 79，Zinc and articles thereof） | 410 美元 | 无数据 |
 | 糖及糖食（HS 17，Sugars and sugar confectionery） | 2 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-10-16 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-10-23 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 43 次（前 30 天 39 次），进口约 75439 公吨，出口约 63617 公吨。
-- Bar港：靠港 43 次，进口约 75439 公吨，出口约 63617 公吨
+全国靠港 42 次（前 30 天 44 次），进口约 95651 公吨，出口约 87073 公吨。
+- Bar港：靠港 42 次，进口约 95651 公吨，出口约 87073 公吨
 - Bijela港：靠港 0 次，进口约 0 公吨，出口约 0 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-10-28 05:26 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-10-28 11:34 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -74,6 +74,9 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-10-28 11:15 UTC：Baloch separatist group claims over 80 Pakistani personnel killed in Gwadar operation - News9live。https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejlKelhNNVFlb2gzdG8xWmFuS2o0amdLWlhFZG50bnpKSW00ZFlRNE5NVG5yd3NFSWVBZGV3cndydUVzeG1saHVlT0FLeGlSTU1fWHNfVVZmVGhFdU5JWHV6ZGFQY2RaWG5hdWY5czRFaDVzTVBxZVUyR015eWVvOWxtM1ZPUWtZNEZXWEpNNGh1bjczV3p2UHhTM3h3NWtwX0VVVjZmRGVsX2hsX2ZrMms3Zk44MkJ6c0cycVo0cks0MWvSAcgBQVVfeXFMTmlxdEVhVTJxVjZfSFR2Qklmc3QyNzZmMHEwNVNsd0VGRVctTndfVTVEd0plSEp2d1hhX2w2bC16YXhuUktUSGxzdHkzR0c4ZVhYUTJSRXI4MV9hSEhNTlFfRF9TSVNLenc0RGdoMWdPSEtWV091ZW5EUUowb1NnQ1p5bjNESTlQcWpuOER2WlhSR2ZYTG0zRktEcnFmaDY2REJFcTA2TDJCNUJSQ3NPeGgzdjJ4cGVWODh5Y29rcW5URzBvZjRhREU?oc=5
+- 2026-10-28 08:54 UTC：Gwadar Operation Almas: Baloch Liberation Front Claims Over 80 Pakistani Personnel Killed, Figures Remain Disputed - theopenpress.in。https://news.google.com/rss/articles/CBMilAFBVV95cUxPVzBYd05CcU01T183QlYzcjk0SHYyMmtSQVlTZHgzV1FfNDllUzRScFFoWWFpY3JjXzY5Yzgxc0NQZHduZndNWHNMUUpHT3A4dGV1VkFzWEJJRVNJbXlyNW1nUE5GOFlUTU1ROFNPTmt4aXFBd0J1Y2w2MzVVTzM4N2pNRldaZUhjQ29aTVoyU0ZoeXlt?oc=5
+- 2026-10-28 08:24 UTC：47 Terrorists Killed in Balochistan Operations from October 10 to 28 - Balochistan Pulse。https://news.google.com/rss/articles/CBMijwFBVV95cUxNUjRhSmdDYzV3bVhXR2tHYzVuc1Fta0dkUFZWVXJaUnVMdTdDVG9yMGc3WlBrdWs0b2VvRHgwWTFJRFV5ODVRbGVRdVQ5bjRTSHFEWU5LMnFjb2g3cUFiaVBqeUZ0NjJxSndGYko3YUJhcVUxZ3ZVcHhhQW5HOEcwVXZZbGJyeTc4SUdrTGk2b9IBjwFBVV95cUxNUjRhSmdDYzV3bVhXR2tHYzVuc1Fta0dkUFZWVXJaUnVMdTdDVG9yMGc3WlBrdWs0b2VvRHgwWTFJRFV5ODVRbGVRdVQ5bjRTSHFEWU5LMnFjb2g3cUFiaVBqeUZ0NjJxSndGYko3YUJhcVUxZ3ZVcHhhQW5HOEcwVXZZbGJyeTc4SUdrTGk2bw?oc=5
 - 2026-10-28 02:53 UTC：80 Pakistani personnel killed in Operation Almas, says Baloch Liberation Front - India Today。https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcEtCaGFONHZTVm51NEhONXJ0emxtUlAwTk5vWmpLNU5vRE9mTHlQcXNuR040STk3MDVEME1zZWxzSmI5dVN6YmtIRjc4S2praS1ETGU2QlhLeUxLQjNLWXRVRnFhOXdEQlpmSkVMbUxBY0N1b1VEMFdhdFVxOVpyNmR5NFBCSDFoMmlrNFJGNktUUDRVeUQyZHFuUmZIbXBnMzkzSTd2R2M2ZFpDS21GclpxNC1iWTdGaE4tWU4tVE5hajlsb05XTHpkbVVKN2pKbGllTEpYZ004S0hWMHBkM3VlRdIB4wFBVV95cUxQcEtCaGFONHZTVm51NEhONXJ0emxtUlAwTk5vWmpLNU5vRE9mTHlQcXNuR040STk3MDVEME1zZWxzSmI5dVN6YmtIRjc4S2praS1ETGU2QlhLeUxLQjNLWXRVRnFhOXdEQlpmSkVMbUxBY0N1b1VEMFdhdFVxOVpyNmR5NFBCSDFoMmlrNFJGNktUUDRVeUQyZHFuUmZIbXBnMzkzSTd2R2M2ZFpDS21GclpxNC1iWTdGaE4tWU4tVE5hajlsb05XTHpkbVVKN2pKbGllTEpYZ004S0hWMHBkM3VlRQ?oc=5
 - 2026-10-24 10:08 UTC：Gwadar on the Brink: Islamabad Claims Attack Thwarted, Separatists Claim Base Seized - خبرگزاری صدای افغان(آوا)。https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS0lqU0RuYjg3OEVNTE9Na2RQYnJOQ2o1a01aUDZoMzJ2eHc0SVpRMWtUTTRJUHRVaG1qaGFrdklkWHpzSnh0dHp0R1BZNTJRZnRwcGhHZENiQm0wTUdyVlJMYlNzVnNiVUY3aHBybG1BY1F1S3hJWm5TLWZ6blBKYlo4Z1JoclNxVk9wU0M5NWdnS1VheVNobXkwUGNXSHcxazFIVVltdHhuSHFTTjJJTWJyX1ZsaGZoS3dOcVlKWktWQQ?oc=5
 - 2026-10-24 03:51 UTC：Gwadar Operation: Security Forces Kill 10 Militants, Including a Woman, Foil Terror Attacks - Tapmad。https://news.google.com/rss/articles/CBMixAFBVV95cUxQN19neXVVMEtndEhDbkp3LUVFeU9nN1h1eFVDWjE4SVBwcEYtS19EdUkwTVgxamtzaXg5Uk5sWlVnR2lxMWZJcHJBSlNiYVM0SkVKLTgtQzZuejZfS1NVR3hXME5YRFBES0MzZ1ByaEE0azJKeG84UUI4TmQwUmxYbmtaN2ZNeUxYWXFjRmd4d1o0ZWhiaVEybmpnY2hJMzlLVzZLbEdPN2NiZF90NzBOdWd3T0otRlZKM2xoeFRmNmtlYTg4?oc=5
@@ -83,19 +86,16 @@
 - 2026-10-23 15:11 UTC：10 terrorists, including one female, killed in Gwadar: ISPR - GNN | Latest News。https://news.google.com/rss/articles/CBMijAFBVV95cUxOaElMd1B1a1dhNVhFZm5xMTA3Nms5b1NMWVRycVpscHFySWM0d19wREVEelZMLWtTR2dOVmtOeTV6TEl4SFlIS3BueEJyajAtWUtnNUwxVG1ReTVNOTZRN3F0YVlkMlc1dXhjdDVDZF92X3hRcU1wdUoxMThvbkU5cUpGR0M1WWtNeEktYw?oc=5
 - 2026-10-23 14:27 UTC：ISPR says 10 India-sponsored terrorists killed in Gwadar - Daily Times。https://news.google.com/rss/articles/CBMilgFBVV95cUxOdUdEa3dMcG42cHM3STFnRUJoanhqRUJwMWJwWGVVay0waF9CVVNvLXlwVnBoY201ZGp1aldSSmlRX2hvQXJjTkFBa1VybUlNektUUWw3bnEtTkhwUGJPdk1iYVRNYmVnamtKSWhkeXJ3VktoZE5MaDVmdEpNNGhveHgwRFpUTEh6MzVoVFZxQ3lTUnFHZHc?oc=5
 - 2026-10-23 14:25 UTC：Gwadar Security Operation Foils Attacks, 10 Militants Reported Killed - Aaj News。https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pSVhNakNlMHgwX3ZacHdaRElidlhQTUI5dzJaZTZLVk5vNFdtZmh6dzYwT1NLaHFzd0Q3ZXhLTktDa2xBb2hNMEk1MW0?oc=5
-- 2026-10-23 14:15 UTC：Pakistan army says 10 killed in counter-terror operations in Gwadar - Latest news from Azerbaijan。https://news.google.com/rss/articles/CBMikgFBVV95cUxPR2F3bTNQNjBqN2xWcDZlN2llV055T2xPVlYzSHBXcm1MbFBfRndtUmJkU2hIZFowVURxbkoyTHAtaldmMlp0VmhpeVZGaWpqUTBWVnJKUldMY25wQkx1N3BLOXllV0x0MWVJZnFNWDlpMFhvbUtLa2ZnQUhoaG5IbnJ0WkhWMThZaUs1WnE1Y045dw?oc=5
-- 2026-10-23 14:05 UTC：Seven Militants Killed As Security Forces Foil Attack On Construction Camp In Gwadar: CM Bugti - UrduPoint。https://news.google.com/rss/articles/CBMimwFBVV95cUxONGZON0FqMTZWX0JfNG1HdGRhNUF4ZnpzbUZkcHd4aDNILXpfVHdMc0dMMXpDRHVCNHRSTVNfcVlWZXQ3bU1IRFdEbmZQUWtGdU9RdVNWZHBUdGcxcktjYS1WNDJwOGdYWW9GcUFuQTlCMEx5c2xrUnp6WExoQzZWdTZaZjVyUHhxZVpJSWgwVm0zNG8xZ2M2bXJBOA?oc=5
-- 2026-10-23 13:54 UTC：10 terrorists, including woman, killed in Gwadar: Pakistan army - Anadolu Ajansı。https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWUyOVN0d0JmRW9aVEtlZlNBQlp3Y1JYT0xlRXl5c2s2d2pkbEV3dFQtYlB4ZFV6VndMcllXMkNVWXF1ZGVMWkZzYnExeVZyaDZQYXdmN3oxa2pNYUhsSWs3NzNaa2pSTDB4a0tXQV94cVF2S015NzJGbEtDYW54VG9XQVRQVEFsdTRLbHV2ekdSNXUyMzVEckRLcWlCMVBtcUZFckFtZ0tuUQ?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-10-28 11:28 UTC：Over 500 dolphins spotted leaping off Gwadar coast Breaking - Independent News Pakistan
+- 2026-10-28 08:02 UTC：Pakistani expert highlights Global South’s role in governance reform at China forum - Gwadar Pro
+- 2026-10-28 01:51 UTC：Pod of bottlenose dolphins spotted off Gwadar - Dawn
 - 2026-10-27 08:59 UTC：Hassan Laboratory Opens in Gwadar’s Sarbandan - The Daily CPEC
+- 2026-10-27 08:25 UTC：Over 500 Dolphins Spotted Leaping Near a Boat in Gwadar - Aaj English TV
 - 2026-10-27 08:25 UTC：Over 500 Dolphins Spotted Leaping Near a Boat in Gwadar - Aaj News
 - 2026-10-27 05:40 UTC：Operation Almas and the Limits of Military Power: Why Gwadar’s Future Cannot Be Separated from Baloch Sovereignty - Countercurrents
-- 2026-10-26 16:39 UTC：Two People Taken Into Custody in Gwadar Anti-Begging Operation - Daily Independent
-- 2026-10-26 16:01 UTC：Young Baloch, Gazrawan United Win on Eighth Day of Gwadar Football League - Daily Independent
-- 2026-10-26 15:59 UTC：Gwadar Programme Promotes Youth Leadership and Community Participation - Daily Independent
-- 2026-10-26 15:57 UTC：Gwadar Directs Fishermen’s Associations and Private Schools to Complete Registration - Daily Independent
-- 2026-10-26 08:47 UTC：Gwadar Situation Today: Life Normal, Online Claims Fall Flat – Pashto News and Current Affairs Channel - Khyber News
+- 2026-10-27 05:09 UTC：October 27, 2026 - Gwadar - 1, - The Nation (Pakistan )
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

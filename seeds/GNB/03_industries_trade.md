@@ -72,9 +72,9 @@
 | 锌及其制品（HS 79，Zinc and articles thereof） | 56 美元 | 无数据 |
 | 锡及其制品（HS 80，Tin; articles thereof） | 43 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-10-16 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-10-23 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 10 次（前 30 天 8 次），进口约 69532 公吨，出口约 10416 公吨。
-- Bissau港：靠港 10 次，进口约 69532 公吨，出口约 10416 公吨
+全国靠港 11 次（前 30 天 7 次），进口约 61673 公吨，出口约 12235 公吨。
+- Bissau港：靠港 11 次，进口约 61673 公吨，出口约 12235 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

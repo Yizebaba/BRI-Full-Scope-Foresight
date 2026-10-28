@@ -16,7 +16,3 @@
 - 2026-10-27 14:09 UTC：M4.6，41 km S of Farkhār, Afghanistan。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgc 
 - 2026-10-25 17:44 UTC：M5.2，59 km SW of Ashkāsham, Afghanistan。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4va 
 - 2026-10-22 10:07 UTC：M4.6，11 km W of Ashkāsham, Afghanistan。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u42e 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-10-27 14:09 UTC：Green 级 EQ，Earthquake in Afghanistan。https://www.gdacs.org/report.aspx?eventid=1574148&episodeid=1743067&eventtype=EQ 

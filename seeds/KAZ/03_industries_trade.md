@@ -205,10 +205,10 @@
 | 武器、弹药（HS 93，Arms and ammunition; parts and accessories thereof） | 6861 美元 | 无数据 |
 | 活动物（HS 01，Animals; live） | 900 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-10-16 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-10-23 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 116 次（前 30 天 122 次），进口约 15661 公吨，出口约 313023 公吨。
-- Aktau Port港：靠港 114 次，进口约 15661 公吨，出口约 313023 公吨
-- Bautino港：靠港 2 次，进口约 0 公吨，出口约 0 公吨
+全国靠港 113 次（前 30 天 121 次），进口约 18106 公吨，出口约 312389 公吨。
+- Aktau Port港：靠港 109 次，进口约 18106 公吨，出口约 312389 公吨
+- Bautino港：靠港 4 次，进口约 0 公吨，出口约 0 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

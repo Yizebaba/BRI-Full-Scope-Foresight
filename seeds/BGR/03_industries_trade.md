@@ -201,10 +201,10 @@
 | 锡及其制品（HS 80，Tin; articles thereof） | 3 万美元 | 无数据 |
 | 艺术品、收藏品（HS 97，Works of art; collectors' pieces and antiques） | 1152 美元 | 1663 美元 |
 
-## 港口（IMF PortWatch，截至 2026-10-16 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-10-23 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 166 次（前 30 天 194 次），进口约 610791 公吨，出口约 779083 公吨。
-- Burgas港：靠港 115 次，进口约 581748 公吨，出口约 469957 公吨
-- Varna港：靠港 51 次，进口约 29043 公吨，出口约 309126 公吨
+全国靠港 170 次（前 30 天 188 次），进口约 677948 公吨，出口约 821249 公吨。
+- Burgas港：靠港 123 次，进口约 649903 公吨，出口约 481478 公吨
+- Varna港：靠港 47 次，进口约 28045 公吨，出口约 339771 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。
