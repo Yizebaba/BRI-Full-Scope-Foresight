@@ -34,4 +34,4 @@
 - 2026-10-24 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033177&episodeid=5&eventtype=WF 
 - 2026-10-23 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033219&episodeid=6&eventtype=WF 
 - 2026-10-23 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033249&episodeid=2&eventtype=WF 
-- 2026-10-22 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033222&episodeid=3&eventtype=WF 
+- 2026-10-22 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033222&episodeid=7&eventtype=WF 
