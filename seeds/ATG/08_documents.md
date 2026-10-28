@@ -62,7 +62,7 @@ A number of projects have been undertaken in the country through bilateral inves
 
 ## 学术论文（OpenAlex）
 
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 196）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
 
 （无摘要）
 
@@ -103,4 +103,4 @@ This paper investigates the effect of the One Belt One Road (OBOR) initiative on
 
 https://doi.org/10.3390/su10093264
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

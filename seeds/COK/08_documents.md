@@ -95,4 +95,4 @@ Since its founding in 1949, the People's Republic of China (PRC) has had a diplo
 - 1992-07-31 · Pre-2003 Economic or Sector Report · Pacific Region - Pacific regional energy assessment (Vol. 2 of 12) : Annex A Cook Islands 。http://documents.worldbank.org/curated/en/666371468102554317
   摘要：The Pacific Regional Energy Assessment (PREA) reviews issues and options associated with energy development in the Pacific island countries. Twelve countries are covered: Cook Island, Fiji, Federated States of Micronesia, Kiribati, Marshall Island, Palau, Papua New Guinea, Solomon Island, Tonga, Tuvalu, Vanuatu, and Western Samoa. The main objective is to define a strategy for the management of the energy sector in each country that would serve as the basis for planning and implementing recommended policy measures, institutional strengthening priorities and investments in the sector. The Regional Overview highlights findings and recommendations of regionwide interest.
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

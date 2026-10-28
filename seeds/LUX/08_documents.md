@@ -84,11 +84,11 @@ Embassy of China in the Luxembourg (in Chinese, German, and French)
 - 2024-11-07 · Brief · Prosperity Data360 Tourism Country Snapshots : Luxembourg
 。http://documents.worldbank.org/curated/en/099611311192423756
   摘要：This Factsheet provides an overview of the tourism sector in Luxembourg according to key performance indicators.
+- 2022-10-15 · Announcement · Announcement of IFC and Luxembourg Extend Partnership to Support Market Creation in Partner Countries on October 15, 2022 。http://documents.worldbank.org/curated/en/099122410212623515
+  摘要：This press release announces a new agreement between the International Finance Corporation (IFC) and the Government of Luxembourg to support market creation and private sector investment in low- and middle-income countries.
 - 2022-10-01 · Brief · IFC and Luxembourg - Partners in Private Sector Development
 。http://documents.worldbank.org/curated/en/099902503122425694
   摘要：In FY18-22, Luxembourg provided cumulative funding of close to thirteen million to support IFC Advisory Services. Luxembourg supported various IFC programs focused on improving the business enabling environment, corporate governance, financial and compliance risk management and creating new markets for climate financing, as well as local capital resource mobilization. In October 2022, IFC and the Ministry of Finance of Luxembourg announced the new Luxembourg-IFC Partnership Program (LIPP), which will provide €9 million for IFC’s advisory and upstream activities in order to support low- and middle-income countries in market creation and private sector investment. IFC also maintains a strong partnership with the Luxembourg Stock Exchange (LuxSE), dating back to 1986, when IFC first listed a security at the exchange. Given IFC’s pioneering role in green finance and its commitment to accelerating sustainable growth in developing countries, the collaboration has grown particularly strong over the past years, reflecting LuxSE’s own efforts to unlock sustainable capital.
-- 2022-05-31 · Brief · Luxembourg - Learning Poverty Brief - 2022。http://documents.worldbank.org/curated/en/099704407202221791
-  摘要：All children should be able to read by age 10. Reading is a gateway for learning as the child progresses through school - and conversely, an inability to read constrains opportunities for further learning. Reading proficiency is also critical for foundational learning in other subjects. In low- and middle-income countries, more than half the children cannot read and understand a simple story by the end of primary school. This learning crisis threatens countries’ efforts to build human capital and achieve the sustainable development goals (SDGs), undermining sustainable growth and poverty reduction. Tackling the learning crisis in the foreseeable future requires rapid progress at a scale that has not been seen yet. To galvanize action on this crisis, the authors introduced the concept of learning poverty (LP), a measure constructed jointly by the World Bank and the UNESCO Institute for Statistics (UIS).
 
 ## 学术论文（OpenAlex）
 
@@ -102,7 +102,7 @@ https://doi.org/10.1017/s0305741021001120
 Abstract China's outbound investment exceeded inbound investment for the first time in 2015. In years leading up this transition, a maturing demographic transition alongside slowing internal migration and diminishing returns to physical capital investment, all had a role in China's diminished competitiveness in low‐wage manufactured exports and the fading of the related growth model. In that context, the 2013 launch of the Belt and Road Initiative (BRI) took place in two stages in two developing countries, Kazakhstan and Indonesia. These launch choices, and the BRI in general are herein elaborated in terms of economic history, geography, and demography. The BRI in turn is considered to be aiming to foster the ongoing development of China, and in doing so also seeks to instigate new era development opportunity for other developing countries. One facilitation channel for the latter is China's concept of “patient capital,” essentially concessional capital, or foreign aid. For China that offers a means via which to internationalise the financial sector and also the Renminbi. Lessons from China's own use of foreign aid and economic development hence serve as an important reference for ongoing scoping of the shape and trajectory of the BRI. To that end, this article sheds light on what is in the BRI for China.
 
 https://doi.org/10.1002/app5.265
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 196）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
 
 （无摘要）
 
@@ -112,12 +112,12 @@ https://doi.org/10.1016/j.ememar.2019.100629
 The “One Belt, One Road” (OBOR) initiative has been a topic of hot debate among Sinologists and pundits in recent years. What is the nature of this foreign policy and how is it implemented under the Xi Jinping administration? By examining China's OBOR initiative, this article argues that OBOR is not only a regional policy but a grand global strategy for achieving the “Chinese Dream”. While there is little chance that China will be able to create a large area of influence around the world, the potential impact on global politics cannot be overlooked.
 
 https://doi.org/10.1080/24761028.2016.11869094
-### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 100）
+### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 102）
 
 China's Belt and Road Initiative aims to improve connectivity between China and more than 70 countries through infrastructure investment and regional cooperation. The initiative has the potential to accelerate significantly the rate of economic integration and development in the region, as trade costs decline. The goals of this paper are to (i) study the impacts of infrastructure improvements on Belt and Road Initiative and non?Belt and Road Initiative countries'trade flows, growth, and poverty; and (ii) suggest policies that would help maximize gains from the Belt and Road Initiative?induced trade cost declines. The analysis captures the trade costs reductions as a result of infrastructure improvements. The findings indicate that the Belt and Road Initiative would be largely beneficial. First, global income increases by 0.7 percent (in 2030 relative to the baseline). This translates into almost half a trillion dollars in 2014 prices and market exchange rates. The Belt and Road Initiative area captures 82 percent of the gain, with the largest percent gains in East Asia. Second, globally, the Belt and Road Initiative could contribute to lifting 7.6 million people from extreme poverty and 32 million from moderate poverty. Third, the initiative would lead to a modest increase in global carbon dioxide emissions, with a complex set of positive and negative outcomes at the national level for other types of emissions.
 
 https://doi.org/10.1596/1813-9450-8814
-### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 162）
+### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 163）
 
 （无摘要）
 
@@ -127,10 +127,10 @@ https://doi.org/10.1016/j.jdeveco.2019.102415
 Abstract The impact that the Belt and Road Initiative (BRI) has had on carbon emissions is a hotly debated issue. Using a panel dataset of 178 countries from 2002 to 2017, and applying the quantile difference‐in‐difference method in different industries, this study finds that, first, the BRI overall tends to reduce the carbon emission intensity of BRI countries. Second, the impact of BRI on reducing the carbon emission intensity is significant for BRI countries at higher (0.8 and 0.9) and lower (0.2 and 0.3) carbon emission intensity quantiles but it is insignificant for those at medium levels. Third, the BRI has significant impacts on reducing carbon emission intensity in the energy‐intensive industries, and this effect is the highest at the quantile level of 0.9 for all three industries considered here: transportation, electric and heating, and manufacturing and construction. These results indicate that establishing BRI cooperation with China will improve the environment and enhance the sustainable development ability of BRI countries.
 
 https://doi.org/10.1111/cwe.12374
-### The roles of cultural and institutional distance in international trade: Evidence from China's trade with the Belt and Road countries（2018，China Economic Review，被引 158）
+### The roles of cultural and institutional distance in international trade: Evidence from China's trade with the Belt and Road countries（2018，China Economic Review，被引 159）
 
 （无摘要）
 
 https://doi.org/10.1016/j.chieco.2018.10.001
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

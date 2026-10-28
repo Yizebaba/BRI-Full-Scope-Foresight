@@ -171,4 +171,4 @@ The Two Corridors, One Belt (abbreviated as TCOB) is a connectivity initiative i
 - 2024-06-03 · Implementation Completion Report Review · Viet Nam - VN-Northern Delta Transport Dev（项目：VN-Northern Delta Transport Development Project -- P095129）。http://documents.worldbank.org/curated/en/099060324144513555
 - 2024-03-20 · Implementation Completion Report Review · Viet Nam - -HCMC Green Transport Development（项目：VN-Ho Chi Minh City Green Transport Development -- P126507）。http://documents.worldbank.org/curated/en/099032024144566453
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

@@ -181,4 +181,4 @@ The development of Forest City is contentious. The project was not targeted at l
 。http://documents.worldbank.org/curated/en/099607506082647597
   摘要：This Policy Brief draws on case studies from Chile, Kenya, Malaysia, Morocco, and Nepal to show the impact of family law on women’s economic opportunities, finding that family law reforms are key to expanding women’s access to property and economic decision making, yet progress is constrained by discriminatory social, religious, and cultural norms, while women’s rights groups are pivotal in advancing reforms, but patriarchal and religious barriers impede effective implementation, and calls for sustained global partnerships and international support to promote legal equality within families, highlighting its importance for achieving gender equality and inclusive economic growth.
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

@@ -4,7 +4,7 @@
 
 ## 国家概况（维基百科）
 
-Togo, officially the Togolese Republic, is a country located in West Africa. It is bordered by Ghana to the west, Benin to the east and Burkina Faso to the north. It is one of the least developed countries in the world. It extends north from the Gulf of Guinea (where its capital, Lomé, is located) to the Burkina Faso–Togo border. It is a small, tropical country, spanning 57,000 square kilometres (22,000 square miles) with a population of approximately 8 million. It has a width of less than 115 km (71 mi) between Ghana and its eastern neighbour Benin.
+Togo, officially the Togolese Republic, is a country located in West Africa. It is bordered by Ghana to the west, Benin to the east and Burkina Faso to the north. It is one of the least developed countries in the world and has a lower-middle income economy. It extends north from the Gulf of Guinea (where its capital, Lomé, is located) to the Burkina Faso–Togo border. It is a small, tropical country, spanning 57,000 square kilometres (22,000 square miles) with a population of approximately 8 million. It has a width of less than 115 km (71 mi) between Ghana and its eastern neighbour Benin.
 Various people settled the boundaries of present-day Togo between the 11th and 16th centuries. Between the 16th and 18th centuries, the coastal region served primarily as a European slave trading outpost, earning Togo and the surrounding region the name "The Slave Coast". In 1884, during the scramble for Africa, Germany established a protectorate in the region called Togoland. After World War I, Togo was transferred to France with its contemporary borders. Togo gained independence from France in 1960. In 1967, Gnassingbé Eyadéma led a successful military coup d'état and became president of an anti-communist, single-party state. In 1993, Eyadéma faced multiparty elections marred by irregularities, and won the presidency three times. At the time of his death, Eyadéma was the "longest-serving leader in modern African history", having been president for 38 years. In 2005, his son Faure Gnassingbé was elected president.
 Togo is a tropical, sub-Saharan nation whose economy depends mostly on agriculture. The official language is French, while the two national languages are Kabiye and Ewe. Other languages are also spoken, particularly those of the Gbe family. Christians represent roughly half of the population (49.2%), followed by Muslims and adherents of traditional religions. Togo is a member of the United Nations, African Union, Organisation of Islamic Cooperation, South Atlantic Peace and Cooperation Zone, Francophonie, Commonwealth of Nations, and Economic Community of West African States.
 
@@ -43,6 +43,8 @@ Foreign relations of Togo
 - 2026-10-08 · Brief · Togo Poverty and Equity Brief : October 2026
 。http://documents.worldbank.org/curated/en/099502104222584568
   摘要：Togo’s economy grew by an average of 5.4 percent over the past decade, but rapid population growth limited per capita gains. For much of this period, expansion relied on public investment and a few large private-sector projects that created relatively few productive jobs for a young and growing population. Employment remains mostly informal and concentrated in subsistence agriculture and low-productivity services. Women earn 30.3 percent less per hour than men and are disproportionately engaged in unpaid family work. These structural features have weakened the poverty-reducing effect of growth. In 2021, 55.6 percent of the population lived below the lower-middle-income poverty line of US$4.20 per day (2021 PPP), rising to 78.3 percent in the Savanes region. Multidimensional poverty affected 44.6 percent of the population, reflecting persistent gaps in human capital and basic services. Limited fiscal space and climate vulnerability further constrain inclusive growth. However, the Gini coefficient, a measure of inequality, declined from 42.5 in 2018 to 37.9 in 2021.
+- 2026-10-01 · Brief · Macro Poverty Outlook for Togo : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099809010232640407
+  摘要：GDP growth is estimated to moderate to 5.2 percent in 2026, reflecting fiscal consolidation efforts and decelerating external demand. It is projected to recover to 5.8 percent in 2027 and 6.2 percent in 2028 as the effects of these factors unwind and ongoing reforms support private investment and job creation. Lower middle-income poverty is projected to decline to 43.8 percent by 2028.
 - 2026-10-01 · Brief · Macro Poverty Outlook for Togo : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099604410162630971
   摘要：GDP growth is estimated to moderate to 5.2 percent in 2026, reflecting fiscal consolidation efforts and decelerating external demand. It is projected to recover to 5.8 percent in 2027 and 6.2 percent in 2028 as the effects of these factors unwind and ongoing reforms support private investment and job creation. Lower middle-income poverty is projected to decline to 43.8 percent by 2028.
 - 2026-09-30 · Project Paper · Togo - Digital Acceleration Project : Additional Financing（项目：TG-Togo Digital Acceleration Project -- P179138）。http://documents.worldbank.org/curated/en/099100126165524923
@@ -69,9 +71,6 @@ Foreign relations of Togo
 - 2026-06-12 · Working Paper · Government Retreat on Togo’s Development Strategy : Session 3 - Enhancing Togo’s Appeal as a Regional Investment and Trade Hub
 （项目：TG-Togo's Growth and Productive Jobs Analysis and Assistance -- P507246）。http://documents.worldbank.org/curated/en/099061826083230108
   摘要：The government retreat on Togo’s development strategy (June 11–12, 2026) highlighted enhancing the country’s appeal as a regional investment and trade hub to accelerate structural transformation and job creation. Despite strategic assets, FDI remains low and narrowly concentrated, with limited employment impact. Key constraints include infrastructure gaps, land insecurity, limited financing, and weak regulatory implementation. Priority reforms focus on improving energy and digital access, strengthening SME integration, enhancing investment promotion, and deepening regional trade integration under the AfCFTA framework.
-- 2026-06-12 · Working Paper · Government Retreat on Togo’s Development Strategy : Session 4 - Building Skills for More Productive Jobs 
-（项目：TG-Togo's Growth and Productive Jobs Analysis and Assistance -- P507246）。http://documents.worldbank.org/curated/en/099061826083138316
-  摘要：Togo’s government retreat emphasized strengthening skills development to drive economic transformation and improve job quality in key sectors such as agriculture, logistics, and digital services. Despite strong human capital potential, productivity remains constrained by informality, skills mismatches, and low education outcomes. Fragmented training systems, limited employer engagement, and weak digital and soft skills hinder progress. The document proposes reforms focused on foundational skills, alignment with labor market needs, expanded lifelong learning, and governance and financing.
 
 ## 学术论文（OpenAlex）
 
@@ -80,12 +79,12 @@ Foreign relations of Togo
 （无摘要）
 
 https://doi.org/10.1007/978-3-031-80400-7_11
-### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 100）
+### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 102）
 
 China's Belt and Road Initiative aims to improve connectivity between China and more than 70 countries through infrastructure investment and regional cooperation. The initiative has the potential to accelerate significantly the rate of economic integration and development in the region, as trade costs decline. The goals of this paper are to (i) study the impacts of infrastructure improvements on Belt and Road Initiative and non?Belt and Road Initiative countries'trade flows, growth, and poverty; and (ii) suggest policies that would help maximize gains from the Belt and Road Initiative?induced trade cost declines. The analysis captures the trade costs reductions as a result of infrastructure improvements. The findings indicate that the Belt and Road Initiative would be largely beneficial. First, global income increases by 0.7 percent (in 2030 relative to the baseline). This translates into almost half a trillion dollars in 2014 prices and market exchange rates. The Belt and Road Initiative area captures 82 percent of the gain, with the largest percent gains in East Asia. Second, globally, the Belt and Road Initiative could contribute to lifting 7.6 million people from extreme poverty and 32 million from moderate poverty. Third, the initiative would lead to a modest increase in global carbon dioxide emissions, with a complex set of positive and negative outcomes at the national level for other types of emissions.
 
 https://doi.org/10.1596/1813-9450-8814
-### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 162）
+### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 163）
 
 （无摘要）
 
@@ -116,4 +115,4 @@ This paper established a combined dataset from 2004 to 2015 for 129 host countri
 
 https://doi.org/10.3390/su10114060
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

@@ -101,4 +101,4 @@ In 2019 the government proposed a US$100 million wharf and port project for Vaiu
 。http://documents.worldbank.org/curated/en/099724108182689482
   摘要：Economic growth was volatile over 2018–2024, rebounding strongly in 2023–2024 after contractions in 2020–2022. GDP growth reached 10.5 percent in 2024, while inflation eased to 3.6 percent after peaking at 12.0 percent in 2023. Fiscal performance strengthened markedly, with the overall balance rising to 10.1 percent of GDP and debt falling to 27.1 percent. The current account shifted to a surplus of 2.4 percent of GDP. External trade recovered, supported by services and exports growth.
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

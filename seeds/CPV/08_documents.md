@@ -38,6 +38,8 @@ Cardenal, Juan Pablo; Araújo, Heriberto (2011). La silenciosa conquista china (
 - 2026-10-09 · Brief · Cabo Verde Poverty and Equity Brief : October 2026
 。http://documents.worldbank.org/curated/en/099552404212558093
   摘要：A decade of strong growth has reduced poverty in Cabo Verde. The poverty rate, measured at the $8.30-a-day poverty line (2021 PPP), declined from 65.0 percent in 2015 to a projected 54.2 percent in 2026. This represents about 45,000 fewer Cabo Verdeans living in poverty during this period. Progress also extended to non-monetary dimensions, with access to electricity increasing from 86.2 to 92.9 percent between 2015 and 2024, while access to piped water, sanitation facilities, and the internet each rose by around 10 percentage points.
+- 2026-10-01 · Brief · Macro Poverty Outlook for Cabo Verde : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099646310232644143
+  摘要：Growth should reach 5.3 percent in 2026, reflecting robust tourism performance, with poverty declining by 2.0 percentage points. Mitigation measures should contain inflation at 2.4 percent. Electoral, project, and wage bill spending will widen the 2026 fiscal deficit, but resumed consolidation should reduce public debt to 86 percent of GDP by 2028. Risks include external shocks, climate events, state-owned enterprises (SOEs), and possible fiscal expansion in 2027.
 - 2026-10-01 · Brief · Macro Poverty Outlook for Cabo Verde : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099450410162618970
   摘要：Growth should reach 5.3 percent in 2026, reflecting robust tourism performance, with poverty declining by 2.0 percentage points. Mitigation measures should contain inflation at 2.4 percent. Electoral, project, and wage bill spending will widen the 2026 fiscal deficit, but resumed consolidation should reduce public debt to 86 percent of GDP by 2028. Risks include external shocks, climate events, state-owned enterprises (SOEs), and possible fiscal expansion in 2027.
 - 2026-06-11 · Public Expenditure Review · Cabo Verde - Public Finance Review : Reforçar a Sustentabilidade Orçamental Face a Choques（项目：CV-Cabo Verde Public Finance Review -- P500479）。http://documents.worldbank.org/curated/en/099101326112029339
@@ -57,7 +59,6 @@ Cardenal, Juan Pablo; Araújo, Heriberto (2011). La silenciosa conquista china (
 - 2026-09-21 · Project Information Document · Concept Program Information Document (PID)（项目：CV-Third Cabo Verde Disaster Risk Management Development Policy Loan with a Cat DDO -- P516432）。http://documents.worldbank.org/curated/en/099092126121535008
 - 2026-09-01 · Agreement · Official Documents- Amendment to Financing Agreement for Credit 6993-CV.pdf（项目：CV-Renewable Energy and Improved Utility Performance Project -- P170236）。http://documents.worldbank.org/curated/en/099090126105031056
 - 2026-09-01 · Agreement · Official Documents- Amendment to the CCEFCF Additional Financing Agreement for TF0C7910.pdf（项目：CV-Renewable Energy and Improved Utility Performance Project -- P170236）。http://documents.worldbank.org/curated/en/099090126110029382
-- 2026-09-01 · Agreement · Official Documents- Amendment to Loan Agreement for Loan 9298-CV.pdf（项目：CV-Renewable Energy and Improved Utility Performance Project -- P170236）。http://documents.worldbank.org/curated/en/099090126105524356
 
 ## 学术论文（OpenAlex）
 
@@ -66,7 +67,7 @@ Cardenal, Juan Pablo; Araújo, Heriberto (2011). La silenciosa conquista china (
 China’s Belt and Road Initiative (BRI) hopes to deliver trillions of dollars in infrastructure financing to Asia, Europe, and Africa. If the initiative follows Chinese practices to date for infrastructure financing, which often entail lending to sovereign borrowers, then BRI raises the risk of debt distress in some borrower countries. This paper assesses the likelihood of debt problems in the 68 countries identified as potential BRI borrowers. We conclude that eight countries are at particular risk of debt distress based on an identified pipeline of project lending associated with BRI.Because this indebtedness also suggests a higher concentration in debt owed to official and quasi-official Chinese creditors, we examine Chinese policies and practices related to sustainable financing and the management of debt problems in borrower countries. Based on this evidence, we offer recommendations to improve Chinese policy in these areas. The recommendations are offered to Chinese policymakers directly, as well as to BRI’s bilateral and multilateral partners, including the IMF and World Bank.
 
 https://doi.org/10.24294/jipd.v3i1.1123
-### The roles of cultural and institutional distance in international trade: Evidence from China's trade with the Belt and Road countries（2018，China Economic Review，被引 158）
+### The roles of cultural and institutional distance in international trade: Evidence from China's trade with the Belt and Road countries（2018，China Economic Review，被引 159）
 
 （无摘要）
 
@@ -102,4 +103,4 @@ Abstract This chapter focuses on the political impact of the Belt and Road Initi
 
 https://doi.org/10.1007/978-3-031-16659-4_24
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

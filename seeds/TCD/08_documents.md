@@ -81,6 +81,8 @@ China has an embassy in N'Djamena.
 - 2026-10-08 · Brief · Chad Poverty and Equity Brief : April 2026
 。http://documents.worldbank.org/curated/en/099459504222530947
   摘要：Between 2018 and 2022, successive economic and climate shocks eroded living standards in Chad. COVID-19, oil volatility, and the 2022 floods contributed to declining real GDP per capita. The national poverty rate rose by 2.5 percentage points, from 42.3 to 44.8 percent. Combined with rapid population growth, this added 1.2 million poor people, bringing the total to 7.8 million. Rural areas remained the epicenter, with about half of residents below the national poverty line. Poverty also deepened: the poverty gap widened from 12.6 to 16.3 percent, while poverty severity increased from 5.2 to 7.4 percent. Inequality also rose modestly, with the Gini index increasing from 33.6 in 2018 to 34.3 in 2022. Extreme poverty (using the international poverty line of US$3.00 a day), edged up from 39.3 percent in 2018 to 39.5 percent in 2022. As economic conditions improve, the rate is projected to decline from 40.7 percent in 2025 to 39.8 percent in 2026. However, population growth is expected to increase the number of people living in extreme poverty by about 34,000.
+- 2026-10-01 · Brief · Macro Poverty Outlook for Chad : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099650210232641272
+  摘要：In 2026, GDP growth is projected at 5.3 percent, driven by non-oil sector performance, with inflation at 0.5 percent and extreme poverty at 39.8 percent. Growth averages 5.5 percent over 2027–2028, supported by non-oil activity and gradual oil recovery. Downside risks include regional conflicts, oil price volatility, and climate shocks, while stronger exports and effective National Development Plan (NDP) implementation offer upside potential.
 - 2026-10-01 · Brief · Macro Poverty Outlook for Chad : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099457010162695612
   摘要：In 2026, GDP growth is projected at 5.3 percent, driven by non-oil sector performance, with inflation at 0.5 percent and extreme poverty at 39.8 percent. Growth averages 5.5 percent over 2027–2028, supported by non-oil activity and gradual oil recovery. Downside risks include regional conflicts, oil price volatility, and climate shocks, while stronger exports and effective National Development Plan (NDP) implementation offer upside potential.
 - 2026-09-21 · Brief · Influence of Social Protection on Social Cohesion in the Sahel - A qualitative study in Mauritania and Chad。http://documents.worldbank.org/curated/en/099430509212616810
@@ -97,14 +99,10 @@ on a Request for Inspection（项目：TD-N’Djamena Urban Resilience  Project 
 
 。http://documents.worldbank.org/curated/en/099004106302624403
   摘要：Adaptive social protection (ASP) is critical for less poverty, protection from shocks, and better jobs in the Sahel. This two-page overview outlines key insights on what ASP is, why it matters in the Sahel, and its impacts across six Sahelian countries—Burkina Faso, Chad, Mali, Mauritania, Niger, and Senegal.
-- 2026-06-18 · Board Summary · Chad - Water Security and Resilience Project : Eligibility Note for the Prevention and Resilience Allocation - Chair Summary
-
-  （项目：TD-Chad Water Security and Resilience Project - PASER -- P507957）。http://documents.worldbank.org/curated/en/099061826184035597
-  摘要：Executive Directors discussed and approved International Development Association (IDA) support for the Republic of Chad’s Water Security and Resilience Project (PASER) and reviewed Chad’s Eligibility Note for the Prevention and Resilience Allocation (PRA), acknowledging persistent fragility, conflict, and violence challenges including weak institutions, territorial disparities, climate vulnerability, forced displacement, and regional spillovers, while commending a PRA framework aligned with the refreshed World Bank Group (WBG) Fragility, Conflict and Violence (FCV) strategy, the Country Partnership Framework (CPF), and the Risk and Resilience Assessment. Directors supported PASER’s integrated approach combining infrastructure investments, nature-based solutions, and institutional strengthening to address immediate and structural needs, requested conflict mitigation and inclusion measures for displaced populations and replication across sectors, encouraged the International Finance Corporation (IFC) and the Multilateral Investment Guarantee Agency (MIGA) to mobilize private investment, jobs, and business environment reforms and to strengthen partnerships particularly in refugee-hosting and border areas, and confirmed Chad’s eligibility and readiness to access the PRA under the IDA 21 FCV Envelope.
 - 2026-10-20 ·  · ES procedures in the POM Chad Water Security and Resilience Project - PASER (P507957)（项目：TD-Chad Water Security and Resilience Project - PASER -- P507957）。http://documents.worldbank.org/curated/en/099102026073020138
 - 2026-10-19 · Project Information Document · Project Information Document - Chad Energy Access Scale Up Project - P174495（项目：TD-Chad Energy Access Scale Up Project -- P174495）。http://documents.worldbank.org/curated/en/099101926145012472
 - 2026-10-12 · Implementation Completion Report Review · Chad - Chad Local Development and Adaptation（项目：TD-Chad Local Development and Adaptation Project (ALBIA) -- P171611）。http://documents.worldbank.org/curated/en/099101226162089266
-- 2026-08-28 · Project Information Document · Initial Project Information Document (PID) - Chad: Enhancing Foundational Learning and Skills for Jobs Project - P518731（项目：TD-Chad: Enhancing Foundational Learning and Skills for Jobs Project -- P518731）。http://documents.worldbank.org/curated/en/099082826175531444
+- 2026-08-28 · Environmental and Social Review Summary · Initial Environmental and Social Review Summary (ESRS) - Chad: Enhancing Foundational Learning and Skills for Jobs Project - P518731（项目：TD-Chad: Enhancing Foundational Learning and Skills for Jobs Project -- P518731）。http://documents.worldbank.org/curated/en/099082826175550978
 
 ## 学术论文（OpenAlex）
 
@@ -118,7 +116,7 @@ https://openalex.org/W7135848970
 China’s Belt and Road Initiative (BRI) hopes to deliver trillions of dollars in infrastructure financing to Asia, Europe, and Africa. If the initiative follows Chinese practices to date for infrastructure financing, which often entail lending to sovereign borrowers, then BRI raises the risk of debt distress in some borrower countries. This paper assesses the likelihood of debt problems in the 68 countries identified as potential BRI borrowers. We conclude that eight countries are at particular risk of debt distress based on an identified pipeline of project lending associated with BRI.Because this indebtedness also suggests a higher concentration in debt owed to official and quasi-official Chinese creditors, we examine Chinese policies and practices related to sustainable financing and the management of debt problems in borrower countries. Based on this evidence, we offer recommendations to improve Chinese policy in these areas. The recommendations are offered to Chinese policymakers directly, as well as to BRI’s bilateral and multilateral partners, including the IMF and World Bank.
 
 https://doi.org/10.24294/jipd.v3i1.1123
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 196）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
 
 （无摘要）
 
@@ -149,4 +147,4 @@ https://doi.org/10.1596/1813-9450-8891
 
 https://doi.org/10.2139/ssrn.3430318
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

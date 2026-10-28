@@ -94,10 +94,8 @@ Cooperation between China and Central and Eastern European Countries (China-CEE,
   摘要：The Country Opinion Survey in North Macedonia assists the World Bank Group (WBG) in better understanding how stakeholders in North Macedonia perceive the WBG. It provides the WBG with systematic feedback from national and local governments, multilateral/bilateral agencies, media, academia, the private sector, and civil society in North Macedonia on 1) their views regarding the general environment in North Macedonia; 2) their overall attitudes toward the WBG in North Macedonia; 3) overall impressions of the WBG’s effectiveness and results, knowledge work and activities, and communication and information sharing in North Macedonia; and 4) their perceptions of the WBG’s future role in North Macedonia.
 - 2026-04-16 · Brief · Macro Poverty Outlook for North Macedonia : April 2026。http://documents.worldbank.org/curated/en/099846008042610105
   摘要：Growth strengthened in 2025, driven by highway construction and services. Rising wages, together with food and services price increases kept inflationary pressures elevated. Revenue shortfalls and an increasing debt stock highlight the need for timely fiscal consolidation. Outlook projections are contingent on sustained reform implementation and subject to significant downside risks, including uncertainty stemming from the Middle East conflict.
-- 2026-04-16 · Brief · Macro Poverty Outlook for North Macedonia : April 2026 Datasheet
-。http://documents.worldbank.org/curated/en/099731308182634210
-  摘要：Growth strengthened in 2025, driven by highway construction and services. Rising wages, together with food and services price increases kept inflationary pressures elevated. Revenue shortfalls and an increasing debt stock highlight the need for timely fiscal consolidation. Outlook projections are contingent on sustained reform implementation and subject to significant downside risks, including uncertainty stemming from the Middle East conflict.
 - 2026-09-24 · Implementation Completion Report Review · North Macedonia - Road Upgrading and Development Project（项目：MK-Road Upgrading and Development Project -- P149955）。http://documents.worldbank.org/curated/en/099092426125012964
+- 2026-08-25 · Agreement · Official Documents- Amendment to the Loan Agreement and Revised Withdrawal Schedule Following Cancellation for Loan 9454-MK.pdf（项目：MK-Building Effective, Transparent and Accountable Public Financial Management Institutions Project -- P176366）。http://documents.worldbank.org/curated/en/099082526091030880
 
 ## 学术论文（OpenAlex）
 
@@ -106,7 +104,7 @@ Cooperation between China and Central and Eastern European Countries (China-CEE,
 The “One Belt, One Road” (OBOR) initiative has been a topic of hot debate among Sinologists and pundits in recent years. What is the nature of this foreign policy and how is it implemented under the Xi Jinping administration? By examining China's OBOR initiative, this article argues that OBOR is not only a regional policy but a grand global strategy for achieving the “Chinese Dream”. While there is little chance that China will be able to create a large area of influence around the world, the potential impact on global politics cannot be overlooked.
 
 https://doi.org/10.1080/24761028.2016.11869094
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 196）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
 
 （无摘要）
 
@@ -126,7 +124,7 @@ https://doi.org/10.3390/su10082743
 To investigate whether increasing trade openness results in more severe environmental problems, this study investigates the impact of trade openness on carbon dioxide (CO2) emissions using panel data from 64 countries along the Belt and Road from 2001–2019. Fully considering the potential heterogeneity, the panel quantile regression approach is utilized. Moreover, this study explores the three major mediating effects of the process, namely the energy-substitution effect, economic effect, and technology effect. The empirical results indicate that the improvement in trade openness has a significantly positive effect on CO2 emissions, and it also shows that the impact varies with different levels of CO2 emissions. Furthermore, the indirect effect of trade openness on CO2 emissions via the economic effect is positive, while the indirect effect via the energy-substitution and the technology effect is negative. Therefore, it is necessary to improve renewable energy consumption, decrease energy intensity, and formulate related policies to reduce carbon emissions policies in terms of local conditions.
 
 https://doi.org/10.3390/su13041958
-### The impact of China’s one belt one road initiative on international trade in the ASEAN region（2019，The North American Journal of Economics and Finance，被引 136）
+### The impact of China’s one belt one road initiative on international trade in the ASEAN region（2019，The North American Journal of Economics and Finance，被引 137）
 
 （无摘要）
 
@@ -142,4 +140,4 @@ https://doi.org/10.1596/1813-9450-8607
 
 https://doi.org/10.1016/j.jdeveco.2020.102474
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

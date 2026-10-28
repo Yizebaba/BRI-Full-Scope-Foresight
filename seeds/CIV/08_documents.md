@@ -20,7 +20,7 @@ China–Ivory Coast relations refer to the foreign relations between China and I
 == Chinese development finance to Cote D'Ivoire ==
 From 2000 to 2011, there are approximately 34 Chinese official development finance projects identified in Côte d'Ivoire through various media reports. These projects range from a $114 million loan from Export-Import Bank of China at two-percent interest over 20 years to finance a motorway construction project linking Abidjan to Grand-Bassam, to an 18 million EUR debt relief in 2007.
 According to Xavier Aurégan, PhD at the French Institute of Geopolitics, from 1983 to 2013, there are approximately 174 Chinese official development finance projects in Côte d'Ivoire.
-Of these 174 official development finance projects, 112 are approximately 12 billion euros. The most expensive project is the urban center in Abidjan (8.9 billion euros).
+Of these 174 official development finance projects, 112 are approximately €12 billion. The most expensive project is the urban center in Abidjan (€8.9 billion).
 In addition, infrastructure accounted for 86% of the Chinese public assistance.
 The majority of Chinese aid is granted during the Ivorian political crisis between 2002 and 2010. Under Laurent Gbagbo, 69% of aid is thus assigned.
 
@@ -40,7 +40,7 @@ Ivory Coast follows the one China principle. It recognizes the People's Republic
 ### Trafigura
 
 Trafigura Group Pte. Ltd. is a Singaporean‑based multinational commodities company, founded in 1993, with major regional hubs in Geneva, Houston, Montevideo, and Mumbai. The company trades in base metals and energy. It is the world's largest private metal trader and the second‑largest oil trader, having built or purchased stakes in pipelines, mines, smelters, ports, and storage terminals. 
-Trafigura was formed by Claude Dauphin and Eric de Turckheim in 1993, but quickly split off from a group of companies managed by Marc Rich.
+Trafigura was formed in Geneva by Claude Dauphin and Eric de Turckheim in 1993, but quickly split off from a group of companies managed by Marc Rich.
 Trafigura has been named in or been involved in several scandals, most notably the 2006 Ivory Coast toxic waste dump (which left up to 100,000 people with skin rashes, headaches, and respiratory problems) and the Iraq Oil‑for‑Food scandal.
 
 来源：https://en.wikipedia.org/wiki/Trafigura
@@ -88,4 +88,4 @@ This research implements the panel data control method to evaluate the stimulati
 
 https://doi.org/10.3390/su10093242
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

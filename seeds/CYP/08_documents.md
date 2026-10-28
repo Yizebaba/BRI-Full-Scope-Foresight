@@ -113,12 +113,12 @@ The Port of Piraeus (under Chinese management since 2009 and majority Chinese ow
 The paper argues that Chinese involvement in the Eastern Mediterranean is primarily motivated by increasing the country’s economic role within the region through Belt and Road Initiative (BRI). The paper uses case study analysis methodology dwelling on the evolution and content of Chinese involvement in Greece and Cyprus. Primarily focusing of the nature of the Chinese investments in strategic sectors of the two cases in question the role that that China plays in Eastern Mediterranean is described as a ‘silky involvement’. China’s policy choices are also perceived to be an opportunity for Greece and Cyprus to combat the negative effects of 2007–2008 economic crises and to increase their geopolitical stronghold in the post-Cold War geopolitical environment of the Eastern Mediterranean.
 
 https://doi.org/10.1080/19448953.2022.2129320
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 196）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
 
 （无摘要）
 
 https://doi.org/10.1016/j.ememar.2019.100629
-### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 100）
+### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 102）
 
 China's Belt and Road Initiative aims to improve connectivity between China and more than 70 countries through infrastructure investment and regional cooperation. The initiative has the potential to accelerate significantly the rate of economic integration and development in the region, as trade costs decline. The goals of this paper are to (i) study the impacts of infrastructure improvements on Belt and Road Initiative and non?Belt and Road Initiative countries'trade flows, growth, and poverty; and (ii) suggest policies that would help maximize gains from the Belt and Road Initiative?induced trade cost declines. The analysis captures the trade costs reductions as a result of infrastructure improvements. The findings indicate that the Belt and Road Initiative would be largely beneficial. First, global income increases by 0.7 percent (in 2030 relative to the baseline). This translates into almost half a trillion dollars in 2014 prices and market exchange rates. The Belt and Road Initiative area captures 82 percent of the gain, with the largest percent gains in East Asia. Second, globally, the Belt and Road Initiative could contribute to lifting 7.6 million people from extreme poverty and 32 million from moderate poverty. Third, the initiative would lead to a modest increase in global carbon dioxide emissions, with a complex set of positive and negative outcomes at the national level for other types of emissions.
 
@@ -149,4 +149,4 @@ This paper adopts the tail-event driven network (TENET) framework to explore the
 
 https://doi.org/10.1016/j.jmse.2021.12.002
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

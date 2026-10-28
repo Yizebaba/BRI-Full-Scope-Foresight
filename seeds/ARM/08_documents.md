@@ -78,9 +78,9 @@ Foreign relations of China
 
 ## 世界银行最新文件（Documents & Reports）
 
-- 2026-10-01 · Brief · Macro Poverty Outlook for Armenia : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099459110142637856
-  摘要：Following a strong 7.1 percent growth in 2025, growth has remained robust at 6 percent year-on-year in H1 2026, driven mostly by consumption and high services growth on the supply side. Average inflation in July 2026 was 4.5 percent, mostly driven by food inflation. The budget recorded a surplus in H1 2026 even though a deficit had been planned. Growth is expected to moderate over the medium term.
 - 2026-10-01 · Brief · Macro Poverty Outlook for Armenia : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099256210202624421
+  摘要：Following a strong 7.1 percent growth in 2025, growth has remained robust at 6 percent year-on-year in H1 2026, driven mostly by consumption and high services growth on the supply side. Average inflation in July 2026 was 4.5 percent, mostly driven by food inflation. The budget recorded a surplus in H1 2026 even though a deficit had been planned. Growth is expected to moderate over the medium term.
+- 2026-10-01 · Brief · Macro Poverty Outlook for Armenia : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099459110142637856
   摘要：Following a strong 7.1 percent growth in 2025, growth has remained robust at 6 percent year-on-year in H1 2026, driven mostly by consumption and high services growth on the supply side. Average inflation in July 2026 was 4.5 percent, mostly driven by food inflation. The budget recorded a surplus in H1 2026 even though a deficit had been planned. Growth is expected to moderate over the medium term.
 - 2026-08-24 · Report · FY 2026 Armenia Country Opinion Survey Report : Questionnaire。http://documents.worldbank.org/curated/en/099147208242610198
   摘要：The Country Opinion Survey in Armenia assists the World Bank Group (WBG) in better understanding how stakeholders in Armenia perceive the WBG. It provides the WBG with systematic feedback from national and local governments, multilateral and bilateral agencies, media, academia, the private sector, and civil society in Armenia on: 1) their views regarding the general environment in Armenia; 2) their overall attitudes toward the WBG in Armenia; 3) overall impressions of the WBG’s effectiveness and results, knowledge work and activities, and communication and information sharing in Armenia; and 4) their perceptions of the WBG’s future role in Armenia.
@@ -150,4 +150,4 @@ Within the intricate tapestry of global geopolitics, small states occupy a disti
 
 https://doi.org/10.1177/18793665251362864
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

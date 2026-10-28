@@ -136,10 +136,10 @@ https://openalex.org/W7132038289
 Under the Belt and Road Initiative, China has become an increasingly important actor in the Black Sea Region, and this looks set to continue in the future. In the West, in particular in the United States and to a lesser extent in Europe, there has, however, been a tendency to see the growth of China as a potential threat to the West and Western interests. China has revealed geopolitical ambitions that challenge the leading role of the United States in the international system, as well as Western norms and values, and Beijing is widely seen as engaging in systemic competition with the West. As a result, there is a growing recognition in the United States that China has become a strategic competitor, and this view has been echoed in the European Union, which has designated China as a strategic rival. Although this strategic competition, at least between the United States and China, has been played out primarily, but not exclusively, in the South China Seas, there is growing concern that this rivalry is being transposed into other regions such as the Black Sea. In light of China’s engagement in the Black Sea Region (BSR), this article examines how this growing strategic competition between the United States and China, and to a lesser extent the European Union and China, is being played out in the Black Sea. In addressing this issue, this article examines Chinese engagement in each of the six littoral states and argues that Russia and Turkey have already tilted decisively toward China. Romania has firmly sided with Washington and Bulgaria with the European Union, whereas the two non-NATO and non-EU members of the BSR, Georgia and Ukraine, will be forced increasingly to make a difficult choice between East and West — between the security provided by Brussels and Washington as against the potential economic growth and investment provided by Beijing.
 
 https://doi.org/10.1080/13518046.2021.1990561
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 196）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
 
 （无摘要）
 
 https://doi.org/10.1016/j.ememar.2019.100629
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

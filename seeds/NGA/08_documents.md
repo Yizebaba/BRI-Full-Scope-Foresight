@@ -108,6 +108,8 @@ This Day publisher Nduka Obaigbena has previously been criticised for late and n
 - 2026-10-08 · Brief · Nigeria Poverty and Equity Brief : October 2026
 。http://documents.worldbank.org/curated/en/099253204222517873
   摘要：The share of Nigerians living below the national poverty line increased from 40.1 percent in 2019 to 56.2 percent in 2023 and an estimated 63 percent in 2026. This trend extended beyond monetary poverty, with multidimensional poverty increasing from 43.5 percent to 47.4 percent between 2019 and 2023, reflecting both rising monetary poverty and worsening access to basic infrastructure and essential services. Nigeria remains spatially unequal. In 2023, the poverty rate was 57.4 percent in the northern zone and 21.2 percent in the southern zone, up from 44.7 percent and 14.9 percent, respectively, in 2019.
+- 2026-10-01 · Brief · Macro Poverty Outlook for Nigeria : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099755210232633566
+  摘要：Macroeconomic stabilization efforts improved economic performance with resilient growth, easing inflation, stronger external buffers, and higher revenues. Importantly, poverty has stabilized after rising continuously since 2019. Nevertheless, poverty rates remain high and underscore the need to raise real incomes through better jobs and lower inflation. Sustaining stabilization and broadening welfare gains require diversification, human capital development, public investment, and improved service delivery.
 - 2026-10-01 · Report · Nigeria Development Update : Beyond the Federal Purse - How Higher Revenues Shaped State Priorities（项目：NG-Nigeria Macroeconomic Stability and Inclusive Growth Programmatic ASA 2.0 -- P513192）。http://documents.worldbank.org/curated/en/099100726183025290
   摘要：Nigeria’s macroeconomic stabilization has progressed further into 2026. Higher oil prices resulting from the conflict in the Middle East have improved the current account balance and fiscal revenues but have also interrupted the disinflation trend observed since late 2024. Economic growth has remained steady, with limited impact from the conflict. Beyond safeguarding stabilization, faster and more inclusive growth will be central to raising living standards. Since 2023, successive editions of the Nigeria Development Update (NDU) have set out a private-sector-led, public-sector-enabled growth strategy, in which the public sector creates the enabling conditions for businesses to thrive and generate more and better jobs, and equips Nigerians to access those jobs through better public services. This edition builds on that strategy and proposes a path for states to translate resources into more effective spending and better development outcomes.
 - 2026-10-01 · Brief · Macro Poverty Outlook for Nigeria : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099719410162637905
@@ -120,7 +122,6 @@ This Day publisher Nduka Obaigbena has previously been criticised for late and n
 - 2026-10-15 · Resettlement Plan; Environmental and Social Management Plan · Resettlement Plan Agro-Climatic Resilience in Semi-Arid Landscapes (ACReSAL) (P175237)（项目：NG-Agro-Climatic Resilience in Semi-Arid Landscapes (ACReSAL) -- P175237）。http://documents.worldbank.org/curated/en/099101526152548625
 - 2026-10-15 · Environmental and Social Management Plan; Resettlement Plan · Resettlement Plan Agro-Climatic Resilience in Semi-Arid Landscapes (ACReSAL) (P175237)（项目：NG-Agro-Climatic Resilience in Semi-Arid Landscapes (ACReSAL) -- P175237）。http://documents.worldbank.org/curated/en/099101526152577337
 - 2026-10-15 · Environmental and Social Management Plan; Resettlement Plan · Resettlement Plan Agro-Climatic Resilience in Semi-Arid Landscapes (ACReSAL) (P175237)（项目：NG-Agro-Climatic Resilience in Semi-Arid Landscapes (ACReSAL) -- P175237）。http://documents.worldbank.org/curated/en/099101526152541046
-- 2026-10-06 · Financing Agreement · Official Documents- Financing Agreement for Credit 8065-NG.pdf（项目：NG-Nigeria Actions for Investment and Jobs Acceleration -- P512892）。http://documents.worldbank.org/curated/en/099100626112090628
 
 ## 学术论文（OpenAlex）
 
@@ -165,4 +166,4 @@ This article examines the strategic diversification of China’s foreign policy 
 
 https://doi.org/10.46991/jops/2026.5.13.095
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

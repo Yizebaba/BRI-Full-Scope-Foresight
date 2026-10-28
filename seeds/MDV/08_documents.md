@@ -97,7 +97,7 @@ Yameen is the fourth consecutive Maldivian president to have at some point lost 
 来源：https://en.wikipedia.org/wiki/2018_Maldivian_presidential_election
 ### Sinamalé Bridge
 
-The Sinamalé Bridge (Dhivehi: ސިނަމާލެ ފާލަން; lit. 'China-Malé Bridge') links the islands of Malé, Hulhulé and Hulhumalé in the Maldives. The 1.39 km long bridge has two car lanes and separate lanes for motorcycles, and pedestrians, and opened on 30 August 2018. It was originally called the China-Maldives Friendship Bridge due to funding received from the Chinese government. It is the first inter-island bridge in the Maldives.
+The Sinamalé Bridge (Dhivehi: ސިނަމާލެ ފާލަން; lit. 'China-Malé Bridge') links Malé, the capital of Maldives, to the Hulhulé and Hulhumalé islands. The 2.1 km (1.3 mi) long bridge is the first inter-island bridge in the Maldives and opened for traffic on 30 August 2018. It was originally called as the China-Maldives Friendship Bridge as the bridge was partially funded by the Chinese government. The bridge has four lanes apart from separate lanes for pedestrians.
 
 来源：https://en.wikipedia.org/wiki/Sinamal%C3%A9_Bridge
 ### String of Pearls (Indian Ocean)
@@ -115,6 +115,8 @@ The emergence of the String of Pearls is indicative of China's growing geopoliti
 - 2026-10-09 · Brief · Maldives Poverty and Equity Brief : October 2026
 。http://documents.worldbank.org/curated/en/099704204212537380
   摘要：In 2026, the World Bank estimates a poverty rate of 10.4 percent. Poverty remains heavily concentrated in the atolls, where more than 90 percent of the poor live, reflecting weaker labor market outcomes outside the capital. Disadvantaged groups also continue to be excluded from the labor market: the gender gap in labor force participation, for instance, stood above 30 percentage points among working-age adults in 2022. The country's dispersed geography further complicates public service delivery to remote islands, driving up prices outside the capital. Latest estimates show inflation reaching 3.5 percent year-on-year in the atolls, compared with 1.9 percent in Malé.
+- 2026-10-01 · Brief · Macro Poverty Outlook for Maldives : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099802310232624094
+  摘要：The conflict in the Middle East continues to dampen tourism and raise the import bill, compounding macroeconomic pressures and pushing poverty higher in 2026. Growth is expected to recover as tourism rebounds, but high government expenditure and large debt service will keep buffers thin and the economy under pressure. Urgent fiscal consolidation is needed to reduce debt vulnerabilities and rebuild buffers.
 - 2026-10-01 · Brief · Macro Poverty Outlook for Maldives : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099555110162630020
   摘要：The conflict in the Middle East continues to dampen tourism and raise the import bill, compounding macroeconomic pressures and pushing poverty higher in 2026. Growth is expected to recover as tourism rebounds, but high government expenditure and large debt service will keep buffers thin and the economy under pressure. Urgent fiscal consolidation is needed to reduce debt vulnerabilities and rebuild buffers.
 - 2026-06-29 · Implementation Completion and Results Report · Maldives - Accelerating Sustainable Private Investments in Renewable Energy Project 
@@ -136,7 +138,6 @@ The emergence of the String of Pearls is indicative of China's growing geopoliti
   摘要：The current conflict in the Middle East is expected to significantly affect Maldives, disrupting tourism and driving up import costs. In 2026, growth is projected to slow, inflation to rise, unemployment to increase slightly as service sector earnings fall, and poverty to increase with eroding real incomes. Foreign exchange (FX) liquidity pressures are intensifying, while buffers in the form of usable reserves remain low.
 - 2026-04-02 · Brief · Maldives Gender Landscape。http://documents.worldbank.org/curated/en/099049507012213356
   摘要：This briefing showcases the gender landscape in Maldives on key indicators helpful for monitoring gender equality and designing effective policy interventions. Gender equality fosters productivity gains, minimizes losses in wealth, reduces poverty, boosts shared prosperity, and supports green, resilient, and inclusive development.
-- 2026-07-18 · Agreement · Official Documents- Omnibus Amendment to Financing Agreements to introduce the Rapid Response Option and New Contractual Clause with Republic of Maldives (see Annex I for List of Financing Agreements).pdf（项目：MV-Accelerating Renewable Energy Integration and Sustainable Energy -- P172788）。http://documents.worldbank.org/curated/en/099072026091527278
-- 2026-07-17 · Agreement · Official Documents- Amendments to the Financing Agreement for Credit 7316-MV and Grant E176-MV.pdf（项目：MV-Transforming Fisheries Sector Management in South-West Indian Ocean Region and Maldives Project (TransFORM, SWIOFish5) -- P179242）。http://documents.worldbank.org/curated/en/099072026084528123
+- 2026-10-22 · Agreement · Official Documents- Amendment to the Project Agreement Grant E046-MV.pdf（项目：MV-Sustainable and Integrated Labor Services (SAILS) -- P177240）。http://documents.worldbank.org/curated/en/099102226100538541
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

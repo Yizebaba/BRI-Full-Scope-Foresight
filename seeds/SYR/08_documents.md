@@ -105,7 +105,7 @@ https://doi.org/10.1111/mepo.12559
 Since 2014, the organization of the “Islamic State” (IS) has expanded in the Middle East and even around the world. Its goal is not only to establish a Caliphate regime in Iraq and Syria, but also to challenge the current international system and international institutions. Moreover, IS launched competition with Al Qaeda, and the international community has condemned its terrorist atrocities. The rise of IS has both historical origins and realistic reasons. The neglect of the Islamic world, the chaos in Iraq and Syria, and the great powers game has boosted the rise of IS. The European countries suffering from terrorist attacks started to play a role in influencing US policies. The collapse of IS has prompted Russia and the United States to work together to promote reconciliation of the two factions in Syria, to reach agreement on starting the peace process in Syria, and the “tripartite confrontation” between the Syrian authorities, the opposition and IS began to fade away. China adheres to the principle of an impartial foreign policy. At present, the decline of IS in Syria provides an opportunity for Beijing to improve its strategic environment of the “Belt and Road” Initiative and to facilitate multilateral cooperation between China and the world as well as with regional powers.
 
 https://doi.org/10.1080/25765949.2018.1472920
-### China and New Middle East（2021，Journal of Balkan and Near Eastern Studies，被引 25）
+### China and New Middle East（2021，Journal of Balkan and Near Eastern Studies，被引 27）
 
 A New Middle East is emerging, which is shaped by the result of geo-strategic competitions in the region among key state actors. The power structure of the new Middle East can be summarized as a weakened and divided Arab world facing more powerful non-Arab actors, which has conditioned the emergence of three significant camps in the region. Major regional state actors and some sub-state armed actors are playing an increasing role in the geo-strategic competitions in the focal point countries of Syria, Iraq, Yemen, Lebanon, and Libya. China has important interests in the Middle East, and key elements of its policy are taking shape. Institutional mechanisms of cooperation have been created and a network of partnerships with some regional countries has been established. The Belt and Road Initiative remains the key framework for China’s cooperation with the region.
 
@@ -121,4 +121,4 @@ https://doi.org/10.2991/icsd-16.2017.106
 
 https://doi.org/10.21203/rs.3.rs-7853544/v1
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

@@ -143,6 +143,8 @@ Cooperation between China and Central and Eastern European Countries (China-CEE,
 
 ## 世界银行最新文件（Documents & Reports）
 
+- 2026-10-21 · Working Paper · Albania - Climate Resilience and Agriculture Development Project : Rolling Commitment Plan and Implementation Milestones（项目：AL-Climate Resilience and Agriculture Development Project -- P178715）。http://documents.worldbank.org/curated/en/099102126051033181
+  摘要：This document presents the Albania Climate Resilient and Agricultural Development (CRAD) Project Rolling Commitment Plan and Implementation Milestones, outlining current and planned procurement activities, implementation progress, and commitment schedules through September 2027. It summarizes completed, ongoing, and upcoming investments across irrigation and drainage infrastructure, agricultural laboratories, digital agriculture systems, renewable energy installations, cluster development, food hubs, border inspection facilities, and institutional capacity-building activities. The plan highlights key implementation milestones, procurement timelines, expected actions, and contract values for each activity, with already committed investments totaling €22.06 million and an additional €35.54 million planned over the next twelve months. The roadmap supports modernization of agricultural infrastructure, climate resilience, food safety systems, digital transformation, and public sector capacity strengthening to enhance Albania’s agricultural productivity and competitiveness.
 - 2026-10-09 · Brief · Albania Poverty and Equity Brief : October 2026
 。http://documents.worldbank.org/curated/en/099328104212536745
   摘要：Strong economic growth contributed to substantial reductions in poverty prior to the COVID-19 pandemic. Measured poverty at the upper middle-income country poverty line ($8.30 per person per day in 2021 PPP) declined from 48.2 percent in 2016 to 38.7 percent in 2019. Since the most recent household survey available for poverty measurement dates from 2018, subsequent poverty figures are estimated rather than directly observed. Following the increase in poverty associated with the 2019 earthquake and the COVID-19 pandemic, model-based estimates suggest that poverty resumed its downward trajectory alongside the economic recovery. Supported by sustained economic growth and improving labor market conditions, poverty is estimated to have declined from 25.0 percent in 2024 to 23.1 percent in 2025 and is projected to fall further to 21.6 percent in 2026. Nevertheless, Albania's income convergence challenge remains substantial. The Prosperity Gap, which measures the distance between average incomes and a global prosperity benchmark of $28 per person per day, stood at 4.1 in 2018, implying that average incomes would need to nearly quadruple to reach that threshold.
@@ -168,7 +170,6 @@ Cooperation between China and Central and Eastern European Countries (China-CEE,
 - 2026-04-02 · Brief · Albania Gender Landscape。http://documents.worldbank.org/curated/en/099009306242233233
   摘要：This briefing showcases the gender landscape in Albania on key indicators helpful for monitoring gender equality and designing effective policy interventions. Gender equality fosters productivity gains, minimizes losses in wealth, reduces poverty, boosts shared prosperity, and supports green, resilient, and inclusive development.
 - 2026-08-14 · Implementation Completion Report Review · Albania - Albania Health System Improvement（项目：AL-Health System Improvement Project -- P144688）。http://documents.worldbank.org/curated/en/099081426102533570
-- 2026-08-05 · Climate Co-Benefits Assessment · Climate Finance Assessment (P514860)（项目：AL-Western Balkans Trade and Transport Facilitation 2.0 Phase II (Albania) -- P514860）。http://documents.worldbank.org/curated/en/099080526130633507
 
 ## 学术论文（OpenAlex）
 
@@ -213,4 +214,4 @@ China’s Belt and Road Initiative (BRI) hopes to deliver trillions of dollars i
 
 https://doi.org/10.24294/jipd.v3i1.1123
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

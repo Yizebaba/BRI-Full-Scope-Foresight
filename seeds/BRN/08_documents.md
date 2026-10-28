@@ -81,4 +81,4 @@ Brunei, China hail special relationship The Borneo Post
 - 2018-10-31 · Working Paper · Doing Business 2019 : Training for Reform – Brunei Darussalam。http://documents.worldbank.org/curated/en/520341541086940726
   摘要：Sixteenth in a series of annual reports comparing business regulation in 190 economies, Doing Business 2019 covers 11 areas of business regulation. Ten of these areas - starting a business, dealing with construction permits, getting electricity, registering property, getting credit, protecting minority investors, paying taxes, trading across borders, enforcing contracts and resolving insolvency - are included in the ease of doing business score and ease of doing business ranking. Doing Business also measures features of labor market regulation, which is not included in these two measures. Doing Business provides objective measures of business regulations and their enforcement across 190 economies and selected cities at the subnational and regional level. This economy profile presents indicators for Brunei Darussalam; for 2019 Brunei Darussalam ranks 55.
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

@@ -148,6 +148,8 @@ The first fare-paying passengers boarded the "Madaraka Express" on Madaraka Day 
 - 2026-10-09 · Brief · Kenya Poverty and Equity Brief : October 2026
 。http://documents.worldbank.org/curated/en/099645404212522417
   摘要：Kenya’s economic growth has become less effective at reducing poverty. While real GDP per capita increased by 43 percent between 2005 and 2022, poverty declined by only seven percentage points, from 46.8 to 39.8 percent. As growth shifted toward services and low-productivity informal employment, the pace of poverty reduction slowed from 1.1 percentage points annually during 2005–2015 to 0.6 percentage points during 2015–2019. The COVID-19 pandemic further reversed gains, leaving poverty above pre-pandemic levels in 2022. Microsimulation estimates based on the 2022 Kenya Continuous Household Survey (KCHS) using sectoral growth and inflation projections indicate that poverty reached 43.3 percent in 2025, a decline of only two percentage points over the preceding three years.
+- 2026-10-01 · Brief · Macro Poverty Outlook for Kenya : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099729110232636002
+  摘要：Growth reached 4.6 percent in 2025 and accelerated to 5.3 percent in the first quarter of 2026. However, conflict in the Middle East and erratic El Niño rainfall are likely to dampen economic activity, with modest annual growth expected in 2026–27. Poverty reduction remains slow, while elevated public debt, risks of fiscal slippage, and corruption continue to constrain growth and job creation.
 - 2026-10-01 · Brief · Macro Poverty Outlook for Kenya : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099522110162612125
   摘要：Growth reached 4.6 percent in 2025 and accelerated to 5.3 percent in the first quarter of 2026. However, conflict in the Middle East and erratic El Niño rainfall are likely to dampen economic activity, with modest annual growth expected in 2026–27. Poverty reduction remains slow, while elevated public debt, risks of fiscal slippage, and corruption continue to constrain growth and job creation.
 - 2026-09-30 · Country Private Sector Diagnostics · Kenya - Country Private Sector Diagnostic。http://documents.worldbank.org/curated/en/099058010012625897
@@ -162,7 +164,6 @@ The first fare-paying passengers boarded the "Madaraka Express" on Madaraka Day 
 - 2026-09-22 · Environmental and Social Review Summary · Readiness Environmental and Social Review Summary (ESRS) - Kenya Resilient Irrigation for a Sustainable Economy Project - P517436（项目：KE-Kenya Resilient Irrigation for a Sustainable Economy Project -- P517436）。http://documents.worldbank.org/curated/en/099092226083015723
 - 2026-09-18 · Agreement · Official Documents- Amendment No. 1 to the Financing Agreement for Credit 7845-KE.pdf（项目：KE-Second Kenya Social and Economic Inclusion Project -- P504218）。http://documents.worldbank.org/curated/en/099092826095521918
 - 2026-09-18 · Grant or Trust Fund Agreement · Official Documents- Grant Agreement for Additional Financing for RSR-ADSP Grant TF0D2255.pdf（项目：KE-Second Kenya Social and Economic Inclusion Project -- P504218）。http://documents.worldbank.org/curated/en/099092826095525446
-- 2026-09-16 · Environmental and Social Review Summary · Readiness Environmental and Social Review Summary (ESRS) - Kenya Agriconnect Implementation Support Project  - P517246（项目：KE-Kenya Agriconnect Implementation Support Project -- P517246）。http://documents.worldbank.org/curated/en/099091626102512844
 
 ## 学术论文（OpenAlex）
 
@@ -171,7 +172,7 @@ The first fare-paying passengers boarded the "Madaraka Express" on Madaraka Day 
 China’s Belt and Road has been billed as the single most significant undertaking by the country on the international stage. In Africa, Kenya is a core part of both the Maritime Silk Road and the Belt. The authors have examined the flagship project of this initiative in Kenya, the Standard Gauge Railway (SGR) from the port of Mombasa to Nairobi, with a view to analyse the impact so far. Issues of employment, debt sustainability, neocolonialism and specific aspects of the project were looked at. Although our findings indicate that the SGR so far has both positive aspects as well as challenges, for the project to be successful both China and Kenya need to create a synergy towards solving concerns that have arisen from the completion of phase 1 of the project.
 
 https://doi.org/10.1177/0009445519853697
-### China’s spatial fix and ‘debt diplomacy’ in Africa: constraining belt or road to economic transformation?（2021，Canadian Journal of African Studies / Revue canadienne des études africaines，被引 114）
+### China’s spatial fix and ‘debt diplomacy’ in Africa: constraining belt or road to economic transformation?（2021，Canadian Journal of African Studies / Revue canadienne des études africaines，被引 115）
 
 Mounting overaccumulation of capital and material has compelled the Chinese government to seek solutions overseas. The Belt and Road Initiative (BRI), with its transregional infrastructure projects connecting Eurasia and Africa, is the hallmark venture in this effort. Chinese road, railway, port and energy projects, implemented under the BRI banner, have become widespread in Africa. This article traces drivers of the BRI in the post-reform evolution of the Chinese economy and conceptualises the BRI as a multi-vector “spatial fix” aimed at addressing chronic overaccumulation. Focusing on Kenya, Djibouti and Ethiopia, the paper documents how loan financing related to BRI projects reveals contradictions that arise from China’s spatial fix in Africa. Concerns about a looming debt crisis on the continent and the questionable economic sustainability of some BRI projects have become more pressing amidst the COVID-19-induced economic contraction. Hopes for Africa’s economic transformation based on increasing connectivity under the BRI are unlikely to materialise.
 
@@ -207,4 +208,4 @@ For decades, the development discourse has been dominated by Western voices. The
 
 https://openalex.org/W7125357875
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

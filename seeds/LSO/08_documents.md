@@ -4,7 +4,7 @@
 
 ## 国家概况（维基百科）
 
-Lesotho (  lih-SOO-too; Sotho pronunciation: [lɪˈsʊːtʰʊ]), officially the Kingdom of Lesotho, is a landlocked country in Southern Africa. Surrounded by South Africa, it is the largest of the three sovereign enclaves. Lesotho is located in the Maloti Mountains, with the highest peak in southern Africa. It has an area of over 30,000 km2 (11,600 mi2), with a population of about  2.3 million. Its capital and largest city is Maseru.
+Lesotho (  lih-SOO-too; Sotho pronunciation: [lɪˈsʊːtʰʊ]), officially the Kingdom of Lesotho, is a landlocked country in Southern Africa. Surrounded by South Africa, it is the largest of the three sovereign, non-exclave enclaves in the world. Lesotho is located in the Maloti Mountains, with the highest peak in southern Africa. It has an area of over 30,000 km2 (11,600 mi2), with a population of about  2.3 million. Its capital and largest city is Maseru.
 Lesotho was formed in 1824 by King Moshoeshoe I. Continuous encroachments by Dutch settlers made the King enter into an agreement with the United Kingdom to become a protectorate in 1868 and, in 1884, a crown colony. It achieved independence in 1966, and was subsequently ruled by the Basotho National Party (BNP) for two decades. Its constitutional government was restored in 1993 after seven years of military rule. King Moshoeshoe II was exiled in 1990 but returned in 1992 and was reinstated in 1995. One year later, Moshoeshoe II died and his son Letsie III took the throne, which he still holds.
 The Sotho ethnic group (also known as Basotho), from which the country derives its name, comprises 99.7% of the country's current population, making it one of the most ethnically homogeneous in the world. Their native language, Sesotho, is an official language along with English, IsiXhosa, and SiPhuthi.
 Lesotho is considered a lower middle income country with significant socioeconomic challenges, but also one of the highest rates of literacy in Africa (81% as of 2021). Lesotho is a member of the United Nations, the Non-Aligned Movement, the Commonwealth of Nations, the African Union, and the Southern African Development Community.
@@ -110,6 +110,8 @@ The hospital includes several specialist departments including infectious diseas
 - 2026-10-09 · Brief · Lesotho Poverty and Equity Brief : October 2026
 。http://documents.worldbank.org/curated/en/099657404212519734
   摘要：The latest available poverty data for Lesotho is from 2017. In that year, an estimated 49.7 percent of the population lived below the national poverty line, 7 percentage points lower than in 2002. Most of the poverty reduction was concentrated in urban areas, driven by faster formal wage and self-employment income growth, as well as rising educational attainment. In contrast, rural poverty remained largely unchanged at around 61 percent. Inequality declined, with the consumption-based Gini index falling by nearly 7 points, to 44.9. Inequality is driven by a large public-private wage gap and a widening urban-rural divide.
+- 2026-10-01 · Brief · Macro Poverty Outlook for Lesotho : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099730010232674428
+  摘要：Growth strengthened in early 2026, supported by domestic services and large infrastructure projects. Inflationary pressures remain modest. Growth is projected to slow to 1.2 percent in 2026–27 before recovering in 2028. Economic expansion will remain insufficient to generate enough jobs or materially reduce poverty. Risks stem from external uncertainty affecting textiles and diamond exports, lower external assistance, and potential El Niño conditions.
 - 2026-10-01 · Brief · Macro Poverty Outlook for Lesotho : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099523310162610927
   摘要：Growth strengthened in early 2026, supported by domestic services and large infrastructure projects. Inflationary pressures remain modest. Growth is projected to slow to 1.2 percent in 2026–27 before recovering in 2028. Economic expansion will remain insufficient to generate enough jobs or materially reduce poverty. Risks stem from external uncertainty affecting textiles and diamond exports, lower external assistance, and potential El Niño conditions.
 - 2026-05-05 · Project Appraisal Document · Lesotho - Accelerating Sustainable and Clean Energy Access Transformation Project（项目：LS-Accelerating Sustainable and Clean Energy Access Transformation in Lesotho -- P513939）。http://documents.worldbank.org/curated/en/099050526133517619
@@ -127,10 +129,9 @@ The hospital includes several specialist departments including infectious diseas
   摘要：Growth is projected to remain weak, averaging about 1.5 percent over 2026–28, amid heightened geopolitical uncertainty, higher and more volatile oil prices, and declining aid. These headwinds are expected to be partly offset by the Lesotho Highlands Water Project, higher water royalties, and strong Southern African Customs Union (SACU) revenues. Poverty is projected to remain high at about 59 percent of the population, based on the international poverty line.
 - 2026-04-03 · Brief · Lesotho Gender Landscape。http://documents.worldbank.org/curated/en/099213007012232214
   摘要：This briefing showcases the gender landscape in Lesotho on key indicators helpful for monitoring gender equality and designing effective policy interventions. Gender equality fosters productivity gains, minimizes losses in wealth, reduces poverty, boosts shared prosperity, and supports green, resilient, and inclusive development.
-- 2026-10-20 · Environmental and Social Review Summary · Additional Financing Environmental and Social Review Summary (ESRS) - Pathways to Sustainable Livelihoods Project - P177814 - AF No: 1（项目：LS-Pathways to Sustainable Livelihoods Project -- P177814）。http://documents.worldbank.org/curated/en/099102026102019193
+- 2026-10-22 · Project Information Document · Project Information Document - Pathways to Sustainable Livelihoods Project - P177814（项目：LS-Pathways to Sustainable Livelihoods Project -- P177814）。http://documents.worldbank.org/curated/en/099102226025018690
 - 2026-10-15 · Environmental and Social Review Summary · Initial Environmental and Social Review Summary (ESRS) - Lesotho Skills Acceleration Project - P519503（项目：LS-Lesotho Skills Acceleration Project -- P519503）。http://documents.worldbank.org/curated/en/099101426202034469
 - 2026-10-14 · Project Information Document · Initial Project Information Document (PID) - Lesotho Skills Acceleration Project - P519503（项目：LS-Lesotho Skills Acceleration Project -- P519503）。http://documents.worldbank.org/curated/en/099101426202026939
-- 2026-10-02 · Agreement · Official Documents- Amendment No. 3 to the Financing Agreement for Credit 7569-LS (Credit A) and Credit 7570-LS (Credit B).pdf（项目：LS-Lesotho Integrated Transport, Trade and Logistics Project -- P502125）。http://documents.worldbank.org/curated/en/099100226093017436
 
 ## 学术论文（OpenAlex）
 
@@ -175,4 +176,4 @@ This paper provides a framework to assess the impact of infrastructure investmen
 
 https://doi.org/10.1596/1813-9450-8891
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

@@ -36,6 +36,8 @@ In the 2010s, Beijing invested heavily in projects in Oman through the Belt and 
 
 ## 世界银行最新文件（Documents & Reports）
 
+- 2026-10-01 · Brief · Macro Poverty Outlook for Oman : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099026010212627854
+  摘要：Oman’s economy is demonstrating resilience to the disruptions associated with the conflict in the Middle East. Strategic access to global shipping routes and uncompromised energyinfrastructure have sustained hydrocarbon and fertilizers exports, while robust fiscal management continues to strengthen macroeconomic buffers. However, the conflict had adverse effects on key sectors including logistics and tourism.
 - 2026-10-01 · Brief · Macro Poverty Outlook for Oman : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099520110152637411
   摘要：Oman’s economy is demonstrating resilience to the disruptions associated with the conflict in the Middle East. Strategic access to global shipping routes and uncompromised energyinfrastructure have sustained hydrocarbon and fertilizers exports, while robust fiscal management continues to strengthen macroeconomic buffers. However, the conflict had adverse effects on key sectors including logistics and tourism.
 - 2026-04-30 · Brief · Oman Human Capital Country Brief。http://documents.worldbank.org/curated/en/099950206242635899
@@ -63,8 +65,6 @@ In the 2010s, Beijing invested heavily in projects in Oman through the Belt and 
 - 2024-12-17 · Brief · Prosperity Data360 Justice Country Snapshots : Oman
 。http://documents.worldbank.org/curated/en/099720012232415597
   摘要：This Factsheet provides an overview of the Justice sector in Oman according to key performance indicators.
-- 2024-11-19 · Brief · Prosperity Data360 Gender Country Snapshots : Oman。http://documents.worldbank.org/curated/en/099517502112542238
-  摘要：Factsheet provides an overview of the gender sector in Oman according to key performance indicators.
 
 ## 学术论文（OpenAlex）
 
@@ -98,7 +98,7 @@ https://doi.org/10.1504/jgba.2019.099921
 Oman and Brunei are two countries with a long history of sultanic regimes. A sultanate is a kingdom ruled by a Muslim monarch. Because of these two countries’ geopolitical and geostrategic locations, they are very important in global affairs. At the same time, although situated in the highly tense regions of the Middle East and Southeast Asia respectively, Oman and Brunei are generally quite stable. They have recently become involved in China’s global economic project, the Belt and Road Initiative (BRI). Using a theory of small states, this article applies a qualitative research methodology focusing mainly on foreign policy analysis in a comprehensive analytical framework. The study uses face-to-face and by-correspondence interviews with government officials from both sultanates. It investigates whether the domestic determinants of small states’ foreign policy directly affect the bilateral relations between the two sultanates. The main finding of this study is that Oman and Brunei have greatly benefited through the establishment of a satisfactory bilateral relationship based mainly on four pillars from the list of determinants of small states’ foreign policy: historical connectivity, an Islamic monarchical dynastic system of governance, a state rentier economy, and shared foreign policy principles.
 
 https://doi.org/10.1080/00927678.2022.2089523
-### Balancing power and prosperity: China’s geo-economic engagement with the Gulf Cooperation Council（2024，Asian Review of Political Economy，被引 16）
+### Balancing power and prosperity: China’s geo-economic engagement with the Gulf Cooperation Council（2024，Asian Review of Political Economy，被引 17）
 
 Abstract Since the 1990s, China’s engagement beyond its geographical periphery, especially with Asian regions, has grown exceptionally, which is best evident in the Gulf sub-region and Western Asian nations. Indeed, energy-based interactions were the first to be established with Gulf Arab countries, and today, more than two decades after the Cold War, such relationships have evolved into tighter partnerships and engagement networks. Thus, in the last decade, China has increased its economic and political footprint in the Gulf region, as it has become one of the region’s largest external investors and trade partners. In its relations with the Gulf Cooperation Council (GCC) states, China faces varying challenges as each country pursues its interests, making the Chinese strategy in the region more complex. The Gulf countries have had to balance their relationship between the US as a security guarantor and China as an important economic partner. They strive to maximize their political and economic interests in the process. The main contention of this paper is that the GCC should not be viewed as a homogenous entity and that the Belt and Road Initiative (BRI) is a flexible approach designed to bolster China’s economic objectives in each Gulf country. Our research scrutinizes China’s geo-economic strategy and geopolitical aims about the Gulf States’ aspirations to maximize their economic ties with China. Against this background, this paper discusses the political and economic relationships between the People’s Republic of China and the Gulf Arab states: Bahrain, Kuwait, Qatar, Oman, the Kingdom of Saudi Arabia (KSA), and the United Arab Emirates (UAE).
 
@@ -109,4 +109,4 @@ China is now the world leader with green capital actually creating renewable ene
 
 https://doi.org/10.3934/energy.2024038
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

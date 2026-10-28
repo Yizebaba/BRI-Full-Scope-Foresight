@@ -7,7 +7,7 @@
 Trinidad and Tobago, officially the Republic of Trinidad and Tobago, is the southernmost archipelagic country in the Caribbean, comprising the main islands of Trinidad and Tobago, along with several smaller islets. The capital city is Port of Spain, while its largest and most populous municipality is Chaguanas. Trinidad and Tobago comprises the southernmost islands of the Caribbean eastern islands chain, and it is close to the continent of South America, being north to northeast of Venezuela and northwest of Guyana.   
 Trinidad and Tobago is located six nautical miles (11 km; 6.9 mi) north to northeast off the coast of Venezuela, 70 nautical miles (130 km; 81 mi) south of Grenada, and 155 nautical miles (287 km; 178 mi) southwest of Barbados. Indigenous peoples inhabited Trinidad for centuries prior to Spanish colonisation, following the arrival of Christopher Columbus in 1498. Spanish governor José María Chacón surrendered the island to a British fleet under Sir Ralph Abercromby's command in 1797. Trinidad and Tobago were ceded to Britain in 1802 under the Treaty of Amiens as separate states and unified in 1889. Trinidad and Tobago obtained independence in 1962, and became a republic in 1976.
 Unlike most Caribbean countries and territories, which rely heavily on tourism, the economy is primarily industrial, based on large reserves of oil and gas. The country sees fewer hurricanes than most of the Caribbean because it is farther south.
-Trinidad and Tobago is well known for its African and Indian Caribbean cultures, reflected in its large and famous Trinidad and Tobago Carnival, Hosay, and Diwali celebrations, as well as being the birthplace of the steelpan, the limbo, and musical styles such as calypso, soca, rapso, chutney music, and chutney soca.
+Trinidad and Tobago is well known for its African and Indian  cultures, reflected in its large and famous Carnival, Diwali, and Hosay celebrations, as well as being the birthplace of the steelpan, the limbo, and musical styles such as calypso, soca, rapso, chutney, and chutney soca.
 
 来源：https://en.wikipedia.org/wiki/Trinidad_and_Tobago（CC BY-SA 4.0）
 
@@ -65,6 +65,8 @@ Several capital-works or infrastructural projects across the Caribbean region ha
 
 - 2026-10-01 · Brief · Macro Poverty Outlook for Trinidad and Tobago : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099648510152626416
   摘要：Trinidad and Tobago’s economy contracted by 0.5 percent in 2025, as energy sector gains were insufficient to offset declines in the non-energy economy. Growth is expected to contract by 0.2 percent in 2026 before recovering as new gas projects come online. Strong external buffers and contained inflation support resilience, but fiscal pressures, limited diversification, and labor-market disparities remain key challenges.
+- 2026-10-01 · Brief · Macro Poverty Outlook for Trinidad and Tobago : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099233310212635948
+  摘要：Trinidad and Tobago’s economy contracted by 0.5 percent in 2025, as energy sector gains were insufficient to offset declines in the non-energy economy. Growth is expected to contract by 0.2 percent in 2026 before recovering as new gas projects come online. Strong external buffers and contained inflation support resilience, but fiscal pressures, limited diversification, and labor-market disparities remain key challenges.
 - 2026-04-30 · Brief · Trinidad and Tobago Human Capital Country Brief。http://documents.worldbank.org/curated/en/099315306302615873
   摘要：Human capital - people’s knowledge, skills, and health - drives productivity and growth. The Human Capital Index Plus (HCI+) measures the human capital a child born today can expect to accumulate over their working life, extending the original HCI by incorporating tertiary education and work experience. This brief summarizes Trinidad and Tobago’s HCI+ score and its performance in building human capital
 - 2026-04-16 · Brief · Macro Poverty Outlook for Trinidad and Tobago : April 2026。http://documents.worldbank.org/curated/en/099741108052623657
@@ -88,8 +90,5 @@ Several capital-works or infrastructural projects across the Caribbean region ha
   摘要：This Factsheet provides an overview of the finance, competitiveness and innovation sector in Trinidad and Tobago according to key performance indicators.
 - 2024-12-17 · Brief · Prosperity Data360 Justice Country Snapshots : Trinidad and Tobago。http://documents.worldbank.org/curated/en/099757312242421725
   摘要：This Factsheet provides an overview of the justice sector in Trinidad and Tobago according to key performance indicators.
-- 2024-11-19 · Brief · Prosperity Data360 Gender Country Snapshots : Trinidad and Tobago
-。http://documents.worldbank.org/curated/en/099644502112512175
-  摘要：This Factsheet provides an overview of the gender sector in Trinidad and Tobago according to key performance indicators.
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

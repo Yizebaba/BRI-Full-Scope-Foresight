@@ -170,12 +170,12 @@ https://doi.org/10.1007/978-981-10-7116-4_15
 Based on the theory of optimal currency area (OCA), we calculate the OCA index between China and the OBOR partners with the expressed objective of identifying which partners exhibit monetary and financial compatibilities, and hence present the best potential in terms of cost and benefits. Our findings suggest that among South East Asia region, Malaysia exhibits the highest compatibility and profit potential, followed by Thailand and Vietnam. For the East European area, Poland and Croatia show the best potential in terms of monetary and financial cooperation; with the Czech Republic as close third. Based on our computation, currently Central Asia and the Middle East do not possess the condition or potential for beneficial financial and monetary collaboration.
 
 https://doi.org/10.1080/1540496x.2018.1540976
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 196）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
 
 （无摘要）
 
 https://doi.org/10.1016/j.ememar.2019.100629
-### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 100）
+### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 102）
 
 China's Belt and Road Initiative aims to improve connectivity between China and more than 70 countries through infrastructure investment and regional cooperation. The initiative has the potential to accelerate significantly the rate of economic integration and development in the region, as trade costs decline. The goals of this paper are to (i) study the impacts of infrastructure improvements on Belt and Road Initiative and non?Belt and Road Initiative countries'trade flows, growth, and poverty; and (ii) suggest policies that would help maximize gains from the Belt and Road Initiative?induced trade cost declines. The analysis captures the trade costs reductions as a result of infrastructure improvements. The findings indicate that the Belt and Road Initiative would be largely beneficial. First, global income increases by 0.7 percent (in 2030 relative to the baseline). This translates into almost half a trillion dollars in 2014 prices and market exchange rates. The Belt and Road Initiative area captures 82 percent of the gain, with the largest percent gains in East Asia. Second, globally, the Belt and Road Initiative could contribute to lifting 7.6 million people from extreme poverty and 32 million from moderate poverty. Third, the initiative would lead to a modest increase in global carbon dioxide emissions, with a complex set of positive and negative outcomes at the national level for other types of emissions.
 
@@ -190,7 +190,7 @@ https://doi.org/10.1111/cwe.12217
 Chińska Republika Ludowa osiągnęła pozycję jednego z głównych graczy na arenie międzynarodowej i odważnie realizuje politykę ekspansji zagranicznej. Jej podstawowym instrumentem jest inicjatywa Pasa i Szlaku (Belt and Road Initiative, BRI), która w ostatnich latach jest jednym z najważniejszych projektów chińskich władz, zakładającym zintensyfikowanie współpracy gospodarczej i wymianę kulturalną krajów wzdłuż Nowego Jedwabnego Szlaku. Niemcy, czołowe państwo UE i kluczowy partner Chin w Europie, są silnym zwolennikiem inicjatywy BRI. Ponieważ jednak koncepcja ta obejmuje państwa członkowskie Unii Europejskiej, wymaga również silnej reakcji ze strony Wspólnoty. I chociaż stosunki UE z ChRL leżą w interesie gospodarczym wszystkich jej państw członkowskich, w ostatnich latach nie były one wolne od komplikacji. Artykuł analizuje znaczenie społecznego postrzegania i postaw aktorów państwowych Republiki Federalnej Niemiec wobec projektu Pasa i Szlaku od 2013 r., stosując liberalne podejście wyjaśniające. Celem artykułu jest przeanalizowanie reakcji Niemiec na inicjatywę Nowego Jedwabnego Szlaku w dwóch różnych fazach: pierwszej (2013-2016) i drugiej fazie (2016-), w której wypracowano model współpracy i świadomość występujących konfliktów. Ponadto artykuł próbuje zidentyfikować problemy istniejące w stosunkach między Unią Europejską a Chi­nami, ze szczególnym naciskiem na stosunki między Chińską Republiką Ludową a Republiką Federalną Niemiec. Analizę kończą krótki wniosek teoretyczny oraz rekomendacje polityczne.
 
 https://doi.org/10.14746/rie.2018.12.6
-### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 162）
+### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 163）
 
 （无摘要）
 
@@ -201,4 +201,4 @@ In order to promote the financing system for the Belt and Road, the Ministry of 
 
 https://doi.org/10.4324/9781003660750-43
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

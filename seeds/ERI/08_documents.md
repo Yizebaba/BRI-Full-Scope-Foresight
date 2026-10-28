@@ -48,6 +48,8 @@ Sino-African relations
 
 ## 世界银行最新文件（Documents & Reports）
 
+- 2026-10-01 · Brief · Macro Poverty Outlook for Eritrea : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099717310232621282
+  摘要：Strong mining activity supported growth in 2025 while inflation subsided due to moderation of global prices of food and fuel. Inflation is expected to pick up in 2026 driven by increased fuel and commodity prices while investments in mining and energy are expected to support growth in the near term. Downside risks include production delays at the Colluli mine, volatility in global commodity markets, geopolitical, and climate vulnerabilities.
 - 2026-10-01 · Brief · Macro Poverty Outlook for Eritrea : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099500310162615358
   摘要：Strong mining activity supported growth in 2025 while inflation subsided due to moderation of global prices of food and fuel. Inflation is expected to pick up in 2026 driven by increased fuel and commodity prices while investments in mining and energy are expected to support growth in the near term. Downside risks include production delays at the Colluli mine, volatility in global commodity markets, geopolitical, and climate vulnerabilities.
 - 2026-04-16 · Brief · Macro Poverty Outlook for Eritrea : April 2026。http://documents.worldbank.org/curated/en/099759308072632852
@@ -74,8 +76,6 @@ Sino-African relations
   摘要：This Factsheet provides an overview of the Justice sector in Eritrea according to key performance indicators.
 - 2024-11-19 · Brief · Prosperity Data360 Gender Country Snapshots : Eritrea。http://documents.worldbank.org/curated/en/099026002072510293
   摘要：Factsheet provides an overview of the gender sector in Eritrea according to key performance indicators.
-- 2024-11-07 · Brief · Prosperity Data360 Tourism Country Snapshots : Eritrea。http://documents.worldbank.org/curated/en/099931511202430950
-  摘要：This factsheet provides an overview of the tourism sector in Eritrea according to key performance indicators.
 
 ## 学术论文（OpenAlex）
 
@@ -120,4 +120,4 @@ Abstract China’s renewed prominence is the most important development in inter
 
 https://doi.org/10.1093/fpa/orad015
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

@@ -5,8 +5,8 @@
 ## 国家概况（维基百科）
 
 Turkey, officially the Republic of Türkiye, is a country mainly located in Anatolia in West Asia, with a smaller part called East Thrace in Southeast Europe. It borders the Black Sea to the north; Georgia, Armenia, Azerbaijan, and Iran to the east; Iraq, Syria, and the Mediterranean Sea to the south; and the Aegean Sea, Greece, and Bulgaria to the west. Turkey is home to over 86 million people; most are ethnic Turks, while Kurds are the largest ethnic minority. Officially a secular state, Turkey has a Muslim-majority population. Ankara is Turkey's capital and second-largest city. Istanbul is its largest city and economic center. Other major cities include İzmir, Bursa, and Antalya.
-First inhabited by modern humans during the Late Paleolithic, present-day Turkey was home to various ancient peoples. The Hattians were assimilated by the Hittites and other Anatolian peoples. Classical Anatolia transitioned into cultural Hellenization after Alexander the Great's conquests, and later Romanization during the Roman and Byzantine eras. The Seljuk Turks began migrating into Anatolia in the 11th century, starting the Turkification process. The Seljuk Sultanate of Rum ruled Anatolia until the Mongol invasion in 1243, when it disintegrated into Turkish principalities. Beginning in 1299, the Ottomans united the principalities and expanded. Mehmed II conquered Constantinople (modern-day Istanbul) in 1453. During the reigns of Selim I and Suleiman the Magnificent, the Ottoman Empire became a global power. From 1789 onwards, the empire saw major changes, reforms, centralization, and rising nationalism while its territory declined.
-In the 19th and early 20th centuries, persecution of Muslims during the Ottoman contraction and in the Russian Empire resulted in large-scale loss of life and mass migration into modern-day Turkey from the Balkans, Caucasus, and Crimea. Under the control of the Three Pashas, the Ottoman Empire entered World War I in 1914, during which the Ottoman government committed genocides against its Armenian, Greek, and Assyrian subjects. Following Ottoman defeat, the Turkish War of Independence resulted in the abolition of the sultanate and the signing of the Treaty of Lausanne. Turkey emerged as a more homogenous nation state. The Republic was proclaimed on 29 October 1923, modelled on the reforms initiated by its founder and first president, Mustafa Kemal Atatürk. Turkey remained neutral during most of World War II, but was involved in the Korean War. Several military interventions interfered with the transition to a multi-party system.
+First inhabited by modern humans during the Late Paleolithic, present-day Turkey was home to various ancient peoples. The Hattians were assimilated by the Hittites and other Anatolian peoples. Classical Anatolia underwent cultural Hellenization after Alexander the Great's conquests, and later Romanization during the Roman and Byzantine eras. The Seljuk Turks began migrating into Anatolia in the 11th century, starting the Turkification process. The Seljuk Sultanate of Rum ruled Anatolia until the Mongol invasion in 1243, when it disintegrated into Turkish principalities. Beginning in 1299, the Ottomans united the principalities and expanded. Constantinople (modern-day Istanbul) was conquered in 1453 by Mehmed II. During the reigns of Selim I and Suleiman the Magnificent, the Ottoman Empire became a global power. From 1789 onwards, the empire saw major changes, reforms, centralization, and rising nationalism while its territory declined.
+In the 19th and early 20th centuries, the persecution of Muslims during the Ottoman contraction and in the Russian Empire resulted in large-scale loss of life and mass migration into modern-day Turkey from the Balkans, Caucasus, and Crimea. Under the control of the Three Pashas, the Ottoman Empire entered World War I in 1914, during which the Ottoman government committed genocides against its Armenian, Greek, and Assyrian subjects. Following Ottoman defeat, the Turkish War of Independence resulted in the abolition of the sultanate and the signing of the Treaty of Lausanne, and Turkey emerged as a more homogenous nation state. The Republic was proclaimed on 29 October 1923, modelled on the reforms initiated by its founder and first president, Mustafa Kemal Atatürk. Turkey remained neutral during most of World War II, but was involved in the Korean War, and more significantly, in the Cyprus conflict. Several military interventions interfered with the transition to a multi-party system.
 Turkey is an upper-middle-income and emerging country; its economy is the world's 16th-largest by nominal and 11th-largest by PPP-adjusted GDP. As the 15th-largest electricity producer in the world, Turkey aims to become a hub for regional energy transportation. It is a unitary presidential republic. Turkey is a founding member of the OECD, G20, and Organization of Turkic States. With a geopolitically significant location, Turkey is a NATO member and has its second-largest military personnel. It may be recognized as an emerging, a middle, and a regional power. As an EU candidate, Turkey is part of the EU Customs Union.
 Turkey has coastal plains, a high central plateau, and various mountain ranges with rising elevation eastwards. Turkey's climate is diverse, ranging from Mediterranean and other temperate climates to semi-arid and continental types. Home to three biodiversity hotspots, Turkey is prone to frequent earthquakes and is highly vulnerable to climate change. Turkey has a universal healthcare system, growing access to education, and increasing levels of innovativeness. It is a leading TV content exporter. With numerous UNESCO World Heritage sites and intangible cultural heritage inscriptions, and a rich and diverse cuisine, Turkey is the fourth most visited country in the world.
 
@@ -121,8 +121,8 @@ Emba Hunutlu power station is a 1320 MW coal fired power station in Turkey in Ad
 
 ## 世界银行最新文件（Documents & Reports）
 
-- 2026-10-01 · Brief · Macro Poverty Outlook for Türkiye : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099501110202614440
-  摘要：Türkiye's stabilization program continues, but disinflation has slowed and the rise in regional tensions has disrupted reserve accumulation. Inflation is expected to reach 29.3 percent at end-2026, while growth is projected at 2.8 percent in 2026 before strengthening to 3.8 percent in 2027. Maintaining tight policies, strengthening fiscal discipline, and protecting vulnerable households remain central to sustaining the adjustment.
+- 2026-10-16 · Working Paper (Numbered Series) · Formal Employment of Syrian Refugees in Turkish SMSEs : Employer Experience, Hiring Frictions, and Policy Priorities 。http://documents.worldbank.org/curated/en/099748510152624564
+  摘要：Türkiye’s formal employment agenda for Syrian refugees increasingly depends on whether firms can translate legal access into registered jobs. A large-scale 2026 survey of micro, small, and medium-sized enterprises finds a relatively small employer base but generally favorable experience among firms that have hired Syrian refugees. The main firm-side frictions are limited knowledge of formal employment requirements, procedural complexity, and weak links between recruitment and formal services. Firms with prior hiring experience are far more open to additional support than never-employers. Policy should simplify formal hiring pathways, strengthen matching, differentiate support by hiring history, and target firms and locations with credible labor demand.
 - 2026-08-31 · Report · Artificial Intelligence in School Education in Türkiye。http://documents.worldbank.org/curated/en/099254008272640739
   摘要：This World Bank report presents a comprehensive analysis and strategic roadmap for integrating Artificial Intelligence (AI) within Türkiye’s educational sector, focusing on primary and secondary education. The primary objective of the study is to map the existing AI and EdTech landscape, assess the country’s readiness for AI adoption, and provide actionable recommendations to guide policymakers toward an equitable, scalable, and responsible use of AI technologies. The report examines AI applications supporting students, teachers, and school administrators, as well as the regulatory, human-capacity, data-governance, and infrastructure conditions affecting implementation. The study employed a multifaceted data collection approach. The methodology included in-depth interviews with senior education policymakers and national stakeholders, an analysis of secondary data on digital infrastructure, educational performance, and EdTech adoption in Türkiye, and a systematic review of national and international education policies and research on AI in education.
 - 2026-07-24 · Working Paper (Numbered Series) · Artificial Intelligence and Labor Market Adjustment in Türkiye : Exposure and Complementarity。http://documents.worldbank.org/curated/en/099704407242668121
@@ -157,16 +157,16 @@ Emba Hunutlu power station is a 1320 MW coal fired power station in Turkey in Ad
 （无摘要）
 
 https://doi.org/10.2307/j.ctv1rcf2bf.16
-### TURKEY AND ONE BELT ONE ROAD INITIATIVE（2018，AYBU AVESIS，被引 0）
-
-（无摘要）
-
-https://openalex.org/W7132171435
 ### Belt and Road Initiative: Challenges and Prospects for Turkey（2020，AYBU AVESIS，被引 0）
 
 （无摘要）
 
 https://openalex.org/W7132749439
+### TURKEY AND ONE BELT ONE ROAD INITIATIVE（2018，AYBU AVESIS，被引 0）
+
+（无摘要）
+
+https://openalex.org/W7132171435
 ### Exploring the structure and influence factors of trade competitive advantage network along the Belt and Road（2020，Physica A Statistical Mechanics and its Applications，被引 44）
 
 （无摘要）
@@ -193,4 +193,4 @@ https://doi.org/10.46694/jss.2019.03.34.1.211
 
 https://doi.org/10.14445/23939125/ijems-v7i2p103
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

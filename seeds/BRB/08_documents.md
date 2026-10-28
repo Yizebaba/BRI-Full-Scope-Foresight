@@ -146,6 +146,8 @@ The permanent headquarters of the CDB is located in Wildey, St. Michael, Barbado
 - 2026-10-09 · Brief · Barbados Poverty and Equity Brief : October 2026
 。http://documents.worldbank.org/curated/en/099517504212514309
   摘要：In 2016, poverty in Barbados was strikingly high for a high-income country (HIC). About 25.7 percent of Barbadians lived below the national poverty line and about 4.9 percent lived below the food poverty line. A similar finding holds when applying the international poverty measurement approach that allows comparisons with other countries. Around 15.8 percent of Barbadians lived on less than $8.30 (2021 PPP) per person per day in 2016. Only two high-income countries have higher poverty rates at the $8.30 line: Nauru and Panama.
+- 2026-10-01 · Brief · Macro Poverty Outlook for Barbados : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099959010212625986
+  摘要：Barbados' tourism-dependent, import-heavy economy remains exposed to external and climate shocks. Economic growth is projected to moderate to 2 percent in 2026 as tourism activity softens, then rebound over the medium term, supported by services and construction. Poverty is expected to continue declining gradually, while strong external buffers and sustained fiscal discipline support resilience and further debt reduction.
 - 2026-10-01 · Brief · Macro Poverty Outlook for Barbados : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099704210152652195
   摘要：Barbados' tourism-dependent, import-heavy economy remains exposed to external and climate shocks. Economic growth is projected to moderate to 2 percent in 2026 as tourism activity softens, then rebound over the medium term, supported by services and construction. Poverty is expected to continue declining gradually, while strong external buffers and sustained fiscal discipline support resilience and further debt reduction.
 - 2026-04-16 · Brief · Macro Poverty Outlook for Barbados : April 2026 Datasheet。http://documents.worldbank.org/curated/en/099619508182650306
@@ -170,8 +172,6 @@ The permanent headquarters of the CDB is located in Wildey, St. Michael, Barbado
 - 2025-10-06 · Brief · Prosperity Data360 Justice Country Snapshots : Barbados
 。http://documents.worldbank.org/curated/en/099630210162513993
   摘要：This Factsheet provides an overview of the Justice sector according to key performance indicators.
-- 2025-04-21 · Implementation Completion and Results Report · Barbados - Green and Resilient Recovery Development Policy Loan Project（项目：BB-Barbados Green and Resilient Recovery DPL -- P179112）。http://documents.worldbank.org/curated/en/099051425174517977
-  摘要：Ratings for the Green and Resilient Recovery Development Policy Loan Project for Barbados were as follows: outcomes were satisfactory, the relevance of prior actions was satisfactory, and the bank performance was also satisfactory. Some lessons learned included: the Barbados Green and Resilient DPL provides a model for how the WBG can engage with small economies with limited capacity in a similar context. This model emphasizes the importance of being nimble and leveraging existing work to achieve meaningful outcomes. These features are particularly effective in situations where urgent financing is needed, time is limited, but there is adequate existing analytical work and well-defined reforms ready for expert review. The WBG’s convening power can then be utilized to coordinate, sequence, and support the implementation of reforms. DPF-supported reforms need to be in an advanced state to be ready for implementation, particularly where there is little or no ongoing policy dialogue. In the case of Barbados, most of the precursors for the prior actions had been discussed before DPF preparation. This proved advantageous because the timeframe from concept to approval was only 2.5 months. The homegrown nature of the reforms, an advantage explicitly recognized by the WBG Board of Directors, was a key factor in the rapid implementation of meaningful reforms. Strategically integrating environmental and fiscal objectives across pillars is both good practice and essential for achieving su
 
 ## 学术论文（OpenAlex）
 
@@ -216,4 +216,4 @@ Abstract Chinese investment abroad has grown significantly in connection with th
 
 https://doi.org/10.1162/asep_a_00861
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

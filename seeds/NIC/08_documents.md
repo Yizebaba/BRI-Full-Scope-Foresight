@@ -38,6 +38,8 @@ Hong Kong–Nicaragua relations
 - 2026-10-08 · Brief · Nicaragua Poverty and Equity Brief : October 2026
 。http://documents.worldbank.org/curated/en/099250404222540458
   摘要：Between 2005 and 2016, the poverty rate under the national line more than halved, from 48.3 to 24.9 percent, driven mostly by growth in rural areas. An analysis of the evolution of poverty in Nicaragua can be only scattered as the survey data for that purpose is only available for 2005, 2009, 2014, and 2016. Inequality, as measured by the Gini index, decreased from 49 to 46 between 2005 and 2014, which is still considered high by World Bank standards. Modeled estimates show that poverty ratcheted up since 2018, compounded by the COVID-19 pandemic and the hurricanes Eta and Iota, reaching above 15 percent in 2020 up from about 11 percent in 2017 (there are all poverty rates at the $4.2/day 2021 PPP$ poverty line estimated using simulation methods, no official poverty rate is available after 2016). In the last five years, Nicaragua benefitted from a relatively sustained growth performance, which allowed large public investment and was accompanied by growth in external financial assistance, export demand, and remittances, with this contributing to reduce monetary poverty in 2025 (to below 14 percent, $4.2/day 2021 PPP$).
+- 2026-10-01 · Brief · Macro Poverty Outlook for Nicaragua : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099104410212625502
+  摘要：Growth is projected at 3.6 percent in 2026, driven by services, construction, and mining, before easing to 3.2 percent in 2027 as the terms-of-trade windfall moderate. Poverty is estimated to have fallen to 12.8 percent in 2026, supported by robust growth. Public debt declined to 47.2 percent in 2026 and is projected to reach 46.7 percent in 2027, supported by a tight fiscal stance.
 - 2026-10-01 · Brief · Macro Poverty Outlook for Nicaragua : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099602110152616368
   摘要：Growth is projected at 3.6 percent in 2026, driven by services, construction, and mining, before easing to 3.2 percent in 2027 as the terms-of-trade windfall moderate. Poverty is estimated to have fallen to 12.8 percent in 2026, supported by robust growth. Public debt declined to 47.2 percent in 2026 and is projected to reach 46.7 percent in 2027, supported by a tight fiscal stance.
 - 2026-04-30 · Brief · Nicaragua Human Capital Country Brief。http://documents.worldbank.org/curated/en/099949207132621430
@@ -61,8 +63,5 @@ Hong Kong–Nicaragua relations
   摘要：This Factsheet provides an overview of the finance, competitiveness, and innovation sector according to key performance indicators.
 - 2025-10-07 · Brief · Prosperity Data360 Gender Country Snapshots : Nicaragua。http://documents.worldbank.org/curated/en/099047110132518513
   摘要：This Factsheet provides an overview of the gender sector according to key performance indicators.
-- 2025-10-06 · Brief · Prosperity Data360 Justice Country Snapshots : Nicaragua
-。http://documents.worldbank.org/curated/en/099243010172598883
-  摘要：This Factsheet provides an overview of the Justice sector according to key performance indicators.
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

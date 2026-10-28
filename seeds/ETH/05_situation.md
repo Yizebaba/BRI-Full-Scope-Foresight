@@ -8,3 +8,11 @@
 ## 各国政府旅行建议更新（经 World Monitor）
 
 - 2026-10-16 16:03 UTC：UK FCDO Ethiopia。https://www.gov.uk/foreign-travel-advice/ethiopia 
+
+## 地震（USGS，M4.5+，近 7 天）
+
+- 2026-10-28 13:31 UTC：M4.5，13 km WSW of Āwash, Ethiopia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttp7 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-10-28 13:31 UTC：Green 级 EQ，Earthquake in Ethiopia。https://www.gdacs.org/report.aspx?eventid=1574362&episodeid=1743267&eventtype=EQ 

@@ -80,12 +80,12 @@ Foreign relations of Malta
 Because of their inherent vulnerability, small States are in a relatively weak position in global economic relations.In order to survive and develop, regional cooperation is an important way for small countries to safeguard and promote their national interests.Taking Malta as an example, this paper utilizes the international trade data of some major countries along the "Belt and Road" from 2004 to 2018, and adopts the social network analysis method to construct the trade network of 37 countries in each year, and explores the formation of the trade network of the "Belt and Road" through the gravity model.The gravity model explores the major trade subgroups formed in the "Belt and Road" trade network and reveals the cooperation and interaction paths of small countries in the global economic system.Among them, Malta's position and role in the countries along the "Belt and Road", Malta still participated in global economic cooperation through Russia in 2004, and in 2018, in the more closely linked global economic network system, Malta strengthened its economic ties with China, which has a core degree of 0.897, further enhancing its own position in the global economic network.The economic scale and institutional differences between countries have different impacts on the trade of different products, and small countries have limited resources, so it is more important to formulate different economic development strategies according to different influencing factors and product types, and strengthen trade cooperation with neighboring countries.
 
 https://doi.org/10.61091/jcmcc127b-316
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 196）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
 
 （无摘要）
 
 https://doi.org/10.1016/j.ememar.2019.100629
-### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 100）
+### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 102）
 
 China's Belt and Road Initiative aims to improve connectivity between China and more than 70 countries through infrastructure investment and regional cooperation. The initiative has the potential to accelerate significantly the rate of economic integration and development in the region, as trade costs decline. The goals of this paper are to (i) study the impacts of infrastructure improvements on Belt and Road Initiative and non?Belt and Road Initiative countries'trade flows, growth, and poverty; and (ii) suggest policies that would help maximize gains from the Belt and Road Initiative?induced trade cost declines. The analysis captures the trade costs reductions as a result of infrastructure improvements. The findings indicate that the Belt and Road Initiative would be largely beneficial. First, global income increases by 0.7 percent (in 2030 relative to the baseline). This translates into almost half a trillion dollars in 2014 prices and market exchange rates. The Belt and Road Initiative area captures 82 percent of the gain, with the largest percent gains in East Asia. Second, globally, the Belt and Road Initiative could contribute to lifting 7.6 million people from extreme poverty and 32 million from moderate poverty. Third, the initiative would lead to a modest increase in global carbon dioxide emissions, with a complex set of positive and negative outcomes at the national level for other types of emissions.
 
@@ -95,7 +95,7 @@ https://doi.org/10.1596/1813-9450-8814
 Abstract The impact that the Belt and Road Initiative (BRI) has had on carbon emissions is a hotly debated issue. Using a panel dataset of 178 countries from 2002 to 2017, and applying the quantile difference‐in‐difference method in different industries, this study finds that, first, the BRI overall tends to reduce the carbon emission intensity of BRI countries. Second, the impact of BRI on reducing the carbon emission intensity is significant for BRI countries at higher (0.8 and 0.9) and lower (0.2 and 0.3) carbon emission intensity quantiles but it is insignificant for those at medium levels. Third, the BRI has significant impacts on reducing carbon emission intensity in the energy‐intensive industries, and this effect is the highest at the quantile level of 0.9 for all three industries considered here: transportation, electric and heating, and manufacturing and construction. These results indicate that establishing BRI cooperation with China will improve the environment and enhance the sustainable development ability of BRI countries.
 
 https://doi.org/10.1111/cwe.12374
-### The roles of cultural and institutional distance in international trade: Evidence from China's trade with the Belt and Road countries（2018，China Economic Review，被引 158）
+### The roles of cultural and institutional distance in international trade: Evidence from China's trade with the Belt and Road countries（2018，China Economic Review，被引 159）
 
 （无摘要）
 
@@ -116,4 +116,4 @@ Abstract This paper examines the role of the Belt and Road Initiative (BRI) in e
 
 https://doi.org/10.1111/cwe.12387
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

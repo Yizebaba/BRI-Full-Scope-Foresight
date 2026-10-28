@@ -82,6 +82,8 @@ Sino-Arab relations
 
 - 2026-10-01 · Brief · Macro Poverty Outlook for Ecuador : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099515210152617712
   摘要：The recovery in economic activity is expected to continue in 2026 and into 2027–28, but softened by the disruptive effects of a strong El Niño. Poverty is expected to fall slowly in this context. A strict adherence to fiscal consolidation is key to achieving these outcomes given high financing needs and external vulnerabilities. Structural reforms to address productivity and job creation constraints remain a priority.
+- 2026-10-01 · Brief · Macro Poverty Outlook for Libya : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099024210212686069
+  摘要：Libya’s outlook remains constrained by political fragmentation, weak fiscal governance, and deteriorating basic services, despite progress toward a unified budget and electoral roadmap. Oilproductionrecovery supportedfiscalandexternal surpluses inearly2026,butlowerrevenues, exchange-rate pressures, and rising inflation exposed vulnerabilities. Growth is expected to remain modest, contingent on oil recovery, political consolidation, and stronger economic governance.
 - 2026-10-01 · Brief · Macro Poverty Outlook for Libya : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099514310152629560
   摘要：Libya’s outlook remains constrained by political fragmentation, weak fiscal governance, and deteriorating basic services, despite progress toward a unified budget and electoral roadmap. Oilproductionrecovery supportedfiscalandexternal surpluses inearly2026,butlowerrevenues, exchange-rate pressures, and rising inflation exposed vulnerabilities. Growth is expected to remain modest, contingent on oil recovery, political consolidation, and stronger economic governance.
 - 2026-08-25 · Working Paper · Libya - Streamlined Country Diagnostic : Pathways to Stabilization and Sustainable Shared Prosperity（项目：LY-Libya Streamlined Country Diagnostic (SCD) -- P518682）。http://documents.worldbank.org/curated/en/099082526040014831
@@ -107,9 +109,6 @@ Sino-Arab relations
 - 2025-10-07 · Brief · Prosperity Data360 Finance, Competitiveness and Innovation Country Snapshots : Libya
 。http://documents.worldbank.org/curated/en/099641510092524826
   摘要：This Factsheet provides an overview of the finance, competitiveness, and innovation sector according to key performance indicators.
-- 2025-10-06 · Brief · Prosperity Data360 Justice Country Snapshots : Libya
-。http://documents.worldbank.org/curated/en/099752110162533013
-  摘要：This Factsheet provides an overview of the Justice sector according to key performance indicators.
 
 ## 学术论文（OpenAlex）
 
@@ -133,7 +132,7 @@ https://doi.org/10.52152/22.2.287(2024)
 （无摘要）
 
 https://doi.org/10.1007/978-981-92-1762-5_13
-### China and New Middle East（2021，Journal of Balkan and Near Eastern Studies，被引 25）
+### China and New Middle East（2021，Journal of Balkan and Near Eastern Studies，被引 27）
 
 A New Middle East is emerging, which is shaped by the result of geo-strategic competitions in the region among key state actors. The power structure of the new Middle East can be summarized as a weakened and divided Arab world facing more powerful non-Arab actors, which has conditioned the emergence of three significant camps in the region. Major regional state actors and some sub-state armed actors are playing an increasing role in the geo-strategic competitions in the focal point countries of Syria, Iraq, Yemen, Lebanon, and Libya. China has important interests in the Middle East, and key elements of its policy are taking shape. Institutional mechanisms of cooperation have been created and a network of partnerships with some regional countries has been established. The Belt and Road Initiative remains the key framework for China’s cooperation with the region.
 
@@ -154,4 +153,4 @@ A New Middle East is emerging, which is shaped by the result of geo-strategic co
 
 https://doi.org/10.4324/9781003402312-4
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

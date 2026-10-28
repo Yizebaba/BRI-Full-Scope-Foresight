@@ -221,10 +221,10 @@ https://doi.org/10.1108/oxan-db241658
 Subject Turkey’s ‘Asia Anew’ foreign policy. Significance Turkish Foreign Minister Mevlut Cavusoglu unveiled the ‘Asia Anew’ foreign policy initiative at the Turkish ambassadors’ annual meeting last August. It underscores the Erdogan administration’s desire to communicate a proactive foreign policy vision at a time when Turkey is facing isolation in the Arab world, increased dependence on Russia and deteriorating relations with its traditional Western partners. Impacts The domestic pro-Uighur constituency will try to ensure Ankara does not forget Uighur interests as it seeks Belt and Road investment. Regional competitors Greece, Israel and Egypt may work together to offer Asian investors alternative East Mediterranean projects. Turkey’s extensive purge of public-sector institutions may strain the government’s capacity to implement Asia Anew.
 
 https://doi.org/10.1108/oxan-db250376
-### Understanding China’s Belt and Road Initiative（2024，Asia in transition，被引 87）
+### China’s BRI（2020，Routledge eBooks，被引 0）
 
-This open access book provokes critical thinking regarding the most ambitious Chinese project since the founding of the People’s Republic of China
+This chapter focuses on how European states and the EU have adjusted to Chinese Foreign Direct Investments (FDI) and the Belt and Road Initiative’s linking of China and the European continent. While the Chinese government has been promoting the BRI toward European countries, the reality is that most Chinese FDI, including by state-owned enterprises, has been targeting countries that did not officially join the BRI. Overall, Chinese FDI, especially state-backed, has tended to target the strong industries in advanced economies. This has been advanced manufacturing industries, with automotive, chemical, agribusiness, energy, and machinery taking a significant share of non-infrastructure (non-greenfield) investment. As this chapter shows, it is mainly in those countries where infrastructure is weaker and who have a connection to the BRI that China has focused on building up railways and ports to connect its commerce routes. This is particularly the case with Greece and the Balkan countries, which have attracted most “BRI-labelled investments.”
 
-https://doi.org/10.1007/978-981-99-9633-9
+https://doi.org/10.4324/9781003056683-10
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

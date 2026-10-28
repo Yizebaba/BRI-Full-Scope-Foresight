@@ -144,12 +144,6 @@ In 2015, it was announced that the city and port would be further developed unde
 Gwadar Port became formally operational on 14 November 2016, when it was inaugurated by Pakistan's Prime Minister Muhammad Nawaz Sharif; the first convoy was seen off by the then Pakistan's Chief of Army Staff, General Raheel Sharif. On 14 January 2020, Pakistan operationalized Gwadar Port for Afghan transit trade. On 31 May 2021, Gwadar Port became fully operational, along with the availability of online booking for the delivery of goods.
 
 来源：https://en.wikipedia.org/wiki/Gwadar_Port
-### M-14 motorway (Pakistan)
-
-The M-14 Motorway, or the Islamabad–Dera Ismail Khan Motorway (اسلام آباد – ڈیره اسماعیل خان موٹروے), also known as Hakla–Yarik Motorway, is a four-lane north–south motorway in Pakistan. The 285-kilometre-long (177 mi) motorway is a part of the Western Alignment of the China–Pakistan Economic Corridor, and offers high speed road connections between the Islamabad-Rawalpindi metropolitan area, and the southern parts of Khyber Pakhtunkhwa province around Dera Ismail Khan.
-The motorway was originally planned to open at the end of 2018, but due to delays, was inaugurated on 5 January 2022.
-
-来源：https://en.wikipedia.org/wiki/M-14_motorway_%28Pakistan%29
 ### M-5 motorway (Pakistan)
 
 The M-5 Motorway (Urdu: ایم ٥ موٹروے), or the Multan–Sukkur Motorway (Urdu: ملتان سکھر موٹروے), is a north–south motorway in Pakistan, which connects Multan and Sukkur. The M-5 is a 392 km long, high-speed (120 km/h), controlled-access, six-lane motorway that forms part of the China-Pakistan Economic Corridor. It is currently the longest motorway in Pakistan. It is one of the longest parts of the Lahore-Karachi Motorway (LKR).
@@ -161,19 +155,18 @@ The M-5 Motorway (Urdu: ایم ٥ موٹروے), or the Multan–Sukkur Motorway
 - 2026-10-08 · Brief · Pakistan Poverty and Equity Brief : October 2026
 。http://documents.worldbank.org/curated/en/099255104222573036
   摘要：Pakistan's national poverty rate rose from 22 percent in 2018-19 to 29 percent in 2024-25. Poverty rose in every province and in both rural and urban areas. What sets this reversal apart is its context: GDP per capita growth was volatile but positive on average, at about 0.9 percent a year, even as the economy absorbed a sequence of compounding shocks. In earlier periods, poverty fell through episodes of weak and often negative growth; the 2018-2025 period is the first since 2001 in which positive per capita growth coincided with rising poverty. Poverty also deepened, with the poverty gap rising from 2.7 to 5.2 percent and severity from 0.7 to 1.8 percent, both back near their 2011 levels.
-- 2026-10-01 · Brief · Macro Poverty Outlook for Pakistan : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099529410152627903
-  摘要：Prudent macroeconomic policy helped growth accelerate to 3.7 percent (GDP at factor cost) in FY26, despite the ongoing Middle East conflict. A prolonged conflict and El Niño pose risks to macroeconomic stability and growth, sustaining high commodity prices while weighing on fiscal and external balances. Maintaining fiscal and monetary prudence is essential to managing these risks, while structural reforms are required to lift growth, raise incomes, and reduce poverty.
-- 2026-09-29 · Policy Research Working Paper · What Happens When Women Suddenly Stop Receiving Cash Transfers ?（项目：8S-South Asia Gender Innovation Lab Phase 3 -- P181254）。http://documents.worldbank.org/curated/en/099315009292634527
-  摘要：Female-targeted cash transfers are widely used as a policy tool to enhance women’s empowerment. However, little is known about what happens when payments stop — whether due to budget cuts, program changes, or recipient graduation. This paper studies how women are affected by unanticipated program exit, and whether they experience backlash when they stop bringing cash home. Using a regression discontinuity-in-differences design around a revised eligibility threshold, the study followed 2,333 women exiting Pakistan’s largest cash transfer program, surveying them before program exit and one year after it. Drawing on comprehensive measures of empowerment, intimate partner violence, and well-being, the paper finds no evidence of negative impacts a year after exit. These results suggest that the gains experienced by women during the program are not undone by adverse reactions upon exit.
+- 2026-10-27 · Program Information Document · Updated Project Information Document (PID) - Pakistan Bold Reforms for Investment-Driven Growth and Employment Program - P517511（项目：PK-Pakistan Bold Reforms for Investment-Driven Growth and Employment Program -- P517511）。http://documents.worldbank.org/curated/en/099102726030037827
+- 2026-10-27 ·  · Draft Addendum to Environmental and Social Systems Assessment (ESSA) - Pakistan Bold Reforms for Investment-Driven Growth and Employment Program - P517511（项目：PK-Pakistan Bold Reforms for Investment-Driven Growth and Employment Program -- P517511）。http://documents.worldbank.org/curated/en/099102726030022794
+- 2026-10-27 ·  · Draft Addendum to Environmental and Social Systems Assessment (ESSA) - Pakistan Bold Reforms for Investment-Driven Growth and Employment Program - P517511（项目：PK-Pakistan Bold Reforms for Investment-Driven Growth and Employment Program -- P517511）。http://documents.worldbank.org/curated/en/099102726030068340
+- 2026-10-27 · Program Information Document · Updated Project Information Document (PID) - Pakistan Bold Reforms for Investment-Driven Growth and Employment Program - P517511（项目：PK-Pakistan Bold Reforms for Investment-Driven Growth and Employment Program -- P517511）。http://documents.worldbank.org/curated/en/099102726030036254
 - 2026-10-19 · Project Information Document · Initial Project Information Document (PID) - Pakistan Entrepreneurship and Private Investment Catalyst Project - P519113（项目：PK-Pakistan Entrepreneurship and Private Investment Catalyst Project -- P519113）。http://documents.worldbank.org/curated/en/099101926092067846
 - 2026-10-19 · Environmental and Social Review Summary · Initial Environmental and Social Review Summary (ESRS) - Pakistan Entrepreneurship and Private Investment Catalyst Project - P519113（项目：PK-Pakistan Entrepreneurship and Private Investment Catalyst Project -- P519113）。http://documents.worldbank.org/curated/en/099101926092070182
+- 2026-10-16 · Governor's Statement · Statement by Ahad Khan Cheema, Governor of the IBRD for Pakistan at the 2026 Annual Meetings : Governor's Statement No. 13
+。http://documents.worldbank.org/curated/en/099423310272621380
+- 2026-10-16 · Financing Agreement · Official Documents- Financing Agreement for Credit 8111-PK.pdf（项目：PK-Connected Punjab -- P513786）。http://documents.worldbank.org/curated/en/099102326105036444
 - 2026-10-15 · Climate Co-Benefits Assessment · Climate Finance Assessment (P504536)（项目：PK-BEST-PAK MPA Program Phase 1: Grid Stability Enhancement Project -- P504536）。http://documents.worldbank.org/curated/en/099101526173011793
 - 2026-10-12 · Environmental and Social Review Summary · Additional Financing Environmental and Social Review Summary (ESRS) - Punjab Resilient and Inclusive Agriculture Transformation - P176786 - AF No: 1（项目：PK-Punjab Resilient and Inclusive Agriculture Transformation -- P176786）。http://documents.worldbank.org/curated/en/099101226101024014
 - 2026-10-08 · Environmental and Social Review Summary · Additional Financing Environmental and Social Review Summary (ESRS) - Punjab Resilient and Inclusive Agriculture Transformation - P176786 - AF No: 1（项目：PK-Punjab Resilient and Inclusive Agriculture Transformation -- P176786）。http://documents.worldbank.org/curated/en/099100826100516256
-- 2026-10-06 · Program Information Document · Appraisal Program Information Document (PID)。http://documents.worldbank.org/curated/en/099100626075036667
-- 2026-10-06 · Program Information Document · Appraisal Program Information Document (PID)。http://documents.worldbank.org/curated/en/099100626075020393
-- 2026-10-06 · Program Information Document · Appraisal Program Information Document (PID)。http://documents.worldbank.org/curated/en/099100626075029429
-- 2026-10-05 · Project Information Document · Project Information Document - Punjab Resilient and Inclusive Agriculture Transformation - P176786（项目：PK-Punjab Resilient and Inclusive Agriculture Transformation -- P176786）。http://documents.worldbank.org/curated/en/099100526010536548
 
 ## 学术论文（OpenAlex）
 
@@ -218,4 +211,4 @@ This study investigates the macroeconomic impact of the Belt and Road Initiative
 
 https://doi.org/10.1080/20954816.2023.2289235
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

@@ -131,20 +131,20 @@ https://doi.org/10.1201/9781003198147-8
 （无摘要）
 
 https://doi.org/10.1007/978-3-030-43399-4_5
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 196）
-
-（无摘要）
-
-https://doi.org/10.1016/j.ememar.2019.100629
 ### “One Belt, One Road”: China's New Global Strategy（2016，Journal of Contemporary East Asia Studies，被引 161）
 
 The “One Belt, One Road” (OBOR) initiative has been a topic of hot debate among Sinologists and pundits in recent years. What is the nature of this foreign policy and how is it implemented under the Xi Jinping administration? By examining China's OBOR initiative, this article argues that OBOR is not only a regional policy but a grand global strategy for achieving the “Chinese Dream”. While there is little chance that China will be able to create a large area of influence around the world, the potential impact on global politics cannot be overlooked.
 
 https://doi.org/10.1080/24761028.2016.11869094
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
+
+（无摘要）
+
+https://doi.org/10.1016/j.ememar.2019.100629
 ### Chances and Challenges for Kazakhstan, the EU and Austria in Chinese project “New Silk Road”（2019，BULLETIN of the L N GUMILYOV EURASIAN NATIONAL UNIVERSITY POLITICAL SCIENCE REGIONAL STUDIES ORIENTAL STUDIES TURKOLOGY Series，被引 0）
 
 （无摘要）
 
 https://doi.org/10.32523/26-16-6887/2019-129-4-96-105
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

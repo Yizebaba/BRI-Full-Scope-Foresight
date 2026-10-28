@@ -15,7 +15,7 @@ Yemen is one of the least developed countries in the world, facing significant o
 
 ### China–Yemen relations
 
-China–Yemen relations refer to the bilateral relations of the People's Republic of China (PRC) and Yemen. The two countries established formal diplomatic relations in 1956 and signed a treaty of friendship in 1958, with an agreement to cooperate in commercial, technical and cultural development. 
+China–Yemen relations refer to the bilateral relations of the People's Republic of China (PRC) and Yemen. The two countries established formal diplomatic relations in 1956 and signed a treaty of friendship in 1958, with an agreement to cooperate in commercial, technical and cultural development. During the Yemeni civil war, China has recognized the internationally recognized government of Yemen, while maintaining links to the Houthis. 
 
 
 == History ==
@@ -30,9 +30,15 @@ Discussions in CASCF regarding Yemen increased following the outbreak of the Civ
 In 2016, Yemen expressed support for China's position on territorial disputes in the South China Sea.
 China provided US$22.5 million in relief to the Yemeni government in 2017. Between 2017 and 2020, China provided more than 11,700 tons of food.
 In June 2020, Yemen was one of 53 countries that backed the Hong Kong national security law at the United Nations.
-Chinese diplomatic discourses generally avoid criticizing the Houthis by name. China typically makes its criticisms of the Houthi movement via indirect statements, which condemn actions without specifically naming the party responsible. During the Houthi attacks on commercial vessels in response to the Gaza War, China stated that the Houthis should respect the navigation rights of the merchant ships of all countries in the Red Sea in accordance with international law and "immediately cease their acts of harassment." China requested that Iran use its influence with the Houthi movement in attempt to restrain Houthi attacks on civilian ships. The U.S. government accused China of assisting the Houthis by providing them with geospatial intelligence for ship targeting via the Chang Guang Satellite Technology Corporation.
+On 9 December 2022, while visiting Saudi Arabia, Chinese leader Xi Jinping met with Rashad al-Alimi, the president of the Presidential Leadership Council.
 After the 2024 floods in Hadramaut Governorate, China provided medical and relief materials including ventilators, defibrillators, x-ray equipment, and more.
 Effective 1 December 2024, China eliminated tariffs for goods imported from all of the countries that the United Nations categorizes as least developed and with which China has diplomatic relations, including Yemen.
+
+
+=== Houthis ===
+On 15 February 2015, China voted in favor of the United Nations Security Council Resolution 2201, which condemned the actions of the Houthis and demanded them to withdraw from the state institutions and release Yemeni president Abdrabbuh Mansour Hadi. It also voted in favor of the UN Security Council Resolution 2216 on 14 April 2015, which called for the Houthis to withdraw from the territories it occupied following its takeover of Yemen. In January 2016, during Chinese leader Xi Jinping's visit to Saudi Arabia it was announced that "Both sides stressed support for the legitimate regime of Yemen". On 1 December 2016, the pro-Houthi Al-Masirah reported that from 29 November to 1 December, a delegation of Houthi officials including  Mohamed Abdulsalam, Mahdi al-Mashat and Hamza al-Houthi visited Beijing at China's invitation, where they met Deng Li, director-general of the West Asian and North African Affairs Department of the Chinese Foreign Ministry. On 2 December 2016, following the Houthi declaration of the National Salvation Government on 28 November, Chinese foreign ministry spokesperson Geng Shuang said that "We do not approve of any side in Yemen taking any unilateral actions that complicate the situation, and believe this is not beneficial to a political resolution of the Yemen issue".
+China recognizes the internationally recognized government of Yemen, currently the Presidential Leadership Council. China also has kept links with the Houthis, with Chinese Ambassador to Yemen Kang Yong and holding communications with Muhammad al-Houthi, the Houthi-backed head of state. Chinese diplomatic discourses generally avoid criticizing the Houthis by name. China typically makes its criticisms of the Houthi movement via indirect statements, which condemn actions without specifically naming the party responsible. During the Houthi attacks on commercial vessels in response to the Gaza War, China stated that the Houthis should respect the navigation rights of the merchant ships of all countries in the Red Sea in accordance with international law and "immediately cease their acts of harassment." China requested that Iran use its influence with the Houthi movement in attempt to restrain Houthi attacks on civilian ships. In April 2025, the U.S. government accused China of assisting the Houthis by providing them with geospatial intelligence for ship targeting via the Chang Guang Satellite Technology Corporation. The reason for the company supplying such satellite imagery has been speculated to be for China to ensure its commercial ships in the Red Sea are not targeted.
+On 28 July 2026, following the Houthi blockade of Saudi Arabia that started on 20 July, Reuters reported that China had held direct talks with the Houthis and Iran to enable its tankers to pass through the Red Sea without being attacked. It reported that China was clearing each vessel with the Houthis individually, and both sides have informed Iran of their actions. On 17 September, following the 2026 Yemen offensives, Reuters reported that China was seeking to pressure Iran to reign in the Houthis and help prevent the conflict spreading further across energy routes on which China depends. It reporters that Iran responded by saying that stability and peace in the region depend on ending the Iran war. The Wall Street Journal reported in October 2026 that Houthis have relied on Chinese equipment and parts to build a version of the Kheibar Shekan ballistic missile. Shao Zheng, chargé d'affaires of the Chinese Embassy to Yemen, denied the reports as baseless and urged the Houthis to abandon military action and return to peaceful dialogue.
 
 
 == Economic relations ==
@@ -108,7 +114,7 @@ https://doi.org/10.13140/rg.2.2.33611.14881
 （无摘要）
 
 https://doi.org/10.1007/978-3-031-29593-5_5
-### China and New Middle East（2021，Journal of Balkan and Near Eastern Studies，被引 25）
+### China and New Middle East（2021，Journal of Balkan and Near Eastern Studies，被引 27）
 
 A New Middle East is emerging, which is shaped by the result of geo-strategic competitions in the region among key state actors. The power structure of the new Middle East can be summarized as a weakened and divided Arab world facing more powerful non-Arab actors, which has conditioned the emergence of three significant camps in the region. Major regional state actors and some sub-state armed actors are playing an increasing role in the geo-strategic competitions in the focal point countries of Syria, Iraq, Yemen, Lebanon, and Libya. China has important interests in the Middle East, and key elements of its policy are taking shape. Institutional mechanisms of cooperation have been created and a network of partnerships with some regional countries has been established. The Belt and Road Initiative remains the key framework for China’s cooperation with the region.
 
@@ -124,4 +130,4 @@ A New Middle East is emerging, which is shaped by the result of geo-strategic co
 
 https://doi.org/10.4324/9781003402312-4
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

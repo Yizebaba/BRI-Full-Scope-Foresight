@@ -113,7 +113,7 @@ https://doi.org/10.1515/cirr-2017-0009
 The article examines the interactions of the Baltic states of Estonia, Latvia and Lithuania with China in the Belt and Road Initiative (BRI) format. First, it explores three most widespread criticisms of the Chinese BRI approach, namely: 1. The risk of Beijing becoming legitimating factor for strains on democracy, freedom and the rule of law; 2. Support towards the Chinese interpretation of values and tolerance of censorship; 3. Debt arising from infrastructure loans. Further, the article tries to establish to what extent did the Baltic states remain resilient to them, offering possible explanations to the Baltic cases along three lines – systemic resilience, discursive resilience, and financial resilience. The article concludes that BRI is taking different shapes in different regions, and that local political culture along with wider supra-national organizations determines the range and response to BRI, therefore, national institutional frameworks in combination with overwatch from supranational standard-enforcing institutions are the leading factors of countries’ resilience to risks stemming from BRI. Methodologically, the article employs qualitative approaches to data, including discourse analysis, document analysis and historic analysis. The primary sources include documents, agreements and statements of officials from China, the Baltic states, Italy, and the EU, as well as secondary sources including research publications, media reports, and mutually comparable national data.
 
 https://doi.org/10.26886/2524-101x.7.2.2021.2
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 196）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
 
 （无摘要）
 
@@ -123,7 +123,7 @@ https://doi.org/10.1016/j.ememar.2019.100629
 Headline ESTONIA/LATVIA: China’s 16+1 club shrinks further
 
 https://doi.org/10.1108/oxan-es272110
-### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 100）
+### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 102）
 
 China's Belt and Road Initiative aims to improve connectivity between China and more than 70 countries through infrastructure investment and regional cooperation. The initiative has the potential to accelerate significantly the rate of economic integration and development in the region, as trade costs decline. The goals of this paper are to (i) study the impacts of infrastructure improvements on Belt and Road Initiative and non?Belt and Road Initiative countries'trade flows, growth, and poverty; and (ii) suggest policies that would help maximize gains from the Belt and Road Initiative?induced trade cost declines. The analysis captures the trade costs reductions as a result of infrastructure improvements. The findings indicate that the Belt and Road Initiative would be largely beneficial. First, global income increases by 0.7 percent (in 2030 relative to the baseline). This translates into almost half a trillion dollars in 2014 prices and market exchange rates. The Belt and Road Initiative area captures 82 percent of the gain, with the largest percent gains in East Asia. Second, globally, the Belt and Road Initiative could contribute to lifting 7.6 million people from extreme poverty and 32 million from moderate poverty. Third, the initiative would lead to a modest increase in global carbon dioxide emissions, with a complex set of positive and negative outcomes at the national level for other types of emissions.
 
@@ -133,10 +133,10 @@ https://doi.org/10.1596/1813-9450-8814
 （无摘要）
 
 https://doi.org/10.1016/j.jenvman.2020.110250
-### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 162）
+### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 163）
 
 （无摘要）
 
 https://doi.org/10.1016/j.jdeveco.2019.102415
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

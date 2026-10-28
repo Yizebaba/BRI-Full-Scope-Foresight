@@ -84,6 +84,8 @@ Embassy of the State of Qatar in Beijing
 
 - 2026-10-01 · Brief · Macro Poverty Outlook for Qatar : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099534310152619790
   摘要：Qatar’s economy has been severely impaired by the Middle East conflict, including physical damage to LNG infrastructure and prolonged disruptions to shipping through the Strait of Hormuz. The resulting hydrocarbon output shock has sharply reversed expectations for strong growth. Substantial fiscal buffers, sovereign wealth assets ,and timely policy responses provide resilience, but heightened regional tensions and uncertainty pose significant downside risks to the near-term outlook.
+- 2026-10-01 · Brief · Macro Poverty Outlook for Qatar : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099036210212630513
+  摘要：Qatar’s economy has been severely impaired by the Middle East conflict, including physical damage to LNG infrastructure and prolonged disruptions to shipping through the Strait of Hormuz. The resulting hydrocarbon output shock has sharply reversed expectations for strong growth. Substantial fiscal buffers, sovereign wealth assets ,and timely policy responses provide resilience, but heightened regional tensions and uncertainty pose significant downside risks to the near-term outlook.
 - 2026-04-30 · Brief · Qatar Human Capital Country Brief。http://documents.worldbank.org/curated/en/099031106242658378
   摘要：Human capital - people’s knowledge, skills, and health - drives productivity and growth. The Human Capital Index Plus (HCI+) measures the human capital a child born today can expect to accumulate over their working life, extending the original HCI by incorporating tertiary education and work experience. This brief summarizes Qatar's HCI+ score and its performance in building human capital.
 - 2026-04-16 · Brief · Macro Poverty Outlook for Qatar : April 2026。http://documents.worldbank.org/curated/en/099605108062638663
@@ -109,8 +111,6 @@ Embassy of the State of Qatar in Beijing
 - 2024-12-17 · Brief · Prosperity Data360 Justice Country Snapshots : Qatar
 。http://documents.worldbank.org/curated/en/099744212232414641
   摘要：This Factsheet provides an overview of the Justice sector in Qatar according to key performance indicators.
-- 2024-11-19 · Brief · Prosperity Data360 Gender Country Snapshots : Qatar。http://documents.worldbank.org/curated/en/099636302112534119
-  摘要：Factsheet provides an overview of the gender sector in Qatar according to key performance indicators.
 
 ## 学术论文（OpenAlex）
 
@@ -155,4 +155,4 @@ https://doi.org/10.1007/978-3-031-90502-5_6
 
 https://doi.org/10.1016/s1003-5257(17)30101-0
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

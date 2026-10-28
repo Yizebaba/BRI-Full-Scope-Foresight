@@ -44,6 +44,8 @@ In October 2003, China and Jordan signed the "Memorandum of Understanding on the
 - 2026-10-09 · Brief · Jordan Poverty and Equity Brief : October 2026
 。http://documents.worldbank.org/curated/en/099643504212539299
   摘要：Poverty estimates are based on the Household Income and Expenditure Survey (HEIS). In 2018, the Government of Jordan announced a national poverty rate for Jordanians of 15.7 percent based on the 2017-18 HEIS, which emerged after an in-depth redesign of the survey supported by the World Bank. Because of the various improvements, the new estimate is not comparable to the 2010-11 figure of 14.4 percent, and it is not yet reflected in the World Bank central data or in the international poverty measures.
+- 2026-10-01 · Brief · Macro Poverty Outlook for Jordan : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099017010212617455
+  摘要：Jordan’s economy remained resilient despite heightened regional uncertainty. Inflationary pressures have begun to ease, but the conflict in the Middle East is adding to fiscal and external pressures. The outlook remains highly uncertain. Growth is projected to reach around 3 percent over the medium term, although faster acceleration will be needed to absorb the growing labor force and support stronger job creation.
 - 2026-10-01 · Brief · Macro Poverty Outlook for Jordan : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099748110152629113
   摘要：Jordan’s economy remained resilient despite heightened regional uncertainty. Inflationary pressures have begun to ease, but the conflict in the Middle East is adding to fiscal and external pressures. The outlook remains highly uncertain. Growth is projected to reach around 3 percent over the medium term, although faster acceleration will be needed to absorb the growing labor force and support stronger job creation.
 - 2026-07-15 · Announcement · Announcement of IFC and Jordan Kuwait Bank Launch Second Green Bond to Drive Sustainable Investment in Jordan on July 15, 2026
@@ -52,13 +54,14 @@ In October 2003, China and Jordan signed the "Memorandum of Understanding on the
 - 2026-06-21 · Program Document · Jordan - Second Growth and Competitiveness Development Policy Financing
 （项目：JO-Jordan Growth and Competitiveness DPF II -- P509855）。http://documents.worldbank.org/curated/en/099060826154026185
   摘要：The development objective of the Jordan Growth and Competitiveness DPF II for Jordan is to improve the enabling business environment and deepen access to finance for private sector-led growth. The operation supports reforms that reduce compliance costs and increase regulatory predictability through a unified, risk-based sectoral licensing program and strengthened competition enforcement; open the energy market to more competition by enabling privately owned independent transmission, renewable generation for self-consumption, and storage; and modernize the legal basis for digital commerce by expanding the scope of electronic transactions, recognizing cross-border digital certificates, and enabling electronic and remote notarization. It advances inclusion, jobs, and formalization by lowering fees and extending duration for highly skilled work permits and, critically, by establishing proportional social insurance coverage for flexible work arrangements through the Social Security Corporation. It deepens access to finance by mandating end-to-end digital government payment workflows and rolling out simplified Light Business Accounts to bring micro, small and medium enterprises and self-employed individuals into the formal financial system; modernizes capital markets via amendments to the Securities Law, tax neutrality for mutual funds, and a framework for debt- and equity-based crowdfunding; and strengthens credit infrastructure for cash-flow-based lending by requiring business tr
+- 2026-10-16 · Governor's Statement · Statement by Zeina Toukan, Governor of the IBRD for Jordan at the 2026 Annual Meetings : Governor's Statement No. 6
+。http://documents.worldbank.org/curated/en/099338410272641823
 - 2026-09-25 · Implementation Completion Report Review · Jordan - JO: Innovative Startups Fund (ISF)（项目：JO-Innovative Startups Fund Project -- P161905）。http://documents.worldbank.org/curated/en/099092526081022611
 - 2026-08-05 · Climate Co-Benefits Assessment · Climate Finance Assessment (P508781)（项目：JO-Jordan Health Sector Reform Program -- P508781）。http://documents.worldbank.org/curated/en/099080526124540786
 - 2026-08-05 · Climate Co-Benefits Assessment · Climate Finance Assessment (P509855)（项目：JO-Jordan Growth and Competitiveness DPF II -- P509855）。http://documents.worldbank.org/curated/en/099080526124522025
 - 2026-07-19 · Loan Agreement · Official Documents- Loan Agreement for Loan K0130-JO.pdf（项目：JO-Jordan Growth and Competitiveness DPF II -- P509855）。http://documents.worldbank.org/curated/en/099072026110028849
 - 2026-07-14 · Environmental Assessment; Environmental and Social Assessment; Social Assessment · Strategic Environmental and Social Assessment (SESA) Agriculture Resilience Value Chain Development and Innovation (ARDI) Program (P167946)（项目：JO-Agriculture Resilience, Value Chain Development and Innovation (ARDI) Program -- P167946）。http://documents.worldbank.org/curated/en/099071426051522456
 - 2026-07-06 · Agreement · Official Documents- Amendment No. 2 to the Loan Agreements for Loan 9510-JO and Loan 9817-JO.pdf（项目：JO-Electricity Sector Efficiency and Supply Reliability Program -- P171296）。http://documents.worldbank.org/curated/en/099070726115036363
-- 2026-07-06 · Financing Agreement · Official Documents- Financing Agreement for Loan K0110-JO and GCFF Grant TF0D2453.pdf（项目：JO-Jordan Health Sector Reform Program -- P508781）。http://documents.worldbank.org/curated/en/099070626113530739
 
 ## 学术论文（OpenAlex）
 
@@ -82,17 +85,17 @@ https://doi.org/10.67696/8q6a9a7j
 The “One Belt, One Road” (OBOR) initiative has been a topic of hot debate among Sinologists and pundits in recent years. What is the nature of this foreign policy and how is it implemented under the Xi Jinping administration? By examining China's OBOR initiative, this article argues that OBOR is not only a regional policy but a grand global strategy for achieving the “Chinese Dream”. While there is little chance that China will be able to create a large area of influence around the world, the potential impact on global politics cannot be overlooked.
 
 https://doi.org/10.1080/24761028.2016.11869094
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 196）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
 
 （无摘要）
 
 https://doi.org/10.1016/j.ememar.2019.100629
-### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 100）
+### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 102）
 
 China's Belt and Road Initiative aims to improve connectivity between China and more than 70 countries through infrastructure investment and regional cooperation. The initiative has the potential to accelerate significantly the rate of economic integration and development in the region, as trade costs decline. The goals of this paper are to (i) study the impacts of infrastructure improvements on Belt and Road Initiative and non?Belt and Road Initiative countries'trade flows, growth, and poverty; and (ii) suggest policies that would help maximize gains from the Belt and Road Initiative?induced trade cost declines. The analysis captures the trade costs reductions as a result of infrastructure improvements. The findings indicate that the Belt and Road Initiative would be largely beneficial. First, global income increases by 0.7 percent (in 2030 relative to the baseline). This translates into almost half a trillion dollars in 2014 prices and market exchange rates. The Belt and Road Initiative area captures 82 percent of the gain, with the largest percent gains in East Asia. Second, globally, the Belt and Road Initiative could contribute to lifting 7.6 million people from extreme poverty and 32 million from moderate poverty. Third, the initiative would lead to a modest increase in global carbon dioxide emissions, with a complex set of positive and negative outcomes at the national level for other types of emissions.
 
 https://doi.org/10.1596/1813-9450-8814
-### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 162）
+### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 163）
 
 （无摘要）
 
@@ -103,4 +106,4 @@ Innovation and globalization fosters a tendency towards multiparty collaboration
 
 https://doi.org/10.3390/su10082743
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

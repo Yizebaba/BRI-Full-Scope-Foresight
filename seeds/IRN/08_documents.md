@@ -143,7 +143,7 @@ The Hydropower Plant project was undertaken by the Chinese Gezhouba Group as its
 
 ## 学术论文（OpenAlex）
 
-### China’s Belt and Road Initiative: Implications for the Middle East（2018，Cambridge Review of International Affairs，被引 72）
+### China’s Belt and Road Initiative: Implications for the Middle East（2018，Cambridge Review of International Affairs，被引 73）
 
 This article examines the geopolitical and economic implications of the Belt and Road Initiative for the Middle East. It locates the BRI within the region’s politics and examines the opportunities that the initiative offers for the region, as well as its inherent risks and challenges. It argues that the BRI is not merely an economic project as framed by Beijing, but that it represents a new stage in China’s engagement with the region, and—if fully implemented—could have wide geopolitical implications. The Middle East has the potential to contribute immensely to China’s sustained growth by addressing its energy security, supporting China’s role as a ‘megatrader’, and, more importantly, driving China’s efforts to become a global maritime power and monetary power by internationalizing the Renminbi (RMB). Thus, the BRI could have wide implications for the Middle East. Far from being a win-win project for all, the BRI will likely benefit some countries in the region more than others. Iran stands ready to benefit most. The BRI will likely increase the strategic importance of the Suez Canal and could potentially undermine the importance of some logistic hubs in the Middle East in favour of other trade hubs in Central Asia.
 
@@ -184,4 +184,4 @@ As China expands its global influence through the Belt and Road Initiative (BRI)
 
 https://doi.org/10.1007/s44282-026-00479-3
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

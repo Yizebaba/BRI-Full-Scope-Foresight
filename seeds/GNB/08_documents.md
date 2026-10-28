@@ -48,8 +48,12 @@ In June 2020, Guinea-Bissau was one of 53 countries backed the Hong Kong nationa
 
 ## 世界银行最新文件（Documents & Reports）
 
+- 2026-10-28 · Working Paper · Ensino e Formação Técnica e Profissional na Guiné-Bissau : Análise Setorial Sensível ao Género。http://documents.worldbank.org/curated/en/099428110282623853
+  摘要：O estudo analisa o Ensino e Formação Técnica e Profissional (EFTP) na Guiné-Bissau, com foco nas dimensões de género e empregabilidade. O objetivo principal consiste em compreender a dinâmica do acesso e da participação de jovens no EFTP, sobretudo mulheres e raparigas, e identificar oportunidades para melhorar os resultados no mercado de trabalho no âmbito deste subsetor de educação
 - 2026-10-09 · Brief · Guinea-Bissau Poverty and Equity Brief : October 2026。http://documents.worldbank.org/curated/en/099629204212528253
   摘要：Poverty remains widespread despite several years of sustained economic growth. In 2026, an estimated 37.5 percent of the population, about 861,000 people, is projected to live below the extreme poverty line of US$3.00 per person per day (2021 PPP). This represents only modest progress from 39.9 percent in 2021–2022, despite sustained economic growth in the last decade, with real GDP per capita growing by an average of 2.3 percent a year since 2015.
+- 2026-10-01 · Brief · Macro Poverty Outlook for Guinea-Bissau : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099727410232634421
+  摘要：Growth is projected to ease to 4.9 percent in 2026, reflecting slower growth in public consumption and investment despite strong cashew exports. Higher cashew revenues are expected to support poverty reduction by 1.7 percentage points. Spending restraint should narrow the fiscal deficit and debt. The external position is projected to deteriorate in 2026. Risks include uncertainty surrounding the December 2026 elections, global trade tensions, and climate shocks.
 - 2026-10-01 · Brief · Macro Poverty Outlook for Guinea-Bissau : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099521010162614777
   摘要：Growth is projected to ease to 4.9 percent in 2026, reflecting slower growth in public consumption and investment despite strong cashew exports. Higher cashew revenues are expected to support poverty reduction by 1.7 percentage points. Spending restraint should narrow the fiscal deficit and debt. The external position is projected to deteriorate in 2026. Risks include uncertainty surrounding the December 2026 elections, global trade tensions, and climate shocks.
 - 2026-06-25 · Implementation Completion and Results Report · The Gambia, Guinea, Guinea-Bissau, Senegal - OMVG Interconnection Project（项目：3W-OMVG Interconnection Project -- P146830）。http://documents.worldbank.org/curated/en/099062426204526346
@@ -69,10 +73,6 @@ In June 2020, Guinea-Bissau was one of 53 countries backed the Hong Kong nationa
   摘要：This briefing showcases the gender landscape in Guinea-Bissau on key indicators helpful for monitoring gender equality and designing effective policy interventions. Gender equality fosters productivity gains, minimizes losses in wealth, reduces poverty, boosts shared prosperity, and supports green, resilient, and inclusive development.
 - 2025-12-22 · Implementation Completion and Results Report · Guinea-Bissau - Rural Transport Project（项目：GW-Guinea-Bissau - Rural Transport Project -- P161923）。http://documents.worldbank.org/curated/en/099010826104090766
   摘要：Ratings for the Rural Transport Project for Guinea-Bissau were as follows: outcome and Bank performance was satisfactory, and monitoring and evaluation (M and E) quality was substantial. Some lessons learned included: two years after rural roads were completed, delays on main road works and a community-requested design change led to continuous reloading near project end to ensure access and demonstrate sustainability, enhancing resilience in rainy seasons and durability of the rehabilitated network. Misalignment between rehabilitation works and maintenance timelines compounded the issue, as seen in other rural projects. For future operations, piloting small-scale maintenance contracts on selected sections, paired with continued sector engagement, can help secure funding in a constrained fiscal context and strengthen institutional ownership. The project’s design effectively resolved grievances and built public awareness. The grievance mechanism (GRM) was critical in helping the Project Implementation Unit (PIU) raise awareness and monitor gender-based violence (GBV) in the area of influence. Future projects should emphasize early engagement with qualified bidders. Options like larger mobilization advances can improve market attractiveness. With Bank activities resuming in the transport sector after nearly 20 years, a simple, straightforward design was fundamental to performance.
-- 2025-10-08 · Brief · Prosperity Data360 Tourism Country Snapshots : Guinea-Bissau。http://documents.worldbank.org/curated/en/099950010152536051
-  摘要：This Factsheet provides an overview of the tourism sector according to key performance indicators.
-- 2025-10-07 · Brief · Prosperity Data360 Gender Country Snapshots : Guinea-Bissau。http://documents.worldbank.org/curated/en/099705410132510712
-  摘要：This Factsheet provides an overview of the gender sector according to key performance indicators.
 
 ## 学术论文（OpenAlex）
 
@@ -101,20 +101,20 @@ https://doi.org/10.47616/jamrsss.v7i1.700
 Abstract China’s renewed prominence is the most important development in international relations in the 21st century. Despite longstanding rhetoric of its own “peaceful rise”, China is increasingly viewed as a long-term strategic competitor, especially in the United States. Foreign aid is one arena where this competition may be playing out. While Western foreign aid principles have emphasized coordination and harmonization, the rise of China as a development partner has raised the specter of a return to competitive foreign aid practices. Most notably, China's Belt and Road Initiative (BRI), has received a wary reception by those who view it primarily as a geostrategic effort, but our knowledge of responses to the BRI is often anecdotal and fragmentary. To remedy this, we test if the BRI is inducing a competitive foreign aid response by evaluating if countries involved in this initiative are more likely to receive US support for loan packages from the major, Western, multilateral development banks (MDBs). Using an instrumental variable approach, covering 7,850 project/loan packages in 10 MDBs from 162 countries during 2013–2018 period, we find that the United States was more likely to vote for MDB packages to countries that have signed on to the BRI, but predominantly when the actual amount of Chinese aid flowing to those countries is still low, suggesting the United States is competing for “hedging” countries.
 
 https://doi.org/10.1093/fpa/orad015
-### Tensionando o desencontro entre o discurso e a prática na Cooperação Sul-Sul: um olhar crítico sobre a atuação da China nas águas da Guiné-Bissau（2023，Dialética eBooks，被引 0）
-
-（无摘要）
-
-https://doi.org/10.48021/978-65-270-0495-0
 ### A Framework to Assess Debt Sustainability and Fiscal Risks under the Belt and Road Initiative（2019，World Bank, Washington, DC eBooks，被引 55）
 
 This paper provides a framework to assess the impact of infrastructure investment expected under the Belt and Road Initiative (BRI) on the debt vulnerabilities of countries that are located on BRI transport and connectivity corridors in the absence of comprehensive and consistent information on investments and financing terms. Key assumptions relate to the amount of public and publicly guaranteed (PPG) debt financing and its terms, the size and sectoral type of identified BRI investment, and the expected impact of growth in the medium and long term of that investment. BRI debt financing is expected significantly increase PPG debt in a number of countries. The paper provides estimates for both the medium and the long term. In the medium term, defined as the period 2019-2023, debt financing of BRI investment is expected to be fully disbursed while the full growth impact of BRI related infrastructure is not entirely realized. In this initial phase, around one-third of assessed BRI-recipient countries are estimated to face elevated debt vulnerabilities post- BRI, several of which have already high debt vulnerabilities. The impact of BRI on public debt would improve over the longer term under the assumption of a sustained negative interest rate-growth differential and in the absence of the materialization of BRI related fiscal risks. Still, debt to GDP ratio is expected to remain higher in one-third of countries (11 out of 30 with available data).
 
 https://doi.org/10.1596/1813-9450-8891
+### Tensionando o desencontro entre o discurso e a prática na Cooperação Sul-Sul: um olhar crítico sobre a atuação da China nas águas da Guiné-Bissau（2023，Dialética eBooks，被引 0）
+
+（无摘要）
+
+https://doi.org/10.48021/978-65-270-0495-0
 ### China's Belt and Road Initiative in Sustainable Energy Development Financing: Narrative of African Countries（2024，SSRN Electronic Journal，被引 0）
 
 （无摘要）
 
 https://doi.org/10.2139/ssrn.4874736
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

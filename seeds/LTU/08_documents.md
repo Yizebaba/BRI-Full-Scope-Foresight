@@ -112,6 +112,11 @@ Cooperation between China and Central and Eastern European Countries (China-CEE,
 
 ## 学术论文（OpenAlex）
 
+### Between the Belt and Road and the Indo-Pacific: Lithuania’s strategic reorientation（2026，Cambridge Review of International Affairs，被引 0）
+
+This paper examines the evolving dynamics of Lithuania’s engagement with China’s Belt and Road Initiative, analysing how Lithuania has navigated the intersection of economic opportunities, security concerns, and value-based foreign policy. Lithuania’s initial participation in the BRI framework was a pragmatic attempt to diversify trade partnerships, attract investment, and enhance global connectivity. However, when these expectations failed to materialise, and concerns arose regarding the strategic implications of Chinese interest in key infrastructure, the BRI was increasingly framed not as an economic opportunity but as a potential security threat. Although this development is consistent with other CEE countries, Lithuania stands out as a small state that has coupled its reassessment of China policy with the adoption of an Indo-Pacific strategy, thereby embracing a competing framework to conceptualise regional order. Drawing on an inductive analysis of government documents and interviews, this paper demonstrates how Lithuania exercised its agency by shifting from engagement with the BRI to alignment with like-minded partners in the Indo-Pacific. The findings suggest that Lithuania’s case demonstrates how small states can adapt foreign policy through pragmatic risk management and values-based positioning.
+
+https://doi.org/10.1080/09557571.2026.2664110
 ### Between the Belt and Road and the Indo-Pacific: Lithuania's Strategic Reorientation（2026，CU Research Publications Repository，被引 0）
 
 Abstract: This paper examines the evolving dynamics of Lithuania’s engagement with China’s Belt and Road Initiative, analysing how Lithuania has navigated the intersection of economic opportunities, security concerns, and value-based foreign policy. Lithuania's initial participation in the BRI framework was a pragmatic attempt to diversify trade partnerships, attract investment, and enhance global connectivity. However, when these expectations failed to materialise, and concerns arose regarding the strategic implications of Chinese interest in key infrastructure, the BRI was increasingly framed not as an economic opportunity but as a potential security threat. Although this development is consistent with other CEE countries, Lithuania stands out as a small state that has coupled its reassessment of China policy with the adoption of an Indo-Pacific strategy, thereby embracing a competing framework to conceptualise regional order. Drawing on an inductive analysis of government documents and interviews, this paper demonstrates how Lithuania exercised its agency by shifting from engagement with the BRI to alignment with like-minded partners in the Indo-Pacific. The findings suggest that Lithuania’s case demonstrates how small states can adapt foreign policy through pragmatic risk management and values-based positioning.
@@ -127,11 +132,6 @@ https://openalex.org/W7149217889
 the chinese one belt one road (obor) initiative often referred to as the new silk road (nsr), seems to be the greatest endeavour of our times in terms of economy, politics and logistics. the study aimed to examine the potential of poland, belarus, lithuania, latvia, estonia and russia to participate in the nsr. the method applied was comparative analysis including both quantitative and qualitative studies. the juxtaposition of data from the intensity of global integration enabled assessment of the potential negative consequences of non-participation of the countries in the nsr. in turn, the analysis of specific indicators of trade integration, the intensity of global integration and the logistics performance of the researched part of europe has made it possible to answer the question about the most promising variants of the nsr.
 
 https://doi.org/10.3846/16111699.2017.1404488
-### Between the Belt and Road and the Indo-Pacific: Lithuania’s strategic reorientation（2026，Cambridge Review of International Affairs，被引 0）
-
-（无摘要）
-
-https://doi.org/10.1080/09557571.2026.2664110
 ### The Baltic Resilience to China’s “Divide and Rule”（2021，Lex Portus，被引 13）
 
 The article examines the interactions of the Baltic states of Estonia, Latvia and Lithuania with China in the Belt and Road Initiative (BRI) format. First, it explores three most widespread criticisms of the Chinese BRI approach, namely: 1. The risk of Beijing becoming legitimating factor for strains on democracy, freedom and the rule of law; 2. Support towards the Chinese interpretation of values and tolerance of censorship; 3. Debt arising from infrastructure loans. Further, the article tries to establish to what extent did the Baltic states remain resilient to them, offering possible explanations to the Baltic cases along three lines – systemic resilience, discursive resilience, and financial resilience. The article concludes that BRI is taking different shapes in different regions, and that local political culture along with wider supra-national organizations determines the range and response to BRI, therefore, national institutional frameworks in combination with overwatch from supranational standard-enforcing institutions are the leading factors of countries’ resilience to risks stemming from BRI. Methodologically, the article employs qualitative approaches to data, including discourse analysis, document analysis and historic analysis. The primary sources include documents, agreements and statements of officials from China, the Baltic states, Italy, and the EU, as well as secondary sources including research publications, media reports, and mutually comparable national data.
@@ -147,10 +147,10 @@ https://openalex.org/W7211440831
 （无摘要）
 
 https://doi.org/10.1007/978-981-95-3898-0_20
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 196）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
 
 （无摘要）
 
 https://doi.org/10.1016/j.ememar.2019.100629
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

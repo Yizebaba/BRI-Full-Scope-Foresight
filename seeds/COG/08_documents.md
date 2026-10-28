@@ -4,7 +4,7 @@
 
 ## 国家概况（维基百科）
 
-The Republic of the Congo, also known as the Congo Republic, Congo-Brazzaville, or simply the Congo, is a country located on the western coast of Central Africa to the west of the Congo River. It is bordered to the west by Gabon, to the northwest by Cameroon, to the northeast by the Central African Republic, to the southeast by the Democratic Republic of the Congo, to the south by the Angolan exclave of Cabinda, and to the southwest by the Atlantic Ocean.
+The Republic of the Congo, known as the  Congo, is a country located on the western coast of Central Africa to the west of the Congo River. It is bordered to the west by Gabon, to the northwest by Cameroon, to the northeast by the Central African Republic, to the southeast by the Democratic Republic of the Congo, to the south by the Angolan exclave of Cabinda, and to the southwest by the Atlantic Ocean.
 The region was dominated by Bantu-speaking tribes at least 3,000 years ago, who built trade links leading into the Congo River basin. From the 13th century, the present-day territory was dominated by a confederation led by Vungu which included Kakongo and Ngoyo. The Tio Kingdom emerged in the 14th century, and Loango in the 16th century. In the late 19th century France colonised the region and incorporated it into French Equatorial Africa. The Republic of the Congo was established on 28 November 1958 and gained independence from France in 1960. It was a Marxist–Leninist state from 1969 to 1992, under the name People's Republic of the Congo (PRC). After the introduction of multi-party elections in 1992, the democratically elected government was overthrown during the civil war, after which Denis Sassou Nguesso, who had previously served as president from 1979 to 1992, returned to office in 1997. He has remained president since then.
 The Republic of the Congo is a member of the African Union, the United Nations, La Francophonie, the Economic Community of Central African States, and the Non-Aligned Movement. It is the fourth-largest oil producer in the Gulf of Guinea, providing the country a degree of prosperity, with political and economic instability in some areas and unequal distribution of oil revenue nationwide. Its economy is dependent on the oil sector and economic growth slowed after the post-2015 drop in oil prices.
 Christianity is the most widely professed faith in the country. According to the 2024 rendition of the World Happiness Report, the Republic of the Congo is ranked 89th among 140 nations.
@@ -117,10 +117,10 @@ https://doi.org/10.1111/cwe.12374
 The Belt and Road Initiative has become a signature instrument for the Chinese government in promoting global trade and economic integration. A new model of cooperation based on the Belt and Road Initiative, such as “infrastructure-for-resources” agreements, has been utilized in China’s collaboration with the Democratic Republic of the Congo. The article examines the economic feasibility and repercussions of the model by using the copper mining sector in the DRC. By using the case study of Sino-Congolese cooperation, the study demonstrates how investments in road, railway, and public utility infrastructure have unleashed the potential of mineral resources to the benefit of both parties.
 
 https://doi.org/10.58861/tae.grdier.2025.01
-### FDI and China´ s Belt and Road Initiative（2019，México y la Cuenca del Pacífico，被引 4）
+### Policy, institutional fragility, and Chinese outward foreign direct investment: An empirical examination of the Belt and Road Initiative（2020，Journal of International Business Policy，被引 140）
 
-This paper analyzes the trends of global investment flows that show the growing importance of that which originates in the People’s Republic of China and can be associated with the initiative “La Franja y la Ruta” (in Spanish), also identified as “Belt and Road Initiative” and “One Belt, One Road” (BRI and OBOR). The main content of bri includes financing and investment agreements of infrastructure projects in several Asian, European and African countries, which would improve physical connections. In accordance with the working hypothesis, the economic impacts of BRI are important but even more are the geopolitical consequences that ratify China’s capacity to strengthen itself as a regional and global leader.
+（无摘要）
 
-https://doi.org/10.32870/mycp.v8i22.563
+https://doi.org/10.1057/s42214-020-00056-8
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

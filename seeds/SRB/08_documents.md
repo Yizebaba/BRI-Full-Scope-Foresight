@@ -15,7 +15,7 @@ Serbia is a parliamentary republic, with its constitution ensuring the separatio
 
 ### China–Serbia relations
 
-China and Serbia maintain diplomatic relations established between People's Republic of China and SFR Yugoslavia in 1955. From 1956 to 2006, China maintained relations with the Socialist Federal Republic of Yugoslavia (SFRY) and the Federal Republic of Yugoslavia (FRY) (later Serbia and Montenegro), of which Serbia is considered shared (SFRY) or sole (FRY) legal successor. In recent decades, the two countries have held a very close relationship raising it to the level of strategic partnership since 2009.
+China and Serbia maintain diplomatic relations established between People's Republic of China and SFR Yugoslavia in 1955. From 1956 to 2006, China maintained relations with the Socialist Federal Republic of Yugoslavia (SFRY) and the Federal Republic of Yugoslavia (FRY) (later Serbia and Montenegro), of which Serbia is considered shared (SFRY) or sole (FRY) legal successor. The two countries have had a strategic partnership since 2009 and relations became closer under Aleksandar Vučić.
 
 
 == History ==
@@ -41,7 +41,7 @@ Serbian Deputy Prime Minister Božidar Đelić told reporters after an April 200
 == Economic relations ==
 China is Serbia's second biggest trading partner. Trade between the two countries amounted to $6.1 billion in 2022 with Chinese merchandise exports to Serbia standing at almost $5 billion while Serbian exports stood at $1.1 billion. Since 2024, China and Serbia have a free trade agreement. 
 Chinese companies invested $5.6 billion in Serbia in the last decade and employ 38,000 people. Chinese corporations making investments in Serbia include Zijin Mining (owner of Serbia Zijin Bor Copper cooper mining complex in Bor), Hesteel (owner of Hesteel Serbia steel plant in Smederevo), Hisense (electrical appliances factory in Valjevo), Linglong Tire (tire factory in Zrenjanin), and Minth (automotive parts factories in Šabac and Loznica).
-Since early 2010s China has invested US$10 billion in Serbian infrastructure and energy mainly through China's Belt and Road Initiative, of which Serbia was one of major beneficiaries with projects including Serbian section of the Budapest–Belgrade railway (built by CCCC), 350 MW B3 unit of Kostolac thermal power-plant (built by CMEC), Belgrade–Ljig and Čačak-Požega segments of A2 motorway (built by Shandong Gaosu Group), Pupin Bridge in Belgrade (built by CRBC). As of 2024, Chinese companies are building several large infrastructure projects including Line 1 of Belgrade Metro (built by Power China), the National Stadium and exhibition halls for Expo 2027 in Belgrade (built by Power China), A6 motorway connecting Belgrade and Novi Sad through the town of Zrenjanin (built by Shandong Gaosu Group). 
+Since early 2010s China has invested US$10 billion in Serbian infrastructure and energy mainly through China's Belt and Road Initiative, of which Serbia was one of major beneficiaries. BRI funded projects including Serbian section of the Budapest–Belgrade railway (built by CCCC), 350 MW B3 unit of Kostolac thermal power-plant (built by CMEC), Belgrade–Ljig and Čačak-Požega segments of A2 motorway (built by Shandong Gaosu Group), Pupin Bridge in Belgrade (built by CRBC). 
 The Serbian flag carrier Air Serbia operates flights between Belgrade and Shanghai and Belgrade and Guangzhou. The Chinese carriers China Southern Airlines and Hainan Airlines operate flights between Belgrade and Guangzhou and Belgrade and Beijing respectively.
 
 
@@ -193,4 +193,4 @@ https://openalex.org/W3154958098
 
 https://doi.org/10.1007/978-981-15-6879-4_16
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

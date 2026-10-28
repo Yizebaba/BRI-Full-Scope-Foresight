@@ -81,4 +81,4 @@ Chinese Embassy in Bolivia
 - 2026-08-04 · Agreement · Official Documents- Second Amendment to the Financing Agreement for Credit 5903-BO.pdf（项目：BO-Santa Cruz Road Corridor Connector Project (San Ignacio - San Jose) -- P152281）。http://documents.worldbank.org/curated/en/099082126094018926
 - 2026-06-26 · Project Information Document · Concept Program Information Document (PID)（项目：BO-Bolivia First Fiscal Sustainability and Economic Growth Development Policy Financing -- P518208）。http://documents.worldbank.org/curated/en/099062626130562108
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

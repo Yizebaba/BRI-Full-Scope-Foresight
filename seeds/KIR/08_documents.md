@@ -77,4 +77,4 @@ Maamau's government stopped recognizing Taiwan in favour of closer ties with Chi
 - 2026-10-15 · Project Information Document · Project Information Document - South Tarawa Sanitation Project - P176478（项目：KI-South Tarawa Sanitation Project -- P176478）。http://documents.worldbank.org/curated/en/099101526000536474
 - 2026-10-15 · Environmental and Social Review Summary · Additional Financing Environmental and Social Review Summary (ESRS) - South Tarawa Sanitation Project - P176478 - AF No: 1（项目：KI-South Tarawa Sanitation Project -- P176478）。http://documents.worldbank.org/curated/en/099101426234523312
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

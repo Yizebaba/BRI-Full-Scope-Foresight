@@ -105,12 +105,12 @@ The group has drawn Western media criticism related to the Belt and Road Initiat
 
 ## 学术论文（OpenAlex）
 
-### China’s spatial fix and ‘debt diplomacy’ in Africa: constraining belt or road to economic transformation?（2021，Canadian Journal of African Studies / Revue canadienne des études africaines，被引 114）
+### China’s spatial fix and ‘debt diplomacy’ in Africa: constraining belt or road to economic transformation?（2021，Canadian Journal of African Studies / Revue canadienne des études africaines，被引 115）
 
 Mounting overaccumulation of capital and material has compelled the Chinese government to seek solutions overseas. The Belt and Road Initiative (BRI), with its transregional infrastructure projects connecting Eurasia and Africa, is the hallmark venture in this effort. Chinese road, railway, port and energy projects, implemented under the BRI banner, have become widespread in Africa. This article traces drivers of the BRI in the post-reform evolution of the Chinese economy and conceptualises the BRI as a multi-vector “spatial fix” aimed at addressing chronic overaccumulation. Focusing on Kenya, Djibouti and Ethiopia, the paper documents how loan financing related to BRI projects reveals contradictions that arise from China’s spatial fix in Africa. Concerns about a looming debt crisis on the continent and the questionable economic sustainability of some BRI projects have become more pressing amidst the COVID-19-induced economic contraction. Hopes for Africa’s economic transformation based on increasing connectivity under the BRI are unlikely to materialise.
 
 https://doi.org/10.1080/00083968.2020.1868014
-### China’s Military Base in Djibouti: A Microcosm of China’s Growing Competition with the United States and New Bipolarity（2019，Journal of Contemporary China，被引 58）
+### China’s Military Base in Djibouti: A Microcosm of China’s Growing Competition with the United States and New Bipolarity（2019，Journal of Contemporary China，被引 59）
 
 This article analyzes China’ and the People’s Liberation Army (PLA)’s rationale in opening what it calls a ‘logistical support facility’ in Djibouti as well as the missions that it is supposed to fulfil. The author also presents this base’s activities since its opening on 1 August 2017 and explores the potential role that the Chinese military stationed in Djibouti could play to secure Xi Jinping’s Belt and Road initiative and protect Chinese interests and nationals in Africa or the Middle East. Finally, it assesses the PLA base’s relations with other militaries present in Djibouti, particularly the US, the French and the Japanese, concluding that Djibouti operates as a microcosm of a multipolar world heading towards a bipolar, though asymmetrical, world order.
 
@@ -125,16 +125,16 @@ https://doi.org/10.3390/su151612334
 This article aims to explain the effect of increasing threats to strategic changes in China's foreign policy. In order to protect its interests abroad, the strategic partnership with Djibouti is an effort made by China on the African continent. The Strategic Partnership between the two countries is seen as a vehicle for foreign policy goals in the form of cooperation with an interdependence pattern. This study uses secondary data through literature study with official documents from the official websites of the Ministry of Foreign Affairs of the People's Republic of China and the Ministry of Foreign Affairs of the Republic of Djibouti as well as online data searches. The author uses qualitative research methods that refer to the concept of strategic partnership and the theory of interdependence. As a foreign policy instrument, strategic partnerships are able to support the demands of global dynamics and fulfill China's interests in the global sphere. This study finds that the strategic partnership with Djibouti is the first step in increasing the global integration of the African continent towards China
 
 https://openalex.org/W7218162206
+### Djibouti: From a colonial fabrication to the deviation of the “Shekou model”（2019，Cities，被引 24）
+
+（无摘要）
+
+https://doi.org/10.1016/j.cities.2019.102488
 ### The Belt and Road Initiative: Debt Trap and its Implication on International Security（2018，Asian Journal of Multidisciplinary Studies，被引 12）
 
 One concern that has been raised against China’s infrastructure financing foreign policy – the Belt and Road Initiative – which entails lending to sovereign, mostly developing countries is debt trap. This paper draws inspiration from China’s policy response towards a defaulter country – Sri Lanka – to look at the implication of this concern from an international security perspective with two cases: Djibouti and Pakistan. It argues that, an event of default and China’s policy response of debt-for-equity swap would lead to a direct involvement on others domestic politics which would prompt various levels of civil, regional and international conflicts.
 
 https://openalex.org/W2909434916
-### Djibouti: From a colonial fabrication to the deviation of the “Shekou model”（2019，Cities，被引 22）
-
-（无摘要）
-
-https://doi.org/10.1016/j.cities.2019.102488
 ### One Belt One Road Initiative（2021，Routledge eBooks，被引 3）
 
 The New Silk Roads , known as the One Belt One Road (OBOR) initiative is, as President Xi stated in May 2017, the project of the century incorporating over 80 countries. The nations included in the OBOR initiative account for over 63% of the world’s population, with a collective 29% of total global output. Protection of a nation’s sovereignty as well as its borders should, without a doubt, be a priority. President Trump greatly focused his electoral campaign on maligning open immigration as well as the inability of the United States to economically compete with others, like Japan. Nationalistic views are increasingly shared by parties and political groups in major European countries. China has without a doubt evolved, developed, and become a leading member of the Eastern economic world. Azad Jammu and Kashmir, commonly known as Kashmir, is located in the borders of Pakistan, China, and India. A successful investment that has been completed is the Doraleh multipurpose Port in Djibouti.
@@ -146,4 +146,4 @@ This thesis is a comparative analysis of China’s influence in Djibouti and Pan
 
 https://openalex.org/W3202586166
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

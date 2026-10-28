@@ -191,4 +191,4 @@ In mid-July 2020, GCSB Minister Little confirmed that New Zealand would not ban 
 。http://documents.worldbank.org/curated/en/099235503122435668
   摘要：New Zealand is an important contributor to IFC’s Advisory programs through Ministry of Foreign Affairs and Trade (MFAT). MFAT funding focuses, among others, on the East Asia and Pacific region, with a strong focus on the Pacific Islands. As of June 30, 2023, New Zealand’s cumulative historical contribution to IFC’s Advisory and Upstream Services was 41.3 million US dollars. In November 2022, IFC issued its first New Zealand dollar-denominated social bond in the Kauri market, raising NZ$300 million to support underserved communities in developing countries including women entrepreneurs and low-income households in need of access to essential services.
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

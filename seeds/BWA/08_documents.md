@@ -63,6 +63,8 @@ Botswana continued to address the COVID-19 pandemic in 2021, beginning its vacci
   摘要：In 2015, the latest year for which survey data are available, 21.4 percent of Botswana’s population lived below US$3.00 per person per day (2021 PPP). Poverty was substantially higher in rural areas (34 percent) than in urban areas (14 percent). Although poverty declined markedly during the 2000s, progress stalled after 2009. A similar pattern is observed when using the typical poverty line for upper-middle-income countries of US$8.30 per person per day. Under this line, poverty declined from 70.6 percent in 2002 to 62.7 percent in 2009 but increased slightly to 63.2 percent in 2015. Inequality declined steadily between 2002 and 2015. However, despite these gains, Botswana remained among the most unequal countries in the world, with a consumption-based Gini index of 54.9 in 2015.
 - 2026-10-01 · Brief · Macro Poverty Outlook for Botswana : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099446310162639651
   摘要：After two years of contraction, Botswana’s economy is projected to grow by 3.4 percent in 2026, supported by recovering diamond production. However, the near-term rebound remains fragile amid structural weaknesses in diamond markets, limited fiscal space, and Middle East conflict-related inflation. Poverty, estimated at 19.8 percent in 2025 (US$3/day, 2021 PPP), remains high. Structural reforms and fiscal consolidation are essential for diversified and inclusive growth.
+- 2026-10-01 · Brief · Macro Poverty Outlook for Botswana : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099624310232616756
+  摘要：After two years of contraction, Botswana’s economy is projected to grow by 3.4 percent in 2026, supported by recovering diamond production. However, the near-term rebound remains fragile amid structural weaknesses in diamond markets, limited fiscal space, and Middle East conflict-related inflation. Poverty, estimated at 19.8 percent in 2025 (US$3/day, 2021 PPP), remains high. Structural reforms and fiscal consolidation are essential for diversified and inclusive growth.
 - 2026-07-08 · Project Appraisal Document · Botswana - Promoting Participation and Enhancing Learning Project（项目：BW-Promoting Participation and Enhancing Learning (PROPEL) -- P513800）。http://documents.worldbank.org/curated/en/099071326125524531
   摘要：Promoting Participation and Enhancing Learning (PROPEL) for Botswana has the development objectives of increasing participation in preprimary and senior secondary education and improving learning conditions in supported schools, particularly at the junior secondary level. Component 1 – Increasing participation in education: Sub-components include 1.1 Improving participation in preprimary education, which develops a national strategy for the cost-effective expansion of reception classes through a sustainable mix of public and non-state provision and finances the construction and equipping of reception classrooms and associated WASH and play facilities in underserved public schools based on transparent needs criteria; and 1.2 Increasing participation in senior secondary education, which develops a national expansion strategy to guide fiscally sustainable capacity growth, finances additional senior secondary classrooms and related facilities in high-demand areas, simplifies transition procedures and information for students and families, and establishes an Early Warning System to identify and support students at risk of disengagement or dropout. Component 2 – Enhancing the learning environment: Sub-components include 2.1 Enhancing the physical learning environment, which designs and pilots a decentralized, school- and region-empowered model for rehabilitation and cyclical maintenance of secondary schools and finances first-phase rehabilitation of the most deteriorated junior sec
 - 2026-06-17 · Brief · Global Program on Sustainability (GPS) Snapshot : Botswana, Namibia 
@@ -85,23 +87,20 @@ Botswana continued to address the COVID-19 pandemic in 2021, beginning its vacci
   摘要：The Country Opinion Survey in Botswana assists the World Bank Group (WBG) in better understanding how stakeholders in Botswana perceive the WBG. It provides the WBG with systematic feedback from national and local governments, multilateral/bilateral agencies, media, academia, the private sector, and civil society in Botswana on 1) their views regarding the general environment in Botswana; 2) their overall attitudes toward the WBG in Botswana; 3) overall impressions of the WBG’s effectiveness and results, knowledge work and activities, and communication and information sharing in Botswana; and 4) their perceptions of the WBG’s future role in Botswana.
 - 2025-10-14 · Report · FY 2025 Botswana Country Opinion Survey Report - Questionnaire。http://documents.worldbank.org/curated/en/099814310152534272
   摘要：The Country Opinion Survey in Botswana assists the World Bank Group (WBG) in better understanding how stakeholders in Botswana perceive the WBG. It provides the WBG with systematic feedback from national and local governments, multilateral/bilateral agencies, media, academia, the private sector, and civil society in Botswana on 1) their views regarding the general environment in Botswana; 2) their overall attitudes toward the WBG in Botswana; 3) overall impressions of the WBG’s effectiveness and results, knowledge work and activities, and communication and information sharing in Botswana; and 4) their perceptions of the WBG’s future role in Botswana.
-- 2025-10-08 · Brief · Prosperity Data360 Tourism Country Snapshots : Botswana
-。http://documents.worldbank.org/curated/en/099258410152588025
-  摘要：This Factsheet provides an overview of the tourism sector according to key performance indicators.
 
 ## 学术论文（OpenAlex）
 
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 196）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
 
 （无摘要）
 
 https://doi.org/10.1016/j.ememar.2019.100629
-### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 100）
+### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 102）
 
 China's Belt and Road Initiative aims to improve connectivity between China and more than 70 countries through infrastructure investment and regional cooperation. The initiative has the potential to accelerate significantly the rate of economic integration and development in the region, as trade costs decline. The goals of this paper are to (i) study the impacts of infrastructure improvements on Belt and Road Initiative and non?Belt and Road Initiative countries'trade flows, growth, and poverty; and (ii) suggest policies that would help maximize gains from the Belt and Road Initiative?induced trade cost declines. The analysis captures the trade costs reductions as a result of infrastructure improvements. The findings indicate that the Belt and Road Initiative would be largely beneficial. First, global income increases by 0.7 percent (in 2030 relative to the baseline). This translates into almost half a trillion dollars in 2014 prices and market exchange rates. The Belt and Road Initiative area captures 82 percent of the gain, with the largest percent gains in East Asia. Second, globally, the Belt and Road Initiative could contribute to lifting 7.6 million people from extreme poverty and 32 million from moderate poverty. Third, the initiative would lead to a modest increase in global carbon dioxide emissions, with a complex set of positive and negative outcomes at the national level for other types of emissions.
 
 https://doi.org/10.1596/1813-9450-8814
-### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 162）
+### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 163）
 
 （无摘要）
 
@@ -132,4 +131,4 @@ https://doi.org/10.1596/1813-9450-8891
 
 https://doi.org/10.2139/ssrn.3430318
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

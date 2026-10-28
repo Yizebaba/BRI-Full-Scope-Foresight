@@ -51,6 +51,8 @@ Sino-African relations
 - 2026-10-09 · Brief · Liberia Poverty and Equity Brief : October 2026
 。http://documents.worldbank.org/curated/en/099653404212538005
   摘要：The quality of employment is extremely poor. According to the 2022 census, only 20 percent of the working-age population was in salary or wage work. The rest were own-account workers or contributing family workers who are usually informally employed. Low human capital compounds the problem. About 40 percent of Liberians over the age of 15 lack basic literary skills, which limits their ability to work in productive jobs. Gender exclusion in the labor market is pronounced. Slightly less than half (49 percent) of women are economically active, compared to 62 percent of men. Women are also significantly more likely to be own-account or contributing family workers (85 percent) compared to men (74 percent).
+- 2026-10-01 · Brief · Macro Poverty Outlook for Liberia : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099732310232622916
+  摘要：Liberia's economy sustained solid growth in 2025, driven by strong mining activity, with growth projected to reach 5.5 percent in 2026. Inflation remained in single digits, fiscal consolidation advanced, and external balances improved. Key risks include commodity price volatility and spillovers from the Middle East conflict. Poverty is projected to ease in 2026; progress requires reforms that strengthen fiscal policy, scale up investment, and create jobs.
 - 2026-10-01 · Brief · Macro Poverty Outlook for Liberia : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099524510162689122
   摘要：Liberia's economy sustained solid growth in 2025, driven by strong mining activity, with growth projected to reach 5.5 percent in 2026. Inflation remained in single digits, fiscal consolidation advanced, and external balances improved. Key risks include commodity price volatility and spillovers from the Middle East conflict. Poverty is projected to ease in 2026; progress requires reforms that strengthen fiscal policy, scale up investment, and create jobs.
 - 2026-09-11 · Project Paper · Liberia - Sustainable Urban and Peri-Urban Agriculture for Women Empowerment Project
@@ -66,7 +68,6 @@ Sino-African relations
 - 2026-09-28 · Implementation Completion Report Review · Liberia - STAR-P（项目：LR-Smallholder Agriculture Transformation and Agribusiness Revitalization Project (STAR-P) -- P160945）。http://documents.worldbank.org/curated/en/099092826111020916
 - 2026-09-22 · Agreement · Official Documents- Exceptional Reinstatement of Financing Agreement and Retroactive Extension of Effectiveness Deadline for Credit 8025-LR.pdf（项目：LR-Southeastern Corridor Road Asset Management Project -- P149279）。http://documents.worldbank.org/curated/en/099092226161076768
 - 2026-09-01 · Environmental and Social Review Summary · Appraisal Environmental and Social Review Summary (ESRS) - Sustainable Urban and Peri-Urban Agriculture for Women Empowerment Project - P510360（项目：LR-Sustainable Urban and Peri-Urban Agriculture for Women Empowerment Project -- P510360）。http://documents.worldbank.org/curated/en/099090126061049451
-- 2026-08-23 · Agreement · Official Documents- Omnibus Amendment to Financing Agreements to introduce the Rapid Response Option with the Republic of Liberia (see Annex 1 for List of Financing Agreements).pdf（项目：LR-Excellence in Learning in Liberia -- P510448）。http://documents.worldbank.org/curated/en/099082426093060700
 
 ## 学术论文（OpenAlex）
 
@@ -100,15 +101,15 @@ https://doi.org/10.1596/1813-9450-8891
 This paper established a combined dataset from 2004 to 2015 for 129 host countries and matched them with 1193 Outward Foreign Direct Investment (OFDI) events by Chinese listed firms. Four variables were designed to proxy the agglomeration effects of Chinese OFDI at both an industry and country level. Probit and FGLS estimation methods were used to analyze whether the Chinese listed firm location choices were affected by the agglomeration level. It was found that the agglomeration effect of Chinese OFDI on host country selection was obvious, as Chinese firms were often found to follow other Chinese firms and invest in host countries where Chinese investment was concentrated; however, it was also found that Chinese firms did not choose countries where there was a high concentration of non-Chinese FDI. The agglomeration effect on Chinese OFDI industry selection was also significant. Firms were found to invest in industries that already had large Chines OFDI agglomeration or high host-country industrial agglomeration. Further investigations found that the “Belt and Road” Initiative (BRI) was effective in guiding location decisions. Firms were found to invest more along the “Belt and Road” route after the BRI was launched; however, large State-owned listed firms with higher leverage but lower productivity and profitability were found to more often invest along the BRI routes.
 
 https://doi.org/10.3390/su10114060
-### The Impact of the “Belt and Road Initiative” on International Scholarship Students（2022，Frontiers in Sociology，被引 22）
-
-The Belt and Road Initiative (BRI) has had a significant impact on China in political, economic, and cultural terms. This study focuses on the cultural domain, especially on scholarship students from the countries that signed bilateral cooperation agreements with China under the BRI. Using an integrated approach combining the difference-in-differences method and the gravity model, we explore the correlation between the BRI and the increasing number of international scholarship students funded by the Chinese government, as well as the determinants of students' decision to study in China. The panel data from 2010 to 2018 show that the launch of BRI has had a positive impact on the number of scholarship students from BRI countries. The number of scholarship recipients from non-BRI countries also increased, but at a much slower rate than those from BRI countries. The sole exception is the United States, which has trended downward for both state-funded and self-funded students.
-
-https://doi.org/10.3389/fsoc.2022.793018
 ### Countries’ Perceptions of China’s Belt and Road Initiative: A Big Data Analysis（2019，SSRN Electronic Journal，被引 38）
 
 （无摘要）
 
 https://doi.org/10.2139/ssrn.3430318
+### The Impact of the “Belt and Road Initiative” on International Scholarship Students（2022，Frontiers in Sociology，被引 22）
 
-抓取时间：2026-10-21T09:59:02Z
+The Belt and Road Initiative (BRI) has had a significant impact on China in political, economic, and cultural terms. This study focuses on the cultural domain, especially on scholarship students from the countries that signed bilateral cooperation agreements with China under the BRI. Using an integrated approach combining the difference-in-differences method and the gravity model, we explore the correlation between the BRI and the increasing number of international scholarship students funded by the Chinese government, as well as the determinants of students' decision to study in China. The panel data from 2010 to 2018 show that the launch of BRI has had a positive impact on the number of scholarship students from BRI countries. The number of scholarship recipients from non-BRI countries also increased, but at a much slower rate than those from BRI countries. The sole exception is the United States, which has trended downward for both state-funded and self-funded students.
+
+https://doi.org/10.3389/fsoc.2022.793018
+
+抓取时间：2026-10-28T10:50:59Z

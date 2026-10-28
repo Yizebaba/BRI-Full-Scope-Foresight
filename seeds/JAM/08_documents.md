@@ -47,6 +47,8 @@ The permanent headquarters of the CDB is located in Wildey, St. Michael, Barbado
 - 2026-10-09 · Brief · Jamaica Poverty and Equity Brief : October 2026
 。http://documents.worldbank.org/curated/en/099642504212576968
   摘要：While the spike in poverty in Jamaica caused by the COVID-19 crisis has been more than reversed, poverty reduction has subsequently slowed as natural disasters, including Hurricanes Beryl and Melissa, have weighed on the economy. The official national poverty rate rose from 11.0 percent in 2019 to 16.7 percent in 2021, but then fell to 8.2 percent in 2023. However, between 2023 and 2024, the poverty rate dropped by just 0.4 percentage points, reaching 7.8 percent. The marked decline between 2021 and 2023 reflects the rise in consumption across all quintiles, but the bottom 40 percent of the distribution experienced the largest gains: real per capita consumption increased by 12.0 percent in the poorest quintile and by 16.6 percent in the second poorest.
+- 2026-10-01 · Brief · Macro Poverty Outlook for Jamaica : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099100510212613001
+  摘要：Jamaica entered Hurricane Melissa with strong macroeconomic fundamentals, declining debt, and disaster-risk financing mechanisms, but structural constraints, including low productivity, informality, crime, and climate vulnerability, continued to limit growth. The hurricane disrupted tourism, agriculture, fiscal performance, and poverty reduction. Economic activity is projected to contract in 2026 before recovering through reconstruction, though risks remain.
 - 2026-10-01 · Brief · Macro Poverty Outlook for Jamaica : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099549110152613118
   摘要：Jamaica entered Hurricane Melissa with strong macroeconomic fundamentals, declining debt, and disaster-risk financing mechanisms, but structural constraints, including low productivity, informality, crime, and climate vulnerability, continued to limit growth. The hurricane disrupted tourism, agriculture, fiscal performance, and poverty reduction. Economic activity is projected to contract in 2026 before recovering through reconstruction, though risks remain.
 - 2026-06-30 · Project Paper · Jamaica - Hurricane Melissa Reconstruction Implementation Support Project
@@ -71,8 +73,5 @@ The permanent headquarters of the CDB is located in Wildey, St. Michael, Barbado
 - 2025-10-07 · Brief · Prosperity Data360 Finance, Competitiveness and Innovation Country Snapshots : Jamaica
 。http://documents.worldbank.org/curated/en/099552410092514384
   摘要：This Factsheet provides an overview of the finance, competitiveness, and innovation sector according to key performance indicators.
-- 2025-10-07 · Brief · Prosperity Data360 Gender Country Snapshots : Jamaica
-。http://documents.worldbank.org/curated/en/099705510132518259
-  摘要：This Factsheet provides an overview of the gender sector according to key performance indicators.
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

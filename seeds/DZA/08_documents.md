@@ -106,6 +106,8 @@ La Chine en Algérie : Approches socio-économiques, sous la direction de Abderr
 
 - 2026-10-01 · Brief · Macro Poverty Outlook for Algeria : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099558010152627353
   摘要：Investment and household consumption supported growth in 2025, while the large current account and fiscal deficits were financed by drawing on official reserves and hydrocarbon revenue savings. The 2026 outlook has improved from higher oil and gas prices, though growth in public expenditure and domestic energy consumption remain key constraints. The authorities are promoting investment in agriculture and mining, infrastructure connectivity, and export diversification.
+- 2026-10-01 · Brief · Macro Poverty Outlook for Algeria : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099946010212639681
+  摘要：Investment and household consumption supported growth in 2025, while the large current account and fiscal deficits were financed by drawing on official reserves and hydrocarbon revenue savings. The 2026 outlook has improved from higher oil and gas prices, though growth in public expenditure and domestic energy consumption remain key constraints. The authorities are promoting investment in agriculture and mining, infrastructure connectivity, and export diversification.
 - 2026-04-30 · Brief · Algeria Human Capital Country Brief。http://documents.worldbank.org/curated/en/099903406242627353
   摘要：Human capital - people’s knowledge, skills, and health - drives productivity and growth. The Human Capital Index Plus (HCI+) measures the human capital a child born today can expect to accumulate over their working life, extending the original HCI by incorporating tertiary education and work experience. This brief summarizes Algeria's HCI+ score and its performance in building human capital.
 - 2026-04-16 · Brief · Macro Poverty Outlook for Algeria : April 2026。http://documents.worldbank.org/curated/en/099546208062614470
@@ -128,9 +130,6 @@ La Chine en Algérie : Approches socio-économiques, sous la direction de Abderr
   摘要：This Factsheet provides an overview of the gender sector according to key performance indicators.
 - 2025-10-07 · Brief · Prosperity Data360 Finance, Competitiveness and Innovation Country Snapshots : Algeria。http://documents.worldbank.org/curated/en/099253210092565040
   摘要：This Factsheet provides an overview of the finance, competitiveness, and innovation sector according to key performance indicators.
-- 2025-10-06 · Brief · Prosperity Data360 Justice Country Snapshots : Algeria
-。http://documents.worldbank.org/curated/en/099658010162535099
-  摘要：This Factsheet provides an overview of the Justice sector according to key performance indicators.
 
 ## 学术论文（OpenAlex）
 
@@ -144,16 +143,16 @@ https://openalex.org/W7220020057
 The proportion of the rural population who live within 2 km of an all-season road is an indicator of the United Nations' Sustainable Development Goals (SDGs) 9.1.1. This paper aims to calculate SDG indicator 9.1.1 in the proximity of five Algerian expressways. Three monitoring methods are proposed for different spatial regions based on the five expressways built by China's Belt and Road Initiative Project. These methods are based on remote sensing and WorldPop and The High Resolution Settlement Layer (HRSL) population data. The results indicate that (1) the WorldPop population statistics show that the five expressways built by China's Belt Project have increased the rural population of the 2 km buffer zone by 192,016 between the start of construction and eight years after its completion. By the end of 2019, the population increased by 329,291 accounting for 1.17% of the rural population. (2) Based on populations estimated form built-up index (NDBI) building areas, the rural populations within the 2 km buffer area of the Bejaia-Haniff Expressway in 2011, 2015, and 2019 were 273,118, 306,430, and 375,408, respectively. (3) HRSL population grid statistics indicate that, in 2015, the populations were: East-West Expressway = 911,549, Bejaia Expressway = 127,471, Tipaza Expressway = 71,411, North-South Expressway = 30,583, and Cherchell Ring Expressway = 41,657. (4) A visual interpretation method based on Google Earth imagery was used to count the number of buildings and number of building floors in the town of Tikhramtath. Based on the estimated population of each building and floor, the population of Tikhramtath town in 2011, 2015, 2017, and 2019 was estimated as 1,790, 2,785, 3,365, and 3,870, respectively. (5) Through analysis and accuracy assessment, the appropriate statistical methods for different regions were determined.
 
 https://doi.org/10.7717/peerj.8953
-### Exploring the Prospects for Tourism Development in China and Arab Countries under the Belt and Road Initiative: Taking Algeria as an Example（2024，Modern Economics & Management Forum，被引 0）
-
-With the in-depth development of the “Belt and Road” strategy, the tourism development of countries along the route is in full swing. This new strategic concept of travel culture not only covers hundreds of tourist routes in many regions of the country, but also has huge connections with the vast number of Arab countries. Nowadays, the “Belt and Road” national tour will be the development trend of the tourism industry. It is of great practical significance to study the development prospects of tourism in Arab countries under the Belt and Road Initiative.
-
-https://doi.org/10.32629/memf.v5i2.1978
 ### Impact of Belt and Road Initiative Investments on Sustainability in the MENA Region（2026，Gulf Studies，被引 0）
 
 （无摘要）
 
 https://doi.org/10.1007/978-981-92-1762-5_13
+### Exploring the Prospects for Tourism Development in China and Arab Countries under the Belt and Road Initiative: Taking Algeria as an Example（2024，Modern Economics & Management Forum，被引 0）
+
+With the in-depth development of the “Belt and Road” strategy, the tourism development of countries along the route is in full swing. This new strategic concept of travel culture not only covers hundreds of tourist routes in many regions of the country, but also has huge connections with the vast number of Arab countries. Nowadays, the “Belt and Road” national tour will be the development trend of the tourism industry. It is of great practical significance to study the development prospects of tourism in Arab countries under the Belt and Road Initiative.
+
+https://doi.org/10.32629/memf.v5i2.1978
 ### Cross-Cultural Adaptation of African Students in China under the Belt and Road Initiative: A Case Study of Egypt, Algeria, the Republic of the Congo, and Uganda（2025，Journal of Human Resource Development，被引 2）
 
 With the advancement of the Belt and Road Initiative (BRI), China–Africa educational cooperation has intensified, leading to a steady increase in the number of African students studying in China. However, due to differences in cultural backgrounds and value systems, many African students face challenges in adapting to life in China. Using a literature review methodology, this study examines the cultural backgrounds of African students in China and identifies key challenges they face in adapting to daily life, academics, mental health, and interpersonal communication. The analysis further explores how these difficulties are rooted in cultural differences. Drawing on these findings, the study proposes strategies to enhance cultural adaptation, including strengthening social and cultural integration, optimizing academic support, developing peer and psychological support systems, and improving policy safeguards. The goal is to improve African students' adaptive capacity, foster mutual understanding between China and Africa, and advance international educational cooperation.
@@ -175,4 +174,4 @@ The proportion of the rural population who live within 2 km of an all-season roa
 
 https://doi.org/10.7287/peerj.8953v0.2/reviews/2
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

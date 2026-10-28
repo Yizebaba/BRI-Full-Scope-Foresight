@@ -105,7 +105,6 @@ The PNGDF Land Element includes two infantry battalions, an engineer battalion, 
   摘要：Real output grew 5.6 percent in 2025, supported by both the resource and non-resource sectors. Fiscal consolidation continued, helping to reduce public debt. Yet, many households still face rising prices and hardship. Delivering more inclusive growth and faster poverty reduction will require sustained investments in human capital and connectivity, prudent macroeconomic management, and a more supportive business environment.
 - 2026-04-16 · Brief · Macro Poverty Outlook for Papua New Guinea : April 2026 Datasheet。http://documents.worldbank.org/curated/en/099600508032621151
   摘要：Real output grew 5.6 percent in 2025, supported by both the resource and non-resource sectors. Fiscal consolidation continued, helping to reduce public debt. Yet, many households still face rising prices and hardship. Delivering more inclusive growth and faster poverty reduction will require sustained investments in human capital and connectivity, prudent macroeconomic management, and a more supportive business environment.
-- 2026-04-02 · Brief · Papua New Guinea Gender Landscape。http://documents.worldbank.org/curated/en/099850507032234884
-  摘要：This briefing showcases the gender landscape in Papua New Guinea on key indicators helpful for monitoring gender equality and designing effective policy interventions. Gender equality fosters productivity gains, minimizes losses in wealth, reduces poverty, boosts shared prosperity, and supports green, resilient, and inclusive development.
+- 2026-10-26 · Project Information Document · Appraisal Project Information Document (PID)（项目：PG-PNG Agriculture Commercialization and Diversification Project Phase 2 -- P515452）。http://documents.worldbank.org/curated/en/099102626045522631
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

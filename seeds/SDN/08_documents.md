@@ -88,6 +88,8 @@ Cardenal, Juan Pablo; Araújo, Heriberto (2011). La silenciosa conquista china (
 - 2026-10-08 · Brief · Sudan Poverty and Equity Brief : October 2026
 。http://documents.worldbank.org/curated/en/099440204222519914
   摘要：Poverty has risen steadily in Sudan over the past decade as successive political, economic, and security shocks have eroded livelihoods and living standards. Following South Sudan’s independence in 2011, Sudan’s economy contracted sharply, with real GDP per capita declining by an annual average of 6.5 percent between 2012 and 2025. The 2019 revolution, which ended the 30-year Bashir regime, opened the way for a fragile economic recovery. However, the COVID-19 pandemic slowed this progress, and the 2021 military coup brought it to a halt.
+- 2026-10-01 · Brief · Macro Poverty Outlook for Sudan : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099806310232641926
+  摘要：Sudan's economic recovery remains fragile and highly dependent on the trajectory of the conflict. Localized improvements in security and the partial recovery of economic activity are expected to support modest growth. However, ongoing insecurity and conflict-related disruptions will continue to constrain broader recovery. Fiscal pressures, foreign exchange shortages, elevated inflation, and rising import and production costs are expected to weigh on economic activity and macroeconomic stability.
 - 2026-10-01 · Brief · Macro Poverty Outlook for Sudan : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099647210162618742
   摘要：Sudan's economic recovery remains fragile and highly dependent on the trajectory of the conflict. Localized improvements in security and the partial recovery of economic activity are expected to support modest growth. However, ongoing insecurity and conflict-related disruptions will continue to constrain broader recovery. Fiscal pressures, foreign exchange shortages, elevated inflation, and rising importand production costs are expected to weigh on economic activity and macroeconomic stability.
 - 2026-09-25 · Report · Sudan - Welfare Monitoring Survey Round V, 2026（项目：SD-Sudan Welfare and Socio-Economic Monitoring -- P503915）。http://documents.worldbank.org/curated/en/099100926025631106
@@ -105,8 +107,6 @@ Cardenal, Juan Pablo; Araújo, Heriberto (2011). La silenciosa conquista china (
 - 2026-04-16 · Brief · Macro Poverty Outlook for Sudan : April 2026 Datasheet
 。http://documents.worldbank.org/curated/en/099733208192610836
   摘要：The economy shows early signs of recovery, supported by the return of displaced populations, pickup in economic activity, and easing supply constraints. Modest improvements in trade flows, localized market activity, and price stabilization in secure areas indicate nascent gains. However, the outlook remains uncertain. Recovery prospects depend on restoring peace and stability and rebuilding institutional capacity.
-- 2026-04-03 · Brief · Sudan Gender Landscape。http://documents.worldbank.org/curated/en/099938107032241858
-  摘要：This briefing showcases the gender landscape in Sudan on key indicators helpful for monitoring gender equality and designing effective policy interventions. Gender equality fosters productivity gains, minimizes losses in wealth, reduces poverty, boosts shared prosperity, and supports green, resilient, and inclusive development.
 
 ## 学术论文（OpenAlex）
 
@@ -151,4 +151,4 @@ With the advancement of the "Belt and Road" initiative, China's investment in Af
 
 https://doi.org/10.13284/j.cnki.rddl.20250296
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

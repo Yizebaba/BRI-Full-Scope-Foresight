@@ -69,6 +69,8 @@ Nigeria has an embassy in Beijing, a consulate in Guangzhou, and consulates-gene
 - 2026-10-08 · Brief · Niger Poverty and Equity Brief : October 2026
 。http://documents.worldbank.org/curated/en/099252204222512848
   摘要：Niger’s poverty landscape reflects deep structural constraints and modest, uneven progress. The national poverty rate remained near 41 percent between 2018 and 2021, but population growth of 3.7 percent annually increased the number of poor by approximately one million over the same period. Poverty is overwhelmingly rural. More than 90 percent of Niger's poor live in rural areas, and regional disparities are sharp: poverty reaches 52.7 percent in Tillaberi, 48.0 percent in Maradi, and 46.4 percent in Diffa, compared with 4.9 percent in Niamey and 14.4 percent in Agadez. Among poor workers, 74 percent are employed in agriculture, more than half are self-employed, and only 5.4 percent hold paid employment.
+- 2026-10-01 · Brief · Macro Poverty Outlook for Niger : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099754010232622890
+  摘要：In 2026, the economy is estimated to grow by 7.0 percent (3.1 percent per capita) again, supported by oil production, agricultural conditions, and mining activity. Inflation is estimated at -1.9 percent, helping reduce poverty to 47.7 percent. Over the medium term, growth is projected to remain above 6 percent as agriculture, mining, and oil support activity. Downside risks include climate shocks, security pressures, and liquidity constraints.
 - 2026-10-01 · Brief · Macro Poverty Outlook for Niger : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099548310162621622
   摘要：In 2026, the economy is estimated to grow by 7.0 percent (3.1 percent per capita) again, supported by oil production, agricultural conditions, and mining activity. Inflation is estimated at -1.9 percent, helping reduce poverty to 47.7 percent. Over the medium term, growth is projected to remain above 6 percent as agriculture, mining, and oil support activity. Downside risks include climate shocks, security pressures, and liquidity constraints.
 - 2026-06-30 · Brief · Protection sociale adaptative au Sahel : aperçu, enseignements, et impacts。http://documents.worldbank.org/curated/en/099014006302651568
@@ -77,14 +79,13 @@ Nigeria has an embassy in Beijing, a consulate in Guangzhou, and consulates-gene
 
 。http://documents.worldbank.org/curated/en/099004106302624403
   摘要：Adaptive social protection (ASP) is critical for less poverty, protection from shocks, and better jobs in the Sahel. This two-page overview outlines key insights on what ASP is, why it matters in the Sahel, and its impacts across six Sahelian countries—Burkina Faso, Chad, Mali, Mauritania, Niger, and Senegal.
+- 2026-10-27 · Implementation Completion Report Review · Niger - Niger ASP2（项目：NE-Niger Adaptive Safety Net Project 2 -- P166602）。http://documents.worldbank.org/curated/en/099102726123016937
 - 2026-10-07 · Environmental and Social Review Summary · Initial Environmental and Social Review Summary (ESRS) - Improving Access to Enhanced Health Services in Priority Areas - P519617（项目：NE-Improving Access to Enhanced Health Services in Priority Areas -- P519617）。http://documents.worldbank.org/curated/en/099100726041521791
 - 2026-10-07 · Project Information Document · Initial Project Information Document (PID) - Improving Access to Enhanced Health Services in Priority Areas - P519617（项目：NE-Improving Access to Enhanced Health Services in Priority Areas -- P519617）。http://documents.worldbank.org/curated/en/099100726041528523
 - 2026-10-07 · Project Information Document · Initial Project Information Document (PID) - Improving Access to Enhanced Health Services in Priority Areas - P519617（项目：NE-Improving Access to Enhanced Health Services in Priority Areas -- P519617）。http://documents.worldbank.org/curated/en/099100726041524716
 - 2026-08-31 · Project Information Document · Project Information Document - RESILAND Niger Integrated Landscape Management Project - P177043（项目：NE-RESILAND Niger Integrated Landscape Management Project -- P177043）。http://documents.worldbank.org/curated/en/099083126084598755
 - 2026-08-31 · Project Information Document · Project Information Document - RESILAND Niger Integrated Landscape Management Project - P177043（项目：NE-RESILAND Niger Integrated Landscape Management Project -- P177043）。http://documents.worldbank.org/curated/en/099083126084521892
 - 2026-08-03 · Environmental and Social Review Summary · Readiness Environmental and Social Review Summary (ESRS) - Niger Accelerating Electricity Access Project MPA Phase 2 (Haske 2)  - P517277（项目：NE-Niger Accelerating Electricity Access Project MPA Phase 2 (Haske 2) -- P517277）。http://documents.worldbank.org/curated/en/099080326033614717
-- 2026-07-07 · Environmental and Social Review Summary · Additional Financing Environmental and Social Review Summary (ESRS) - RESILAND Niger Integrated Landscape Management Project - P177043 - AF No: 1（项目：NE-RESILAND Niger Integrated Landscape Management Project -- P177043）。http://documents.worldbank.org/curated/en/099070726144510737
-- 2026-06-26 · Project Information Document · Updated Project Information Document (PID) - Niger Accelerating Electricity Access Project MPA Phase 2 (Haske 2) - P517277（项目：NE-Niger Accelerating Electricity Access Project MPA Phase 2 (Haske 2) -- P517277）。http://documents.worldbank.org/curated/en/099062626053032298
 
 ## 学术论文（OpenAlex）
 
@@ -129,4 +130,4 @@ This paper established a combined dataset from 2004 to 2015 for 129 host countri
 
 https://doi.org/10.3390/su10114060
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

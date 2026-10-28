@@ -96,6 +96,8 @@ The Consulate of the Republic of Namibia in Hong Kong is the official representa
 - 2026-10-08 · Brief · Namibia Poverty and Equity Brief : October 2026
 。http://documents.worldbank.org/curated/en/099246304222513204
   摘要：Between 2003 and 2015, the year of the most recent publicly available poverty survey, Namibia achieved substantial improvement in living standards. The poverty rate, measured using the international poverty line of US$3.00 per person per day (2021 PPP), more than halved, falling from 47.6 percent in 2003 to 22.9 percent in 2015. A similar trend is observed using the typical poverty line for lower-middle-income countries of US$4.20 per person per day (2021 PPP), under which poverty declined from 61.7 percent to 35.0 percent in the same period. These gains were driven by strong economic growth, rising labor incomes, improvements in education, and scaled-up social protection programs, with the largest advances occurring after 2009/10. Nevertheless, poverty remains a significant challenge. The World Bank’s Prosperity Gap metric underscores the scale of the remaining challenge: average incomes in Namibia would need to rise by a factor of 7, compared with a global average of 4.6, to lift all Namibians to the global prosperity standard of US$28 per day (2021 PPP).
+- 2026-10-01 · Brief · Macro Poverty Outlook for Namibia : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099752310232610558
+  摘要：GDP growth is forecast to increase modestly to 1.9 percent in 2026 and 2.9 percent in 2027, driven by new energy and mining projects. With lower Southern African Customs Union (SACU) revenues, maintaining fiscal discipline is key to putting public debt on a declining path. Due to modest growth and high unemployment, the poverty rate is projected at 28 percent in 2026 (US$3.00 per person per day, 2021 PPP).
 - 2026-10-01 · Brief · Macro Poverty Outlook for Namibia : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099718510162623419
   摘要：GDP growth is forecast to increase modestly to 1.9 percent in 2026 and 2.9 percent in 2027, driven by new energy and mining projects. With lower Southern African Customs Union (SACU) revenues, maintaining fiscal discipline is key to putting public debt on a declining path. Due to modest growth and high unemployment, the poverty rate is projected at 28 percent in 2026 (US$3.00 per person per day, 2021 PPP).
 - 2026-06-17 · Brief · Global Program on Sustainability (GPS) Snapshot : Botswana, Namibia 
@@ -122,17 +124,15 @@ The Consulate of the Republic of Namibia in Hong Kong is the official representa
 - 2025-10-07 · Public Expenditure Review · Harvesting Prosperity : Inclusive Economic Growth Through Strategic Agriculture Transformation in Namibia
 （项目：NA-Agriculture and Water Sectors Public Expenditure Review -- P502656）。http://documents.worldbank.org/curated/en/099060425003531240
   摘要：This report evaluates expenditure composition and examines budget allocation and execution in public agricultural spending within available data information, with a dedicated focus on climate change adaptation and mitigation. By assessing how closely resource allocations align with government priorities and the returns they yield, the analysis offers evidence-based recommendations to reposition agriculture as a pillar of inclusive growth. Considering climate risks, the report emphasizes value-for-money assessments of various adaptation and mitigation investments. Access to more granular expenditure data and local microdata would further enable the effectiveness analysis of these public investments, helping to design interventions that maximize value-for-money. This agriculture Public Expenditure Review (PER) —the first of its kind for Namibia’s agricultural sector—analyzes actual agricultural spending from 2013/14 to 2021-2022, with projections through 2025-2026. While the World Bank undertook a 2019 Namibia health sector public expenditure review, following the MAWLR mandate this analytical work is the first of its kind in being specific to the agriculture sector and in integrating relevant information from mutually supportive sectors—water and agriculture. Public expenditures data are derived from the Finance Laws covering the fiscal period 2013-2014 to 2021-2022 for actual expenditures and extending to the 2025-2026 period for budgeted expenditures. The analysis uses FAO’s
-- 2025-10-07 · Brief · Prosperity Data360 Gender Country Snapshots : Namibia。http://documents.worldbank.org/curated/en/099028210132526862
-  摘要：This Factsheet provides an overview of the gender sector according to key performance indicators.
 
 ## 学术论文（OpenAlex）
 
-### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 100）
+### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 102）
 
 China's Belt and Road Initiative aims to improve connectivity between China and more than 70 countries through infrastructure investment and regional cooperation. The initiative has the potential to accelerate significantly the rate of economic integration and development in the region, as trade costs decline. The goals of this paper are to (i) study the impacts of infrastructure improvements on Belt and Road Initiative and non?Belt and Road Initiative countries'trade flows, growth, and poverty; and (ii) suggest policies that would help maximize gains from the Belt and Road Initiative?induced trade cost declines. The analysis captures the trade costs reductions as a result of infrastructure improvements. The findings indicate that the Belt and Road Initiative would be largely beneficial. First, global income increases by 0.7 percent (in 2030 relative to the baseline). This translates into almost half a trillion dollars in 2014 prices and market exchange rates. The Belt and Road Initiative area captures 82 percent of the gain, with the largest percent gains in East Asia. Second, globally, the Belt and Road Initiative could contribute to lifting 7.6 million people from extreme poverty and 32 million from moderate poverty. Third, the initiative would lead to a modest increase in global carbon dioxide emissions, with a complex set of positive and negative outcomes at the national level for other types of emissions.
 
 https://doi.org/10.1596/1813-9450-8814
-### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 162）
+### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 163）
 
 （无摘要）
 
@@ -142,7 +142,7 @@ https://doi.org/10.1016/j.jdeveco.2019.102415
 Abstract The impact that the Belt and Road Initiative (BRI) has had on carbon emissions is a hotly debated issue. Using a panel dataset of 178 countries from 2002 to 2017, and applying the quantile difference‐in‐difference method in different industries, this study finds that, first, the BRI overall tends to reduce the carbon emission intensity of BRI countries. Second, the impact of BRI on reducing the carbon emission intensity is significant for BRI countries at higher (0.8 and 0.9) and lower (0.2 and 0.3) carbon emission intensity quantiles but it is insignificant for those at medium levels. Third, the BRI has significant impacts on reducing carbon emission intensity in the energy‐intensive industries, and this effect is the highest at the quantile level of 0.9 for all three industries considered here: transportation, electric and heating, and manufacturing and construction. These results indicate that establishing BRI cooperation with China will improve the environment and enhance the sustainable development ability of BRI countries.
 
 https://doi.org/10.1111/cwe.12374
-### The roles of cultural and institutional distance in international trade: Evidence from China's trade with the Belt and Road countries（2018，China Economic Review，被引 158）
+### The roles of cultural and institutional distance in international trade: Evidence from China's trade with the Belt and Road countries（2018，China Economic Review，被引 159）
 
 （无摘要）
 
@@ -168,4 +168,4 @@ The Belt and Road Initiative (BRI) has had a significant impact on China in poli
 
 https://doi.org/10.3389/fsoc.2022.793018
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z

@@ -81,9 +81,9 @@ https://doi.org/10.17150/2587-7445.2021.5(4).215-222
 （无摘要）
 
 https://doi.org/10.24040/sap.2020.7.1.75-82
-### The Role of Slovakia in Technology Transfer and Innovation Cooperation in the China-CEEC Cooperation Mechanism Within the Belt and Road Initiative（2023，HAL (Le Centre pour la Communication Scientifique Directe)，被引 0）
+### The Role of Slovakia in Technology Transfer and Innovation Cooperation in the China-CEEC Cooperation Mechanism Within the Belt and Road Initiative（2023，HAL，被引 0）
 
-International audience
+Slovakia was chosen to assume the role of secretariat of the virtual China-CEEC Technology Transfer Center after the 4th Summit of China and CEEC in 2015 within the China-CEEC cooperation mechanism. One quick look at the official website of this initiative is more than enough to understand it seems to lack some substance, mostly in the recent years (after 2018). This study aims to determine the best way for Slovakia to exploit this role of secretariat. Specifically, it investigates the background of the Slovakia-led virtual technology transfer center, its current state of affairs and most importantly it aims to make recommendations for academia, for the business environment and for decision makers to make full use of this project without losing sight of the broader setting of the China-CEEC cooperation mechanism, both in general and from the Slovak perspective. To achieve this set of recommendations, a qualitative study using several semi-structured interviews with local experts from different sectors was conducted. This paper summarizes the main theoretical elements to understand the particularity of this project as well as practical recommendations for its future development.
 
 https://openalex.org/W4405866250
 ### Would China Become the Next Natural Wine Hub?（2023，CRC Press eBooks，被引 0）
@@ -101,10 +101,10 @@ https://doi.org/10.1007/978-3-030-43399-4_20
 This article examines China's geopolitical interests in the Visegrád Four (V4) countries within the context of great-power rivalry. The study highlights how the ongoing global crisis has reshaped bilateral and multilateral relations, with the European Union (EU) emerging as a significant focus of China's strategic influence. The V4 countries, Poland, the Czech Republic, Slovakia, and Hungary, have become especially relevant due to their industrial capacities, relatively recent EU membership, and geographical location on the EU's eastern borders.The research reviews previous studies on China's influence in Europe, including soft-power initiatives such as the Belt and Road Initiative (BRI), foreign investments, and trade relations. It explores how various political dynamics within V4 states have affected their stance towards China, noting Poland's cautious engagement, the Czech Republic's increasing alignment with Western allies, Slovakia’s political shifts, and Hungary’s deepening partnership with Beijing. Additionally, the article investigates China’s role in Europe's green energy and digital infrastructure, assessing the implications of economic dependencies.The findings suggest that while China perceives V4 countries as gateways into Europe, geopolitical shifts, including the EU’s Global Gateway Initiative and growing concerns over technological security, challenge Beijing's strategies, prompting V4 countriesto reconsider their engagement with China and seek alternative partnerships aligned with EU and NATO frameworks. Ultimately, the study underscores the dual pressures faced by V4 states as they navigate economic opportunities from China and political commitments within the EU and NATO.
 
 https://doi.org/10.46763/bssr252525305m
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 196）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
 
 （无摘要）
 
 https://doi.org/10.1016/j.ememar.2019.100629
 
-抓取时间：2026-10-21T09:59:02Z
+抓取时间：2026-10-28T10:50:59Z
