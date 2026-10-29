@@ -10,3 +10,11 @@
 - 2026-10-29 00:57 UTC：M4.9，117 km E of Port-Olry, Vanuatu。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvn 
 - 2026-10-29 00:08 UTC：M5.4，109 km ENE of Luganville, Vanuatu。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvf 
 - 2026-10-23 22:42 UTC：M4.9，115 km NE of Norsup, Vanuatu。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4hr 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-10-29 10:33 UTC：Green 级 EQ，Earthquake in Vanuatu。https://www.gdacs.org/report.aspx?eventid=1574535&episodeid=1743474&eventtype=EQ 
+- 2026-10-29 00:57 UTC：Green 级 EQ，Earthquake in Vanuatu。https://www.gdacs.org/report.aspx?eventid=1574446&episodeid=1743367&eventtype=EQ 
+- 2026-10-29 00:08 UTC：Green 级 EQ，Earthquake in Vanuatu。https://www.gdacs.org/report.aspx?eventid=1574439&episodeid=1743360&eventtype=EQ 
+- 2026-10-28 04:31 UTC：Green 级 EQ，Earthquake in Vanuatu。https://www.gdacs.org/report.aspx?eventid=1574282&episodeid=1743175&eventtype=EQ 
+- 2026-10-28 02:59 UTC：Green 级 EQ，Earthquake in Vanuatu。https://www.gdacs.org/report.aspx?eventid=1574271&episodeid=1743167&eventtype=EQ 

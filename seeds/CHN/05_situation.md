@@ -27,3 +27,14 @@
 - 2026-10-23 20:37 UTC：M4.8，209 km ENE of Nagqu, China。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4gj 
 - 2026-10-23 14:41 UTC：M4.5，233 km ENE of Nagqu, China。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dk 
 - 2026-10-23 14:14 UTC：M4.7，215 km NE of Nagqu, China。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4df 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-10-28 22:42 UTC：Green 级 EQ，Earthquake in China。https://www.gdacs.org/report.aspx?eventid=1574448&episodeid=1743370&eventtype=EQ 
+- 2026-10-28 15:40 UTC：Green 级 EQ，Earthquake in China。https://www.gdacs.org/report.aspx?eventid=1574377&episodeid=1743285&eventtype=EQ 
+- 2026-10-25 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033290&episodeid=1&eventtype=WF 
+- 2026-10-25 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033300&episodeid=1&eventtype=WF 
+- 2026-10-23 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033219&episodeid=7&eventtype=WF 
+- 2026-10-22 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033183&episodeid=5&eventtype=WF 
+- 2026-10-22 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033222&episodeid=8&eventtype=WF 
+- 2026-10-22 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033284&episodeid=2&eventtype=WF 

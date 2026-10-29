@@ -13,4 +13,10 @@
 
 - 2026-10-26 04:53 UTC：M5，45 km NNW of Ende, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y1 
 - 2026-10-24 21:41 UTC：M4.9，53 km NNW of Fef, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pw 
-- 2026-10-22 10:57 UTC：M4.9，85 km NNW of Curup, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u42q 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-10-29 11:38 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1574544&episodeid=1743490&eventtype=EQ 
+- 2026-10-28 22:06 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1574426&episodeid=1743347&eventtype=EQ 
+- 2026-10-28 19:56 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1574408&episodeid=1743318&eventtype=EQ 
+- 2026-10-24 01:00 UTC：Green 级 FL，Flood in Indonesia。https://www.gdacs.org/report.aspx?eventid=1104253&episodeid=5&eventtype=FL 
