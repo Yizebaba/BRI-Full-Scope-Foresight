@@ -9,11 +9,7 @@
 
 - 2026-09-04 00:00 UTC：US State Dept Nepal - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-05-21 00:00 UTC：Green 级 DR，Drought in Bangladesh, Bhutan, China, India, Myanmar, Nepal。https://www.gdacs.org/report.aspx?eventid=1027462&episodeid=1&eventtype=DR 
-
-# 尼泊尔项目周边近期态势（截至 2026-10-28 21:53 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-10-29 01:44 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 

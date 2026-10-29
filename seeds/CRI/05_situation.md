@@ -9,8 +9,3 @@
 
 - 2026-09-18 04:00 UTC：CDC Travel Notices Level 1 - Hepatitis A in Costa Rica。https://wwwnc.cdc.gov/travel/notices/level1/hepatitis-a-costa-rica 
 - 2026-07-30 04:00 UTC：CDC Travel Notices Level 2 - Chikungunya in Costa Rica。https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-costa-rica 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-04-21 00:00 UTC：Orange 级 DR，Drought in Belize, Costa Rica, Cuba, Dominican Republic, Guatemala, Honduras, Haiti, Mexico, Nicaragua, El Salvador, United States。https://www.gdacs.org/report.aspx?eventid=1027449&episodeid=13&eventtype=DR 
-- 2022-09-21 00:00 UTC：Green 级 DR，Drought in Aruba, , Brazil, Colombia, Costa Rica, , French Guiana, Guyana, Panama, Suriname, Venezuela。https://www.gdacs.org/report.aspx?eventid=1023877&episodeid=13&eventtype=DR 

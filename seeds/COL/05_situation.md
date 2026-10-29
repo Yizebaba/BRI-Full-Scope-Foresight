@@ -25,7 +25,3 @@ cucuta metropolitan police
 - 2026-09-22 03:16 UTC：US Embassy Colombia Security Alert: Troncal del Caribe (Route 90) Disrupted Near Santa Marta / Guachaca (September 21, 2026)。https://co.usembassy.gov/security-alert-troncal-del-caribe-route-90-disrupted-near-santa-marta-guachaca-september-21-2026/ 
 - 2026-09-03 22:09 UTC：US Embassy Colombia Security Alert: Elevated Risk of Attacks in Cesar Department, Colombia (September 3, 2026)。https://co.usembassy.gov/security-alert-elevated-risk-of-attacks-in-cesar-department-colombia-september-3-2026/ 
 - 2026-08-14 22:21 UTC：US Embassy Colombia Natural Disaster Alert: Colombia Earthquake Update 4 – August 14, 2026。https://co.usembassy.gov/natural-disaster-alert-colombia-earthquake-update-4-august-14-2026/ 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2022-09-21 00:00 UTC：Green 级 DR，Drought in Aruba, , Brazil, Colombia, Costa Rica, , French Guiana, Guyana, Panama, Suriname, Venezuela。https://www.gdacs.org/report.aspx?eventid=1023877&episodeid=13&eventtype=DR 

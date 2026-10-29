@@ -11,8 +11,3 @@
 - 2026-10-27 11:41 UTC：M4.6，100 km W of El Aguilar, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfs 
 - 2026-10-27 11:19 UTC：M4.5，51 km S of Calingasta, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfm 
 - 2026-10-23 00:09 UTC：M4.5，102 km W of San Antonio de los Cobres, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u48i 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-10-28 07:02 UTC：Green 级 EQ，Earthquake in Argentina。https://www.gdacs.org/report.aspx?eventid=1574300&episodeid=1743196&eventtype=EQ 
-- 2026-10-27 11:41 UTC：Green 级 EQ，Earthquake in Argentina。https://www.gdacs.org/report.aspx?eventid=1574130&episodeid=1743001&eventtype=EQ 

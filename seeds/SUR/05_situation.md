@@ -8,7 +8,3 @@
 ## 各国政府旅行建议更新（经 World Monitor）
 
 - 2026-09-08 00:00 UTC：US State Dept Suriname - Level 1: Exercise Normal Precautions。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.sur.html 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2022-09-21 00:00 UTC：Green 级 DR，Drought in Aruba, , Brazil, Colombia, Costa Rica, , French Guiana, Guyana, Panama, Suriname, Venezuela。https://www.gdacs.org/report.aspx?eventid=1023877&episodeid=13&eventtype=DR 
