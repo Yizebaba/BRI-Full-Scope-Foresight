@@ -8,7 +8,3 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-10-25 17:11 UTC：M4.7，19 km NE of Atico, Peru。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4v1 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-10-26 01:00 UTC：Green 级 FL，Flood in Peru。https://www.gdacs.org/report.aspx?eventid=1104259&episodeid=1&eventtype=FL 

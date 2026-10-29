@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-10-29 15:29 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-10-29 20:30 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -73,8 +73,8 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-10-29 15:02 UTC：Balochistan Attack: BLF Claims More Than 80 Pakistani Personnel Killed in Gwadar Operation - theopenpress.in。https://news.google.com/rss/articles/CBMiigFBVV95cUxPcDk1Z01RZkozRjhGUXlzWm12d2pST1g1bmpnZk5uNXZLb3VSM2RGZU5MZTI2R1FGT0lZZjB4QzhUbjlUeWIyR01MUTU4ZEdzbER3eHhHR2xkcUpVdGxnOEdzY2xFOEs3M0lUOTVqeUdhdnVWNWFqbDNCc2hKYjYwaVdWNWt2VVp5UHc?oc=5
 - 2026-10-29 11:28 UTC：Operation Almas: Baloch Liberation Front says it killed 80 Pakistani soldiers, captured FWO camp - OpIndia。https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdGFRTkxhZXJIdjRHN1VJZEZRM2NvTTI1TXcxU3dVMVp4bmhDb25pY2xmRWpiSEtJVWdWU2xBZFFkMzAyLVdFQ2U4NFA1akFGME9kSzduTkljSmEzUUNMWkNMN3JuZF9XQkFSUHlGaWtBc0lxUjU2TGtJZ3EyeDBxUkpjYm53ZUE3ckJ1ZFdDVEQzLWd4OGg3Zi13Y0tTd1czc2J0NmdIUm5tOEpjRFJCa1JoTko1bEcteUxSZlUzVEtDNXhScDNOYnBWbGhBa1ZBM2h6SlFIbTVUY3pvZk4wcTlETVplOHJsNWNqZ0tRTVB5SEt5?oc=5
+- 2026-10-29 10:32 UTC：Balochistan Attack: BLF Claims More Than 80 Pakistani Personnel Killed in Gwadar Operation - theopenpress.in。https://news.google.com/rss/articles/CBMiigFBVV95cUxPcDk1Z01RZkozRjhGUXlzWm12d2pST1g1bmpnZk5uNXZLb3VSM2RGZU5MZTI2R1FGT0lZZjB4QzhUbjlUeWIyR01MUTU4ZEdzbER3eHhHR2xkcUpVdGxnOEdzY2xFOEs3M0lUOTVqeUdhdnVWNWFqbDNCc2hKYjYwaVdWNWt2VVp5UHc?oc=5
 - 2026-10-28 16:12 UTC：Gwadar Operation Almas: Baloch Liberation Front Claims Over 80 Pakistani Personnel Killed, Figures Remain Disputed - theopenpress.in。https://news.google.com/rss/articles/CBMilAFBVV95cUxPVzBYd05CcU01T183QlYzcjk0SHYyMmtSQVlTZHgzV1FfNDllUzRScFFoWWFpY3JjXzY5Yzgxc0NQZHduZndNWHNMUUpHT3A4dGV1VkFzWEJJRVNJbXlyNW1nUE5GOFlUTU1ROFNPTmt4aXFBd0J1Y2w2MzVVTzM4N2pNRldaZUhjQ29aTVoyU0ZoeXlt?oc=5
 - 2026-10-28 12:27 UTC：BLF claims over 80 Pakistani personnel killed in Operation Almas in Gwadar - MyIndMakers。https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWNVZVlTSTZEb0lTR1ZiY2paOXR1d19RbURVWUJvaFlpS04xUF8xeUxoN3A0anNmT1NfSVVaZW1XOExwM1BMQmNHdHFwY3dTZ0kzdlFNakpRamNYTTlJZVhDR0FaYngxVDZrUFZ6Z0dVakNlN3o4VWowTG1fc2VFX0NPbG40Qm1JOTZHWHMyTHNyWV9OVXpyTFNqM0tkc1R0R0xuaFU2Yjdwc2pkZmc?oc=5
 - 2026-10-28 11:15 UTC：Baloch separatist group claims over 80 Pakistani personnel killed in Gwadar operation - News9live。https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejlKelhNNVFlb2gzdG8xWmFuS2o0amdLWlhFZG50bnpKSW00ZFlRNE5NVG5yd3NFSWVBZGV3cndydUVzeG1saHVlT0FLeGlSTU1fWHNfVVZmVGhFdU5JWHV6ZGFQY2RaWG5hdWY5czRFaDVzTVBxZVUyR015eWVvOWxtM1ZPUWtZNEZXWEpNNGh1bjczV3p2UHhTM3h3NWtwX0VVVjZmRGVsX2hsX2ZrMms3Zk44MkJ6c0cycVo0cks0MWvSAcgBQVVfeXFMTmlxdEVhVTJxVjZfSFR2Qklmc3QyNzZmMHEwNVNsd0VGRVctTndfVTVEd0plSEp2d1hhX2w2bC16YXhuUktUSGxzdHkzR0c4ZVhYUTJSRXI4MV9hSEhNTlFfRF9TSVNLenc0RGdoMWdPSEtWV091ZW5EUUowb1NnQ1p5bjNESTlQcWpuOER2WlhSR2ZYTG0zRktEcnFmaDY2REJFcTA2TDJCNUJSQ3NPeGgzdjJ4cGVWODh5Y29rcW5URzBvZjRhREU?oc=5
@@ -87,7 +87,6 @@
 - 2026-10-23 14:25 UTC：Gwadar Security Operation Foils Attacks, 10 Militants Reported Killed - Aaj News。https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pSVhNakNlMHgwX3ZacHdaRElidlhQTUI5dzJaZTZLVk5vNFdtZmh6dzYwT1NLaHFzd0Q3ZXhLTktDa2xBb2hNMEk1MW0?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-10-29 12:15 UTC：Gwadar Becomes First Balochistan District to Implement Deceased Employees’ Quota - Daily Independent
 - 2026-10-28 20:16 UTC：University of Gwadar, NIMA Plan Cooperation in Maritime Research, Internships - Daily Independent
 - 2026-10-28 19:48 UTC：Hidayat Rehman Seeks Prompt Payment of Unpaid Hospital Staff Salaries in Gwadar - Daily Independent
 - 2026-10-28 11:55 UTC：Over 500 Dolphins Captured Leaping Near Fishing Boat in Gwadar Waters in Rare Spectacle - Minute Mirror
@@ -95,6 +94,7 @@
 - 2026-10-28 09:12 UTC：Massive Pod of 500 Dolphins Spotted Off Gwadar Coast - lovin.co
 - 2026-10-28 01:51 UTC：Pod of bottlenose dolphins spotted off Gwadar - Dawn
 - 2026-10-27 08:59 UTC：Hassan Laboratory Opens in Gwadar’s Sarbandan - The Daily CPEC
+- 2026-10-27 08:25 UTC：Over 500 Dolphins Spotted Leaping Near a Boat in Gwadar - Aaj News
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

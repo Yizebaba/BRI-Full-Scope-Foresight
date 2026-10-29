@@ -9,7 +9,3 @@
 ## 各国政府旅行建议更新（经 World Monitor）
 
 - 2026-10-19 15:55 UTC：UK FCDO Turkey。https://www.gov.uk/foreign-travel-advice/turkey 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-10-26 01:00 UTC：Green 级 FL，Flood in Türkiye。https://www.gdacs.org/report.aspx?eventid=1104254&episodeid=1&eventtype=FL 

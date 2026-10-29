@@ -11,6 +11,5 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
-- 2026-10-23 00:00 UTC：Green 级 WF，Forest fires in Tanzania, Malawi。https://www.gdacs.org/report.aspx?eventid=1033238&episodeid=8&eventtype=WF 
-- 2026-10-15 00:00 UTC：Green 级 WF，Forest fires in Tanzania, Malawi。https://www.gdacs.org/report.aspx?eventid=1033034&episodeid=9&eventtype=WF 
-- 2026-10-15 00:00 UTC：Green 级 WF，Forest fires in Malawi。https://www.gdacs.org/report.aspx?eventid=1033295&episodeid=1&eventtype=WF 
+- 2026-10-23 00:00 UTC：Green 级 WF，Forest fires in Tanzania, Malawi。https://www.gdacs.org/report.aspx?eventid=1033238&episodeid=9&eventtype=WF 
+- 2026-10-22 00:00 UTC：Green 级 WF，Forest fires in Zambia, Malawi。https://www.gdacs.org/report.aspx?eventid=1033281&episodeid=2&eventtype=WF 
