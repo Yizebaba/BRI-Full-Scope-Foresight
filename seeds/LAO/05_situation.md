@@ -5,7 +5,7 @@
 - 美国国务院旅行建议：Laos - Level 2: Exercise Increased Caution（Tue, 28 Jul 2026）。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lao.html 
 - World Monitor 汇总的旅行建议级别：caution
 
-# 老挝项目周边近期态势（截至 2026-10-29 20:30 UTC）
+# 老挝项目周边近期态势（截至 2026-10-30 22:55 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -17,8 +17,7 @@
 
 ## 中老铁路
 
-周边自然事件（地震 150 km、灾害警报 300 km、NASA 自然事件 150 km 以内）：
-- 2026-10-23 19:31 UTC，USGS 地震目录：M4.2 earthquake · 37 km ESE of Sainyabuli, Laos，距项目 28.7 km。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4g1
+周边自然事件：扫描期间没有记录。
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-10-29 10:38 UTC：Cross-Border Train Travel via China-Vietnam Border Port Surpasses 96,000 Passenger Trips - 昆明信息港
