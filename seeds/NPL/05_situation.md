@@ -9,7 +9,7 @@
 
 - 2026-09-04 00:00 UTC：US State Dept Nepal - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 
-# 尼泊尔项目周边近期态势（截至 2026-10-30 13:27 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-10-30 18:48 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -24,6 +24,8 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-10-30 11:44 UTC：Border Crossings Remain Closed Due to Natural Obstacles and Geopolitical Concerns - Ratopati。https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjRLczNNd1ZJbG9DOTNWMGdWZnUxZWRKWTJUQm9reFQzTXlmVDNvN09YMWltcWFpMEhVUDB2em9saE03bHNkQXdBcFVKczlRSHRWaEo1OUdvcEc1Q01DZThDR1NET3BiUkxUandKME80VndYeGhIbWJqbnZ2WXNUUU1DY3I2T1lBWXlpeGRZeVM5WUM3Y1dhNkZB?oc=5
+- 2026-10-30 10:10 UTC：Government suspends NPABSAN for non-compliance with ministry directives - Deshsanchar。https://news.google.com/rss/articles/CBMipwFBVV95cUxQMVZZYWNjQm54M2FzcDV3TkpyWlVsd3daVUtQOU1jVEhvdXFEblNvOXlwOG5wQ3FySWhoYnBVZTJFVU1nOUFzQTBqRVVLek92V0g0cVlLOEZFRC1hejJBRlNCZVNBVW05bWtkaDhCQUtLbHdEN1NGdFc5WE5wNDVnM2NyT3duMklaZ3NhY1lNaFNkUmlKSkpjUGhVOHB1VGd1UlBndFpqZw?oc=5
 - 2026-10-30 02:24 UTC：Nepal plans temporary bridges to reopen flood-hit Rasuwagadhi border crossing - The Kathmandu Post。https://news.google.com/rss/articles/CBMivAFBVV95cUxNSGE4ZHE1ekxVYVZOYXg1bEdrQTE2NFlGOFJVYU5HRDhtN3djbnhQODVUZFU2Z2VLVFZ5dE1QSEVVZ0pzSkQ4Q3IyTTZPY2ZCRURBNUZHYWF4YjFXMncxbXBoRXNOVDZGalFhUV9QbXF3MlVsazBSZjdqeS0yS1VtYXlFcG4wV2xtV3FCdm5ia0Vha0Y0ekhubVllQTd2RGNfeU9FVVl2dTdEOHVhYVZyUUpqVkpWa2tXbVJlUQ?oc=5
 - 2026-10-29 03:58 UTC：15 customs employees still out of contact after Rasuwagadhi flood - Nepalnews.com。https://news.google.com/rss/articles/CBMimgJBVV95cUxPMDNsRnoxV1pORmx2TTJQYzgydUE3UUhkZzBJTmpSaVdMRWkyRXVjQWI3WlJUWmloV3U4RWZfamt4UDMxYlVYTHhIZUFWVEFBbEhSaG1pMklFM18xaDBNcTVHbS11bVdndGJ3M1F1dGFSRFlvZFJGMm5ILWZTbkdNQjk2LURobk1Fem4yS3JWMDRJS0VoLWp4LUVIX0FLdVlEVFk0RXZZdXNfRmptOXRWYnpOdHoyekFOOXhBblpVWHUtRGpfdUhVVWtGR2VwaHYwQnlURFJDd0t4NElCSnVESzRMWVo2aGQzZFNIUDRIa1UwZEpfUHdtZ29DZHJzdkJhbXFZWlV4NXBrTmRjSGhpRkd4WUM0T2F5V2c?oc=5
 - 2026-10-27 07:51 UTC：Death toll rises to 162 in Nepal flash floods - DD News。https://news.google.com/rss/articles/CBMie0FVX3lxTFBfdEdFbWhLR2pOczRrMDZVVVhCNEhKeFZmdlhRRTdiSDdhWC1HRlVtYVo4ZVZrZHh4Y2JWZVhuTDRBaE9MbFFpTkJKVmxMVWZNQmc5MzZCaVFUX2g1Qm5QSlN5dFhRbm5wS0o2ZkxtNllFOHg4TkVhcnpNbw?oc=5
@@ -40,7 +42,7 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-10-30 11:18 UTC：Border Crossings Remain Closed Due to Natural Obstacles and Geopolitical Concerns - Ratopati。https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjRLczNNd1ZJbG9DOTNWMGdWZnUxZWRKWTJUQm9reFQzTXlmVDNvN09YMWltcWFpMEhVUDB2em9saE03bHNkQXdBcFVKczlRSHRWaEo1OUdvcEc1Q01DZThDR1NET3BiUkxUandKME80VndYeGhIbWJqbnZ2WXNUUU1DY3I2T1lBWXlpeGRZeVM5WUM3Y1dhNkZB?oc=5
+- 2026-10-30 11:44 UTC：Border Crossings Remain Closed Due to Natural Obstacles and Geopolitical Concerns - Ratopati。https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjRLczNNd1ZJbG9DOTNWMGdWZnUxZWRKWTJUQm9reFQzTXlmVDNvN09YMWltcWFpMEhVUDB2em9saE03bHNkQXdBcFVKczlRSHRWaEo1OUdvcEc1Q01DZThDR1NET3BiUkxUandKME80VndYeGhIbWJqbnZ2WXNUUU1DY3I2T1lBWXlpeGRZeVM5WUM3Y1dhNkZB?oc=5
 - 2026-10-30 10:10 UTC：Government suspends NPABSAN for non-compliance with ministry directives - Deshsanchar。https://news.google.com/rss/articles/CBMipwFBVV95cUxQMVZZYWNjQm54M2FzcDV3TkpyWlVsd3daVUtQOU1jVEhvdXFEblNvOXlwOG5wQ3FySWhoYnBVZTJFVU1nOUFzQTBqRVVLek92V0g0cVlLOEZFRC1hejJBRlNCZVNBVW05bWtkaDhCQUtLbHdEN1NGdFc5WE5wNDVnM2NyT3duMklaZ3NhY1lNaFNkUmlKSkpjUGhVOHB1VGd1UlBndFpqZw?oc=5
 - 2026-10-30 02:24 UTC：Nepal plans temporary bridges to reopen flood-hit Rasuwagadhi border crossing - The Kathmandu Post。https://news.google.com/rss/articles/CBMivAFBVV95cUxNSGE4ZHE1ekxVYVZOYXg1bEdrQTE2NFlGOFJVYU5HRDhtN3djbnhQODVUZFU2Z2VLVFZ5dE1QSEVVZ0pzSkQ4Q3IyTTZPY2ZCRURBNUZHYWF4YjFXMncxbXBoRXNOVDZGalFhUV9QbXF3MlVsazBSZjdqeS0yS1VtYXlFcG4wV2xtV3FCdm5ia0Vha0Y0ekhubVllQTd2RGNfeU9FVVl2dTdEOHVhYVZyUUpqVkpWa2tXbVJlUQ?oc=5
 - 2026-10-29 03:58 UTC：15 customs employees still out of contact after Rasuwagadhi flood - Nepalnews.com。https://news.google.com/rss/articles/CBMimgJBVV95cUxPMDNsRnoxV1pORmx2TTJQYzgydUE3UUhkZzBJTmpSaVdMRWkyRXVjQWI3WlJUWmloV3U4RWZfamt4UDMxYlVYTHhIZUFWVEFBbEhSaG1pMklFM18xaDBNcTVHbS11bVdndGJ3M1F1dGFSRFlvZFJGMm5ILWZTbkdNQjk2LURobk1Fem4yS3JWMDRJS0VoLWp4LUVIX0FLdVlEVFk0RXZZdXNfRmptOXRWYnpOdHoyekFOOXhBblpVWHUtRGpfdUhVVWtGR2VwaHYwQnlURFJDd0t4NElCSnVESzRMWVo2aGQzZFNIUDRIa1UwZEpfUHdtZ29DZHJzdkJhbXFZWlV4NXBrTmRjSGhpRkd4WUM0T2F5V2c?oc=5

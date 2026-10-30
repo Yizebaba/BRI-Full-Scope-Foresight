@@ -14,6 +14,3 @@
 ## 灾害警报（GDACS，近 14 天）
 
 - 2026-10-30 10:24 UTC：Green 级 EQ，Earthquake in Philippines。https://www.gdacs.org/report.aspx?eventid=1574738&episodeid=1743700&eventtype=EQ 
-- 2026-10-29 07:31 UTC：Green 级 EQ，Earthquake in Philippines。https://www.gdacs.org/report.aspx?eventid=1574512&episodeid=1743447&eventtype=EQ 
-- 2026-10-29 03:19 UTC：Green 级 EQ，Earthquake in Philippines。https://www.gdacs.org/report.aspx?eventid=1574466&episodeid=1743403&eventtype=EQ 
-- 2026-10-29 03:17 UTC：Green 级 EQ，Earthquake in Philippines。https://www.gdacs.org/report.aspx?eventid=1574464&episodeid=1743391&eventtype=EQ 

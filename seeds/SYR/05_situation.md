@@ -9,7 +9,3 @@
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 
 - 2026-08-30：XXX652 与 Civilians，死亡 1 人。UCDP 引用来源：SOHR
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-10-27 01:00 UTC：Green 级 FL，Flood in Syria。https://www.gdacs.org/report.aspx?eventid=1104263&episodeid=1&eventtype=FL 
