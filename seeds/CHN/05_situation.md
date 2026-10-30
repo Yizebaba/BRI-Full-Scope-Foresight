@@ -30,7 +30,6 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
-- 2026-10-28 22:42 UTC：Green 级 EQ，Earthquake in China。https://www.gdacs.org/report.aspx?eventid=1574448&episodeid=1743370&eventtype=EQ 
 - 2026-10-25 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033290&episodeid=1&eventtype=WF 
 - 2026-10-25 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033300&episodeid=1&eventtype=WF 
 - 2026-10-23 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033219&episodeid=7&eventtype=WF 

@@ -8,3 +8,6 @@
 ## 灾害警报（GDACS，近 14 天）
 
 - 2026-10-22 00:00 UTC：Green 级 WF，Forest fires in Mozambique。https://www.gdacs.org/report.aspx?eventid=1033220&episodeid=8&eventtype=WF 
+- 2026-10-16 00:00 UTC：Green 级 WF，Forest fires in Mozambique。https://www.gdacs.org/report.aspx?eventid=1033060&episodeid=16&eventtype=WF 
+- 2026-10-15 00:00 UTC：Green 级 WF，Forest fires in Mozambique。https://www.gdacs.org/report.aspx?eventid=1033124&episodeid=5&eventtype=WF 
+- 2026-10-15 00:00 UTC：Green 级 WF，Forest fires in Mozambique。https://www.gdacs.org/report.aspx?eventid=1033161&episodeid=8&eventtype=WF 

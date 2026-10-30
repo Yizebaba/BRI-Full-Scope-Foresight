@@ -8,4 +8,4 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-10-26 20:52 UTC：M4.6，20 km NNW of La Ligua, Chile。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttc8 
-- 2026-10-22 21:37 UTC：M4.6，49 km S of Ollagüe, Chile。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u47n 
+- 2026-10-26 20:20 UTC：M4.7，7 km SE of Coquimbo, Chile。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttbz 
