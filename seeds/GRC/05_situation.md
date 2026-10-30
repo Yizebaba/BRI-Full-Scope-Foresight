@@ -8,3 +8,7 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-10-25 05:15 UTC：M4.9，17 km SE of Ambelókipoi, Greece。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sm 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-10-30 10:45 UTC：Green 级 EQ，Earthquake in Greece。https://www.gdacs.org/report.aspx?eventid=1574741&episodeid=1743711&eventtype=EQ 

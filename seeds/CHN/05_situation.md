@@ -30,9 +30,9 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
+- 2026-10-27 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033328&episodeid=1&eventtype=WF 
+- 2026-10-26 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033329&episodeid=1&eventtype=WF 
+- 2026-10-25 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033300&episodeid=3&eventtype=WF 
+- 2026-10-25 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033327&episodeid=2&eventtype=WF 
 - 2026-10-25 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033290&episodeid=1&eventtype=WF 
-- 2026-10-25 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033300&episodeid=1&eventtype=WF 
-- 2026-10-23 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033219&episodeid=7&eventtype=WF 
-- 2026-10-22 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033183&episodeid=5&eventtype=WF 
-- 2026-10-22 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033222&episodeid=8&eventtype=WF 
-- 2026-10-22 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033284&episodeid=2&eventtype=WF 
+- 2026-10-23 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033219&episodeid=8&eventtype=WF 
