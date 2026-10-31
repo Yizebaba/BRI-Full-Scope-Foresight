@@ -13,7 +13,5 @@
 ## 灾害警报（GDACS，近 14 天）
 
 - 2026-10-24 00:00 UTC：Green 级 WF，Forest fires in Tanzania。https://www.gdacs.org/report.aspx?eventid=1033310&episodeid=3&eventtype=WF 
-- 2026-10-23 00:00 UTC：Green 级 WF，Forest fires in Tanzania。https://www.gdacs.org/report.aspx?eventid=1033258&episodeid=7&eventtype=WF 
+- 2026-10-23 00:00 UTC：Green 级 WF，Forest fires in Tanzania。https://www.gdacs.org/report.aspx?eventid=1033258&episodeid=8&eventtype=WF 
 - 2026-10-23 00:00 UTC：Green 级 WF，Forest fires in Tanzania。https://www.gdacs.org/report.aspx?eventid=1033336&episodeid=1&eventtype=WF 
-- 2026-10-20 00:00 UTC：Green 级 WF，Forest fires in Tanzania。https://www.gdacs.org/report.aspx?eventid=1033285&episodeid=4&eventtype=WF 
-- 2026-10-20 00:00 UTC：Green 级 WF，Forest fires in Tanzania。https://www.gdacs.org/report.aspx?eventid=1033339&episodeid=1&eventtype=WF 

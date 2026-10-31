@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-10-31 08:47 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-10-31 15:15 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -49,6 +49,9 @@
 ## 喀喇昆仑公路改扩建（雷科特—红其拉甫）
 
 周边自然事件：扫描期间没有记录。
+
+近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-10-25 07:29 UTC：Opinion | Divided Kashmir, Divergent Roads: How CPEC Failed Where J&K’s Infrastructure Succeeded - The Global Kashmir
 
 ## 喀喇昆仑公路二期（塔科特—哈维连）
 
@@ -77,15 +80,14 @@
 - 2026-10-28 11:15 UTC：Baloch separatist group claims over 80 Pakistani personnel killed in Gwadar operation - News9live。https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejlKelhNNVFlb2gzdG8xWmFuS2o0amdLWlhFZG50bnpKSW00ZFlRNE5NVG5yd3NFSWVBZGV3cndydUVzeG1saHVlT0FLeGlSTU1fWHNfVVZmVGhFdU5JWHV6ZGFQY2RaWG5hdWY5czRFaDVzTVBxZVUyR015eWVvOWxtM1ZPUWtZNEZXWEpNNGh1bjczV3p2UHhTM3h3NWtwX0VVVjZmRGVsX2hsX2ZrMms3Zk44MkJ6c0cycVo0cks0MWvSAcgBQVVfeXFMTmlxdEVhVTJxVjZfSFR2Qklmc3QyNzZmMHEwNVNsd0VGRVctTndfVTVEd0plSEp2d1hhX2w2bC16YXhuUktUSGxzdHkzR0c4ZVhYUTJSRXI4MV9hSEhNTlFfRF9TSVNLenc0RGdoMWdPSEtWV091ZW5EUUowb1NnQ1p5bjNESTlQcWpuOER2WlhSR2ZYTG0zRktEcnFmaDY2REJFcTA2TDJCNUJSQ3NPeGgzdjJ4cGVWODh5Y29rcW5URzBvZjRhREU?oc=5
 - 2026-10-28 08:24 UTC：47 Terrorists Killed in Balochistan Operations from October 10 to 28 - Balochistan Pulse。https://news.google.com/rss/articles/CBMijwFBVV95cUxNUjRhSmdDYzV3bVhXR2tHYzVuc1Fta0dkUFZWVXJaUnVMdTdDVG9yMGc3WlBrdWs0b2VvRHgwWTFJRFV5ODVRbGVRdVQ5bjRTSHFEWU5LMnFjb2g3cUFiaVBqeUZ0NjJxSndGYko3YUJhcVUxZ3ZVcHhhQW5HOEcwVXZZbGJyeTc4SUdrTGk2b9IBjwFBVV95cUxNUjRhSmdDYzV3bVhXR2tHYzVuc1Fta0dkUFZWVXJaUnVMdTdDVG9yMGc3WlBrdWs0b2VvRHgwWTFJRFV5ODVRbGVRdVQ5bjRTSHFEWU5LMnFjb2g3cUFiaVBqeUZ0NjJxSndGYko3YUJhcVUxZ3ZVcHhhQW5HOEcwVXZZbGJyeTc4SUdrTGk2bw?oc=5
 - 2026-10-28 02:53 UTC：80 Pakistani personnel killed in Operation Almas, says Baloch Liberation Front - India Today。https://news.google.com/rss/articles/CBMi3gFBVV95cUxQemt1VXUzaDBFWkdpQWR0OTVFY3VuVDhfOWJfbmgwby15N054dDZ6bmZNS3JsMVpKUEV5UHVhaTZGVTZXOHp3Y1c3Mk5lTXQ2bjBTeGxDemJrWjJKUWFUdVlla0VibmZaTjRZY2p2OENMWVBsRlJEdVJiLXpmclRuZHNDcC1EbGdXcW9URDVqY01XT1Z6U1hET3NfWWt3Qm1FRmRGNkFtSU94WXFtZ212LWRzR0dmY05valZ5TDluOXhBeDFkYURDVDBnMUFDcVRnMXp2bG50R3d2QUxNa2fSAeMBQVVfeXFMUHBLQmhhTjR2U1ZudTRITjVydHpsbVJQME5Ob1pqSzVOb0RPZkx5UHFzbkdONEk5NzA1RDBNc2Vsc0piOXVTemJrSEY3OEtqa2ktRExlNkJYS3lMS0IzS1l0VUZxYTl3REJaZkpFTG1MQWNDdW9VRDBXYXRVcTlacjZkeTRQQkgxaDJpazRSRjZLVFA0VXlEMmRxblJmSG1wZzM5M0k3dkdjNmRaQ0ttRnJacTQtYlk3RmhOLVlOLVROYWo5bG9OV0x6ZG1VSjdqSmxpZUxKWGdNOEtIVjBwZDN1ZUU?oc=5
-- 2026-10-24 10:08 UTC：Gwadar on the Brink: Islamabad Claims Attack Thwarted, Separatists Claim Base Seized - خبرگزاری صدای افغان(آوا)。https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS0lqU0RuYjg3OEVNTE9Na2RQYnJOQ2o1a01aUDZoMzJ2eHc0SVpRMWtUTTRJUHRVaG1qaGFrdklkWHpzSnh0dHp0R1BZNTJRZnRwcGhHZENiQm0wTUdyVlJMYlNzVnNiVUY3aHBybG1BY1F1S3hJWm5TLWZ6blBKYlo4Z1JoclNxVk9wU0M5NWdnS1VheVNobXkwUGNXSHcxazFIVVltdHhuSHFTTjJJTWJyX1ZsaGZoS3dOcVlKWktWQQ?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-10-31 13:21 UTC：Large pod of dolphins spotted leaping through waves off Gwadar coast - 24 News HD
 - 2026-10-30 20:32 UTC：Gwadar Agriculture Department Recruits Receive Appointment Orders - Daily Independent
 - 2026-10-30 20:26 UTC：Hidayat-ur-Rehman Calls for Removal of Hurdles Slowing Gwadar Development - Daily Independent
 - 2026-10-30 14:35 UTC：Gwadar Development Authority Highlights Two Decades Of Infrastructure And Public Amenities Projects - UrduPoint
 - 2026-10-30 08:02 UTC：China Film Week at QAU Celebrates 75 Years of China-Pakistan Diplomatic Ties - Gwadar Pro
 - 2026-10-30 01:56 UTC：Gwadar's fresh seafood finds new fans in Quetta - The Express Tribune
-- 2026-10-28 20:16 UTC：University of Gwadar, NIMA Plan Cooperation in Maritime Research, Internships - Daily Independent
 - 2026-10-28 19:48 UTC：Hidayat Rehman Seeks Prompt Payment of Unpaid Hospital Staff Salaries in Gwadar - Daily Independent
 - 2026-10-28 11:55 UTC：Over 500 Dolphins Captured Leaping Near Fishing Boat in Gwadar Waters in Rare Spectacle - Minute Mirror
 
