@@ -9,3 +9,7 @@
 
 - 2026-10-29 00:57 UTC：M4.9，117 km E of Port-Olry, Vanuatu。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvn 
 - 2026-10-29 00:08 UTC：M5.4，109 km ENE of Luganville, Vanuatu。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvf 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-10-31 00:26 UTC：Green 级 EQ，Earthquake in Vanuatu。https://www.gdacs.org/report.aspx?eventid=1574865&episodeid=1743834&eventtype=EQ 
