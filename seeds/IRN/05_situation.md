@@ -13,3 +13,11 @@
 ## 国际新闻要闻（经 World Monitor）
 
 - 2026-10-20 14:41 UTC：Iran live updates: Trump says US is winning war, 'can leave right now'（ABC News）。 
+
+## 地震（USGS，M4.5+，近 7 天）
+
+- 2026-10-31 21:20 UTC：M5，115 km SE of Bushehr, Iran。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tukm 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-10-31 21:20 UTC：Green 级 EQ，Earthquake in Iran。https://www.gdacs.org/report.aspx?eventid=1574991&episodeid=1743971&eventtype=EQ 
