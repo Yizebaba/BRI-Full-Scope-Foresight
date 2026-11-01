@@ -8,4 +8,3 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-10-30 22:46 UTC：M4.6，33 km NE of Mazo Cruz, Peru。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tufp 
-- 2026-10-25 17:11 UTC：M4.7，19 km NE of Atico, Peru。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4v1 

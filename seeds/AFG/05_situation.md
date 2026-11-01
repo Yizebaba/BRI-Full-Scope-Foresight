@@ -14,4 +14,3 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-10-27 14:09 UTC：M4.6，41 km S of Farkhār, Afghanistan。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgc 
-- 2026-10-25 17:44 UTC：M5.2，59 km SW of Ashkāsham, Afghanistan。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4va 

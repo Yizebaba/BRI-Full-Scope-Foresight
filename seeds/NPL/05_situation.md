@@ -9,7 +9,7 @@
 
 - 2026-09-04 00:00 UTC：US State Dept Nepal - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-01 16:16 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-01 20:46 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -28,7 +28,6 @@
 - 2026-10-30 10:10 UTC：Government suspends NPABSAN for non-compliance with ministry directives - Deshsanchar。https://news.google.com/rss/articles/CBMipwFBVV95cUxQMVZZYWNjQm54M2FzcDV3TkpyWlVsd3daVUtQOU1jVEhvdXFEblNvOXlwOG5wQ3FySWhoYnBVZTJFVU1nOUFzQTBqRVVLek92V0g0cVlLOEZFRC1hejJBRlNCZVNBVW05bWtkaDhCQUtLbHdEN1NGdFc5WE5wNDVnM2NyT3duMklaZ3NhY1lNaFNkUmlKSkpjUGhVOHB1VGd1UlBndFpqZw?oc=5
 - 2026-10-30 02:24 UTC：Nepal plans temporary bridges to reopen flood-hit Rasuwagadhi border crossing - The Kathmandu Post。https://news.google.com/rss/articles/CBMivAFBVV95cUxNSGE4ZHE1ekxVYVZOYXg1bEdrQTE2NFlGOFJVYU5HRDhtN3djbnhQODVUZFU2Z2VLVFZ5dE1QSEVVZ0pzSkQ4Q3IyTTZPY2ZCRURBNUZHYWF4YjFXMncxbXBoRXNOVDZGalFhUV9QbXF3MlVsazBSZjdqeS0yS1VtYXlFcG4wV2xtV3FCdm5ia0Vha0Y0ekhubVllQTd2RGNfeU9FVVl2dTdEOHVhYVZyUUpqVkpWa2tXbVJlUQ?oc=5
 - 2026-10-29 03:58 UTC：15 customs employees still out of contact after Rasuwagadhi flood - Nepalnews.com。https://news.google.com/rss/articles/CBMimgJBVV95cUxPMDNsRnoxV1pORmx2TTJQYzgydUE3UUhkZzBJTmpSaVdMRWkyRXVjQWI3WlJUWmloV3U4RWZfamt4UDMxYlVYTHhIZUFWVEFBbEhSaG1pMklFM18xaDBNcTVHbS11bVdndGJ3M1F1dGFSRFlvZFJGMm5ILWZTbkdNQjk2LURobk1Fem4yS3JWMDRJS0VoLWp4LUVIX0FLdVlEVFk0RXZZdXNfRmptOXRWYnpOdHoyekFOOXhBblpVWHUtRGpfdUhVVWtGR2VwaHYwQnlURFJDd0t4NElCSnVESzRMWVo2aGQzZFNIUDRIa1UwZEpfUHdtZ29DZHJzdkJhbXFZWlV4NXBrTmRjSGhpRkd4WUM0T2F5V2c?oc=5
-- 2026-10-27 07:00 UTC：Nepal floods: What's happening in Nepal after deadly floods? - British Red Cross。https://news.google.com/rss/articles/CBMilgFBVV95cUxPSGxVNVZPd1dKSnNFSF9iYlFnTi1lT2ZKYklKSE14NHF2R1lYVWxmbnJ3SHVpQy1LVTRpMEtCZjN6eEZMM3hkcVZ6SGdpVGdIMnR1aXVHbWMtQV9TeENGWGs2bUhQUWFYZHpEZ095aVZTWTdjOVNMZlZZN3BVNjVoOTZnVU8yTXo1UGRIczdPNUxBTUxraFE?oc=5
 - 2026-10-26 13:27 UTC：Rasuwagadhi Border Crossing Remains Closed for Two Months Due to Flood Damage - Ratopati。https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkg0WjMwT21KM3Raa3BNOUFzV2tzcHFxVVlyMzJDU213ZExQc21TWUNuTU5IM1Q1TFlXa3V1aWtjcUZDZ3AtUFVKeDk4a2R1THRsWjNWcFQ1TEN4S3VrWHBtNktCX3hIUnVGRjFjdWNwMWplSXJjU0NaalJFMGx3YXpBdUZhRnZoSExDdDhsM21PZWxSdTIxZDFoVnloYnFZUkRwRXFuRmRycnc0S2xjVHFTcUFoZDN4VEtESl9DU2dZZw?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
@@ -61,7 +60,7 @@
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
 - 2026-11-01 03:28 UTC：Nepal: Two pulled alive from tunnel nine days after floods - DW.com。https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkpnY1dtSFdKcnN3RERtaEZlemJSekRuaEY1ZW9DWFkyNndac0xHR2V1ck5seHV3RUZoWmlUQWU3ckpvenB5dUhQYmV5a3JLOWRvdnVUc1BtdmNVR2NRNFpleGFmSVJWOGJYRFl3RFFpZWVBbXJENENRam9BZU5sQnJXdF9NT243VGhBSVI1ck9NMkVs0gGUAUFVX3lxTE9nNTMwTWRlQk5JaUc4YmJGUnljNVJoT0dVVDhIaDl2ZXA3MFRqVnRVTXItVndDR3cxUTBEUDhUSDVrdHhGTy1BWktNSWFYNmNHaGlXazhCOXR5TkdmN2ZHYVE2Nnpqa1dVV0lxeUYzaHBKOVM5TW9Wb2dTaVhncGpkNHhPNnRibmVpR21nSXJiNzlxVW4?oc=5
-- 2026-10-31 10:56 UTC：Nepal flood losses estimated at $2.56 billion, official says - Awani International。https://news.google.com/rss/articles/CBMipgFBVV95cUxPZFFVak1GQzdiYUhYanluVk1FQjBtNzBwTU9lSktvRmpNTkpNeF9xa2pPTzE0TmZTdTRMTG5aUVpzMV9BQU5wQWJ5dHVCTl9Wb1p4VXg1SWdBdmFRUFNsV2VrODJla3M3ZUwxWlM0aDNWd1RoSk9LcUNnczdTU294a2JnSEI2YjByQ3hYZkNrbURBZGx4VGVYX3F3TDE3RHk0N2RXNmJB?oc=5
+- 2026-10-31 19:36 UTC：Nepal flood losses estimated at $2.56 billion, official says - Awani International。https://news.google.com/rss/articles/CBMipgFBVV95cUxPZFFVak1GQzdiYUhYanluVk1FQjBtNzBwTU9lSktvRmpNTkpNeF9xa2pPTzE0TmZTdTRMTG5aUVpzMV9BQU5wQWJ5dHVCTl9Wb1p4VXg1SWdBdmFRUFNsV2VrODJla3M3ZUwxWlM0aDNWd1RoSk9LcUNnczdTU294a2JnSEI2YjByQ3hYZkNrbURBZGx4VGVYX3F3TDE3RHk0N2RXNmJB?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-10-26 06:18 UTC：Customs-evaded goods seized in Kanchanpur - OnlineKhabar English News
@@ -71,7 +70,6 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-10-27 04:56 UTC：Nepal Floods Cause Catastrophic Damage, Displace Thousands - Ratopati。https://news.google.com/rss/articles/CBMilAFBVV95cUxNUzF6ZjZUaVdfM24tMjZOTHJvS2E4T2NaZlhZYTF4VTF0WjJUdG1DMVJKLS16ZGgyQlZDLTVfNklkdDhqbmFiR0I5MVRaSnBDZG4xNjdsaDUxbjZkMmQ5Tk5Ea2N4cDhVZUZlUW5CTjBhVGFvUGdjWl9veWdOYmptUmw2YV9XZ2FTNjY4ZERoOGhJbjJl?oc=5
 - 2026-10-26 01:34 UTC：Nepal resumes power exports to Bangladesh after flood disruption - Asia News Network。https://news.google.com/rss/articles/CBMilAFBVV95cUxORlphT3U4RVdRX0tLbjJ2aHM1X3ZuMW9ha2VGenRKV2NJUWJYeU1EWEpUYktmY08ySjcxd21USGthNE5sM3J0YWo3dHJFdUV0dXN3cDlxMjk4UktvT3VPd25kOHdmMU1KU1lOOWNWSlFQWXZDZVBsRWp0dWpyMHlqMjhTOWRzZUp0UTFWWTlERjlUaU1w?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
