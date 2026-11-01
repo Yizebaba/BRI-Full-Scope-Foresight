@@ -36,11 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-10-17 00:00 UTC：Green 级 WF，Forest fires in Pakistan。https://www.gdacs.org/report.aspx?eventid=1033275&episodeid=5&eventtype=WF 
-
-# 巴基斯坦项目周边近期态势（截至 2026-11-01 02:06 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-01 09:08 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -60,14 +56,10 @@
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-10-27 10:58 UTC：NHA projects worth over Rs70 million under third-party evaluation - Profit by Pakistan Today
-- 2026-10-26 11:31 UTC：CPEC portfolio reaches $50.34bn; 45 of 95 projects completed-INP - Independent News Pakistan
 
 ## 卡洛特水电站（720 MW）
 
 周边自然事件：扫描期间没有记录。
-
-近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-10-26 11:31 UTC：CPEC portfolio reaches $50.34bn; 45 of 95 projects completed-INP - Independent News Pakistan
 
 ## 瓜达尔港
 
@@ -83,6 +75,7 @@
 - 2026-10-28 02:53 UTC：80 Pakistani personnel killed in Operation Almas, says Baloch Liberation Front - India Today。https://news.google.com/rss/articles/CBMi3gFBVV95cUxQemt1VXUzaDBFWkdpQWR0OTVFY3VuVDhfOWJfbmgwby15N054dDZ6bmZNS3JsMVpKUEV5UHVhaTZGVTZXOHp3Y1c3Mk5lTXQ2bjBTeGxDemJrWjJKUWFUdVlla0VibmZaTjRZY2p2OENMWVBsRlJEdVJiLXpmclRuZHNDcC1EbGdXcW9URDVqY01XT1Z6U1hET3NfWWt3Qm1FRmRGNkFtSU94WXFtZ212LWRzR0dmY05valZ5TDluOXhBeDFkYURDVDBnMUFDcVRnMXp2bG50R3d2QUxNa2fSAeMBQVVfeXFMUHBLQmhhTjR2U1ZudTRITjVydHpsbVJQME5Ob1pqSzVOb0RPZkx5UHFzbkdONEk5NzA1RDBNc2Vsc0piOXVTemJrSEY3OEtqa2ktRExlNkJYS3lMS0IzS1l0VUZxYTl3REJaZkpFTG1MQWNDdW9VRDBXYXRVcTlacjZkeTRQQkgxaDJpazRSRjZLVFA0VXlEMmRxblJmSG1wZzM5M0k3dkdjNmRaQ0ttRnJacTQtYlk3RmhOLVlOLVROYWo5bG9OV0x6ZG1VSjdqSmxpZUxKWGdNOEtIVjBwZDN1ZUU?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-01 07:59 UTC：Gwadar's first tuff tiles and pavers manufacturing unit inaugurated Breaking - Independent News Pakistan
 - 2026-10-31 13:21 UTC：Large pod of dolphins spotted leaping through waves off Gwadar coast - 24NewsHD
 - 2026-10-30 20:32 UTC：Gwadar Agriculture Department Recruits Receive Appointment Orders - Daily Independent
 - 2026-10-30 20:26 UTC：Hidayat-ur-Rehman Calls for Removal of Hurdles Slowing Gwadar Development - Daily Independent
@@ -90,7 +83,6 @@
 - 2026-10-30 08:02 UTC：China Film Week at QAU Celebrates 75 Years of China-Pakistan Diplomatic Ties - Gwadar Pro
 - 2026-10-30 01:56 UTC：Gwadar's fresh seafood finds new fans in Quetta - The Express Tribune
 - 2026-10-29 07:00 UTC：CICG Releases Report on China’s Poverty Alleviation Experience in Islamabad - Gwadar Pro
-- 2026-10-29 07:00 UTC：Gwadar's first tuff tiles and pavers manufacturing unit inaugurated - Gwadar Pro
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 
