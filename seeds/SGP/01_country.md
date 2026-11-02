@@ -8,7 +8,7 @@
 - 政府首脑：黄循财（Lawrence Wong）；职位：新加坡总理（Prime Minister of Singapore）
 - 立法机构：新加坡国会（Parliament of Singapore）
 - 中央银行：新加坡金融管理局（Monetary Authority of Singapore）
-- 首都：新加坡（Singapore）；货币：新加坡元（Singapore dollar）；官方语言：英语（English）、泰米尔语（Tamil）、现代标准汉语（Standard Chinese）、马来语（Malay）
+- 首都：新加坡（Singapore）；货币：新加坡元（Singapore dollar）；官方语言：马来语（Malay）、英语（English）、现代标准汉语（Standard Chinese）、泰米尔语（Tamil）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -75,7 +75,7 @@
 - 非居民专利申请（件）：11,523（2024 年）
 - 高技术出口占制成品出口（%）：59.43（2024 年）
 - 高技术出口（现价美元）：2235.93 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 41,366 篇（OpenAlex），主要学科：Medicine（8,238）、Engineering（8,106）、Computer Science（7,396）、Social Sciences（2,493）、Biochemistry, Genetics and Molecular Biology（1,867）、Materials Science（1,570）、Environmental Science（1,481）、Psychology（1,113）
+- 2025 年有本国作者参与的论文约 41,499 篇（OpenAlex），主要学科：Medicine（8,271）、Engineering（8,145）、Computer Science（7,436）、Social Sciences（2,509）、Biochemistry, Genetics and Molecular Biology（1,868）、Materials Science（1,579）、Environmental Science（1,468）、Psychology（1,095）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/SGP ；Wikidata https://www.wikidata.org/ （CC0）。

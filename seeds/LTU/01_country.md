@@ -8,7 +8,7 @@
 - 政府首脑：明道加斯·辛克維丘斯（Mindaugas Sinkevičius）；职位：立陶宛总理（Prime Minister of Lithuania）
 - 立法机构：立陶宛共和国议会（Seimas）
 - 中央银行：立陶宛银行（Bank of Lithuania）
-- 首都：维尔纽斯（Vilnius）；货币：欧元；官方语言：立陶宛语（Lithuanian）
+- 首都：维尔纽斯（Vilnius）；货币：欧元（euro）；官方语言：立陶宛语（Lithuanian）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -75,7 +75,7 @@
 - 非居民专利申请（件）：5.00（2024 年）
 - 高技术出口占制成品出口（%）：17.32（2024 年）
 - 高技术出口（现价美元）：41.81 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 8,865 篇（OpenAlex），主要学科：Medicine（1,549）、Social Sciences（1,356）、Engineering（1,054）、Environmental Science（518）、Arts and Humanities（493）、Agricultural and Biological Sciences（434）、Computer Science（425）、Business, Management and Accounting（410）
+- 2025 年有本国作者参与的论文约 8,926 篇（OpenAlex），主要学科：Medicine（1,561）、Social Sciences（1,365）、Engineering（1,058）、Environmental Science（517）、Arts and Humanities（497）、Agricultural and Biological Sciences（439）、Computer Science（431）、Business, Management and Accounting（416）
 - 切斯瓦夫·米沃什（Czesław Miłosz）：诺贝尔文学奖，1980 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

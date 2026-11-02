@@ -4,7 +4,7 @@
 
 ## 国家机构与领导人（Wikidata，现任）
 
-- 国家元首：图伊拉埃帕·萨伊莱莱·马利埃莱额奥伊（Tuilaʻepa Saʻilele Malielegaoi）、瓦莱托阿·苏阿劳维二世（Va'aletoa Sualauvi II）；职位：萨摩亚国家元首（O le Ao o le Malo）
+- 国家元首：瓦莱托阿·苏阿劳维二世（Va'aletoa Sualauvi II）、图伊拉埃帕·萨伊莱莱·马利埃莱额奥伊（Tuilaʻepa Saʻilele Malielegaoi）；职位：萨摩亚国家元首（O le Ao o le Malo）
 - 政府首脑：菲婭梅·內奧米·馬塔阿法（Fiamē Naomi Mataʻafa）、图伊拉埃帕·萨伊莱莱·马利埃莱额奥伊（Tuilaʻepa Saʻilele Malielegaoi）；职位：萨摩亚总理（Prime Minister of Samoa）
 - 立法机构：萨摩亚立法大会（Legislative Assembly of Samoa）
 - 中央银行：萨摩亚中央银行（Central Bank of Samoa）
@@ -63,7 +63,7 @@
 - 非居民专利申请（件）：2.00（2023 年）
 - 高技术出口占制成品出口（%）：76.67（2024 年）
 - 高技术出口（现价美元）：1268 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 82 篇（OpenAlex），主要学科：Medicine（29）、Social Sciences（11）、Agricultural and Biological Sciences（9）、Immunology and Microbiology（7）、Environmental Science（6）、Biochemistry, Genetics and Molecular Biology（4）、Health Professions（4）、Business, Management and Accounting（3）
+- 2025 年有本国作者参与的论文约 77 篇（OpenAlex），主要学科：Medicine（29）、Social Sciences（11）、Agricultural and Biological Sciences（9）、Environmental Science（6）、Biochemistry, Genetics and Molecular Biology（4）、Health Professions（4）、Business, Management and Accounting（3）、Psychology（3）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/WSM ；Wikidata https://www.wikidata.org/ （CC0）。

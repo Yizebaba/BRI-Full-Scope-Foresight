@@ -9,6 +9,11 @@
 
 - 2026-08-07 04:00 UTC：CDC Travel Notices Level 2 - Zika in Indonesia。https://wwwnc.cdc.gov/travel/notices/level2/zika-indonesia 
 
+## 地震（USGS，M4.5+，近 7 天）
+
+- 2026-11-02 08:13 UTC：M5.1，19 km WNW of Tomohon, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy 
+
 ## 灾害警报（GDACS，近 14 天）
 
+- 2026-11-02 08:13 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1575222&episodeid=1744242&eventtype=EQ 
 - 2026-11-02 00:53 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1575167&episodeid=1744180&eventtype=EQ 

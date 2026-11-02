@@ -8,7 +8,7 @@
 - 政府首脑：克里斯滕·米哈尔（Kristen Michal）、卡娅·卡拉斯（Kaja Kallas）；职位：愛沙尼亞總理（Prime Minister of Estonia）
 - 立法机构：爱沙尼亚国会（Riigikogu）
 - 中央银行：爱沙尼亚银行（Bank of Estonia）
-- 首都：塔林（Tallinn）；货币：欧元；官方语言：爱沙尼亚语（Estonian）
+- 首都：塔林（Tallinn）；货币：欧元（euro）；官方语言：爱沙尼亚语（Estonian）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -75,7 +75,7 @@
 - 非居民专利申请（件）：3.00（2024 年）
 - 高技术出口占制成品出口（%）：18.38（2024 年）
 - 高技术出口（现价美元）：22.70 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 6,122 篇（OpenAlex），主要学科：Social Sciences（756）、Engineering（728）、Agricultural and Biological Sciences（689）、Medicine（562）、Environmental Science（510）、Computer Science（495）、Arts and Humanities（387）、Biochemistry, Genetics and Molecular Biology（341）
+- 2025 年有本国作者参与的论文约 6,189 篇（OpenAlex），主要学科：Social Sciences（773）、Engineering（753）、Agricultural and Biological Sciences（690）、Medicine（568）、Computer Science（503）、Environmental Science（493）、Arts and Humanities（399）、Biochemistry, Genetics and Molecular Biology（342）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/EST ；Wikidata https://www.wikidata.org/ （CC0）。

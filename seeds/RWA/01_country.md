@@ -8,7 +8,7 @@
 - 政府首脑：贾斯廷·恩森吉尤姆瓦（Justin Nsengiyumva）；职位：卢旺达总理（Prime Minister of Rwanda）
 - 立法机构：卢旺达议会（Parliament of Rwanda）
 - 中央银行：卢旺达国家银行（National Bank of Rwanda）
-- 首都：基加利（Kigali）；货币：卢旺达法郎（Rwandan franc）；官方语言：法语（French）、英语（English）、斯瓦希里语（Swahili）、卢旺达语（Kinyarwanda）
+- 首都：基加利（Kigali）；货币：卢旺达法郎（Rwandan franc）；官方语言：法语（French）、斯瓦希里语（Swahili）、英语（English）、卢旺达语（Kinyarwanda）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：3.00（2024 年）
 - 高技术出口占制成品出口（%）：4.78（2022 年）
 - 高技术出口（现价美元）：680 万美元（2022 年）
-- 2025 年有本国作者参与的论文约 2,820 篇（OpenAlex），主要学科：Medicine（794）、Social Sciences（348）、Environmental Science（279）、Agricultural and Biological Sciences（199）、Computer Science（173）、Engineering（148）、Health Professions（147）、Business, Management and Accounting（107）
+- 2025 年有本国作者参与的论文约 2,882 篇（OpenAlex），主要学科：Medicine（805）、Social Sciences（365）、Environmental Science（281）、Agricultural and Biological Sciences（204）、Computer Science（172）、Health Professions（154）、Engineering（150）、Business, Management and Accounting（116）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/RWA ；Wikidata https://www.wikidata.org/ （CC0）。

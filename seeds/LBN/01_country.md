@@ -74,7 +74,7 @@
 - 非居民专利申请（件）：194（2015 年）
 - 高技术出口占制成品出口（%）：2.90（2024 年）
 - 高技术出口（现价美元）：6085 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 7,781 篇（OpenAlex），主要学科：Medicine（2,375）、Engineering（720）、Social Sciences（655）、Computer Science（561）、Agricultural and Biological Sciences（420）、Psychology（330）、Biochemistry, Genetics and Molecular Biology（311）、Business, Management and Accounting（299）
+- 2025 年有本国作者参与的论文约 7,738 篇（OpenAlex），主要学科：Medicine（2,352）、Engineering（726）、Social Sciences（660）、Computer Science（564）、Agricultural and Biological Sciences（423）、Biochemistry, Genetics and Molecular Biology（306）、Psychology（303）、Business, Management and Accounting（300）
 - 阿德姆·帕塔普蒂安（Ardem Patapoutian）：诺贝尔生理学或医学奖，2021 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

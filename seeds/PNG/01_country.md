@@ -8,7 +8,7 @@
 - 政府首脑：詹姆斯·马拉佩（James Marape）；职位：巴布亚新几内亚总理（Prime Minister of Papua New Guinea）
 - 立法机构：巴布亚新几内亚国民议会（National Parliament of Papua New Guinea）
 - 中央银行：巴布亚新几内亚银行（Bank of Papua New Guinea）
-- 首都：莫尔斯比港（Port Moresby）；货币：巴布亚新几内亚基那（kina）；官方语言：英语（English）、希里摩圖語（Hiri Motu）、Papua New Guinean Sign Language、巴布亚皮钦语（Tok Pisin）
+- 首都：莫尔斯比港（Port Moresby）；货币：巴布亚新几内亚基那（kina）；官方语言：英语（English）、巴布亚皮钦语（Tok Pisin）、希里摩圖語（Hiri Motu）、Papua New Guinean Sign Language
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：31.00（2022 年）
 - 高技术出口占制成品出口（%）：10.25（2023 年）
 - 高技术出口（现价美元）：1878 万美元（2023 年）
-- 2025 年有本国作者参与的论文约 417 篇（OpenAlex），主要学科：Medicine（70）、Agricultural and Biological Sciences（56）、Engineering（54）、Social Sciences（49）、Environmental Science（40）、Computer Science（33）、Materials Science（17）、Health Professions（14）
+- 2025 年有本国作者参与的论文约 420 篇（OpenAlex），主要学科：Medicine（69）、Agricultural and Biological Sciences（57）、Engineering（56）、Social Sciences（48）、Environmental Science（40）、Computer Science（34）、Materials Science（18）、Biochemistry, Genetics and Molecular Biology（14）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/PNG ；Wikidata https://www.wikidata.org/ （CC0）。

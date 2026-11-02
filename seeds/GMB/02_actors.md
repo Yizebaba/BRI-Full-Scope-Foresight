@@ -18,21 +18,6 @@
 - 中国驻当地使领馆：在冈比亚出现在 4 个项目中。例：2018 年 Chinese Embassy donates 20 police motorcycles to Ministry of the Interior for police forces in Gambia；2018 年 Chinese Embassy in Gambia awards 20 Ambassador's Scholarships to Gambian Students in 2018；2020 年 Chinese Embassy in Banjul funds establishment of Chinese Culture Corner at Nusrat Senior Secondary School (lin
 - Chinese：在冈比亚出现在 1 个项目中。例：2019 年 Chinese donates materials to the Nusrat High School in Gambia
 
-## 主要贸易伙伴（UN Comtrade，2024 年，本国申报）
-
-- 塞内加尔：冈比亚对其出口 580 万美元，自其进口 2.09 亿美元
-- 中国：冈比亚对其出口 1803 万美元，自其进口 8599 万美元
-- 印度：冈比亚对其出口 173 万美元，自其进口 4980 万美元
-- 俄罗斯：冈比亚对其出口 无数据，自其进口 5095 万美元
-- 利比里亚：冈比亚对其出口 6544 美元，自其进口 4047 万美元
-- 比利时：冈比亚对其出口 15 万美元，自其进口 3971 万美元
-- 巴西：冈比亚对其出口 无数据，自其进口 3921 万美元
-- 埃及：冈比亚对其出口 无数据，自其进口 3899 万美元
-- 尼日利亚：冈比亚对其出口 3401 美元，自其进口 3801 万美元
-- 西班牙：冈比亚对其出口 26 万美元，自其进口 3503 万美元
-- 美国：冈比亚对其出口 15 万美元，自其进口 3448 万美元
-- 土耳其：冈比亚对其出口 43 万美元，自其进口 3193 万美元
-
 ## 发布旅行建议的外国政府
 
 - 美国国务院：The Gambia - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.gmb.html

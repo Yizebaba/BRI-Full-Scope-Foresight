@@ -4,8 +4,8 @@
 
 ## 本国政府与机构
 
-- 图伊拉埃帕·萨伊莱莱·马利埃莱额奥伊（Tuilaʻepa Saʻilele Malielegaoi）：萨摩亚现任国家元首。来源：Wikidata
 - 瓦莱托阿·苏阿劳维二世（Va'aletoa Sualauvi II）：萨摩亚现任国家元首。来源：Wikidata
+- 图伊拉埃帕·萨伊莱莱·马利埃莱额奥伊（Tuilaʻepa Saʻilele Malielegaoi）：萨摩亚现任国家元首。来源：Wikidata
 - 菲婭梅·內奧米·馬塔阿法（Fiamē Naomi Mataʻafa）：萨摩亚现任政府首脑。来源：Wikidata
 - 图伊拉埃帕·萨伊莱莱·马利埃莱额奥伊（Tuilaʻepa Saʻilele Malielegaoi）：萨摩亚现任政府首脑。来源：Wikidata
 - 萨摩亚立法大会（Legislative Assembly of Samoa）：萨摩亚的立法机构。来源：Wikidata

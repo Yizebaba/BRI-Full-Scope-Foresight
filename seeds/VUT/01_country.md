@@ -60,7 +60,7 @@
 - 科技期刊论文（篇）：11.87（2023 年）
 - 本国居民专利申请（件）：1.00（2021 年）
 - 非居民专利申请（件）：1.00（2024 年）
-- 2025 年有本国作者参与的论文约 14 篇（OpenAlex），主要学科：Social Sciences（7）、Earth and Planetary Sciences（2）、Chemistry（1）、Environmental Science（1）、Nursing（1）、Pharmacology, Toxicology and Pharmaceutics（1）、Dentistry（1）
+- 2025 年有本国作者参与的论文约 22 篇（OpenAlex），主要学科：Social Sciences（10）、Environmental Science（4）、Earth and Planetary Sciences（3）、Business, Management and Accounting（1）、Chemistry（1）、Nursing（1）、Pharmacology, Toxicology and Pharmaceutics（1）、Dentistry（1）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/VUT ；Wikidata https://www.wikidata.org/ （CC0）。

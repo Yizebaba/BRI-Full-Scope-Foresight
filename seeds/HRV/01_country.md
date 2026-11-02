@@ -8,7 +8,7 @@
 - 政府首脑：安德烈·普蘭科維奇（Andrej Plenković）；职位：执行委员会主席（Prime Minister of Croatia）
 - 立法机构：克羅埃西亞國會（Parliament of Croatia）
 - 中央银行：克罗地亚国家银行（Croatian National Bank）
-- 首都：萨格勒布（Zagreb）；货币：欧元；官方语言：克罗地亚语（Croatian）
+- 首都：萨格勒布（Zagreb）；货币：欧元（euro）；官方语言：克罗地亚语（Croatian）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -75,7 +75,7 @@
 - 非居民专利申请（件）：6.00（2024 年）
 - 高技术出口占制成品出口（%）：11.67（2024 年）
 - 高技术出口（现价美元）：19.20 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 14,539 篇（OpenAlex），主要学科：Medicine（3,085）、Social Sciences（1,948）、Engineering（1,395）、Arts and Humanities（1,305）、Computer Science（824）、Environmental Science（790）、Agricultural and Biological Sciences（711）、Psychology（579）
+- 2025 年有本国作者参与的论文约 14,760 篇（OpenAlex），主要学科：Medicine（3,129）、Social Sciences（1,986）、Engineering（1,447）、Arts and Humanities（1,339）、Computer Science（826）、Environmental Science（794）、Agricultural and Biological Sciences（718）、Psychology（586）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/HRV ；Wikidata https://www.wikidata.org/ （CC0）。

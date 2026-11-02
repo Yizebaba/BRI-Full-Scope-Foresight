@@ -4,11 +4,11 @@
 
 ## 国家机构与领导人（Wikidata，现任）
 
-- 国家元首：彼得·穆塔里卡（Peter Mutharika）、拉扎勒斯·查克沃拉（Lazarus Chakwera）；职位：马拉维总统（President of Malawi）
+- 国家元首：拉扎勒斯·查克沃拉（Lazarus Chakwera）、彼得·穆塔里卡（Peter Mutharika）；职位：马拉维总统（President of Malawi）
 - 政府首脑：拉扎勒斯·查克沃拉（Lazarus Chakwera）；职位：马拉维总统（President of Malawi）
 - 立法机构：国民议会（National Assembly）
 - 中央银行：马拉维储备银行（Reserve Bank of Malawi）
-- 首都：利隆圭（Lilongwe）；货币：马拉维克瓦查（Malawian kwacha）；官方语言：英语（English）、通布卡语（Tumbuka）、切瓦语（Chewa）
+- 首都：利隆圭（Lilongwe）；货币：马拉维克瓦查（Malawian kwacha）；官方语言：英语（English）、切瓦语（Chewa）、通布卡语（Tumbuka）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：1.00（2016 年）
 - 高技术出口占制成品出口（%）：1.65（2024 年）
 - 高技术出口（现价美元）：124 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 1,757 篇（OpenAlex），主要学科：Medicine（606）、Agricultural and Biological Sciences（185）、Social Sciences（184）、Health Professions（127）、Environmental Science（126）、Immunology and Microbiology（79）、Engineering（62）、Economics, Econometrics and Finance（56）
+- 2025 年有本国作者参与的论文约 1,768 篇（OpenAlex），主要学科：Medicine（609）、Agricultural and Biological Sciences（188）、Social Sciences（185）、Environmental Science（127）、Health Professions（126）、Immunology and Microbiology（80）、Engineering（69）、Economics, Econometrics and Finance（58）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/MWI ；Wikidata https://www.wikidata.org/ （CC0）。

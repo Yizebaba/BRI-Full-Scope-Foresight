@@ -8,7 +8,7 @@
 - 政府首脑：李在明（Lee Jae Myung）、韓聖淑（Han Seong-sook）；职位：韩国总统（President of South Korea）
 - 立法机构：韩国国会（National Assembly）
 - 中央银行：韩国银行（Bank of Korea）
-- 首都：首尔（Seoul）；货币：韩圆（won）、朝鮮文 (朝鮮貨幣)（Korean mun）；官方语言：韩国手语（Korean Sign Language）、朝鲜语（Korean）
+- 首都：首尔（Seoul）；货币：朝鮮文 (朝鮮貨幣)（Korean mun）、韩圆（won）；官方语言：韩国手语（Korean Sign Language）、朝鲜语（Korean）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：50,459（2024 年）
 - 高技术出口占制成品出口（%）：36.26（2024 年）
 - 高技术出口（现价美元）：2162.03 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 133,615 篇（OpenAlex），主要学科：Engineering（28,666）、Medicine（28,621）、Computer Science（13,385）、Materials Science（7,789）、Biochemistry, Genetics and Molecular Biology（7,748）、Environmental Science（5,990）、Agricultural and Biological Sciences（5,555）、Social Sciences（4,673）
+- 2025 年有本国作者参与的论文约 134,083 篇（OpenAlex），主要学科：Engineering（28,836）、Medicine（28,758）、Computer Science（13,450）、Materials Science（7,825）、Biochemistry, Genetics and Molecular Biology（7,772）、Environmental Science（5,932）、Agricultural and Biological Sciences（5,554）、Social Sciences（4,721）
 - 韩江（Han Kang）：诺贝尔文学奖，2024 年
 - 金大中（Kim Dae-jung）：诺贝尔和平奖，2000 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。

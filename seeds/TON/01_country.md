@@ -64,7 +64,7 @@
 - 非居民专利申请（件）：6.00（2023 年）
 - 高技术出口占制成品出口（%）：28.46（2023 年）
 - 高技术出口（现价美元）：229 万美元（2023 年）
-- 2025 年有本国作者参与的论文约 36 篇（OpenAlex），主要学科：Medicine（14）、Health Professions（6）、Social Sciences（5）、Engineering（3）、Earth and Planetary Sciences（2）、Biochemistry, Genetics and Molecular Biology（1）、Environmental Science（1）、Immunology and Microbiology（1）
+- 2025 年有本国作者参与的论文约 34 篇（OpenAlex），主要学科：Medicine（12）、Health Professions（6）、Social Sciences（5）、Engineering（3）、Earth and Planetary Sciences（2）、Biochemistry, Genetics and Molecular Biology（1）、Environmental Science（1）、Immunology and Microbiology（1）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/TON ；Wikidata https://www.wikidata.org/ （CC0）。

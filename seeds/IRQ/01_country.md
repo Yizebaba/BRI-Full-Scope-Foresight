@@ -8,7 +8,7 @@
 - 政府首脑：穆罕默德·希亚·苏达尼（Muhammad Shia' al-Sudani）；职位：伊拉克总理（Prime Minister of Iraq）
 - 立法机构：伊拉克国民议会（Council of Representatives of Iraq）
 - 中央银行：伊拉克中央银行（Central Bank of Iraq）
-- 首都：巴格达（Baghdad）；货币：伊拉克第纳尔（Iraqi dinar）；官方语言：阿拉伯语（Arabic）、库尔德语（Kurdish language）
+- 首都：巴格达（Baghdad）；货币：伊拉克第纳尔（Iraqi dinar）；官方语言：库尔德语（Kurdish language）、阿拉伯语（Arabic）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -74,7 +74,7 @@
 - 科技期刊论文（篇）：16,724（2023 年）
 - 本国居民专利申请（件）：556（2024 年）
 - 非居民专利申请（件）：82.00（2024 年）
-- 2025 年有本国作者参与的论文约 55,554 篇（OpenAlex），主要学科：Medicine（8,780）、Engineering（8,640）、Social Sciences（5,813）、Computer Science（4,875）、Agricultural and Biological Sciences（3,524）、Arts and Humanities（3,456）、Environmental Science（2,751）、Materials Science（2,515）
+- 2025 年有本国作者参与的论文约 58,577 篇（OpenAlex），主要学科：Medicine（9,234）、Engineering（8,975）、Social Sciences（6,280）、Computer Science（5,170）、Agricultural and Biological Sciences（3,710）、Arts and Humanities（3,693）、Environmental Science（2,858）、Materials Science（2,582）
 - 纳迪娅·穆拉德（Nadia Murad）：诺贝尔和平奖，2018 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

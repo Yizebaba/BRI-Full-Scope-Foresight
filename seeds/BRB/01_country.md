@@ -62,7 +62,7 @@
 - 非居民专利申请（件）：12.00（2024 年）
 - 高技术出口占制成品出口（%）：19.93（2024 年）
 - 高技术出口（现价美元）：1892 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 491 篇（OpenAlex），主要学科：Medicine（214）、Social Sciences（80）、Environmental Science（38）、Health Professions（19）、Biochemistry, Genetics and Molecular Biology（18）、Psychology（16）、Computer Science（13）、Economics, Econometrics and Finance（13）
+- 2025 年有本国作者参与的论文约 521 篇（OpenAlex），主要学科：Medicine（238）、Social Sciences（79）、Environmental Science（36）、Health Professions（21）、Biochemistry, Genetics and Molecular Biology（19）、Psychology（16）、Computer Science（15）、Economics, Econometrics and Finance（13）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/BRB ；Wikidata https://www.wikidata.org/ （CC0）。

@@ -16,4 +16,3 @@
 ## 灾害警报（GDACS，近 14 天）
 
 - 2026-11-01 23:18 UTC：Green 级 EQ，Earthquake in Argentina。https://www.gdacs.org/report.aspx?eventid=1575157&episodeid=1744167&eventtype=EQ 
-- 2026-11-01 05:31 UTC：Green 级 EQ，Earthquake in Argentina。https://www.gdacs.org/report.aspx?eventid=1575038&episodeid=1744026&eventtype=EQ 

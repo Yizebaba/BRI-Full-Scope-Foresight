@@ -8,7 +8,7 @@
 - 政府首脑：亚内兹·扬沙（Janez Janša）；职位：斯洛文尼亚总理列表（Prime Minister of Slovenia）
 - 立法机构：斯洛維尼亞國會（Slovenian Parliament）
 - 中央银行：斯洛維尼亞銀行（Bank of Slovenia）
-- 首都：卢布尔雅那（Ljubljana）；货币：欧元；官方语言：斯洛文尼亚语（Slovene）
+- 首都：卢布尔雅那（Ljubljana）；货币：欧元（euro）；官方语言：斯洛文尼亚语（Slovene）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：25.00（2024 年）
 - 高技术出口占制成品出口（%）：8.34（2024 年）
 - 高技术出口（现价美元）：48.58 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 12,950 篇（OpenAlex），主要学科：Medicine（2,122）、Engineering（1,826）、Social Sciences（1,594）、Arts and Humanities（891）、Computer Science（884）、Environmental Science（721）、Biochemistry, Genetics and Molecular Biology（656）、Physics and Astronomy（533）
+- 2025 年有本国作者参与的论文约 13,053 篇（OpenAlex），主要学科：Medicine（2,161）、Engineering（1,846）、Social Sciences（1,616）、Arts and Humanities（916）、Computer Science（889）、Environmental Science（719）、Biochemistry, Genetics and Molecular Biology（658）、Physics and Astronomy（525）
 - 邓肯·霍尔丹（Duncan Haldane）：诺贝尔物理学奖，2016 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

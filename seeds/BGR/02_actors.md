@@ -6,8 +6,8 @@
 
 - 伊利安納·依奧托娃（Iliana Iotova）：保加利亚现任国家元首。来源：Wikidata
 - 魯門·雷德夫（Rumen Radev）：保加利亚现任国家元首。来源：Wikidata
-- 基里尔·佩特科夫（Kiril Petkov）：保加利亚现任政府首脑。来源：Wikidata
 - 魯門·雷德夫（Rumen Radev）：保加利亚现任政府首脑。来源：Wikidata
+- 基里尔·佩特科夫（Kiril Petkov）：保加利亚现任政府首脑。来源：Wikidata
 - 保加利亚国民议会（National Assembly of Bulgaria）：保加利亚的立法机构。来源：Wikidata
 - 保加利亞國家銀行（Bulgarian National Bank）：保加利亚的中央银行。来源：Wikidata
 - 保加利亚政府各部门：AidData 记录中的借款方、受援方和项目实施方。

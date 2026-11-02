@@ -5,10 +5,10 @@
 ## 国家机构与领导人（Wikidata，现任）
 
 - 国家元首：伊利安納·依奧托娃（Iliana Iotova）、魯門·雷德夫（Rumen Radev）；职位：保加利亚总统（President of Bulgaria）
-- 政府首脑：基里尔·佩特科夫（Kiril Petkov）、魯門·雷德夫（Rumen Radev）；职位：保加利亚总理（Prime Minister of Bulgaria）
+- 政府首脑：魯門·雷德夫（Rumen Radev）、基里尔·佩特科夫（Kiril Petkov）；职位：保加利亚总理（Prime Minister of Bulgaria）
 - 立法机构：保加利亚国民议会（National Assembly of Bulgaria）
 - 中央银行：保加利亞國家銀行（Bulgarian National Bank）
-- 首都：索非亚（Sofia）；货币：欧元；官方语言：保加利亚语（Bulgarian）
+- 首都：索非亚（Sofia）；货币：欧元（euro）；官方语言：保加利亚语（Bulgarian）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：7.00（2024 年）
 - 高技术出口占制成品出口（%）：13.43（2024 年）
 - 高技术出口（现价美元）：33.46 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 14,119 篇（OpenAlex），主要学科：Medicine（2,170）、Engineering（1,891）、Social Sciences（1,457）、Agricultural and Biological Sciences（1,291）、Computer Science（1,236）、Arts and Humanities（740）、Physics and Astronomy（636）、Environmental Science（625）
+- 2025 年有本国作者参与的论文约 14,571 篇（OpenAlex），主要学科：Medicine（2,203）、Engineering（1,966）、Social Sciences（1,542）、Agricultural and Biological Sciences（1,300）、Computer Science（1,272）、Arts and Humanities（858）、Physics and Astronomy（644）、Environmental Science（636）
 - 埃利亞斯·卡內蒂（Elias Canetti）：诺贝尔文学奖，1981 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

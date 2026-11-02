@@ -8,7 +8,7 @@
 - 政府首脑：路易斯·蒙特内格罗（Luís Montenegro）；职位：葡萄牙总理（Prime Minister of Portugal）
 - 立法机构：葡萄牙共和国议会（Assembly of the Republic）
 - 中央银行：葡萄牙銀行（Banco de Portugal）
-- 首都：里斯本（Lisbon）；货币：欧元；官方语言：葡萄牙语（Portuguese）
+- 首都：里斯本（Lisbon）；货币：欧元（euro）；官方语言：葡萄牙语（Portuguese）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：53.00（2024 年）
 - 高技术出口占制成品出口（%）：6.80（2024 年）
 - 高技术出口（现价美元）：41.35 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 52,592 篇（OpenAlex），主要学科：Medicine（11,361）、Engineering（6,119）、Social Sciences（5,922）、Environmental Science（3,606）、Computer Science（3,545）、Arts and Humanities（2,703）、Biochemistry, Genetics and Molecular Biology（2,359）、Agricultural and Biological Sciences（2,327）
+- 2025 年有本国作者参与的论文约 53,632 篇（OpenAlex），主要学科：Medicine（11,641）、Engineering（6,196）、Social Sciences（6,074）、Environmental Science（3,658）、Computer Science（3,608）、Arts and Humanities（2,809）、Biochemistry, Genetics and Molecular Biology（2,377）、Agricultural and Biological Sciences（2,368）
 - 若泽·萨拉马戈（José Saramago）：诺贝尔文学奖，1998 年
 - 安东尼奥·埃加斯·莫尼斯（António Egas Moniz）：诺贝尔生理学或医学奖，1949 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。

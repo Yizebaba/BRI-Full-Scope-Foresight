@@ -21,21 +21,6 @@
 - 汉办 / 孔子学院总部（Hanban）：在马达加斯加出现在 3 个项目中。例：2014 年 Hanban provides grant to support establishment of Confucius Institute at Toamasina University.；2007 年 Hanban provides grant for establishment of Confucius Institute at Antananarivo University；2018 年 Hanban funds Confucius Classroom at Ecole de la Francophonie Primary School
 - Chinese Government dispatch 11 optometry experts to：在马达加斯加出现在 1 个项目中。例：2017 年 Chinese Government dispatch 11 optometry experts to support the Light Action Campaign (Linked to Project ID#60
 
-## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
-
-- 中国：马达加斯加对其出口 2.03 亿美元，自其进口 13.29 亿美元
-- 法国：马达加斯加对其出口 4.46 亿美元，自其进口 2.88 亿美元
-- 阿曼：马达加斯加对其出口 45 万美元，自其进口 6.46 亿美元
-- 美国：马达加斯加对其出口 3.95 亿美元，自其进口 1.11 亿美元
-- 印度：马达加斯加对其出口 1.38 亿美元，自其进口 3.57 亿美元
-- 南非：马达加斯加对其出口 9488 万美元，自其进口 2.04 亿美元
-- 阿联酋：马达加斯加对其出口 2845 万美元，自其进口 2.56 亿美元
-- 巴基斯坦：马达加斯加对其出口 402 万美元，自其进口 2.65 亿美元
-- 日本：马达加斯加对其出口 1.71 亿美元，自其进口 5452 万美元
-- 马来西亚：马达加斯加对其出口 915 万美元，自其进口 2.10 亿美元
-- 荷兰：马达加斯加对其出口 1.53 亿美元，自其进口 3687 万美元
-- 韩国：马达加斯加对其出口 1.29 亿美元，自其进口 5328 万美元
-
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Madagascar - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mdg.html

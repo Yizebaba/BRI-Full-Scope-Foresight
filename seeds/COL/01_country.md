@@ -79,7 +79,7 @@
 - 非居民专利申请（件）：1,661（2024 年）
 - 高技术出口占制成品出口（%）：9.03（2024 年）
 - 高技术出口（现价美元）：9.56 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 38,081 篇（OpenAlex），主要学科：Medicine（7,576）、Social Sciences（7,236）、Environmental Science（3,179）、Engineering（2,856）、Agricultural and Biological Sciences（2,651）、Arts and Humanities（1,920）、Computer Science（1,765）、Psychology（1,593）
+- 2025 年有本国作者参与的论文约 38,337 篇（OpenAlex），主要学科：Medicine（7,640）、Social Sciences（7,296）、Environmental Science（3,175）、Engineering（2,863）、Agricultural and Biological Sciences（2,704）、Arts and Humanities（1,946）、Computer Science（1,772）、Psychology（1,579）
 - 胡安·曼努埃尔·桑托斯（Juan Manuel Santos）：诺贝尔和平奖，2016 年
 - 加夫列尔·加西亚·马尔克斯（Gabriel García Márquez）：诺贝尔文学奖，1982 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。

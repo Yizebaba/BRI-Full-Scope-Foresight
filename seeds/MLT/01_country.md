@@ -8,7 +8,7 @@
 - 政府首脑：羅伯特·阿貝拉（Robert Abela）；职位：馬耳他總理（Prime Minister of Malta）
 - 立法机构：马耳他议会（Parliament of Malta）
 - 中央银行：马耳他中央银行（Central Bank of Malta）
-- 首都：瓦莱塔（Valletta）；货币：欧元；官方语言：英语（English）、马耳他语（Maltese）
+- 首都：瓦莱塔（Valletta）；货币：欧元（euro）；官方语言：英语（English）、马耳他语（Maltese）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：13.00（2024 年）
 - 高技术出口占制成品出口（%）：45.18（2024 年）
 - 高技术出口（现价美元）：13.05 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 1,865 篇（OpenAlex），主要学科：Medicine（405）、Social Sciences（279）、Engineering（192）、Computer Science（172）、Arts and Humanities（112）、Psychology（80）、Physics and Astronomy（76）、Environmental Science（74）
+- 2025 年有本国作者参与的论文约 1,883 篇（OpenAlex），主要学科：Medicine（410）、Social Sciences（275）、Engineering（191）、Computer Science（181）、Arts and Humanities（114）、Psychology（82）、Physics and Astronomy（76）、Environmental Science（74）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/MLT ；Wikidata https://www.wikidata.org/ （CC0）。

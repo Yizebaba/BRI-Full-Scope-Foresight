@@ -5,10 +5,10 @@
 ## 国家机构与领导人（Wikidata，现任）
 
 - 国家元首：康斯坦丁诺斯·塔苏拉斯（Konstantinos Tasoulas）；职位：希腊总统（President of Greece）
-- 政府首脑：基里亞科斯·米佐塔基斯（9811205000）；职位：希腊总理（Prime Minister of Greece）
+- 政府首脑：基里亞科斯·米佐塔基斯（Kyriakos Mitsotakis）；职位：希腊总理（Prime Minister of Greece）
 - 立法机构：希腊议会（Hellenic Parliament）
 - 中央银行：希腊银行（Bank of Greece）
-- 首都：雅典（Athens）；货币：欧元；官方语言：希腊语（Greek）
+- 首都：雅典（Athens）；货币：欧元（euro）；官方语言：希腊语（Greek）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -75,7 +75,7 @@
 - 非居民专利申请（件）：560（2024 年）
 - 高技术出口占制成品出口（%）：15.01（2024 年）
 - 高技术出口（现价美元）：29.74 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 40,175 篇（OpenAlex），主要学科：Medicine（11,108）、Engineering（4,649）、Social Sciences（3,431）、Computer Science（3,427）、Environmental Science（2,479）、Agricultural and Biological Sciences（1,769）、Biochemistry, Genetics and Molecular Biology（1,642）、Physics and Astronomy（1,459）
+- 2025 年有本国作者参与的论文约 38,246 篇（OpenAlex），主要学科：Medicine（10,490）、Engineering（4,525）、Computer Science（3,397）、Social Sciences（3,071）、Environmental Science（2,413）、Agricultural and Biological Sciences（1,697）、Biochemistry, Genetics and Molecular Biology（1,617）、Physics and Astronomy（1,465）
 - 约瑟夫·斯发基斯（Iosif Sifakis）：图灵奖，2007 年
 - 奥季塞乌斯·埃利蒂斯（Odysseas Elytis）：诺贝尔文学奖，1979 年
 - 喬治·塞菲里斯（Giorgos Seferis）：诺贝尔文学奖，1963 年

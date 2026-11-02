@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：598（2020 年）
 - 高技术出口占制成品出口（%）：2.71（2024 年）
 - 高技术出口（现价美元）：5008 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 68,497 篇（OpenAlex），主要学科：Social Sciences（11,424）、Medicine（10,617）、Agricultural and Biological Sciences（7,972）、Engineering（5,999）、Environmental Science（5,420）、Computer Science（4,393）、Business, Management and Accounting（3,868）、Economics, Econometrics and Finance（3,096）
+- 2025 年有本国作者参与的论文约 72,032 篇（OpenAlex），主要学科：Social Sciences（12,135）、Medicine（10,962）、Agricultural and Biological Sciences（8,387）、Engineering（6,309）、Environmental Science（5,722）、Computer Science（4,645）、Business, Management and Accounting（4,094）、Economics, Econometrics and Finance（3,284）
 - 沃莱·索因卡（Wole Soyinka）：诺贝尔文学奖，1986 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

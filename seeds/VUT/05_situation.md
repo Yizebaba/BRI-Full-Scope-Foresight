@@ -14,5 +14,3 @@
 
 - 2026-11-01 11:56 UTC：Green 级 EQ，Earthquake in Vanuatu。https://www.gdacs.org/report.aspx?eventid=1575069&episodeid=1744063&eventtype=EQ 
 - 2026-11-01 11:47 UTC：Green 级 EQ，Earthquake in Vanuatu。https://www.gdacs.org/report.aspx?eventid=1575068&episodeid=1744061&eventtype=EQ 
-- 2026-11-01 07:37 UTC：Green 级 EQ，Earthquake in Vanuatu。https://www.gdacs.org/report.aspx?eventid=1575052&episodeid=1744041&eventtype=EQ 
-- 2026-11-01 07:00 UTC：Green 级 EQ，Earthquake in Vanuatu。https://www.gdacs.org/report.aspx?eventid=1575050&episodeid=1744038&eventtype=EQ 

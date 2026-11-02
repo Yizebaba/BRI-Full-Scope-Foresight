@@ -5,7 +5,7 @@
 ## 本国政府与机构
 
 - 康斯坦丁诺斯·塔苏拉斯（Konstantinos Tasoulas）：希腊现任国家元首。来源：Wikidata
-- 基里亞科斯·米佐塔基斯（9811205000）：希腊现任政府首脑。来源：Wikidata
+- 基里亞科斯·米佐塔基斯（Kyriakos Mitsotakis）：希腊现任政府首脑。来源：Wikidata
 - 希腊议会（Hellenic Parliament）：希腊的立法机构。来源：Wikidata
 - 希腊银行（Bank of Greece）：希腊的中央银行。来源：Wikidata
 - 希腊政府各部门：AidData 记录中的借款方、受援方和项目实施方。

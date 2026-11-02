@@ -61,7 +61,7 @@
 - 科技期刊论文（篇）：26.34（2023 年）
 - 高技术出口占制成品出口（%）：10.37（2024 年）
 - 高技术出口（现价美元）：1329 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 81 篇（OpenAlex），主要学科：Medicine（32）、Earth and Planetary Sciences（13）、Social Sciences（8）、Environmental Science（7）、Agricultural and Biological Sciences（6）、Psychology（6）、Engineering（3）、Arts and Humanities（1）
+- 2025 年有本国作者参与的论文约 82 篇（OpenAlex），主要学科：Medicine（32）、Earth and Planetary Sciences（14）、Social Sciences（8）、Environmental Science（7）、Agricultural and Biological Sciences（6）、Psychology（6）、Engineering（3）、Arts and Humanities（1）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/SUR ；Wikidata https://www.wikidata.org/ （CC0）。

@@ -20,21 +20,6 @@
 - China Road & Bridge Corporation：在毛里塔尼亚出现在 1 个项目中。例：2010 年 China Road & Bridge Corporation builds Friendship Primary School in Brakna (linked to #56868)
 - China National Health Commission：在毛里塔尼亚出现在 1 个项目中。例：2018 年 China National Health Commission donates ophthalmic drugs and equipment to Mauritania Capital Hospital
 
-## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
-
-- 中国：毛里塔尼亚对其出口 9.71 亿美元，自其进口 5.46 亿美元
-- 西班牙：毛里塔尼亚对其出口 4.25 亿美元，自其进口 7.83 亿美元
-- 阿联酋：毛里塔尼亚对其出口 1.09 亿美元，自其进口 7.78 亿美元
-- 加拿大：毛里塔尼亚对其出口 8.14 亿美元，自其进口 4217 万美元
-- 瑞士：毛里塔尼亚对其出口 6.71 亿美元，自其进口 595 万美元
-- 比利时：毛里塔尼亚对其出口 134 万美元，自其进口 6.53 亿美元
-- 美国：毛里塔尼亚对其出口 167 万美元，自其进口 5.23 亿美元
-- 土耳其：毛里塔尼亚对其出口 1.93 亿美元，自其进口 2.40 亿美元
-- 法国：毛里塔尼亚对其出口 4931 万美元，自其进口 3.17 亿美元
-- 日本：毛里塔尼亚对其出口 9104 万美元，自其进口 2.52 亿美元
-- 阿尔及利亚：毛里塔尼亚对其出口 2.52 亿美元，自其进口 7114 万美元
-- 巴西：毛里塔尼亚对其出口 262 万美元，自其进口 2.16 亿美元
-
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Mauritania - Level 3: Reconsider Travel。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mrt.html

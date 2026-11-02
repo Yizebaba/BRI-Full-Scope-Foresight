@@ -7,7 +7,7 @@
 - 国家元首：朱利叶斯·马达·比奥（Julius Maada Bio）；职位：塞拉利昂总统（President of Sierra Leone）
 - 政府首脑：戴维·莫伊尼纳·森格（David Sengeh）；职位：塞拉利昂首席部長（Chief Minister of Sierra Leone）
 - 立法机构：塞拉利昂议会（Parliament of Sierra Leone）
-- 中央银行：Bank of Sierra Leone
+- 中央银行：獅子山銀行（Bank of Sierra Leone）
 - 首都：弗里敦（Freetown）；货币：塞拉利昂利昂（leone）；官方语言：英语（English）、塞拉利昂克里奥尔语（Krio）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
@@ -69,7 +69,7 @@
 - 非居民专利申请（件）：4.00（2020 年）
 - 高技术出口占制成品出口（%）：0.74（2018 年）
 - 高技术出口（现价美元）：38 万美元（2018 年）
-- 2025 年有本国作者参与的论文约 756 篇（OpenAlex），主要学科：Medicine（203）、Social Sciences（146）、Agricultural and Biological Sciences（89）、Environmental Science（55）、Health Professions（41）、Business, Management and Accounting（39）、Immunology and Microbiology（30）、Economics, Econometrics and Finance（29）
+- 2025 年有本国作者参与的论文约 752 篇（OpenAlex），主要学科：Medicine（197）、Social Sciences（145）、Agricultural and Biological Sciences（90）、Environmental Science（55）、Health Professions（40）、Business, Management and Accounting（39）、Economics, Econometrics and Finance（31）、Immunology and Microbiology（30）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/SLE ；Wikidata https://www.wikidata.org/ （CC0）。

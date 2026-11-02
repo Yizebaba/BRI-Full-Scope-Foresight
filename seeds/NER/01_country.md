@@ -4,7 +4,7 @@
 
 ## 国家机构与领导人（Wikidata，现任）
 
-- 国家元首：哈苏米·马苏杜（Hassoumi Massoudou）、阿卜杜拉赫曼·奇亚尼（Abdourahamane Tiani）；职位：尼日尔总统（President of Niger）
+- 国家元首：阿卜杜拉赫曼·奇亚尼（Abdourahamane Tiani）、哈苏米·马苏杜（Hassoumi Massoudou）；职位：尼日尔总统（President of Niger）
 - 政府首脑：阿里·拉明·泽因（Ali Lamine Zeine）；职位：尼日尔总理（Prime Minister of Niger）
 - 立法机构：尼日尔国民议会（National Assembly）
 - 中央银行：西非国家中央银行（Central Bank of West African States）
@@ -70,7 +70,7 @@
 - 科技期刊论文（篇）：90.18（2023 年）
 - 高技术出口占制成品出口（%）：8.62（2024 年）
 - 高技术出口（现价美元）：630 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 882 篇（OpenAlex），主要学科：Medicine（214）、Agricultural and Biological Sciences（209）、Environmental Science（107）、Social Sciences（70）、Engineering（55）、Biochemistry, Genetics and Molecular Biology（31）、Nursing（20）、Health Professions（20）
+- 2025 年有本国作者参与的论文约 827 篇（OpenAlex），主要学科：Medicine（211）、Agricultural and Biological Sciences（204）、Environmental Science（102）、Social Sciences（63）、Engineering（46）、Biochemistry, Genetics and Molecular Biology（29）、Health Professions（19）、Earth and Planetary Sciences（18）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/NER ；Wikidata https://www.wikidata.org/ （CC0）。

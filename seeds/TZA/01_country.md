@@ -75,7 +75,7 @@
 - 非居民专利申请（件）：1.00（2015 年）
 - 高技术出口占制成品出口（%）：3.01（2024 年）
 - 高技术出口（现价美元）：2743 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 8,774 篇（OpenAlex），主要学科：Medicine（2,142）、Social Sciences（1,456）、Agricultural and Biological Sciences（1,057）、Environmental Science（779）、Engineering（475）、Business, Management and Accounting（427）、Economics, Econometrics and Finance（361）、Health Professions（317）
+- 2025 年有本国作者参与的论文约 8,872 篇（OpenAlex），主要学科：Medicine（2,142）、Social Sciences（1,483）、Agricultural and Biological Sciences（1,074）、Environmental Science（792）、Engineering（478）、Business, Management and Accounting（438）、Economics, Econometrics and Finance（361）、Health Professions（319）
 - 阿卜杜勒-拉扎克·古尔纳（Abdulrazak Gurnah）：诺贝尔文学奖，2021 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

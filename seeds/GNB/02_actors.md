@@ -15,21 +15,6 @@
 - 中国驻当地使领馆：在几内亚比绍出现在 4 个项目中。例：2018 年 Chinese Embassy donates beds to the School for the Deaf and Mute；2019 年 Chinese Embassy donates reception room to the Ministry of Foreign Affairs of Guinea-Bissau ；2021 年 Chinese Embassy awards scholarships to students at Nkrumah Secondary School in May 2021
 - Yuan Longping High-Tech Agriculture Co.：在几内亚比绍出现在 1 个项目中。例：2018 年 Yuan Longping High-Tech Agriculture Co. sends agriculture technicians to Guinea-Bissa to train farmers
 
-## 主要贸易伙伴（UN Comtrade，2025 年，镜像：各国对它的申报）
-
-- 印度：几内亚比绍对其出口 2.74 亿美元，自其进口 1817 万美元
-- 葡萄牙：几内亚比绍对其出口 3 万美元，自其进口 1.12 亿美元
-- 塞内加尔：几内亚比绍对其出口 15 万美元，自其进口 1.11 亿美元
-- 中国：几内亚比绍对其出口 8086 美元，自其进口 8368 万美元
-- 巴基斯坦：几内亚比绍对其出口 无数据，自其进口 6189 万美元
-- 土耳其：几内亚比绍对其出口 203 万美元，自其进口 2880 万美元
-- 荷兰：几内亚比绍对其出口 76 万美元，自其进口 1911 万美元
-- 西班牙：几内亚比绍对其出口 1 万美元，自其进口 1398 万美元
-- 日本：几内亚比绍对其出口 875 万美元，自其进口 118 万美元
-- 美国：几内亚比绍对其出口 1 万美元，自其进口 839 万美元
-- 比利时：几内亚比绍对其出口 1 万美元，自其进口 676 万美元
-- 科特迪瓦：几内亚比绍对其出口 734 美元，自其进口 631 万美元
-
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Guinea-Bissau - Level 3: Reconsider Travel。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.gnb.html

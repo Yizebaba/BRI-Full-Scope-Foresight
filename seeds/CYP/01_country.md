@@ -8,7 +8,7 @@
 - 政府首脑：尼科斯·阿纳斯塔夏季斯（Nikos Anastasiades）、尼科斯·赫里斯托祖利季斯（Nicos Christodoulides）；职位：塞浦路斯总统（Padre y esposo Coughlan）
 - 立法机构：塞浦路斯众议院（House of Representatives）
 - 中央银行：塞浦路斯中央银行（Central Bank of Cyprus）
-- 首都：尼科西亚（Nicosia）；货币：欧元；官方语言：土耳其语（Turkish）、现代希腊语（Modern Greek）
+- 首都：尼科西亚（Nicosia）；货币：欧元（euro）；官方语言：土耳其语（Turkish）、现代希腊语（Modern Greek）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：2.00（2022 年）
 - 高技术出口占制成品出口（%）：17.85（2024 年）
 - 高技术出口（现价美元）：1.05 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 9,174 篇（OpenAlex），主要学科：Medicine（1,586）、Social Sciences（1,072）、Engineering（997）、Computer Science（761）、Physics and Astronomy（615）、Environmental Science（563）、Business, Management and Accounting（474）、Economics, Econometrics and Finance（391）
+- 2025 年有本国作者参与的论文约 9,279 篇（OpenAlex），主要学科：Medicine（1,593）、Social Sciences（1,086）、Engineering（1,008）、Computer Science（774）、Physics and Astronomy（613）、Environmental Science（538）、Business, Management and Accounting（482）、Economics, Econometrics and Finance（466）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/CYP ；Wikidata https://www.wikidata.org/ （CC0）。

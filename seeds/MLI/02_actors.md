@@ -23,21 +23,6 @@
 - Chinese：在马里出现在 1 个项目中。例：2019 年 Chinese funds National Agricultural Development Bank of Mali Building expansion project
 - Chinese medical peacekeeping contingent：在马里出现在 1 个项目中。例：2021 年 Chinese medical peacekeeping contingent donates flood relief supplies to Mali 
 
-## 主要贸易伙伴（UN Comtrade，2024 年，本国申报）
-
-- 南非：马里对其出口 20.33 亿美元，自其进口 8552 万美元
-- 科特迪瓦：马里对其出口 1.78 亿美元，自其进口 12.81 亿美元
-- 塞内加尔：马里对其出口 1.29 亿美元，自其进口 13.27 亿美元
-- 中国：马里对其出口 3397 万美元，自其进口 10.76 亿美元
-- 澳大利亚：马里对其出口 4.19 亿美元，自其进口 3598 万美元
-- 印度：马里对其出口 1.56 亿美元，自其进口 2.54 亿美元
-- 法国：马里对其出口 2004 万美元，自其进口 3.56 亿美元
-- 孟加拉国：马里对其出口 1.59 亿美元，自其进口 28 万美元
-- 阿联酋：马里对其出口 8577 万美元，自其进口 6780 万美元
-- 土耳其：马里对其出口 1588 万美元，自其进口 1.22 亿美元
-- 美国：马里对其出口 1031 万美元，自其进口 1.27 亿美元
-- Burkina Faso：马里对其出口 4442 万美元，自其进口 8919 万美元
-
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Mali - Level 4: Do Not Travel。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mli.html

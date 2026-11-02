@@ -8,7 +8,7 @@
 - 政府首脑：克里斯蒂安·施托克尔（Christian Stocker）；职位：奥地利总理（Federal Chancellor of Austria）
 - 立法机构：奧地利國會（Austrian Parliament）
 - 中央银行：奧地利國家銀行（Austrian National Bank）
-- 首都：维也纳（Vienna）；货币：欧元；官方语言：德语（German）、奥地利手语（Austrian Sign Language）
+- 首都：维也纳（Vienna）；货币：欧元（euro）；官方语言：德语（German）、奥地利手语（Austrian Sign Language）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -75,7 +75,7 @@
 - 非居民专利申请（件）：159（2024 年）
 - 高技术出口占制成品出口（%）：18.45（2024 年）
 - 高技术出口（现价美元）：300.90 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 48,934 篇（OpenAlex），主要学科：Medicine（10,492）、Engineering（5,308）、Social Sciences（4,771）、Computer Science（3,861）、Environmental Science（3,256）、Biochemistry, Genetics and Molecular Biology（3,020）、Physics and Astronomy（2,478）、Arts and Humanities（2,051）
+- 2025 年有本国作者参与的论文约 48,914 篇（OpenAlex），主要学科：Medicine（10,561）、Engineering（5,360）、Social Sciences（4,793）、Computer Science（3,880）、Environmental Science（3,102）、Biochemistry, Genetics and Molecular Biology（3,020）、Physics and Astronomy（2,485）、Arts and Humanities（2,086）
 - 费伦茨·克劳斯（Ferenc Krausz）：诺贝尔物理学奖，2023 年
 - 安东·蔡林格（Anton Zeilinger）：诺贝尔物理学奖，2022 年
 - 彼得·汉德克（Peter Handke）：诺贝尔文学奖，2019 年
@@ -84,8 +84,8 @@
 - 艾尔弗雷德·耶利内克（Elfriede Jelinek）：诺贝尔文学奖，2004 年
 - 埃里克·坎德尔（Eric Kandel）：诺贝尔生理学或医学奖，2000 年
 - 沃尔特·科恩（Walter Kohn）：诺贝尔化学奖，1998 年
-- 康拉德·洛伦兹（Konrad Lorenz）：诺贝尔生理学或医学奖，1973 年
 - 卡尔·冯·弗里希（Karl von Frisch）：诺贝尔生理学或医学奖，1973 年
+- 康拉德·洛伦兹（Konrad Lorenz）：诺贝尔生理学或医学奖，1973 年
 - 马克斯·佩鲁茨（Max Perutz）：诺贝尔化学奖，1962 年
 - 沃尔夫冈·泡利（Wolfgang Pauli）：诺贝尔物理学奖，1945 年
 - 维克托·赫斯（Victor Francis Hess）：诺贝尔物理学奖，1936 年

@@ -24,21 +24,6 @@
 - 汉办 / 孔子学院总部（Hanban）：在纳米比亚出现在 1 个项目中。例：2012 年 Hanban establishes Confucius Institute at University of Namibia
 - 中国援外医疗队：在纳米比亚出现在 1 个项目中。例：2021 年 Chinese medical team in Namibia donates anti-epidemic materials to Katutura State Hospital
 
-## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
-
-- 南非：纳米比亚对其出口 16.13 亿美元，自其进口 31.73 亿美元
-- 中国：纳米比亚对其出口 10.92 亿美元，自其进口 9.31 亿美元
-- 赞比亚：纳米比亚对其出口 6.93 亿美元，自其进口 2.90 亿美元
-- 博茨瓦纳：纳米比亚对其出口 7.90 亿美元，自其进口 3094 万美元
-- 印度：纳米比亚对其出口 1.21 亿美元，自其进口 3.96 亿美元
-- 美国：纳米比亚对其出口 2.52 亿美元，自其进口 2.40 亿美元
-- 刚果（金）：纳米比亚对其出口 1.32 亿美元，自其进口 2.71 亿美元
-- 西班牙：纳米比亚对其出口 2.74 亿美元，自其进口 6986 万美元
-- 未列明地区：纳米比亚对其出口 1764 万美元，自其进口 3.12 亿美元
-- 法国：纳米比亚对其出口 2.46 亿美元，自其进口 6398 万美元
-- 阿曼：纳米比亚对其出口 6 万美元，自其进口 2.52 亿美元
-- 阿联酋：纳米比亚对其出口 1.46 亿美元，自其进口 9969 万美元
-
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Namibia - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.nam.html

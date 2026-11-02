@@ -8,7 +8,7 @@
 - 政府首脑：安德里斯·庫爾柏格斯（Andris Kulbergs）；职位：拉脫維亞總理（Prime Minister of Latvia）
 - 立法机构：拉脱维亚议会（Saeima）
 - 中央银行：拉脫維亞銀行（Bank of Latvia）
-- 首都：里加（Riga）；货币：欧元；官方语言：拉脱维亚语（Latvian）
+- 首都：里加（Riga）；货币：欧元（euro）；官方语言：拉脱维亚语（Latvian）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：3.00（2024 年）
 - 高技术出口占制成品出口（%）：17.49（2024 年）
 - 高技术出口（现价美元）：19.03 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 4,739 篇（OpenAlex），主要学科：Engineering（698）、Medicine（619）、Social Sciences（553）、Agricultural and Biological Sciences（357）、Environmental Science（357）、Computer Science（286）、Business, Management and Accounting（264）、Arts and Humanities（255）
+- 2025 年有本国作者参与的论文约 4,745 篇（OpenAlex），主要学科：Engineering（708）、Medicine（623）、Social Sciences（557）、Agricultural and Biological Sciences（361）、Environmental Science（356）、Computer Science（289）、Arts and Humanities（256）、Business, Management and Accounting（242）
 - 尤里斯·哈特马尼斯（Juris Hartmanis）：图灵奖，1993 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
