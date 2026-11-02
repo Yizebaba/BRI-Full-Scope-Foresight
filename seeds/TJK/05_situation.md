@@ -4,7 +4,3 @@
 
 - 美国国务院旅行建议：Tajikistan - Level 2: Exercise Increased Caution（Fri, 04 Sep 2026）。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tjk.html 
 - World Monitor 汇总的旅行建议级别：caution
-
-## 地震（USGS，M4.5+，近 7 天）
-
-- 2026-10-26 18:07 UTC：M4.5，74 km SE of Rasht, Tajikistan。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttb5 

@@ -4,7 +4,3 @@
 
 - 美国国务院旅行建议：Bolivia - Level 2: Exercise Increased Caution（Tue, 18 Aug 2026）。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bol.html 
 - World Monitor 汇总的旅行建议级别：caution
-
-## 地震（USGS，M4.5+，近 7 天）
-
-- 2026-10-26 19:36 UTC：M4.9，100 km E of La Tirana, Chile。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttbh 

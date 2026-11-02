@@ -12,7 +12,3 @@
 - 2026-10-28 07:02 UTC：M4.7，39 km SSW of Serrezuela, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmh 
 - 2026-10-27 11:41 UTC：M4.6，100 km W of El Aguilar, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfs 
 - 2026-10-27 11:19 UTC：M4.5，51 km S of Calingasta, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfm 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-11-01 23:18 UTC：Green 级 EQ，Earthquake in Argentina。https://www.gdacs.org/report.aspx?eventid=1575157&episodeid=1744167&eventtype=EQ 

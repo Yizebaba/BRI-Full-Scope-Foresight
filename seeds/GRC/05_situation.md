@@ -7,4 +7,5 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
+- 2026-11-02 16:49 UTC：Green 级 EQ，Earthquake in Greece。https://www.gdacs.org/report.aspx?eventid=1575283&episodeid=1744311&eventtype=EQ 
 - 2026-11-02 08:59 UTC：Green 级 EQ，Earthquake in Greece。https://www.gdacs.org/report.aspx?eventid=1575228&episodeid=1744256&eventtype=EQ 
