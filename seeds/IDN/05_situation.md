@@ -9,6 +9,6 @@
 
 - 2026-08-07 04:00 UTC：CDC Travel Notices Level 2 - Zika in Indonesia。https://wwwnc.cdc.gov/travel/notices/level2/zika-indonesia 
 
-## 地震（USGS，M4.5+，近 7 天）
+## 灾害警报（GDACS，近 14 天）
 
-- 2026-10-26 04:53 UTC：M5，45 km NNW of Ende, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y1 
+- 2026-11-02 00:53 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1575167&episodeid=1744180&eventtype=EQ 
