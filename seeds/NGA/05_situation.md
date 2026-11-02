@@ -26,3 +26,4 @@
 - 2026-10-28 00:00 UTC：Green 级 WF，Forest fires in Nigeria。https://www.gdacs.org/report.aspx?eventid=1033349&episodeid=6&eventtype=WF 
 - 2026-10-28 00:00 UTC：Green 级 WF，Forest fires in Nigeria, Cameroon。https://www.gdacs.org/report.aspx?eventid=1033405&episodeid=1&eventtype=WF 
 - 2026-10-24 00:00 UTC：Green 级 WF，Forest fires in Nigeria, Cameroon。https://www.gdacs.org/report.aspx?eventid=1033291&episodeid=5&eventtype=WF 
+- 2026-10-18 00:00 UTC：Green 级 WF，Forest fires in Nigeria。https://www.gdacs.org/report.aspx?eventid=1033198&episodeid=14&eventtype=WF 

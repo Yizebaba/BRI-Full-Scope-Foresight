@@ -16,7 +16,6 @@
 - 2026-10-28 15:40 UTC：M4.7，81 km ENE of Mazha, China。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttpk 
 - 2026-10-27 18:57 UTC：M5.4，210 km ENE of Nagqu, China。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttis 
 - 2026-10-26 07:48 UTC：M4.5，107 km WNW of Tumxuk, China。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yi 
-- 2026-10-25 22:01 UTC：M4.7，170 km ENE of Nagqu, China。https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4wc 
 
 ## 灾害警报（GDACS，近 14 天）
 

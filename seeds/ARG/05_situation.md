@@ -7,6 +7,7 @@
 
 ## 地震（USGS，M4.5+，近 7 天）
 
+- 2026-11-01 23:18 UTC：M4.5，86 km WNW of Abra Pampa, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tus5 
 - 2026-11-01 05:31 UTC：M4.8，71 km NNW of San Antonio de los Cobres, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tumy 
 - 2026-10-28 07:02 UTC：M4.7，39 km SSW of Serrezuela, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmh 
 - 2026-10-27 11:41 UTC：M4.6，100 km W of El Aguilar, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfs 
@@ -14,4 +15,5 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
+- 2026-11-01 23:18 UTC：Green 级 EQ，Earthquake in Argentina。https://www.gdacs.org/report.aspx?eventid=1575157&episodeid=1744167&eventtype=EQ 
 - 2026-11-01 05:31 UTC：Green 级 EQ，Earthquake in Argentina。https://www.gdacs.org/report.aspx?eventid=1575038&episodeid=1744026&eventtype=EQ 
