@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-02 23:50 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-03 06:32 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -75,16 +75,17 @@
 - 2026-10-28 15:56 UTC：BLF says over 80 Pakistani personnel killed in wave of attacks across Balochistan - The Hawk。https://news.google.com/rss/articles/CBMitgFBVV95cUxPX0FZTlF2ckV0UENZdW5pZEt4Q1pZR1I3NkljdHBOZnd1TVJiSlFkZGcxRWNRNjRLTDR4R24yQUFZMnlfR0VDanpLb0FvbmRJQXg1QVJrWGtBbTFXMHpXeDkzcnZXZ1haUVFJd19wbUhsbGVBYkRSVkNDSW9KeU5zN3hTbFhraHQzY21UbnR5UC1zazc4WFd2cHpSRTJnQWpudk54Nnc4cDdMSjZDWHp0Mkl5WC1fdw?oc=5
 - 2026-10-28 11:15 UTC：Baloch separatist group claims over 80 Pakistani personnel killed in Gwadar operation - News9live。https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejlKelhNNVFlb2gzdG8xWmFuS2o0amdLWlhFZG50bnpKSW00ZFlRNE5NVG5yd3NFSWVBZGV3cndydUVzeG1saHVlT0FLeGlSTU1fWHNfVVZmVGhFdU5JWHV6ZGFQY2RaWG5hdWY5czRFaDVzTVBxZVUyR015eWVvOWxtM1ZPUWtZNEZXWEpNNGh1bjczV3p2UHhTM3h3NWtwX0VVVjZmRGVsX2hsX2ZrMms3Zk44MkJ6c0cycVo0cks0MWvSAcgBQVVfeXFMTmlxdEVhVTJxVjZfSFR2Qklmc3QyNzZmMHEwNVNsd0VGRVctTndfVTVEd0plSEp2d1hhX2w2bC16YXhuUktUSGxzdHkzR0c4ZVhYUTJSRXI4MV9hSEhNTlFfRF9TSVNLenc0RGdoMWdPSEtWV091ZW5EUUowb1NnQ1p5bjNESTlQcWpuOER2WlhSR2ZYTG0zRktEcnFmaDY2REJFcTA2TDJCNUJSQ3NPeGgzdjJ4cGVWODh5Y29rcW5URzBvZjRhREU?oc=5
 - 2026-10-28 08:24 UTC：47 Terrorists Killed in Balochistan Operations from October 10 to 28 - Balochistan Pulse。https://news.google.com/rss/articles/CBMijwFBVV95cUxNUjRhSmdDYzV3bVhXR2tHYzVuc1Fta0dkUFZWVXJaUnVMdTdDVG9yMGc3WlBrdWs0b2VvRHgwWTFJRFV5ODVRbGVRdVQ5bjRTSHFEWU5LMnFjb2g3cUFiaVBqeUZ0NjJxSndGYko3YUJhcVUxZ3ZVcHhhQW5HOEcwVXZZbGJyeTc4SUdrTGk2b9IBjwFBVV95cUxNUjRhSmdDYzV3bVhXR2tHYzVuc1Fta0dkUFZWVXJaUnVMdTdDVG9yMGc3WlBrdWs0b2VvRHgwWTFJRFV5ODVRbGVRdVQ5bjRTSHFEWU5LMnFjb2g3cUFiaVBqeUZ0NjJxSndGYko3YUJhcVUxZ3ZVcHhhQW5HOEcwVXZZbGJyeTc4SUdrTGk2bw?oc=5
+- 2026-10-28 05:35 UTC：Operation Almas: Balochistan Liberation Front claims 80 Pakistani troops killed in coastal strikes - Mathrubhumi English。https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnZGeDdmRENRQm9xbGwxZlZ3TW5jZC1IR0hYUlVtdnRBbXUxZFFZM09yVGh1cFRlaUM4eGZ5VjNPb0JiZkZYTkxzZkVwdEVwVmdKdmFBemdHVTF2eDZKdVozSjhsWTNGbVBrajNSVl9kTHM0UmFNSG1hazhicF9BOVJncmF3MkRCQ0ltUWxoVGtXcDU1R0tmcTRVRy1NSm0tUWtSdlVFbDEteUYzZnUzdUk4NklMS3VrekNnOdIBwgFBVV95cUxQaFlzNDhrZ2hFMmdKbnU0TlM2d0VPTHVoYzBPTDh3RW96YUlZNzZPamh1Q1lOZ3NhY0EwRlhIa0RxMXRYS3ZuMm5URjNKUEVwTktyeUplZ0tvOF9pc29rbzV4VFptOTBCd2k5VjR4WEdWakI5c1dRUVNRZzBlMFM3WGFnMG5PS3VpUjVCdFYwaVZYSlF1NnQ2dEVyVFlwRmd6UldxRm1rWW5HUjVsMFBBYkh1NHBEM1YzUFZwUmthTzFtQQ?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-03 04:58 UTC：FBR Jobs 2026: Walk-In Interviews Announced - Pkrevenue.com
+- 2026-11-03 02:28 UTC：At Kazakhstan forum, Pakistan presents Karachi and Gwadar ports as 'strategic gateways' for Central Asian trade - Investify
 - 2026-11-02 19:36 UTC：University of Gwadar Retains Top Position in NAB’s Inter-University Short Film Contest - Daily Independent
 - 2026-11-02 18:35 UTC：At Kazakhstan forum, Pakistan presents Karachi and Gwadar ports as 'strategic gateways' for Central Asian trade - Dawn
-- 2026-11-02 14:16 UTC：When rights become a shield - The Express Tribune
+- 2026-11-02 14:14 UTC：When rights become a shield - The Express Tribune
 - 2026-11-02 13:57 UTC：Pakistan offers Central Asia gateway to global markets - ARYnews.tv
-- 2026-11-02 13:46 UTC：Pakistan Highlights Strategic Role in Strengthening Economic Ties with Central Asia - Bloom Pakistan
 - 2026-11-02 11:03 UTC：Pakistan Offers Central Asia Gateway to Global Markets - NewzTodays
-- 2026-11-02 10:15 UTC：Why Is NADRA Blocking CNICs in Balochistan? - Balochistan Pulse
-- 2026-11-02 01:07 UTC：Human trafficking attempt in Balochistan's Panjgur foiled - Dawn
+- 2026-11-01 23:49 UTC：CPEC And The Promise Of A More Connected And Prosperous Region – OpEd - Eurasia Review
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

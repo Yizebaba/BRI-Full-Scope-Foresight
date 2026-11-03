@@ -13,4 +13,3 @@
 - 2026-10-27 00:00 UTC：Green 级 WF，Forest fires in Central African Republic。https://www.gdacs.org/report.aspx?eventid=1033439&episodeid=1&eventtype=WF 
 - 2026-10-27 00:00 UTC：Green 级 WF，Forest fires in Central African Republic。https://www.gdacs.org/report.aspx?eventid=1033440&episodeid=1&eventtype=WF 
 - 2026-10-26 00:00 UTC：Green 级 WF，Forest fires in Central African Republic。https://www.gdacs.org/report.aspx?eventid=1033442&episodeid=1&eventtype=WF 
-- 2026-10-24 00:00 UTC：Green 级 WF，Forest fires in Central African Republic。https://www.gdacs.org/report.aspx?eventid=1033355&episodeid=7&eventtype=WF 
