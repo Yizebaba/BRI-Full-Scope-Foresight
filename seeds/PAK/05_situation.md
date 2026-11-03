@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-03 14:36 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-03 20:37 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -75,8 +75,8 @@
 - 2026-10-28 02:53 UTC：80 Pakistani personnel killed in Operation Almas, says Baloch Liberation Front - India Today。https://news.google.com/rss/articles/CBMi3gFBVV95cUxQemt1VXUzaDBFWkdpQWR0OTVFY3VuVDhfOWJfbmgwby15N054dDZ6bmZNS3JsMVpKUEV5UHVhaTZGVTZXOHp3Y1c3Mk5lTXQ2bjBTeGxDemJrWjJKUWFUdVlla0VibmZaTjRZY2p2OENMWVBsRlJEdVJiLXpmclRuZHNDcC1EbGdXcW9URDVqY01XT1Z6U1hET3NfWWt3Qm1FRmRGNkFtSU94WXFtZ212LWRzR0dmY05valZ5TDluOXhBeDFkYURDVDBnMUFDcVRnMXp2bG50R3d2QUxNa2fSAeMBQVVfeXFMUHBLQmhhTjR2U1ZudTRITjVydHpsbVJQME5Ob1pqSzVOb0RPZkx5UHFzbkdONEk5NzA1RDBNc2Vsc0piOXVTemJrSEY3OEtqa2ktRExlNkJYS3lMS0IzS1l0VUZxYTl3REJaZkpFTG1MQWNDdW9VRDBXYXRVcTlacjZkeTRQQkgxaDJpazRSRjZLVFA0VXlEMmRxblJmSG1wZzM5M0k3dkdjNmRaQ0ttRnJacTQtYlk3RmhOLVlOLVROYWo5bG9OV0x6ZG1VSjdqSmxpZUxKWGdNOEtIVjBwZDN1ZUU?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-03 02:28 UTC：At Kazakhstan forum, Pakistan presents Karachi and Gwadar ports as 'strategic gateways' for Central Asian trade - Investify
 - 2026-11-02 19:36 UTC：University of Gwadar Retains Top Position in NAB’s Inter-University Short Film Contest - Daily Independent
+- 2026-11-02 18:35 UTC：At Kazakhstan forum, Pakistan presents Karachi and Gwadar ports as 'strategic gateways' for Central Asian trade - Investify
 - 2026-11-02 18:35 UTC：At Kazakhstan forum, Pakistan presents Karachi and Gwadar ports as 'strategic gateways' for Central Asian trade - Dawn
 - 2026-11-01 09:55 UTC：Gwadar’s First Tuff Tiles and Pavers Manufacturing Unit Inaugurated - Daily Independent
 - 2026-11-01 07:59 UTC：Gwadar's first tuff tiles and pavers manufacturing unit inaugurated Breaking - Independent News Pakistan
