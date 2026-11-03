@@ -4,9 +4,10 @@
 
 ## 港口（IMF PortWatch，截至 2026-10-23 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 13 次（前 30 天 9 次），进口约 106316 公吨，出口约 5155 公吨。
+全国靠港 15 次（前 30 天 10 次），进口约 270952 公吨，出口约 5155 公吨。
 - Shuwaikh港：靠港 8 次，进口约 65805 公吨，出口约 263 公吨
 - Shuaiba港：靠港 5 次，进口约 40511 公吨，出口约 4892 公吨
+- Mina Al Zour港：靠港 2 次，进口约 164636 公吨，出口约 0 公吨
 - Mina Al Ahmadi港：靠港 0 次，进口约 0 公吨，出口约 0 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

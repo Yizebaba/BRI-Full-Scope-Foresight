@@ -10,5 +10,3 @@
 - 2026-11-01 23:18 UTC：M4.5，86 km WNW of Abra Pampa, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tus5 
 - 2026-11-01 05:31 UTC：M4.8，71 km NNW of San Antonio de los Cobres, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tumy 
 - 2026-10-28 07:02 UTC：M4.7，39 km SSW of Serrezuela, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmh 
-- 2026-10-27 11:41 UTC：M4.6，100 km W of El Aguilar, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfs 
-- 2026-10-27 11:19 UTC：M4.5，51 km S of Calingasta, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfm 

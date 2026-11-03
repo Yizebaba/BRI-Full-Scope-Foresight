@@ -17,3 +17,4 @@
 
 - 2026-11-02 08:13 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1575222&episodeid=1744242&eventtype=EQ 
 - 2026-11-02 00:53 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1575167&episodeid=1744180&eventtype=EQ 
+- 2026-10-29 00:00 UTC：Green 级 WF，Forest fires in Indonesia。https://www.gdacs.org/report.aspx?eventid=1033458&episodeid=1&eventtype=WF 

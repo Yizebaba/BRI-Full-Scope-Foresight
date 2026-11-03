@@ -101,5 +101,6 @@
 全国靠港 86 次（前 30 天 65 次），进口约 40444 公吨，出口约 88433 公吨。
 - Turkmenbashi Port港：靠港 83 次，进口约 39907 公吨，出口约 81226 公吨
 - Okaram港：靠港 3 次，进口约 537 公吨，出口约 7207 公吨
+- Kiyanly LNG Terminal港：靠港 0 次，进口约 0 公吨，出口约 0 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

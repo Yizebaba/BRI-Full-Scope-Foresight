@@ -14,3 +14,4 @@
 
 - 2026-11-02 05:19 UTC：Green 级 EQ，Earthquake in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1575203&episodeid=1744219&eventtype=EQ 
 - 2026-11-02 02:24 UTC：Green 级 EQ，Earthquake in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1575192&episodeid=1744206&eventtype=EQ 
+- 2026-10-24 00:00 UTC：Green 级 WF，Forest fires in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1033363&episodeid=7&eventtype=WF 
