@@ -9,8 +9,6 @@
 
 - 2026-10-30 17:06 UTC：M4.6，7 km NE of Tago, Philippines。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tub8 
 - 2026-10-28 12:14 UTC：M4.9，1 km WSW of Butulan, Philippines。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnq 
-- 2026-10-28 01:11 UTC：M5.2，6 km NW of Balangonan, Philippines。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlc 
-- 2026-10-27 23:43 UTC：M5.1，7 km N of Balangonan, Philippines。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttkk 
 
 ## 灾害警报（GDACS，近 14 天）
 

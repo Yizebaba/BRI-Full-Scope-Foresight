@@ -8,3 +8,7 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-10-28 12:35 UTC：M4.9，88 km SE of Hihifo, Tonga。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnt 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-11-04 00:32 UTC：Green 级 EQ，Earthquake in Fiji。https://www.gdacs.org/report.aspx?eventid=1575532&episodeid=1744583&eventtype=EQ 

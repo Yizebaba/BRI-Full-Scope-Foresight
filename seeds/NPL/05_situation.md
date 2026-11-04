@@ -9,7 +9,7 @@
 
 - 2026-09-04 00:00 UTC：US State Dept Nepal - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-03 20:37 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-04 01:13 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -30,9 +30,8 @@
 - 2026-10-30 02:24 UTC：Nepal plans temporary bridges to reopen flood-hit Rasuwagadhi border crossing - The Kathmandu Post。https://news.google.com/rss/articles/CBMivAFBVV95cUxNSGE4ZHE1ekxVYVZOYXg1bEdrQTE2NFlGOFJVYU5HRDhtN3djbnhQODVUZFU2Z2VLVFZ5dE1QSEVVZ0pzSkQ4Q3IyTTZPY2ZCRURBNUZHYWF4YjFXMncxbXBoRXNOVDZGalFhUV9QbXF3MlVsazBSZjdqeS0yS1VtYXlFcG4wV2xtV3FCdm5ia0Vha0Y0ekhubVllQTd2RGNfeU9FVVl2dTdEOHVhYVZyUUpqVkpWa2tXbVJlUQ?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-03 14:51 UTC：Nepal imports 3,725 tons of Chinese fruit via Korala border crossing - FreshPlaza
+- 2026-11-03 18:11 UTC：Nepal imports 3,725 tons of Chinese fruit via Korala border crossing - FreshPlaza
 - 2026-10-31 05:08 UTC：Everest Bank's Financial Leap: Strong Loan Management Boosts Profit Despite Decline in Interest Income - NEPSE Trading
-- 2026-10-30 09:37 UTC：Stock market fails to hold above 2,700, trading highest in seven months - OnlineKhabar English News
 - 2026-10-30 09:31 UTC：Foreign Ministry intensifies efforts to restore Rasuwagadhi and Tatopani border points - Deshsanchar
 - 2026-10-30 03:48 UTC：Nepal plans to install five temporary bridges to the Chinese border — Kathmandu Post - UA.NEWS
 - 2026-10-28 08:10 UTC：Shifting Himalayas Above Put Hydropower and Local Revenue at Risk Below - Centre for Investigative Journalism - Nepal
@@ -48,7 +47,7 @@
 - 2026-10-28 03:36 UTC：Police Senior Superintendent Deep Shamsher Jabra Discusses Bhote Koshi Flood Rescue Challenges and Technologies - Ratopati。https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWjl6ZXlGbjhoZGtWLUZXUjBoRXFuUE1WbkpmdlQwVG9RSk5MRnJQeXhDTFZrV1N2TW9nRERoalBhTmsyODJvX1p4Tl96cDJ5bFhjWDhYeTEwcFIyQTRmcDhiTVo4dXdEeV9jaGh1cGk5SG1PaHE1WjRQWl9iZjRscFluYjQ2eDhuSXloSzN6TzBoVVpQT0lUbmpYbjdqcW5qYWlKcmpnYjdwa2ttUU1zbkx6cGlYX1hsWE4tU2NCN2NkUnREUHVLajF2XzhUZzQtY3RVczNBYlEwYy10emRTQjBMdw?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-03 14:51 UTC：Nepal imports 3,725 tons of Chinese fruit via Korala border crossing - FreshPlaza
+- 2026-11-03 18:11 UTC：Nepal imports 3,725 tons of Chinese fruit via Korala border crossing - FreshPlaza
 - 2026-10-31 05:08 UTC：Everest Bank's Financial Leap: Strong Loan Management Boosts Profit Despite Decline in Interest Income - NEPSE Trading
 - 2026-10-30 09:37 UTC：Stock market fails to hold above 2,700, trading highest in seven months - OnlineKhabar English News
 - 2026-10-30 09:31 UTC：Foreign Ministry intensifies efforts to restore Rasuwagadhi and Tatopani border points - Deshsanchar
