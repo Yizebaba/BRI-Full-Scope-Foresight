@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-04 01:13 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-04 07:57 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -73,17 +73,16 @@
 - 2026-10-28 16:12 UTC：Gwadar Operation Almas: Baloch Liberation Front Claims Over 80 Pakistani Personnel Killed, Figures Remain Disputed - theopenpress.in。https://news.google.com/rss/articles/CBMilAFBVV95cUxPVzBYd05CcU01T183QlYzcjk0SHYyMmtSQVlTZHgzV1FfNDllUzRScFFoWWFpY3JjXzY5Yzgxc0NQZHduZndNWHNMUUpHT3A4dGV1VkFzWEJJRVNJbXlyNW1nUE5GOFlUTU1ROFNPTmt4aXFBd0J1Y2w2MzVVTzM4N2pNRldaZUhjQ29aTVoyU0ZoeXlt?oc=5
 - 2026-10-28 11:15 UTC：Baloch separatist group claims over 80 Pakistani personnel killed in Gwadar operation - News9live。https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejlKelhNNVFlb2gzdG8xWmFuS2o0amdLWlhFZG50bnpKSW00ZFlRNE5NVG5yd3NFSWVBZGV3cndydUVzeG1saHVlT0FLeGlSTU1fWHNfVVZmVGhFdU5JWHV6ZGFQY2RaWG5hdWY5czRFaDVzTVBxZVUyR015eWVvOWxtM1ZPUWtZNEZXWEpNNGh1bjczV3p2UHhTM3h3NWtwX0VVVjZmRGVsX2hsX2ZrMms3Zk44MkJ6c0cycVo0cks0MWvSAcgBQVVfeXFMTmlxdEVhVTJxVjZfSFR2Qklmc3QyNzZmMHEwNVNsd0VGRVctTndfVTVEd0plSEp2d1hhX2w2bC16YXhuUktUSGxzdHkzR0c4ZVhYUTJSRXI4MV9hSEhNTlFfRF9TSVNLenc0RGdoMWdPSEtWV091ZW5EUUowb1NnQ1p5bjNESTlQcWpuOER2WlhSR2ZYTG0zRktEcnFmaDY2REJFcTA2TDJCNUJSQ3NPeGgzdjJ4cGVWODh5Y29rcW5URzBvZjRhREU?oc=5
 - 2026-10-28 08:24 UTC：47 Terrorists Killed in Balochistan Operations from October 10 to 28 - Balochistan Pulse。https://news.google.com/rss/articles/CBMijwFBVV95cUxNUjRhSmdDYzV3bVhXR2tHYzVuc1Fta0dkUFZWVXJaUnVMdTdDVG9yMGc3WlBrdWs0b2VvRHgwWTFJRFV5ODVRbGVRdVQ5bjRTSHFEWU5LMnFjb2g3cUFiaVBqeUZ0NjJxSndGYko3YUJhcVUxZ3ZVcHhhQW5HOEcwVXZZbGJyeTc4SUdrTGk2b9IBjwFBVV95cUxNUjRhSmdDYzV3bVhXR2tHYzVuc1Fta0dkUFZWVXJaUnVMdTdDVG9yMGc3WlBrdWs0b2VvRHgwWTFJRFV5ODVRbGVRdVQ5bjRTSHFEWU5LMnFjb2g3cUFiaVBqeUZ0NjJxSndGYko3YUJhcVUxZ3ZVcHhhQW5HOEcwVXZZbGJyeTc4SUdrTGk2bw?oc=5
-- 2026-10-28 02:53 UTC：80 Pakistani personnel killed in Operation Almas, says Baloch Liberation Front - India Today。https://news.google.com/rss/articles/CBMi3gFBVV95cUxQemt1VXUzaDBFWkdpQWR0OTVFY3VuVDhfOWJfbmgwby15N054dDZ6bmZNS3JsMVpKUEV5UHVhaTZGVTZXOHp3Y1c3Mk5lTXQ2bjBTeGxDemJrWjJKUWFUdVlla0VibmZaTjRZY2p2OENMWVBsRlJEdVJiLXpmclRuZHNDcC1EbGdXcW9URDVqY01XT1Z6U1hET3NfWWt3Qm1FRmRGNkFtSU94WXFtZ212LWRzR0dmY05valZ5TDluOXhBeDFkYURDVDBnMUFDcVRnMXp2bG50R3d2QUxNa2fSAeMBQVVfeXFMUHBLQmhhTjR2U1ZudTRITjVydHpsbVJQME5Ob1pqSzVOb0RPZkx5UHFzbkdONEk5NzA1RDBNc2Vsc0piOXVTemJrSEY3OEtqa2ktRExlNkJYS3lMS0IzS1l0VUZxYTl3REJaZkpFTG1MQWNDdW9VRDBXYXRVcTlacjZkeTRQQkgxaDJpazRSRjZLVFA0VXlEMmRxblJmSG1wZzM5M0k3dkdjNmRaQ0ttRnJacTQtYlk3RmhOLVlOLVROYWo5bG9OV0x6ZG1VSjdqSmxpZUxKWGdNOEtIVjBwZDN1ZUU?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-03 21:01 UTC：University of Gwadar, FAST-NUCES Plan Collaboration in AI, IT and Emerging Technologies - Daily Independent
+- 2026-11-03 11:00 UTC：Beijing offers to boost China-Pakistan corridor safety as terror threat grows - South China Morning Post
 - 2026-11-02 19:36 UTC：University of Gwadar Retains Top Position in NAB’s Inter-University Short Film Contest - Daily Independent
-- 2026-11-02 18:35 UTC：At Kazakhstan forum, Pakistan presents Karachi and Gwadar ports as 'strategic gateways' for Central Asian trade - Investify
 - 2026-11-02 18:35 UTC：At Kazakhstan forum, Pakistan presents Karachi and Gwadar ports as 'strategic gateways' for Central Asian trade - Dawn
+- 2026-11-02 18:35 UTC：At Kazakhstan forum, Pakistan presents Karachi and Gwadar ports as 'strategic gateways' for Central Asian trade - Investify
+- 2026-11-02 14:14 UTC：When rights become a shield - The Express Tribune
 - 2026-11-01 09:55 UTC：Gwadar’s First Tuff Tiles and Pavers Manufacturing Unit Inaugurated - Daily Independent
 - 2026-11-01 07:59 UTC：Gwadar's first tuff tiles and pavers manufacturing unit inaugurated Breaking - Independent News Pakistan
-- 2026-10-31 13:21 UTC：Large pod of dolphins spotted leaping through waves off Gwadar coast - 24NewsHD
-- 2026-10-30 20:26 UTC：Hidayat-ur-Rehman Calls for Removal of Hurdles Slowing Gwadar Development - Daily Independent
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 
