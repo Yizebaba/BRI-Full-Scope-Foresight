@@ -14,8 +14,3 @@
 
 - 2026-11-02 15:35 UTC：M4.7，193 km ENE of Nagqu, China。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuxi 
 - 2026-10-28 22:42 UTC：M4.6，80 km SE of Bole, China。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttuq 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-10-27 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033362&episodeid=3&eventtype=WF 
-- 2026-10-25 00:00 UTC：Green 级 WF，Forest fires in China。https://www.gdacs.org/report.aspx?eventid=1033376&episodeid=3&eventtype=WF 

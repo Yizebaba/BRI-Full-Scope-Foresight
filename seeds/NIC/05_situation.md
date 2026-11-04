@@ -8,3 +8,11 @@
 ## 各国政府旅行建议更新（经 World Monitor）
 
 - 2026-09-03 04:00 UTC：CDC Travel Notices Level 2 - Chikungunya in Nicaragua。https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-nicaragua 
+
+## 地震（USGS，M4.5+，近 7 天）
+
+- 2026-11-04 19:55 UTC：M4.5，2 km W of Chinandega, Nicaragua。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw3k 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-11-04 19:55 UTC：Green 级 EQ，Earthquake in Nicaragua。https://www.gdacs.org/report.aspx?eventid=1575661&episodeid=1744724&eventtype=EQ 

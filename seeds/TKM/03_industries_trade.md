@@ -96,10 +96,10 @@
 | 毛皮及制品（HS 43，Furskins and artificial fur; manufactures thereof） | 6800 美元 | 无数据 |
 | 铅及其制品（HS 78，Lead and articles thereof） | 2020 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-10-23 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-10-30 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 86 次（前 30 天 65 次），进口约 40444 公吨，出口约 88433 公吨。
-- Turkmenbashi Port港：靠港 83 次，进口约 39907 公吨，出口约 81226 公吨
+全国靠港 91 次（前 30 天 73 次），进口约 44672 公吨，出口约 94055 公吨。
+- Turkmenbashi Port港：靠港 88 次，进口约 44135 公吨，出口约 86848 公吨
 - Okaram港：靠港 3 次，进口约 537 公吨，出口约 7207 公吨
 - Kiyanly LNG Terminal港：靠港 0 次，进口约 0 公吨，出口约 0 公吨
 

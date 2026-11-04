@@ -29,7 +29,3 @@ cucuta metropolitan police
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-03 09:13 UTC：M5.4，24 km NNW of Rioblanco, Colombia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv4i 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-11-03 09:13 UTC：Green 级 EQ，Earthquake in Colombia。https://www.gdacs.org/report.aspx?eventid=1575413&episodeid=1744448&eventtype=EQ 

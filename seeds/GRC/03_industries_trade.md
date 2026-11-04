@@ -205,14 +205,14 @@
 | 制粉工业产品（HS 11，Products of the milling industry; malt, starches, inulin, wheat gluten） | 2 万美元 | 无数据 |
 | 木浆（HS 47，Pulp of wood or other fibrous cellulosic material; recovered (waste an） | 818 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-10-23 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-10-30 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 1292 次（前 30 天 1404 次），进口约 5152642 公吨，出口约 4027415 公吨。
-- Piraeus港：靠港 384 次，进口约 2654540 公吨，出口约 2134229 公吨
-- Eleusis港：靠港 151 次，进口约 213927 公吨，出口约 494778 公吨
-- Thessaloníki港：靠港 137 次，进口约 229276 公吨，出口约 324369 公吨
-- Asprópirgos港：靠港 136 次，进口约 306076 公吨，出口约 279210 公吨
-- Agioi Oil Terminal港：靠港 102 次，进口约 761278 公吨，出口约 489964 公吨
-- Volos港：靠港 58 次，进口约 22673 公吨，出口约 108276 公吨
+全国靠港 1270 次（前 30 天 1390 次），进口约 5449557 公吨，出口约 3910937 公吨。
+- Piraeus港：靠港 363 次，进口约 2732360 公吨，出口约 2064460 公吨
+- Eleusis港：靠港 149 次，进口约 206917 公吨，出口约 471193 公吨
+- Thessaloníki港：靠港 133 次，进口约 255165 公吨，出口约 315437 公吨
+- Asprópirgos港：靠港 133 次，进口约 262038 公吨，出口约 266466 公吨
+- Agioi Oil Terminal港：靠港 102 次，进口约 1008236 公吨，出口约 464394 公吨
+- Volos港：靠港 59 次，进口约 22353 公吨，出口约 106196 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

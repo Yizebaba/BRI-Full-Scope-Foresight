@@ -20,7 +20,3 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-10-30 18:01 UTC：M4.5，236 km ESE of Zyryanka, Russia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tudk 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-11-03 03:13 UTC：Green 级 EQ，Earthquake in Russia。https://www.gdacs.org/report.aspx?eventid=1575382&episodeid=1744416&eventtype=EQ 

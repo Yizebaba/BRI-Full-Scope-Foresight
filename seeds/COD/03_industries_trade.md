@@ -199,14 +199,14 @@
 | 编结用植物材料（HS 14，Vegetable plaiting materials; vegetable products not elsewhere specifi） | 2536 美元 | 无数据 |
 | 活植物、花卉（HS 06，Trees and other plants, live; bulbs, roots and the like; cut flowers a） | 1000 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-10-23 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-10-30 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 56 次（前 30 天 52 次），进口约 133612 公吨，出口约 980275 公吨。
-- Matadi港：靠港 45 次，进口约 130708 公吨，出口约 39322 公吨
-- Democratic Republic of the Congo - Offshore Oil Terminal 4港：靠港 5 次，进口约 2046 公吨，出口约 251911 公吨
-- Democratic Republic of the Congo - Offshore Oil Terminal 1港：靠港 2 次，进口约 0 公吨，出口约 441366 公吨
-- Banana港：靠港 2 次，进口约 858 公吨，出口约 214 公吨
+全国靠港 52 次（前 30 天 54 次），进口约 124994 公吨，出口约 607261 公吨。
+- Matadi港：靠港 45 次，进口约 123201 公吨，出口约 28965 公吨
+- Democratic Republic of the Congo - Offshore Oil Terminal 4港：靠港 3 次，进口约 1364 公吨，出口约 134282 公吨
+- Democratic Republic of the Congo - Offshore Oil Terminal 1港：靠港 1 次，进口约 0 公吨，出口约 196445 公吨
 - Democratic Republic of the Congo - Offshore Oil Terminal 2港：靠港 1 次，进口约 0 公吨，出口约 123621 公吨
 - Democratic Republic of the Congo - Offshore Oil Terminal 3港：靠港 1 次，进口约 0 公吨，出口约 123841 公吨
+- Banana港：靠港 1 次，进口约 429 公吨，出口约 107 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

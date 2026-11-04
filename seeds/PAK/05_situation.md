@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-04 16:10 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-04 22:07 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -67,20 +67,20 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-11-03 05:36 UTC：10 terrorists, including one female, killed in Gwadar: ISPR - GNN | Latest News。https://news.google.com/rss/articles/CBMijAFBVV95cUxOaElMd1B1a1dhNVhFZm5xMTA3Nms5b1NMWVRycVpscHFySWM0d19wREVEelZMLWtTR2dOVmtOeTV6TEl4SFlIS3BueEJyajAtWUtnNUwxVG1ReTVNOTZRN3F0YVlkMlc1dXhjdDVDZF92X3hRcU1wdUoxMThvbkU5cUpGR0M1WWtNeEktYw?oc=5
+- 2026-11-02 16:12 UTC：Multiple attacks target Pakistani forces in Balochistan - IANS LIVE。https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXcybGRSUzFPSjRFZWZ0TEN5TTN2WlZzbUVTSm1XclBOU0hXX0Qxb3VETmVuaVZibEthYld2M1BCQWw2b2p5Q0pKZmxia2hqR1lILVpsSDRjSDN0WkZpMVRmWlR6LVhMc2JkLUhQSkhvQXpndERIbjdNM0lZNHdWT1RHSUUwOUJkeW1PVWI5djZOcGFlVWc?oc=5
 - 2026-10-30 07:00 UTC：Security Forces Foil Terror Attacks in Gwadar, Kill Three Militants - Pakistan Observer。https://news.google.com/rss/articles/CBMilgFBVV95cUxNWDhzWUlicUFJTG9EenctTGVkUE84bkRBeE9udDRzcGFqQnZZV2Fwd09Yc2t1anlPQy1CQU5GeFlsQzRnTHNsZTRORkJEXzBaVlY2eHZWU3E3ckpoVzQ2am1tVHVvazBHamVxak1lR19lWVk5OGJTNHFKS21xYjVWTGp1RzB1Q3lBSGY3Z0NVTVJkdjVxWHc?oc=5
 - 2026-10-29 11:28 UTC：Operation Almas: Baloch Liberation Front says it killed 80 Pakistani soldiers, captured FWO camp - OpIndia。https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdGFRTkxhZXJIdjRHN1VJZEZRM2NvTTI1TXcxU3dVMVp4bmhDb25pY2xmRWpiSEtJVWdWU2xBZFFkMzAyLVdFQ2U4NFA1akFGME9kSzduTkljSmEzUUNMWkNMN3JuZF9XQkFSUHlGaWtBc0lxUjU2TGtJZ3EyeDBxUkpjYm53ZUE3ckJ1ZFdDVEQzLWd4OGg3Zi13Y0tTd1czc2J0NmdIUm5tOEpjRFJCa1JoTko1bEcteUxSZlUzVEtDNXhScDNOYnBWbGhBa1ZBM2h6SlFIbTVUY3pvZk4wcTlETVplOHJsNWNqZ0tRTVB5SEt5?oc=5
 - 2026-10-29 10:32 UTC：Balochistan Attack: BLF Claims More Than 80 Pakistani Personnel Killed in Gwadar Operation - theopenpress.in。https://news.google.com/rss/articles/CBMiigFBVV95cUxPcDk1Z01RZkozRjhGUXlzWm12d2pST1g1bmpnZk5uNXZLb3VSM2RGZU5MZTI2R1FGT0lZZjB4QzhUbjlUeWIyR01MUTU4ZEdzbER3eHhHR2xkcUpVdGxnOEdzY2xFOEs3M0lUOTVqeUdhdnVWNWFqbDNCc2hKYjYwaVdWNWt2VVp5UHc?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-04 20:50 UTC：Year Land Settlement Dispute in Pasni Near Resolution, Says Hidayat-ur-Rehman - Daily Independent
+- 2026-11-04 16:28 UTC：Blue whale carcass washes ashore in Gwadar - samaa tv
 - 2026-11-04 12:04 UTC：Gwadar Port Strengthens Its Role as a CPEC Trade Hub - The Daily CPEC
 - 2026-11-03 21:01 UTC：University of Gwadar, FAST-NUCES Plan Collaboration in AI, IT and Emerging Technologies - Daily Independent
 - 2026-11-03 20:59 UTC：Balochistan Tourism Department Announces Coastal Videography Competition 2026 - Daily Independent
 - 2026-11-03 11:00 UTC：Beijing offers to boost China-Pakistan corridor safety as terror threat grows - South China Morning Post
+- 2026-11-03 04:58 UTC：FBR announces walk-in interviews for eight jobs under Balochistan quota - Pkrevenue.com
 - 2026-11-02 19:36 UTC：University of Gwadar Retains Top Position in NAB’s Inter-University Short Film Contest - Daily Independent
-- 2026-11-02 18:35 UTC：At Kazakhstan forum, Pakistan presents Karachi and Gwadar ports as 'strategic gateways' for Central Asian trade - Dawn
-- 2026-11-02 18:35 UTC：At Kazakhstan forum, Pakistan presents Karachi and Gwadar ports as 'strategic gateways' for Central Asian trade - Investify
-- 2026-11-02 14:14 UTC：When rights become a shield - The Express Tribune
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 
