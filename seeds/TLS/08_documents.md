@@ -50,13 +50,6 @@ Foreign relations of the People's Republic of China
 
 ## 与“一带一路”相关的条目（维基百科导言）
 
-### Andre Vltchek
-
-André Vltchek (Russian: Андре Влчек, [ɐnˈdrɛ ˈvɫ̩t͡ɕɛk], December 29, 1963 – September 22, 2020) was a Soviet-born American political analyst, journalist, and a filmmaker. Vltchek was born in Leningrad but later became a naturalized U.S. citizen after being granted asylum there in his 20s. He lived in the United States, Chile, Peru, Mexico, Vietnam, Samoa, and Indonesia.
-Vltchek covered armed conflicts in Peru, Kashmir, Mexico, Bosnia, Sri Lanka, Congo, India, South Africa, East Timor, Indonesia, Turkey, and the Middle East. He traveled to more than 140 countries, and wrote articles for Der Spiegel, Japanese newspaper The Asahi Shimbun, The Guardian, ABC News and the Czech Republic daily Lidové noviny. From 2004, Vltchek served as a senior fellow at the Oakland Institute.
-Commenting on Vltchek's book Oceania, published in 2010, American linguist Noam Chomsky said that it evoked "the reality of the contemporary world" and that "He has also not failed to trace the painful — and particularly for the West, shameful realities to their historical roots".
-
-来源：https://en.wikipedia.org/wiki/Andre_Vltchek
 ### Kerry Brown (historian)
 
 Kerry Brown (born 1967) is a British historian, author and sinologist specialising in Chinese history, international relations and politics. Brown is a current Professor of Chinese Studies and Director of the Lau China Institute at King's College, London, President of the Kent Archeological Society, and Associate Fellow on the Asia Pacific programme at Chatham House. 
@@ -93,4 +86,4 @@ From 2012 to 2015, he was a Professor of Chinese Politics and Director of the Ch
 （项目：TP-Timor-Leste Branch Roads Project -- P155203）。http://documents.worldbank.org/curated/en/099521207092692778
   摘要：The development objective of is to improve road access, safety, and climate resilience: (i) enhance road access, safety and efficiency of road networks, (ii) increase access of the rural and urban populations on the Gleno-Maubisse corridor to various social services and markets leading to improved livelihoods and poverty reduction, and (iii) improve the districts trade on agriculture products and other potential commodities, (iv) promote a development potential for tourism and agriculture by facilitating road transport and connectivity to major urban and per-urban areas including Dili, Ermera and Ainaro. Some of the negative impacts include: loss of main structures; loss of secondary structures; business impacts and loss of income; loss of crops and trees; loss of public assets and utilities; impacts on vulnerable households; construction-related impacts; and unanticipated involuntary resettlement impacts. Some of the mitigation measures include: cash compensation at replacement cost for affected structures; relocation assistance for displaced households; advance notice of land clearance; priority access to project-related employment opportunities; compensation for secondary structures at replacement cost; income restoration assistance for affected businesses; livelihood restoration program participation; compensation for lost crops and trees based on government rates; restoration or reconstruction of affected public assets and utilities; additional subsistence allowances for
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

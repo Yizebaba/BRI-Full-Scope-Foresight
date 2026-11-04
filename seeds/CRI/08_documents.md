@@ -86,4 +86,4 @@ Marco Rubio’s diplomatic efforts in the Caribbean, particularly in anti-narcot
 - 2026-04-16 · Brief · Macro Poverty Outlook for Costa Rica : April 2026。http://documents.worldbank.org/curated/en/099720508052626549
   摘要：Growth accelerated to 4.6 percent in 2025 on resilient exports, but it is projected to moderate to 3.6–3.7 percent over 2026–2028 as external demand eases. While fiscal consolidation has continued, revenue growth has flatlined and central government debt remains high at 60.4 percent. Although real wage growth reduced poverty to its lowest rate since 2010, falling participation rates and persistent inequality pose challenges.
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

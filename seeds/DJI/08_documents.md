@@ -96,12 +96,12 @@ The group has drawn Western media criticism related to the Belt and Road Initiat
 - 2026-09-01 · Country Private Sector Diagnostics · Djibouti - Diagnostic-Pays du Secteur Privé : Résumé Analytique
 。http://documents.worldbank.org/curated/en/099829509152619154
   摘要：Djibouti possède d’importants atouts stratégiques favorisant une croissance tirée par le secteur privé, notamment sa position géographique au détroit de Bab-el-Mandeb, un passage maritime essentiel reliant la mer Rouge à l’océan Indien, sa proximité avec certaines des routes maritimes les plus fréquentées au monde, ainsi que son rôle de pôle régional des technologies de l’information et de la communication (TIC), soutenu par huit câbles sous-marins opérationnels. Ces avantages ont contribué à attirer d’importants investissements directs étrangers (IDE) et offrent un potentiel accru pour attirer davantage d’investissements nationaux et étrangers si les principales contraintes sont levées. L’économie djiboutienne a affiché de solides performances, avec une croissance moyenne du produit intérieur brut (PIB) de 5,3 % par an entre 2016 et 2024. Ce Diagnostic du secteur privé par pays (Country Private Sector Diagnostic, CPSD), produit analytique phare du Groupe de la Banque mondiale, a été élaboré pour orienter la conception, la mise en œuvre et la priorisation de politiques réalisables dans un horizon de trois à cinq ans afin de soutenir le développement du secteur privé. Conçu du point de vue des investisseurs et des entrepreneurs, le CPSD met en évidence les opportunités d’investissement inexploitées, les obstacles à l’investissement privé et les mesures de politique publique nécessaires pour stimuler la croissance, créer des emplois de meilleure qualité, accroître les recettes 
+- 2026-11-04 · Environmental and Social Management Plan · Environmental and Social Management Plan (ESMP) Integrated Community Resilience Project (P506969)（项目：DJ-Integrated Community Resilience Project -- P506969）。http://documents.worldbank.org/curated/en/099110426013018732
 - 2026-10-15 · Environmental and Social Management Plan · Environmental and Social Management Framework (ESMF) Djibouti Economic Diversification Program-for-Results  (P511188)（项目：DJ-Djibouti Economic Diversification Program-for-Results -- P511188）。http://documents.worldbank.org/curated/en/099101526062522316
 - 2026-10-15 · Procedure and Checklist · Labor Management Procedures Djibouti Economic Diversification Program-for-Results  (P511188)（项目：DJ-Djibouti Economic Diversification Program-for-Results -- P511188）。http://documents.worldbank.org/curated/en/099101526054040395
 - 2026-09-11 · Implementation Completion Report Review · Djibouti - DJI  - SPE Crisis Response Project（项目：DJ-Social Protection Emergency Crisis Response Project -- P178992）。http://documents.worldbank.org/curated/en/099091126121041274
 - 2026-09-10 · Environmental and Social Management Plan · Environmental and Social Management Plan (ESMP) Economic Management and Statistics Development for Policy Making (P171777)（项目：DJ-Economic Management and Statistics Development for Policy Making -- P171777）。http://documents.worldbank.org/curated/en/099091026144019860
 - 2026-09-10 · Environmental and Social Management Plan · Revised  Environmental and Social Management Plan (ESMP) Djibouti - Contingent Emergency Response Project  (P509082)（项目：DJ-Djibouti - Contingent Emergency Response Project -- P509082）。http://documents.worldbank.org/curated/en/099091026164028717
-- 2026-08-05 · Climate Co-Benefits Assessment · Climate Finance Assessment (P174300)（项目：DJ-Horn of Africa Initiative: Djibouti Regional Economic Corridor Project -- P174300）。http://documents.worldbank.org/curated/en/099080526130542086
 
 ## 学术论文（OpenAlex）
 
@@ -146,4 +146,4 @@ This thesis is a comparative analysis of China’s influence in Djibouti and Pan
 
 https://openalex.org/W3202586166
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

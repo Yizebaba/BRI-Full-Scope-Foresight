@@ -90,7 +90,7 @@ Botswana continued to address the COVID-19 pandemic in 2021, beginning its vacci
 
 ## 学术论文（OpenAlex）
 
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 200）
 
 （无摘要）
 
@@ -100,7 +100,7 @@ https://doi.org/10.1016/j.ememar.2019.100629
 China's Belt and Road Initiative aims to improve connectivity between China and more than 70 countries through infrastructure investment and regional cooperation. The initiative has the potential to accelerate significantly the rate of economic integration and development in the region, as trade costs decline. The goals of this paper are to (i) study the impacts of infrastructure improvements on Belt and Road Initiative and non?Belt and Road Initiative countries'trade flows, growth, and poverty; and (ii) suggest policies that would help maximize gains from the Belt and Road Initiative?induced trade cost declines. The analysis captures the trade costs reductions as a result of infrastructure improvements. The findings indicate that the Belt and Road Initiative would be largely beneficial. First, global income increases by 0.7 percent (in 2030 relative to the baseline). This translates into almost half a trillion dollars in 2014 prices and market exchange rates. The Belt and Road Initiative area captures 82 percent of the gain, with the largest percent gains in East Asia. Second, globally, the Belt and Road Initiative could contribute to lifting 7.6 million people from extreme poverty and 32 million from moderate poverty. Third, the initiative would lead to a modest increase in global carbon dioxide emissions, with a complex set of positive and negative outcomes at the national level for other types of emissions.
 
 https://doi.org/10.1596/1813-9450-8814
-### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 163）
+### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 164）
 
 （无摘要）
 
@@ -125,10 +125,10 @@ https://doi.org/10.1093/fpa/orad015
 This paper provides a framework to assess the impact of infrastructure investment expected under the Belt and Road Initiative (BRI) on the debt vulnerabilities of countries that are located on BRI transport and connectivity corridors in the absence of comprehensive and consistent information on investments and financing terms. Key assumptions relate to the amount of public and publicly guaranteed (PPG) debt financing and its terms, the size and sectoral type of identified BRI investment, and the expected impact of growth in the medium and long term of that investment. BRI debt financing is expected significantly increase PPG debt in a number of countries. The paper provides estimates for both the medium and the long term. In the medium term, defined as the period 2019-2023, debt financing of BRI investment is expected to be fully disbursed while the full growth impact of BRI related infrastructure is not entirely realized. In this initial phase, around one-third of assessed BRI-recipient countries are estimated to face elevated debt vulnerabilities post- BRI, several of which have already high debt vulnerabilities. The impact of BRI on public debt would improve over the longer term under the assumption of a sustained negative interest rate-growth differential and in the absence of the materialization of BRI related fiscal risks. Still, debt to GDP ratio is expected to remain higher in one-third of countries (11 out of 30 with available data).
 
 https://doi.org/10.1596/1813-9450-8891
-### Countries’ Perceptions of China’s Belt and Road Initiative: A Big Data Analysis（2019，SSRN Electronic Journal，被引 38）
+### Countries’ Perceptions of China’s Belt and Road Initiative: A Big Data Analysis（2019，SSRN Electronic Journal，被引 40）
 
 （无摘要）
 
 https://doi.org/10.2139/ssrn.3430318
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

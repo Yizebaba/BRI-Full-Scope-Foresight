@@ -90,4 +90,4 @@ Chilean Embassy in Beijing, China (in Spanish)
 - 2026-03-25 · Brief · Chile Gender Landscape。http://documents.worldbank.org/curated/en/099855106302218668
   摘要：This briefing showcases the gender landscape in Chile on key indicators helpful for monitoring gender equality and designing effective policy interventions. Gender equality fosters productivity gains, minimizes losses in wealth, reduces poverty, boosts shared prosperity, and supports green, resilient, and inclusive development.
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

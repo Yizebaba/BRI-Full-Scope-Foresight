@@ -144,7 +144,7 @@ The Russia–China Investment Fund (Russian: Российско-Китайски
 
 ## 学术论文（OpenAlex）
 
-### Does One Belt One Road initiative promote Chinese overseas direct investment?（2017，China Economic Review，被引 562）
+### Does One Belt One Road initiative promote Chinese overseas direct investment?（2017，China Economic Review，被引 563）
 
 （无摘要）
 
@@ -169,20 +169,20 @@ https://doi.org/10.1016/j.scitotenv.2017.11.351
 （无摘要）
 
 https://doi.org/10.1007/s11442-018-1522-9
-### Two Ways of Influence-building: The Eurasian Economic Union and the One Belt, One Road Initiative（2017，Europe Asia Studies，被引 68）
+### Two Ways of Influence-building: The Eurasian Economic Union and the One Belt, One Road Initiative（2017，Europe Asia Studies，被引 70）
 
 Russia and China have been pursuing the Eurasian Economic Union and the One Belt, One Road initiative since the early 2010s, employing two distinct sets of practices in their respective influence-building endeavours. Russia is interested in creating an exclusive sphere of influence in the post-Soviet space, in order to bolster its great power status and secure regional primacy. China, in turn, is expanding its economic influence over a vast geographical area disguising economic expansion behind multilateralism. These differences make Sino–Russian competition in Central Asia less plausible.
 
 https://doi.org/10.1080/09668136.2017.1373270
-### Belt and Road 2.0 Initiative and Russia（2020，Far Eastern Affairs，被引 0）
+### The Silk Road goes north: Russia’s role within China’s Belt and Road Initiative（2016，Area Development and Policy，被引 34）
 
-（无摘要）
+Russia, the world’s largest country, forms a key part of China’s Belt and Road Initiative (BRI). Underfunded infrastructure and vast energy resources into which Western investment is now largely prohibited by US and European Union sanctions also make Russia a logical site for BRI projects. Two are currently under way: the Moscow–Kazan high-speed railway and the Yamal liquefied natural gas plant. These BRI endeavours build on recent Sino-Russia energy cooperation and a longer history of transportation infrastructure partnership in which China is now the investor. However, longstanding mutual suspicions that peaked during the Cold War may challenge implementation.
 
-https://doi.org/10.21557/fea.58785237
+https://doi.org/10.1080/23792949.2016.1239508
 ### The Belt and Road Initiative and the Eurasian Economic Union: Exploring the “Greater Eurasian Partnership”（2020，Journal of Current Chinese Affairs，被引 41）
 
 The Russian-led Eurasian Economic Union (EAEU) is a key partner in China’s Belt, and Road Initiative (BRI), since it comprises the majority of territories which the BRI’s overland route, the Silk Road Economic Belt, needs to traverse as it crosses Central Asia on the way to Europe. The goal of this article is to explore the BRI in the context of BRI–EAEU coordination. The first part of the analysis focusses on the ways the Eurasian Economic Commission delineates the “Greater Eurasian Partnership” and counterposes it against China and the BRI. Then, the article compares two sets of interpretations of the BRI and “Greater Eurasian Partnership” obtained from interviews with elites in Kazakhstan and Russia. The interviews indicate that the BRI has had a much more forceful impact on local elites than Russia’s idea of “Greater Eurasian Partnership.”
 
 https://doi.org/10.1177/1868102620911666
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

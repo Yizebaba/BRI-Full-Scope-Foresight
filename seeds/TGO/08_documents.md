@@ -84,7 +84,7 @@ https://doi.org/10.1007/978-3-031-80400-7_11
 China's Belt and Road Initiative aims to improve connectivity between China and more than 70 countries through infrastructure investment and regional cooperation. The initiative has the potential to accelerate significantly the rate of economic integration and development in the region, as trade costs decline. The goals of this paper are to (i) study the impacts of infrastructure improvements on Belt and Road Initiative and non?Belt and Road Initiative countries'trade flows, growth, and poverty; and (ii) suggest policies that would help maximize gains from the Belt and Road Initiative?induced trade cost declines. The analysis captures the trade costs reductions as a result of infrastructure improvements. The findings indicate that the Belt and Road Initiative would be largely beneficial. First, global income increases by 0.7 percent (in 2030 relative to the baseline). This translates into almost half a trillion dollars in 2014 prices and market exchange rates. The Belt and Road Initiative area captures 82 percent of the gain, with the largest percent gains in East Asia. Second, globally, the Belt and Road Initiative could contribute to lifting 7.6 million people from extreme poverty and 32 million from moderate poverty. Third, the initiative would lead to a modest increase in global carbon dioxide emissions, with a complex set of positive and negative outcomes at the national level for other types of emissions.
 
 https://doi.org/10.1596/1813-9450-8814
-### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 163）
+### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 164）
 
 （无摘要）
 
@@ -115,4 +115,4 @@ This paper established a combined dataset from 2004 to 2015 for 129 host countri
 
 https://doi.org/10.3390/su10114060
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

@@ -96,20 +96,20 @@ https://doi.org/10.1596/1813-9450-8718
 This paper provides a framework to assess the impact of infrastructure investment expected under the Belt and Road Initiative (BRI) on the debt vulnerabilities of countries that are located on BRI transport and connectivity corridors in the absence of comprehensive and consistent information on investments and financing terms. Key assumptions relate to the amount of public and publicly guaranteed (PPG) debt financing and its terms, the size and sectoral type of identified BRI investment, and the expected impact of growth in the medium and long term of that investment. BRI debt financing is expected significantly increase PPG debt in a number of countries. The paper provides estimates for both the medium and the long term. In the medium term, defined as the period 2019-2023, debt financing of BRI investment is expected to be fully disbursed while the full growth impact of BRI related infrastructure is not entirely realized. In this initial phase, around one-third of assessed BRI-recipient countries are estimated to face elevated debt vulnerabilities post- BRI, several of which have already high debt vulnerabilities. The impact of BRI on public debt would improve over the longer term under the assumption of a sustained negative interest rate-growth differential and in the absence of the materialization of BRI related fiscal risks. Still, debt to GDP ratio is expected to remain higher in one-third of countries (11 out of 30 with available data).
 
 https://doi.org/10.1596/1813-9450-8891
+### The Impact of the “Belt and Road Initiative” on International Scholarship Students（2022，Frontiers in Sociology，被引 25）
+
+The Belt and Road Initiative (BRI) has had a significant impact on China in political, economic, and cultural terms. This study focuses on the cultural domain, especially on scholarship students from the countries that signed bilateral cooperation agreements with China under the BRI. Using an integrated approach combining the difference-in-differences method and the gravity model, we explore the correlation between the BRI and the increasing number of international scholarship students funded by the Chinese government, as well as the determinants of students' decision to study in China. The panel data from 2010 to 2018 show that the launch of BRI has had a positive impact on the number of scholarship students from BRI countries. The number of scholarship recipients from non-BRI countries also increased, but at a much slower rate than those from BRI countries. The sole exception is the United States, which has trended downward for both state-funded and self-funded students.
+
+https://doi.org/10.3389/fsoc.2022.793018
+### Countries’ Perceptions of China’s Belt and Road Initiative: A Big Data Analysis（2019，SSRN Electronic Journal，被引 40）
+
+（无摘要）
+
+https://doi.org/10.2139/ssrn.3430318
 ### OFDI Agglomeration and Chinese Firm Location Decisions under the “Belt and Road” Initiative（2018，Sustainability，被引 48）
 
 This paper established a combined dataset from 2004 to 2015 for 129 host countries and matched them with 1193 Outward Foreign Direct Investment (OFDI) events by Chinese listed firms. Four variables were designed to proxy the agglomeration effects of Chinese OFDI at both an industry and country level. Probit and FGLS estimation methods were used to analyze whether the Chinese listed firm location choices were affected by the agglomeration level. It was found that the agglomeration effect of Chinese OFDI on host country selection was obvious, as Chinese firms were often found to follow other Chinese firms and invest in host countries where Chinese investment was concentrated; however, it was also found that Chinese firms did not choose countries where there was a high concentration of non-Chinese FDI. The agglomeration effect on Chinese OFDI industry selection was also significant. Firms were found to invest in industries that already had large Chines OFDI agglomeration or high host-country industrial agglomeration. Further investigations found that the “Belt and Road” Initiative (BRI) was effective in guiding location decisions. Firms were found to invest more along the “Belt and Road” route after the BRI was launched; however, large State-owned listed firms with higher leverage but lower productivity and profitability were found to more often invest along the BRI routes.
 
 https://doi.org/10.3390/su10114060
-### Countries’ Perceptions of China’s Belt and Road Initiative: A Big Data Analysis（2019，SSRN Electronic Journal，被引 38）
 
-（无摘要）
-
-https://doi.org/10.2139/ssrn.3430318
-### The Impact of the “Belt and Road Initiative” on International Scholarship Students（2022，Frontiers in Sociology，被引 22）
-
-The Belt and Road Initiative (BRI) has had a significant impact on China in political, economic, and cultural terms. This study focuses on the cultural domain, especially on scholarship students from the countries that signed bilateral cooperation agreements with China under the BRI. Using an integrated approach combining the difference-in-differences method and the gravity model, we explore the correlation between the BRI and the increasing number of international scholarship students funded by the Chinese government, as well as the determinants of students' decision to study in China. The panel data from 2010 to 2018 show that the launch of BRI has had a positive impact on the number of scholarship students from BRI countries. The number of scholarship recipients from non-BRI countries also increased, but at a much slower rate than those from BRI countries. The sole exception is the United States, which has trended downward for both state-funded and self-funded students.
-
-https://doi.org/10.3389/fsoc.2022.793018
-
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

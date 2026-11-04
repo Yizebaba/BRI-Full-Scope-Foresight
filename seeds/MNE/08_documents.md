@@ -102,7 +102,7 @@ https://doi.org/10.1016/j.landusepol.2022.106136
 This paper examined the effect of the belt and road initiative by the Chinese government on the Central and Eastern European countries (CEEs), with focusing on the motorway project in Montenegro, named Bar-Boljare highway.
 
 https://doi.org/10.5823/jarees.2019.41
-### Ethnic Stereotype Formation and Its Impact on Sojourner Adaptation: A Case of “Belt and Road” Chinese Migrant Workers in Montenegro（2021，International Journal of Environmental Research and Public Health，被引 10）
+### Ethnic Stereotype Formation and Its Impact on Sojourner Adaptation: A Case of “Belt and Road” Chinese Migrant Workers in Montenegro（2021，International Journal of Environmental Research and Public Health，被引 11）
 
 Ethnic stereotypes are cognitive markers that are formed and modified because of intercultural contact with a new cultural group. There is now much empirical evidence that explicates how stereotypes of ethnic groups can impact individuals’ acculturation experiences. However, what is unknown is how previously nonexistent ethnic beliefs are formed as a result of contact with the local culture. One hundred and seventy-four (N = 174) overseas Chinese construction workers were contacted through the Chinese Consulate in Montenegro and agreed to participate in the present study. The online questionnaire asked workers to describe Montenegrin majority members in terms of five characteristics. These traits formed the stereotype markers that were classified as positive, neutral, or negative. Sojourners also answered questions that measured perceived cultural distance, social exclusion, knowledge of Montenegrin culture, feelings of social exclusion, and their sociocultural adaptation. Results show that both positive and negative stereotypes are correlated with less social exclusion and better socio-cultural adaptation. Perceived cultural distance, knowledge of host culture and length of stay was mediated by stereotypes on adaptation outcomes. Interestingly longer sojourn did not lessen the type of stereotype, nor did it reduce cultural distance. Contribution to the stereotype literature and practical understanding of how Chinese sojourners see majority members will be discussed.
 
@@ -133,4 +133,4 @@ Ruhai Bai,1 Wanyue Dong,2 Jinli Liu,3 Qiao Peng,3 Jun Lyu4 1School of Public Aff
 
 https://openalex.org/W4286871639
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

@@ -167,6 +167,16 @@ https://openalex.org/W7132749439
 （无摘要）
 
 https://openalex.org/W7132171435
+### Belt and Road Project and Turkey’s Central Asian goals（2019，DergiPark (Istanbul University)，被引 0）
+
+（无摘要）
+
+https://openalex.org/W7128456743
+### CHINESE BELT AND ROAD INITIATIVE AND TURKEY’S MIDDLE CORRIDOR（2020，CyberLeninK (CyberLeninka)，被引 0）
+
+（无摘要）
+
+https://openalex.org/W3114699569
 ### Exploring the structure and influence factors of trade competitive advantage network along the Belt and Road（2020，Physica A Statistical Mechanics and its Applications，被引 44）
 
 （无摘要）
@@ -182,15 +192,5 @@ https://doi.org/10.4324/9780429203039-88
 The Belt and Road Initiative (BRI), which is an extensive transportation and infrastructure project, connecting Asia, Africa, and Europe is also seen as one of the important tools of South-South cooperation. Türkiye as one of the important members of the BRI has had several expectations, mainly improving Sino-Turkish relations through increasing Chinese investments in Türkiye and reducing the pressure of the trade deficit of Türkiye given to China. In addition, it was anticipated that the BRI would have improved trade and investment relations of Türkiye with the other members, so that the initiative would also play a role in Türkiye's rapprochement to the rising Global South. On the other hand, Chinese investments in Türkiye have been insufficient since its inclusion in the BRI in 2015, and the two countries would mutually put efforts to realize the potential benefits of the BRI.
 
 https://doi.org/10.4018/979-8-3373-0938-5.ch002
-### Belt and Road Initiative and Development, Linkage, and Implementation Strategies of Turkey and Azerbaijan（2019，슬라브학보，被引 0）
 
-Turkey and Azerbaijan are pushing to use China`s Belt and Road initiative in Eurasia by linking it with the construction of their own economic corridors. In the case of Azerbaijan, the already completed Baku-Tbilisi-Kars(BTK) railway secured a transport route from the west coast of the Caspian Sea to Europe. On top of this, the logistics hub function centering on Baku will play a role once construction is completed through transportation linking Russia and Iran with Baku as part of the International North-South Transportation Corridor(INSTIC). However, it will be possible to differentiate itself from other countries in Central Asia and strengthen its competitiveness only when various functions are added that are linked to manufacturing functions in the vicinity of Baku.BR Turkey`s strategy of linking economic corridors is to improve Turkey`s accessibility to the Central Asian market by utilizing China`s logistics functions. For Turkey, which has traditionally strong ties to Central Asian countries, it expects its companies to expand their business into the Central Asian market and increase their exports through the revitalization of logistics in China-Central Asia-Caucasus. Turkey also hopes to cooperate with China in energy transport and development, such as construction of energy pipelines, as China seeks to construct an economic corridor through energy transport linking Central and West Asia on Belt and Road initiative.
-
-https://doi.org/10.46694/jss.2019.03.34.1.211
-### China’s Capital Export Within The Through of Belt And Road Initiative: A Model Application For Turkey（2020，International Journal of Economics and Management Studies，被引 1）
-
-（无摘要）
-
-https://doi.org/10.14445/23939125/ijems-v7i2p103
-
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

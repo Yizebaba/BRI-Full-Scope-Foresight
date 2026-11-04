@@ -122,4 +122,4 @@ Lancang-Mekong Cooperation (LMC) is a multilateral format established in 2016 fo
 - 2026-06-30 · Financing Agreement · Official Documents- Financing Agreement for Additional Financing Credit 8117-KH.pdf（项目：KH-Strengthening Pre-Service Education System for Health Professionals Project -- P169629）。http://documents.worldbank.org/curated/en/099063026095527230
 - 2026-06-30 · Agreement · Official Documents- Second Amendment to the Financing Agreement for Credit 6664-KH.pdf（项目：KH-Strengthening Pre-Service Education System for Health Professionals Project -- P169629）。http://documents.worldbank.org/curated/en/099063026100027510
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

@@ -80,7 +80,7 @@ Chinese Ambassador to Comoros Attending 35th Anniversary Forum on Chinese-Africa
 This study built a corpus of economic reports on four African island countries (Comoros, Madagascar, Mauritius, and Seychelles) by the Chinese Ministry of Commerce (CMC) from 2005 to 2024 which fell into five periods. We aimed to explore what national economic images were embodied by the news under the guidance of Media Framing Theory. A corpus analysis tool, LancsBox, was employed to identify the text features, themes, and trends. Then Llama 3 implemented in Python, was used to conduct thematic analysis and aspect-based sentiment analysis of the text across countries and periods. Finally, a critical metaphor analysis was made to reveal ideological underpinnings. The main findings include: (1) Comoros ranked the highest in the mean sentimental value (SV), the only country that didn't lower its SV in the pandemic, and only Mauritius raised its SV after China's Belt and Road Initiative; (2) conceptual metaphors framed China as a friendly helper/collaborator and African countries as having economic potential but facing challenges; (3) CMC constructed distinct national economic images through diversified reporting content and strategies, Comoros as a small, developing economy emphasizing various aspects, Madagascar as an agricultural country with significant natural resources and economic potential but troubled by political instability, Mauritius as a success story of a financial hub diversifying its economy with emphasis on agriculture and tourism, and Seychelles as a high-end tourism destination aiming for a sustainable blue economy. The study provides implications for studies on media discourse, international relations, and African countries.
 
 https://doi.org/10.1109/ceii65291.2024.00045
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 200）
 
 （无摘要）
 
@@ -116,4 +116,4 @@ Abstract Chinese investment abroad has grown significantly in connection with th
 
 https://doi.org/10.1162/asep_a_00861
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

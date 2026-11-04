@@ -170,4 +170,4 @@ The Biden administration assessed that previous optimistic approaches to China w
 
 来源：https://en.wikipedia.org/wiki/United_States_foreign_policy_toward_the_People%27s_Republic_of_China
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

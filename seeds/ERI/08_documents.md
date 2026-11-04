@@ -84,7 +84,7 @@ Sino-African relations
 （无摘要）
 
 https://doi.org/10.1007/978-3-031-80400-7_5
-### The Development of China’s Economic Cooperation in the Horn of Africa: Special Reference to the Belt and Road Initiative（2022，African Journal of Economics Politics and Social Studies，被引 8）
+### The Development of China’s Economic Cooperation in the Horn of Africa: Special Reference to the Belt and Road Initiative（2022，African Journal of Economics Politics and Social Studies，被引 9）
 
 The study deals with China’s trade and Economic cooperation in the Horn of Africa. This research aims to focus on infrastructural development in the region under China’s Belt and Road Initiative framework. Further, the central purpose of this research is to discuss Chinese investment in Ethiopia, Eritrea, Djibouti, Kenya and Somalia. The research uses a qualitative analysis approach to discuss the research problems and tries to find out core findings. The following question deals with this study, how does China expand its trade and investment in the Horn of Africa? To what extent has China developed ties with the Horn of African countries in the context of BRI projects? As a result, China has developed a strong stance in the Horn of Africa in the context of trade and investment. This study concludes that China has enormous challenges within these countries to manage interstate issues for security purposes that are necessary for the success of infrastructure development and other BRI-related projects.
 
@@ -120,4 +120,4 @@ Abstract China’s renewed prominence is the most important development in inter
 
 https://doi.org/10.1093/fpa/orad015
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

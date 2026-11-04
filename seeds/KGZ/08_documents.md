@@ -114,16 +114,16 @@ https://doi.org/10.1080/02681307.2016.1274604
 China’s Belt and Road Initiative (BRI) is seen as one of its most ambitious projects to boost its international influence. This thesis explores the effect of BRI on the public perception of China. Kyrgyzstan, where the public opinion of China is worse than anywhere else in the Central Asian region, is chosen as a case study. The framework of the thesis relies on the conceptualization of soft power outlined by Joseph Nye and extended to also include economic resources. Using available survey results on public opinion on China and semi-structured expert interviews, this paper argues that China’s application of soft power through BRI is negatively perceived by the general population in Kyrgyzstan. The reasons behind and the impact of the negative perception are further discussed in the thesis.
 
 https://doi.org/10.60644/3374
+### Belt and Road Initiative’s Economic Impact on Central Asia. The Cases of Kazakhstan and Kyrgyzstan（2023，Springer eBooks，被引 6）
+
+（无摘要）
+
+https://doi.org/10.1007/978-981-19-6700-9_39
 ### AN OVERVIEW OF CHINESE LANGUAGE EDUCATION IN KYRGYZSTAN AMID THE “BELT AND ROAD” INITIATIVE（2025，Bulletin of Kyrgyz State University named after I Arabaev，被引 0）
 
 To advance the inclusive development of international Chinese language education and steer its overall progress, a holistic and systematic perspective is essential. Chinese language education in Kyrgyzstan has achieved remarkable outcomes, emerging as a model for the five Central Asian nations. This paper explores the development status, lessons learned, and successful experiences of Chinese language education in Kyrgyzstan across three macro dimensions: basic education, higher education, and social training. Its purpose is to facilitate the advancement of international Chinese language education in the new era and offer insights for language exchange between China and Central Asian countries.
 
 https://doi.org/10.33514/1694-7851-2025-4/1-561-572
-### Belt and Road Initiative’s Economic Impact on Central Asia. The Cases of Kazakhstan and Kyrgyzstan（2023，Springer eBooks，被引 4）
-
-（无摘要）
-
-https://doi.org/10.1007/978-981-19-6700-9_39
 ### A pesky story of Chinese mining in Kyrgyzstan（2021，Routledge eBooks，被引 23）
 
 The rediscovered maps of the ancient Silk Road, the promises of multimillion-dollar investments in economic corridors and the discourses about the community of common destiny sent waves across the continents. Indeed, China’s Belt and Road Initiative (BRI) is being hailed as a grand project that will change the political, economic, and social landscape of the whole of Eurasia. Yet whilst BRI’s prospective infrastructure investments can create positive spillovers and produce long-term economic benefits, these projects may also leave a negative imprint on frontier and host states on BRI routes. Accordingly, this chapter will explore the nature of BRI mining projects in Central Asia, the risks associated with the Chinese investments, and the impacts such investments may have on a sociopolitical fabric of the region. Since much of foreign direct investment from China is channelled into the extractive industry, this work will study the main drivers of mining-related conflicts, exemplified by the Solton Sary, Kyrgyzstan mine and what conditions and factors are needed in order to build trust between all stakeholders.
@@ -140,4 +140,4 @@ In the macro context of the deepening of the "the Belt and Road" initiative, the
 
 https://doi.org/10.33514/1694-7851-2025-3/1-575-582
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

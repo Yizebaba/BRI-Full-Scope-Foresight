@@ -6,7 +6,7 @@
 
 Seychelles ( , ; French: [sɛʃɛl] or [seʃɛl]), officially the Republic of Seychelles (French: République des Seychelles; Seychellois Creole: Repiblik Sesel), is an archipelagic country consisting of 115 islands in the Indian Ocean. Its capital and largest city, Victoria, is 1,500 kilometres (800 nautical miles) east of mainland Africa. Nearby island countries and territories include the Maldives, Comoros, Madagascar, Mauritius, and the French overseas departments of Mayotte and Réunion to the south; and the Chagos Archipelago to the east.
 Seychelles is the smallest country in Africa as well as the least populated sovereign African country, with an estimated population of 100,600 in 2022.
-The Seychelles archipelago was uninhabited prior to sustained external contact. Although Arab and Swahili sailors likely knew of the islands earlier through Indian Ocean trade routes, there is no evidence of permanent settlement before European involvement. The islands were first recorded by Europeans in the 16th century, but were not settled until the 18th century, when France formally claimed them. During the period of French colonization, enslaved Africans were brought to the islands for plantation labor; many had already been captured and enslaved through existing African-Arab slave trade or Indian Ocean slave trade.
+The Seychelles archipelago was uninhabited prior to sustained external contact. Arab sailors knew of the islands by the 15th century through Indian Ocean trade routes and they are described in medieval Arabic books. Later, in the 16th century, Europeans described the islands, but they remained without permanent settlement until the 18th century, when France formally claimed them. During the period of French colonization, enslaved Africans were brought to the islands for plantation labor; many had already been captured and enslaved through existing African-Arab slave trade or Indian Ocean slave trade.
 It faced competing French and British interests until it came under full British control in the early 19th century. After Britain assumed control in the early 19th century, slavery was abolished and later replaced in part by indentured laborers from India. Since proclaiming independence from the United Kingdom in 1976, it has developed from a largely agricultural society to a market-based diversified economy, characterized by service, public sector, and tourism activities. From 1976 to 2015, nominal GDP grew nearly 700%, and purchasing power parity nearly 1600%. Since the late 2010s, the government has taken steps to encourage foreign investment.
 As of the early 21st century, Seychelles has the highest nominal per capita GDP and the highest Human Development Index ranking of any African country. According to the 2024 V-Dem Democracy indices, Seychelles is the 43rd-ranked electoral democracy worldwide, the 1st-ranked liberal democracy in Africa, and the 2nd-ranked electoral democracy on the continent. Seychellois culture and society is an eclectic mix of French, British, Indian and African influences, with infusions of Chinese elements. The country is a member of the United Nations, the African Union, the Southern African Development Community, and the Commonwealth of Nations.
 
@@ -27,6 +27,10 @@ In its foreign relations, Seychelles maximizes the benefits it receives from bot
 
 == Economic relations ==
 From 2000 to 2011, there are approximately 16 Chinese official development finance projects identified in Seychelles through various media reports. These projects range from a concessional loan of 300 million RMB in 2007, to a 321 million debt rescheduling in 2011, and a development aid grant worth US$8 million in 2011.
+
+
+== Media cooperation ==
+In 2024, China provided technical equipment to Seychelles for the construction of its new headquarters for the Seychelles Broadcasting Corporation. The headquarters' construction was also supported by a grant from China.
 
 
 == Sovereignty issues ==
@@ -85,7 +89,7 @@ https://doi.org/10.1109/ceii65291.2024.00045
 The need to protect citizens and investments abroad is placing tremendous pressure on China’s traditional foreign policy strategy and noninterference principle. Instability in most of BRI countries form new security conditions, pushing China to be more flexible in engaging in missions it had previously opposed, including political engagement in intrastate conflicts in the developing world. Following the formula “politics is a big economy”, China starts rethinking its security interests. As a result, China has smoothly adopted the transition strategy from non-intervention into internal affairs to a more proactive non-indifference approach, that Chinese academics are describing as “creative” or “constructive” engagement. Many new elements contribute to this new constructive engagement - conceptual narrative, political support, geopolitical competition, growing capacities and new security conditions. The key point of the article is to analyze China’s strategy in defending national interests overseas, including the rescue and peacekeeping operations, mediation, political envoys, etc. The special focus is done on proactive peacekeeping policy of China and its new role in the security environment. Obviously, in future China will follow implementing the overseas missions, including humanitarian assistance and disaster relief, evacuation operations, defense of sea lanes, stabilization operations, peacekeeping and counterterrorism missions. After launching in 2017 its first overseas military base in Djibouti, there is little evidence to predict that in the near future China intends to construct more bases. But nevertheless the geopolitical rivalry with the United States might push China to convert three deep-water ports - Gwadar (Pakistan), Salalah (Oman), and Seychelles ports into naval bases. The degree of the China’s involvement in global security landscape will depend on the level of its responsibility, since Beijing is undergoing through a higher degree of international
 
 https://doi.org/10.22363/2313-0660-2019-19-3-420-431
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 200）
 
 （无摘要）
 
@@ -111,4 +115,4 @@ This paper provides a framework to assess the impact of infrastructure investmen
 
 https://doi.org/10.1596/1813-9450-8891
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

@@ -66,7 +66,7 @@ Cooperation between China and Central and Eastern European Countries (China-CEE,
 
 ## 学术论文（OpenAlex）
 
-### The Belt and Road Initiative depicted in Hungary and Slovakia（2018，Journal of Contemporary East Asia Studies，被引 39）
+### The Belt and Road Initiative depicted in Hungary and Slovakia（2018，Journal of Contemporary East Asia Studies，被引 41）
 
 Central and Eastern European countries, like Hungary and Slovakia, are located along the Western section of the Belt and Road Initiative (BRI) and serve as a gateway to the European Union. Thus, the participation of the CEE region is inevitable in the BRI, and the attitude of national governments and the public opinion may have an impact on the future of EU-China relations in the framework of the new “Silk Road” connecting the East to the West. The following paper offers an introduction to the so-called 16 + 1 cooperation of China and its 16 partners in the CEE region, and analyzes the political environment, public support, and media discourse of the BRI in two selected countries of Central and Eastern Europe.
 
@@ -91,20 +91,20 @@ https://openalex.org/W4405866250
 Speaking at the 17th Annual Conference of the Chinese Institute of Food Science and Technology in Xian in October 2020, China’s top oenologist pronounced that natural wine is the future of the wine industry. While natural wine became “trendy” in the past decade, it is how wine was made in ancient times. What is natural wine, then? This tradition will be revisited, and we will explore the differences between natural, organic, and conventional wines in the vineyard and wine-making process. Perhaps, as a grape-variety-driven new world wine country, China should best look at some of its Belt and Road partners, which are old world wine countries and terroir-driven. This case study explores three countries along the Belt and Road to see how China can relate to their developments. Austria is the center of natural wine for Central Europe with a strong industry support. Its leadership in organic viticulture dates back to the Austrian philosopher, Rudolf Steiner (1861–1925), who is the founder of the biodynamic approach to agriculture. Another approach to natural wine is its neighboring Croatia with its old vines and traditional wine-making techniques but adopts a new form of marketing. Contrary to these two countries, with natural winemakers on the rise, is Slovakia, where the government has been trying to ban “unfiltered” wines along the way. In each case study, we will focus on the development of grape varietals, farming, terroir, marketing strategies, government and industry support, and challenges going forward. These countries are starting to import into China and have been well received. We will compare and contrast these elements with the China market and see how China can learn from them.
 
 https://doi.org/10.1201/9781003198147-8
+### THE VISEGRAD FOUR COUNTRIES AS AN OBJECT OF CHINA'S GEOPOLITICAL INTERESTS IN THE CONTEXT OF GREAT-POWER CONFRONTATION（2025，Balkan Social Science Review，被引 1）
+
+This article examines China's geopolitical interests in the Visegrád Four (V4) countries within the context of great-power rivalry. The study highlights how the ongoing global crisis has reshaped bilateral and multilateral relations, with the European Union (EU) emerging as a significant focus of China's strategic influence. The V4 countries, Poland, the Czech Republic, Slovakia, and Hungary, have become especially relevant due to their industrial capacities, relatively recent EU membership, and geographical location on the EU's eastern borders.The research reviews previous studies on China's influence in Europe, including soft-power initiatives such as the Belt and Road Initiative (BRI), foreign investments, and trade relations. It explores how various political dynamics within V4 states have affected their stance towards China, noting Poland's cautious engagement, the Czech Republic's increasing alignment with Western allies, Slovakia’s political shifts, and Hungary’s deepening partnership with Beijing. Additionally, the article investigates China’s role in Europe's green energy and digital infrastructure, assessing the implications of economic dependencies.The findings suggest that while China perceives V4 countries as gateways into Europe, geopolitical shifts, including the EU’s Global Gateway Initiative and growing concerns over technological security, challenge Beijing's strategies, prompting V4 countriesto reconsider their engagement with China and seek alternative partnerships aligned with EU and NATO frameworks. Ultimately, the study underscores the dual pressures faced by V4 states as they navigate economic opportunities from China and political commitments within the EU and NATO.
+
+https://doi.org/10.46763/bssr252525305m
 ### The New Silk Road in Slovakia: What Does It Mean for Tourism Development?（2020，Springer eBooks，被引 2）
 
 （无摘要）
 
 https://doi.org/10.1007/978-3-030-43399-4_20
-### THE VISEGRAD FOUR COUNTRIES AS AN OBJECT OF CHINA'S GEOPOLITICAL INTERESTS IN THE CONTEXT OF GREAT-POWER CONFRONTATION（2025，Balkan Social Science Review，被引 0）
-
-This article examines China's geopolitical interests in the Visegrád Four (V4) countries within the context of great-power rivalry. The study highlights how the ongoing global crisis has reshaped bilateral and multilateral relations, with the European Union (EU) emerging as a significant focus of China's strategic influence. The V4 countries, Poland, the Czech Republic, Slovakia, and Hungary, have become especially relevant due to their industrial capacities, relatively recent EU membership, and geographical location on the EU's eastern borders.The research reviews previous studies on China's influence in Europe, including soft-power initiatives such as the Belt and Road Initiative (BRI), foreign investments, and trade relations. It explores how various political dynamics within V4 states have affected their stance towards China, noting Poland's cautious engagement, the Czech Republic's increasing alignment with Western allies, Slovakia’s political shifts, and Hungary’s deepening partnership with Beijing. Additionally, the article investigates China’s role in Europe's green energy and digital infrastructure, assessing the implications of economic dependencies.The findings suggest that while China perceives V4 countries as gateways into Europe, geopolitical shifts, including the EU’s Global Gateway Initiative and growing concerns over technological security, challenge Beijing's strategies, prompting V4 countriesto reconsider their engagement with China and seek alternative partnerships aligned with EU and NATO frameworks. Ultimately, the study underscores the dual pressures faced by V4 states as they navigate economic opportunities from China and political commitments within the EU and NATO.
-
-https://doi.org/10.46763/bssr252525305m
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 200）
 
 （无摘要）
 
 https://doi.org/10.1016/j.ememar.2019.100629
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

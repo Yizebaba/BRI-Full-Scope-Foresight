@@ -129,9 +129,9 @@ The hospital includes several specialist departments including infectious diseas
   摘要：Growth is projected to remain weak, averaging about 1.5 percent over 2026–28, amid heightened geopolitical uncertainty, higher and more volatile oil prices, and declining aid. These headwinds are expected to be partly offset by the Lesotho Highlands Water Project, higher water royalties, and strong Southern African Customs Union (SACU) revenues. Poverty is projected to remain high at about 59 percent of the population, based on the international poverty line.
 - 2026-04-03 · Brief · Lesotho Gender Landscape。http://documents.worldbank.org/curated/en/099213007012232214
   摘要：This briefing showcases the gender landscape in Lesotho on key indicators helpful for monitoring gender equality and designing effective policy interventions. Gender equality fosters productivity gains, minimizes losses in wealth, reduces poverty, boosts shared prosperity, and supports green, resilient, and inclusive development.
+- 2026-11-03 · Project Information Document · Updated Project Information Document (PID) - Lesotho Multisectoral Nutrition Project - P519176（项目：LS-Lesotho Multisectoral Nutrition Project -- P519176）。http://documents.worldbank.org/curated/en/099110326114535692
 - 2026-10-22 · Project Information Document · Project Information Document - Pathways to Sustainable Livelihoods Project - P177814（项目：LS-Pathways to Sustainable Livelihoods Project -- P177814）。http://documents.worldbank.org/curated/en/099102226025018690
 - 2026-10-15 · Environmental and Social Review Summary · Initial Environmental and Social Review Summary (ESRS) - Lesotho Skills Acceleration Project - P519503（项目：LS-Lesotho Skills Acceleration Project -- P519503）。http://documents.worldbank.org/curated/en/099101426202034469
-- 2026-10-14 · Project Information Document · Initial Project Information Document (PID) - Lesotho Skills Acceleration Project - P519503（项目：LS-Lesotho Skills Acceleration Project -- P519503）。http://documents.worldbank.org/curated/en/099101426202026939
 
 ## 学术论文（OpenAlex）
 
@@ -140,7 +140,7 @@ The hospital includes several specialist departments including infectious diseas
 （无摘要）
 
 https://doi.org/10.1007/978-3-032-05427-2_4
-### The next factory of the world: How Chinese investment is reshaping Africa（2021，African Affairs，被引 7）
+### The next factory of the world: How Chinese investment is reshaping Africa（2021，African Affairs，被引 6）
 
 This book gives a detailed introduction and analysis of the history, current situation, and future of private Chinese investment in Africa. Through vivid examples, it shows us the resilience of Chinese entrepreneurs, the business opportunities contained in the African continent, and the bright prospect for China–Africa cooperation under the Belt and Road Initiative (BRI). This book is composed of two parts. The first (from Chapters 1 to 4) illuminates the realities of what it looks and feels like to be inside Chinese factories in Africa. The second (Chapters 5 to 8) examines the economic, political, and social potential that these factories are unleashing (p. 8). The book delves into the impact of Chinese investment on four countries: Nigeria, Lesotho, Kenya, and Ethiopia. The author constructs a comparative theoretical analysis drawing on participant observation while working at McKinsey & Company, combined with documentary analysis of data from the World Bank, International...
 
@@ -176,4 +176,4 @@ This paper provides a framework to assess the impact of infrastructure investmen
 
 https://doi.org/10.1596/1813-9450-8891
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

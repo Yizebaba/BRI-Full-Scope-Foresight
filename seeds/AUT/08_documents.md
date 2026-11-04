@@ -60,11 +60,9 @@ Foreign relations of China
 
 ### China–Italy relations
 
-Bilateral relations between China and Italy date back to Imperial China and Ancient Rome but the ties between Italy and modern China only formally began on 27 November 1928 (began in 1913) and recognized the People's Republic on 6 November 1970. News of Italy's recognition of the People's Republic of China and consequent breaking of formal relations with the Republic of China (Taiwan) spurred other European countries such as Austria and Belgium to consider similar moves.
+Bilateral relations between China and Italy date back to Imperial China and Ancient Rome but the ties between Italy and modern China only formally began on 27 November 1928 (began in 1913) and recognized the People's Republic on 6 November 1970. News of Italy's recognition of the People's Republic of China and consequent breaking of formal relations with the Republic of China (Taiwan) spurred other European countries such as Austria and Belgium to consider similar moves. 
 Italian Foreign Minister Pietro Nenni presented the proposal for the recognition of China in January 1969. The Italian Communist Party had invited Chinese Communist Party (CCP) representatives to attend their 1969 party congress; however, the Chinese side declined the invitation. The two countries exchanged ambassadors in February of the following year.
-Currently, China and Italy participate in high-level political exchanges. In September 2005, Chinese Defense Minister Cao Gangchuan and Italian Deputy Defense Minister Salvatore Cicu expressed their hope for closer military cooperation between the two countries.
-Hongdu Aviation, one of China's major aircraft manufacturers, was first established as Sino-Italian National Aircraft Works (SINAW) in 1934, as a joint venture between the Republic of China and the Kingdom of Italy. However, after the Second Sino-Japanese War broke out in 1937, Italy became an ally of Japan and assisted Japan in its bombing of SINAW factories. The Chinese government confiscated Italian properties in December 1937 and all Italian employees of the company left by the end of the year. On March 24, 2019, Italy signed up to the Belt and Road Initiative, becoming the first G7 nation to do so.
-Chinese people in Italy, comprising both recent immigrants as well as persons of Chinese descent born in Italy, form a significant minority especially in Lombardy, Tuscany, and Lazio.
+Currently, China and Italy participate in high-level political exchanges. Chinese people in Italy, comprising both recent immigrants as well as persons of Chinese descent born in Italy, form a significant minority especially in Lazio, Lombardy, and Tuscany. With Prato being home to one of the largest overseas Chinese communities in Europe.
 
 来源：https://en.wikipedia.org/wiki/China%E2%80%93Italy_relations
 
@@ -131,20 +129,20 @@ https://doi.org/10.1201/9781003198147-8
 （无摘要）
 
 https://doi.org/10.1007/978-3-030-43399-4_5
-### “One Belt, One Road”: China's New Global Strategy（2016，Journal of Contemporary East Asia Studies，被引 161）
-
-The “One Belt, One Road” (OBOR) initiative has been a topic of hot debate among Sinologists and pundits in recent years. What is the nature of this foreign policy and how is it implemented under the Xi Jinping administration? By examining China's OBOR initiative, this article argues that OBOR is not only a regional policy but a grand global strategy for achieving the “Chinese Dream”. While there is little chance that China will be able to create a large area of influence around the world, the potential impact on global politics cannot be overlooked.
-
-https://doi.org/10.1080/24761028.2016.11869094
 ### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
 
 （无摘要）
 
 https://doi.org/10.1016/j.ememar.2019.100629
+### “One Belt, One Road”: China's New Global Strategy（2016，Journal of Contemporary East Asia Studies，被引 162）
+
+The “One Belt, One Road” (OBOR) initiative has been a topic of hot debate among Sinologists and pundits in recent years. What is the nature of this foreign policy and how is it implemented under the Xi Jinping administration? By examining China's OBOR initiative, this article argues that OBOR is not only a regional policy but a grand global strategy for achieving the “Chinese Dream”. While there is little chance that China will be able to create a large area of influence around the world, the potential impact on global politics cannot be overlooked.
+
+https://doi.org/10.1080/24761028.2016.11869094
 ### Chances and Challenges for Kazakhstan, the EU and Austria in Chinese project “New Silk Road”（2019，BULLETIN of the L N GUMILYOV EURASIAN NATIONAL UNIVERSITY POLITICAL SCIENCE REGIONAL STUDIES ORIENTAL STUDIES TURKOLOGY Series，被引 0）
 
 （无摘要）
 
 https://doi.org/10.32523/26-16-6887/2019-129-4-96-105
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

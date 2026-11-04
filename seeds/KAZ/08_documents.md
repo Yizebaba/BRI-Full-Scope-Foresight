@@ -222,7 +222,7 @@ https://doi.org/10.1007/978-3-030-37389-4_7
 （无摘要）
 
 https://doi.org/10.1142/9789811203275_0005
-### The impact of the Belt and Road Initiative on Kazakhstan（2023，MAP Social Sciences，被引 2）
+### The impact of the Belt and Road Initiative on Kazakhstan（2023，MAP Social Sciences，被引 3）
 
 In 2013, the Belt and Road Initiative (BRI) was announced in Astana. It was expected to connect as the New Silk Road the producing East and consuming West. In line with this, Kazakhstan introduced a major infrastructure program called “NurlyZhol” to improve the logistic corridor. Now, after almost 10 years after its announcement it is worth seeing whether the country benefited from the programs and whether the expectations set up 10 years ago came true. Besides the literature, the experience of 10 experts in the region was used. Strong involvement of China, politically and economically, supports the development of the logistics corridor. Not only the logistics sector showed growth, potential also for the future, but the agriculture and renewable energy sectorsas well might light for the country’s economy as to the international experts. Negative impacts, due to hindrances on the land corridor, which goes partially through Russia to Europe, hinders the projects to use their full potential.
 
@@ -232,7 +232,7 @@ https://doi.org/10.53880/2744-2454.2023.3.1.33
 （无摘要）
 
 https://doi.org/10.37178/ca-c.20.1.07
-### Belt and Road Initiative for Kazakhstan: Opportunities and Risks（2018，Springer eBooks，被引 5）
+### Belt and Road Initiative for Kazakhstan: Opportunities and Risks（2018，Springer eBooks，被引 7）
 
 （无摘要）
 
@@ -243,4 +243,4 @@ The idea of the New Silk Road project (also Belt and Road Initiative – BRI) wa
 
 https://doi.org/10.37890/jwt.vi67.198
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

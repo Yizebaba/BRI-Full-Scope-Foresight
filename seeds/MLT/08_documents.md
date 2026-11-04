@@ -95,7 +95,7 @@ https://doi.org/10.1596/1813-9450-8814
 Abstract The impact that the Belt and Road Initiative (BRI) has had on carbon emissions is a hotly debated issue. Using a panel dataset of 178 countries from 2002 to 2017, and applying the quantile difference‐in‐difference method in different industries, this study finds that, first, the BRI overall tends to reduce the carbon emission intensity of BRI countries. Second, the impact of BRI on reducing the carbon emission intensity is significant for BRI countries at higher (0.8 and 0.9) and lower (0.2 and 0.3) carbon emission intensity quantiles but it is insignificant for those at medium levels. Third, the BRI has significant impacts on reducing carbon emission intensity in the energy‐intensive industries, and this effect is the highest at the quantile level of 0.9 for all three industries considered here: transportation, electric and heating, and manufacturing and construction. These results indicate that establishing BRI cooperation with China will improve the environment and enhance the sustainable development ability of BRI countries.
 
 https://doi.org/10.1111/cwe.12374
-### The roles of cultural and institutional distance in international trade: Evidence from China's trade with the Belt and Road countries（2018，China Economic Review，被引 159）
+### The roles of cultural and institutional distance in international trade: Evidence from China's trade with the Belt and Road countries（2018，China Economic Review，被引 161）
 
 （无摘要）
 
@@ -116,4 +116,4 @@ Abstract This paper examines the role of the Belt and Road Initiative (BRI) in e
 
 https://doi.org/10.1111/cwe.12387
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

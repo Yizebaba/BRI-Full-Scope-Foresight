@@ -93,4 +93,4 @@ China-Latin America relations
 - 2026-08-08 · Environmental and Social Review Summary · Appraisal Environmental and Social Review Summary (ESRS) - Ecuador Resilient Infrastructure Project - P512096（项目：EC-Ecuador Resilient Infrastructure Project -- P512096）。http://documents.worldbank.org/curated/en/099080826133022481
 - 2026-08-07 · Environmental and Social Assessment · Environmental and Social Impact Assessment  Ecuador Resilient Infrastructure Project (P512096)（项目：EC-Ecuador Resilient Infrastructure Project -- P512096）。http://documents.worldbank.org/curated/en/099080726173522388
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

@@ -206,4 +206,4 @@ Key projects that were previously linked to the US initiative were later funded 
 - 2026-04-30 · Report · Afghanistan Economic Monitor（项目：AF-Afghanistan Futures Analytical Program II -- P500679）。http://documents.worldbank.org/curated/en/099093026090312007
   摘要：Despite modest economic growth, rising population pressures are eroding living standards. Afghanistan’s economy is expanding modestly, supported by strong demand, relative price stability and improved domestic revenue mobilization. However, this growth is insufficient to raise living standards. Rapid population growth—driven by the return of millions of Afghans—has diluted income gains, resulting in declining per capita incomes.
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

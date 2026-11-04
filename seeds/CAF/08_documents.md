@@ -83,7 +83,7 @@ Foreign relations of China
 
 ## 学术论文（OpenAlex）
 
-### Understanding China’s Belt and Road Initiative（2024，Asia in transition，被引 87）
+### Understanding China’s Belt and Road Initiative（2024，Asia in transition，被引 90）
 
 This open access book provokes critical thinking regarding the most ambitious Chinese project since the founding of the People’s Republic of China
 
@@ -98,7 +98,7 @@ https://doi.org/10.24294/jipd.v3i1.1123
 Abstract Infrastructure development has experienced a political renaissance in Africa and is again at the centre of national, regional, and continental development agendas. At the same time, China has been identified by African policy-makers as a particularly suitable strategic partner. As infrastructure has become a main pillar of Sino-African cooperation, there has been growing analytical interest in the role of African actors in shaping the terms and conditions and, by extension, the implementation of infrastructure projects with Chinese participation. This follows a more general African “agency turn” in China–Africa studies, which has shifted the research focus onto the myriad ways in which African state and non-state actors shape the continent's engagements with China. This article is situated within this growing body of literature and explores different forms of African state agency in the context of Tanzania's planned Bagamoyo port, Ethiopia's Adama wind farms, and Kenya’s Lamu port. We posit a non-reductionist and social-relational ontology of the (African) state which sees the state as a multifaceted and multi-scalar institutional ensemble. We show that the extent and forms of state agency exerted are inherently interrelated with and, thus, highly contingent upon concrete institutional, economic, political, and bureaucratic contexts in which African state actors are firmly embedded. In doing so, we make the case for a context-sensitive analysis of various spheres of state agency in particular conjunctures of Sino-African engagement.
 
 https://doi.org/10.1007/s41111-022-00214-8
-### Trade Openness and Carbon Emissions: Evidence from Belt and Road Countries（2019，Sustainability，被引 178）
+### Trade Openness and Carbon Emissions: Evidence from Belt and Road Countries（2019，Sustainability，被引 180）
 
 The search for a green and low-carbon economy has been a guide to current energy and environmental research. Using current panel cointegration approaches, our study examines the interaction between trade and an environmental pollution proxy of carbon dioxide (CO2) emissions by integrating economic growth and energy usage as major potential determining factors in this relationship for 49 high-emission countries in Belt and Road regions over the period of 1991–2014. For a robust analysis, we further grouped these countries into income panels (high, middle, low) and various regions (East Asia, Southeast Asia, Central Asia, South Asia, the Middle East/Africa, and Europe). The results of the panel cointegration tests revealed that the four variables were stationary in the long run. Similarly, our panel results indicated that trade openness had both positive and negative impacts on environmental pollution, but the effect varied in these different groups of nations. The results of the vector error correction model (VECM) causality also showed a long-run causal effect between trade, economic growth, energy consumption, and environmental pollution in the Belt and Road, Europe, high-income, middle-income, and low-income panels. The environmental Kuznets curve (EKC) results further indicated the existence of an inverted U-form relationship between trade and carbon emissions. Finally, certain policy implications are discussed.
 
@@ -124,4 +124,4 @@ In 2013, President of the People's Republic of China, Xi Jinping, launched the O
 
 https://doi.org/10.18485/iipe_balkans_rssc.2020.ch17
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

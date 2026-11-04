@@ -115,7 +115,7 @@ Mining includes large-scale industrial projects, semi-industrial ventures, and w
 For more than two decades, the Grand Lac region has been a theater of armed conflicts whose dramatic effects are concentrated in the east of the Democratic Republic of the Congo (DRC). The DRC is installed in a chaos programmed by predators of natural resources, intervening on ground veiled by the front agents in their services in particular: Rwanda, Burundi, and Uganda, which are themselves under the influence of geographical extremism, the latter struggling with the imperative of power and covetousness land, raw materials are eager to control the space within the borders of the DRC, benefiting from the alliance with the great powers to establish their strategies of mineral possessions. It is in this conflictual climate that this article undertakes to examine the challenges and impact of China’s Belt and Road initiative (BRI) for the establishment of peace and stability in the Great Lakes region with a particular focus on the conflict in the East of the DRC. Through an in-depth analysis of Chinese projects in the DRC and their influence on the security situation, we assess the specific challenges encountered in promoting peace. By highlighting the potential destabilizing factors associated with this initiative, we seek to understand how to reconcile Chinese economic interests with the imperatives of peace and regional stability. Drawing on empirical data and case studies, this article offers recommendations for strengthening regional and international cooperation for peace in the Great Lakes region. These contributions aim to inform policymakers and actors involved in conflict management on the crucial issues linked to the intersection between economic development and peacebuilding. From the above, regarding the conflict situation in the eastern Democratic Republic of the Congo, the involvement of the BRI could potentially address several underlying factors that influence the conflict, such as the development of infrastructure, job creation, economic stimulation, a
 
 https://doi.org/10.63596/oborjournal.1.2024.52-65
-### Understanding China’s Belt and Road Initiative（2024，Asia in transition，被引 87）
+### Understanding China’s Belt and Road Initiative（2024，Asia in transition，被引 90）
 
 This open access book provokes critical thinking regarding the most ambitious Chinese project since the founding of the People’s Republic of China
 
@@ -151,4 +151,4 @@ China’s Belt and Road Initiative is the subject of considerable debate. Howeve
 
 https://doi.org/10.1080/00472336.2026.2686201
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

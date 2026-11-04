@@ -87,16 +87,16 @@ https://doi.org/10.22456/2238-6912.126453
 Abstract The impact that the Belt and Road Initiative (BRI) has had on carbon emissions is a hotly debated issue. Using a panel dataset of 178 countries from 2002 to 2017, and applying the quantile difference‐in‐difference method in different industries, this study finds that, first, the BRI overall tends to reduce the carbon emission intensity of BRI countries. Second, the impact of BRI on reducing the carbon emission intensity is significant for BRI countries at higher (0.8 and 0.9) and lower (0.2 and 0.3) carbon emission intensity quantiles but it is insignificant for those at medium levels. Third, the BRI has significant impacts on reducing carbon emission intensity in the energy‐intensive industries, and this effect is the highest at the quantile level of 0.9 for all three industries considered here: transportation, electric and heating, and manufacturing and construction. These results indicate that establishing BRI cooperation with China will improve the environment and enhance the sustainable development ability of BRI countries.
 
 https://doi.org/10.1111/cwe.12374
-### The roles of cultural and institutional distance in international trade: Evidence from China's trade with the Belt and Road countries（2018，China Economic Review，被引 159）
-
-（无摘要）
-
-https://doi.org/10.1016/j.chieco.2018.10.001
 ### China-UK Global Health Collaboration Project on Strengthening Public Health Capacity in Sierra Leone（2025，China CDC Weekly，被引 0）
 
 Since 2016, the Chinese Center for Disease Control and Prevention has continued to conduct project to assist Sierra Leone in improving its public health capacity and building a laboratory for bacteriological and parasitic diseases. Firstly, we can understand the epidemiological characteristics, etiological characteristics and drug resistance of important infectious diseases in Africa through this project, and provide services and guarantees for the construction of the Belt and Road Initiative. Secondly, the project is to carry out scientific research cooperation on the monitoring and detection capacity of major infectious diseases, biosecurity, and prevention and control technologies for important infectious diseases. Thirdly, in order to implement the concept of "building a community with a shared future for mankind", it is important to improve the capacity of Sierra Leone and West Africa to prevent and control infectious diseases, maintain global health security, and participate in global health governance. This article reviews the implementation of the project, and summarizes the experience and shortcomings, in order to help readers achieve better results in future project practice.
 
 https://doi.org/10.46234/ccdcw2025.006
+### The roles of cultural and institutional distance in international trade: Evidence from China's trade with the Belt and Road countries（2018，China Economic Review，被引 161）
+
+（无摘要）
+
+https://doi.org/10.1016/j.chieco.2018.10.001
 ### Growth effects of economic integration: New evidence from the Belt and Road Initiative（2022，Economic Analysis and Policy，被引 83）
 
 This paper uses the Belt and Road Initiative (B&R), an exogenous innovative model of economic integration proposed by China, to examine the growth effects of economic integration on local economies. From 2013 to 2019, more than 120 countries successively participated in the B&R, which intensified the regional integration and interdependence of B&R countries. Employing a difference-in-differences estimation methodology that exploits the cross-country, cross-time variation in the timing of participation in the Belt and Road Initiative, the author finds that the Belt and Road Initiative materially improved the economic performance of local economies, with particularly strong effects for lower-income countries. This paper also provides suggestive evidence that the growth effects can be interpreted in terms of foreign trade and foreign direct investment inwards.
@@ -118,4 +118,4 @@ Abstract China’s renewed prominence is the most important development in inter
 
 https://doi.org/10.1093/fpa/orad015
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

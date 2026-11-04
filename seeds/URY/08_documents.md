@@ -132,4 +132,4 @@ Foreign relations of Uruguay
 - 2026-08-03 · Program Information Document · Appraisal Program Information Document (PID)（项目：UY-Uruguay: Fostering Competitiveness, Private Investment and Jobs DPF DDO -- P513691）。http://documents.worldbank.org/curated/en/099080326181044468
 - 2026-06-29 · Project Information Document · Concept Program Information Document (PID)（项目：UY-Uruguay: Fostering Competitiveness, Private Investment and Jobs DPF DDO -- P513691）。http://documents.worldbank.org/curated/en/099062926080548661
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

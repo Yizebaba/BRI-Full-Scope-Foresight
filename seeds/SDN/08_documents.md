@@ -145,10 +145,10 @@ https://doi.org/10.24294/jipd.v3i1.1123
 （无摘要）
 
 https://doi.org/10.1016/j.cub.2018.12.036
-### Spatiotemporal Evolution of Armed Conflicts in Africa and the Risk Characteristics to China's Overseas Interests（2025，DOAJ (DOAJ: Directory of Open Access Journals)，被引 0）
+### Spatiotemporal Evolution of Armed Conflicts in Africa and the Risk Characteristics to China's Overseas Interests（2025，DOAJ (DOAJ: Directory of Open Access Journals)，被引 1）
 
 With the advancement of the "Belt and Road" initiative, China's investment in Africa has increased steadily in recent years, and trade volume has expanded continuously. However, due to the frequent occurrence of armed conflicts in Africa, the security of China's overseas interests in the region has become an increasingly prominent issue. Based on the Armed Conflict Location & Event Data Project (ACLED), this paper employs research methods such as kernel density analysis, hotspot analysis, and multi-distance spatial clustering analysis to explore the spatiotemporal evolution trends of armed conflict events in Africa from 1997 to 2024, as well as their risk impact on China's overseas interests. The analysis reveals several important results: 1) At present, armed conflicts in Africa are mainly concentrated in regions such as Sudan, Kenya, Somalia, Nigeria, Burkina Faso, the eastern Democratic Republic of Congo (DRC), Morocco, and Tunisia, forming a pattern of multiple points of occurrence. In terms of organizational structure, the main driving forces behind these armed conflicts are armed opposition groups, terrorist organizations, and militia groups. Underlying factors such as ethnic differences, religious divisions, conflicts between farmers and herders, and competition for resources are the fundamental causes of these conflicts. 2) From 1997 to 2024, the spatial distribution of China's direct investment stock in Africa shows a transition from a "multi-point dispersed" pattern to a "relatively concentrated" one. Southern Africa, being distant from the core areas of conflict, is the most stable region for China's investment in Africa. In contrast, the escalating conflict situations in East, West, Central, and North Africa have gradually worsened the investment environment, leading to the continuous expansion of China's investment cold spots and revealing a clear tendency to avoid conflict-affected areas. 3) Before 2011, armed conflict events in Africa involving China 
 
 https://doi.org/10.13284/j.cnki.rddl.20250296
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

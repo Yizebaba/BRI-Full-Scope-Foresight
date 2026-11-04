@@ -99,12 +99,12 @@ Cooperation between China and Central and Eastern European Countries (China-CEE,
 
 ## 学术论文（OpenAlex）
 
-### “One Belt, One Road”: China's New Global Strategy（2016，Journal of Contemporary East Asia Studies，被引 161）
+### “One Belt, One Road”: China's New Global Strategy（2016，Journal of Contemporary East Asia Studies，被引 162）
 
 The “One Belt, One Road” (OBOR) initiative has been a topic of hot debate among Sinologists and pundits in recent years. What is the nature of this foreign policy and how is it implemented under the Xi Jinping administration? By examining China's OBOR initiative, this article argues that OBOR is not only a regional policy but a grand global strategy for achieving the “Chinese Dream”. While there is little chance that China will be able to create a large area of influence around the world, the potential impact on global politics cannot be overlooked.
 
 https://doi.org/10.1080/24761028.2016.11869094
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 200）
 
 （无摘要）
 
@@ -129,7 +129,7 @@ https://doi.org/10.3390/su13041958
 （无摘要）
 
 https://doi.org/10.1016/j.najef.2019.101089
-### Foreign Investment across the Belt and Road: Patterns, Determinants, and Effects（2018，World Bank, Washington, DC eBooks，被引 79）
+### Foreign Investment across the Belt and Road: Patterns, Determinants, and Effects（2018，World Bank, Washington, DC eBooks，被引 80）
 
 This paper examines the patterns and economic effects of foreign direct investment across the Belt and Road Initiative countries and assesses the potential role of the initiative in shaping the patterns and effects. Exploring cross-country bilateral transportation cost and foreign investment data, the analysis shows that, by reducing overall travel times and transportation costs, the proposed Belt and Road Initiative transportation network can pave the way for additional investments and increased growth in gross domestic product. But the magnitude of the effect varies significantly across source and destination countries. Aggregate foreign direct investment in Belt and Road Initiative countries is predicted to increase by around 5 percent, with regions such as Sub-Saharan Africa and East Asia and Pacific seeing greater potential gains. The increase in foreign direct investment can exert a positive effect on GDP, trade, and employment growth, especially for lower-income countries.
 
@@ -140,4 +140,4 @@ https://doi.org/10.1596/1813-9450-8607
 
 https://doi.org/10.1016/j.jdeveco.2020.102474
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

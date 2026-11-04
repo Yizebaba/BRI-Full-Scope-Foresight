@@ -9,3 +9,7 @@
 
 - 2026-10-30 03:04 UTC：M5.1，97 km NNE of Finschhafen, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu5q 
 - 2026-10-29 03:26 UTC：M5.7，82 km NE of Kiunga, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw5 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-10-24 00:00 UTC：Green 级 WF，Forest fires in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1033363&episodeid=8&eventtype=WF 

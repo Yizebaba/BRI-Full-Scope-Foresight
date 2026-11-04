@@ -102,7 +102,7 @@ on a Request for Inspection（项目：TD-N’Djamena Urban Resilience  Project 
 - 2026-10-20 ·  · ES procedures in the POM Chad Water Security and Resilience Project - PASER (P507957)（项目：TD-Chad Water Security and Resilience Project - PASER -- P507957）。http://documents.worldbank.org/curated/en/099102026073020138
 - 2026-10-19 · Project Information Document · Project Information Document - Chad Energy Access Scale Up Project - P174495（项目：TD-Chad Energy Access Scale Up Project -- P174495）。http://documents.worldbank.org/curated/en/099101926145012472
 - 2026-10-12 · Implementation Completion Report Review · Chad - Chad Local Development and Adaptation（项目：TD-Chad Local Development and Adaptation Project (ALBIA) -- P171611）。http://documents.worldbank.org/curated/en/099101226162089266
-- 2026-08-28 · Environmental and Social Review Summary · Initial Environmental and Social Review Summary (ESRS) - Chad: Enhancing Foundational Learning and Skills for Jobs Project - P518731（项目：TD-Chad: Enhancing Foundational Learning and Skills for Jobs Project -- P518731）。http://documents.worldbank.org/curated/en/099082826175550978
+- 2026-08-28 · Project Information Document · Initial Project Information Document (PID) - Chad: Enhancing Foundational Learning and Skills for Jobs Project - P518731（项目：TD-Chad: Enhancing Foundational Learning and Skills for Jobs Project -- P518731）。http://documents.worldbank.org/curated/en/099082826175531444
 
 ## 学术论文（OpenAlex）
 
@@ -111,12 +111,17 @@ on a Request for Inspection（项目：TD-N’Djamena Urban Resilience  Project 
 Bachelor thesis "Belt and Road in Uganda: CEFC Case Study" deals with the People's Republic of China's engagement in Africa. Specifically, it focuses on a corruption case of high-level politicians in Chad and Uganda. Patrick Ho, a general secretary of China Energy Fund Committee which is a subsidiary NGO of a Chinese private company CEFC China, was convicted of orchestrating the bribery case. The first part introduces the context of China-Africa relations and Chinese activities in Africa, and the second part describes the CEFC company and the corruption case of Patrick Ho. The core of the work lies on one hand in the analysis of the connections between CEFC and PRC's official politics, consisting of personnel ties and active promotion of the PRC official narrative, especially the Belt and Road Initiative. The other focus is the description of the corruption case. The thesis offers a specific case study to supplement the more general literature on the Chinese involvement in Africa. Keywords Belt and Road, China and Africa, CEFC, Patrick Ho, Ye Jianming, corruption
 
 https://openalex.org/W7135848970
+### A Comparative Analysis of Study Contentment among African Students Studying in China（2026，Open Journal of Social Sciences，被引 0）
+
+Under the Belt and Road Initiative, China has become a major destination for African students, yet research often treats them as a single group. This mixed-methods study compares learning motivation and study contentment, a holistic evaluation of academic, linguistic, administrative, residential, and social experiences across the period of enrollment, between French-speaking and English-speaking African students in China. A purposive quota sample of 400 students (200 from Chad and Côte d’Ivoire; 200 from Ghana and Nigeria) at 15 Chinese universities completed a 28-item bilingual questionnaire (valid response rate 95.2%), and 40 took part in semi-structured interviews. Analyses included independent-samples t-tests, chi-square tests, covariate-adjusted ordinary least squares regression, and thematic analysis. English-speaking students reported higher overall study contentment (M = 3.76 vs. 3.21; t(398) = 8.72, p M = 3.82 vs. 3.36; t(398) = 7.19, p 2(1, N = 400) = 32.47, p p < 0.001). The findings show that colonial linguistic heritage shapes African students’ experiences in China and support targeted multilingual services for French-speaking students.
+
+https://doi.org/10.4236/jss.2026.1410041
 ### Examining the debt implications of the Belt and Road Initiative from a policy perspective（2019，Journal of Infrastructure Policy and Development，被引 472）
 
 China’s Belt and Road Initiative (BRI) hopes to deliver trillions of dollars in infrastructure financing to Asia, Europe, and Africa. If the initiative follows Chinese practices to date for infrastructure financing, which often entail lending to sovereign borrowers, then BRI raises the risk of debt distress in some borrower countries. This paper assesses the likelihood of debt problems in the 68 countries identified as potential BRI borrowers. We conclude that eight countries are at particular risk of debt distress based on an identified pipeline of project lending associated with BRI.Because this indebtedness also suggests a higher concentration in debt owed to official and quasi-official Chinese creditors, we examine Chinese policies and practices related to sustainable financing and the management of debt problems in borrower countries. Based on this evidence, we offer recommendations to improve Chinese policy in these areas. The recommendations are offered to Chinese policymakers directly, as well as to BRI’s bilateral and multilateral partners, including the IMF and World Bank.
 
 https://doi.org/10.24294/jipd.v3i1.1123
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 200）
 
 （无摘要）
 
@@ -141,10 +146,5 @@ https://doi.org/10.1093/fpa/orad015
 This paper provides a framework to assess the impact of infrastructure investment expected under the Belt and Road Initiative (BRI) on the debt vulnerabilities of countries that are located on BRI transport and connectivity corridors in the absence of comprehensive and consistent information on investments and financing terms. Key assumptions relate to the amount of public and publicly guaranteed (PPG) debt financing and its terms, the size and sectoral type of identified BRI investment, and the expected impact of growth in the medium and long term of that investment. BRI debt financing is expected significantly increase PPG debt in a number of countries. The paper provides estimates for both the medium and the long term. In the medium term, defined as the period 2019-2023, debt financing of BRI investment is expected to be fully disbursed while the full growth impact of BRI related infrastructure is not entirely realized. In this initial phase, around one-third of assessed BRI-recipient countries are estimated to face elevated debt vulnerabilities post- BRI, several of which have already high debt vulnerabilities. The impact of BRI on public debt would improve over the longer term under the assumption of a sustained negative interest rate-growth differential and in the absence of the materialization of BRI related fiscal risks. Still, debt to GDP ratio is expected to remain higher in one-third of countries (11 out of 30 with available data).
 
 https://doi.org/10.1596/1813-9450-8891
-### Countries’ Perceptions of China’s Belt and Road Initiative: A Big Data Analysis（2019，SSRN Electronic Journal，被引 38）
 
-（无摘要）
-
-https://doi.org/10.2139/ssrn.3430318
-
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

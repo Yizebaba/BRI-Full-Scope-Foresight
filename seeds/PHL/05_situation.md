@@ -8,7 +8,6 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-10-30 17:06 UTC：M4.6，7 km NE of Tago, Philippines。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tub8 
-- 2026-10-28 12:14 UTC：M4.9，1 km WSW of Butulan, Philippines。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnq 
 
 ## 灾害警报（GDACS，近 14 天）
 

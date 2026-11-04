@@ -103,7 +103,7 @@ Cooperation between China and Central and Eastern European Countries (China-CEE,
 the chinese one belt one road (obor) initiative often referred to as the new silk road (nsr), seems to be the greatest endeavour of our times in terms of economy, politics and logistics. the study aimed to examine the potential of poland, belarus, lithuania, latvia, estonia and russia to participate in the nsr. the method applied was comparative analysis including both quantitative and qualitative studies. the juxtaposition of data from the intensity of global integration enabled assessment of the potential negative consequences of non-participation of the countries in the nsr. in turn, the analysis of specific indicators of trade integration, the intensity of global integration and the logistics performance of the researched part of europe has made it possible to answer the question about the most promising variants of the nsr.
 
 https://doi.org/10.3846/16111699.2017.1404488
-### Using Patent Development, Education Policy and Research and Development Expenditure Policy to Increase Technological Competitiveness of Small European Union Member States（2017，Croatian International Relations Review，被引 16）
+### Using Patent Development, Education Policy and Research and Development Expenditure Policy to Increase Technological Competitiveness of Small European Union Member States（2017，Croatian International Relations Review，被引 18）
 
 Abstract The Chinese Belt and Road Initiative will open new trade routes between China and the European Union (EU) and increase competition pressures on smaller EU member states. This article ranks where states like Estonia stand internationally in terms of innovativeness (and consequent competitiveness) by conducting an econometric study of patent development, education policy and research and development (R&D) expenditure policy. The authors claim that small member states such as Estonia should follow the example of countries such as Germany and adopt policies which focus more on increased public spending on R&D and innovation in public universities of science and technology, and raise support for high tech startups with a strong focus on international patenting. Member States must go further and subsidise R&D activities by focusing, inter alia, on filing of foreign patents such as triadic patents.
 
@@ -133,10 +133,10 @@ https://doi.org/10.1596/1813-9450-8814
 （无摘要）
 
 https://doi.org/10.1016/j.jenvman.2020.110250
-### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 163）
+### The Impact of Digital Economy on the Economic Growth and the Development Strategies in the post-COVID-19 Era: Evidence From Countries Along the “Belt and Road”（2022，Frontiers in Public Health，被引 189）
 
-（无摘要）
+The digital economy is considered as an effective measure to mitigate the negative economic impact of the Corona Virus Disease 2019 (COVID-19) epidemic. However, few studies evaluated the role of digital economy on the economic growth of countries along the "Belt and Road" and the impact of COVID-19 on their digital industries. This study constructed a comprehensive evaluation index system and applied a panel data regression model to empirically analyze the impact of digital economy on the economic growth of countries along the "Belt and Road" before COVID-19. Then, a Global Trade Analysis Project (GTAP) model was used to examine the impact of COVID-19 on their digital industries and trade pattern. Our results show that although there is an obvious regional imbalance in the digital economy development in countries along the "Belt and Road", the digital economy has a significantly positive effect on their economic growth. The main impact mechanism is through promoting industrial structure upgrading, the total employment and restructuring of employment. Furthermore, COVID-19 has generally boosted the demand for the digital industries, and the impact from the demand side is much larger than that from the supply side. Specifically, the digital industries in Armenia, Israel, Latvia and Estonia have shown great growth potential during the epidemic. On the contrast, COVID-19 has brought adverse impacts to the digital industries in Ukraine, Egypt, Turkey, and the Philippines. The development strategies are proposed to bridge the "digital divide" of countries along the "Belt and Road," and to strengthen the driving effect of the digital economy on industrial upgrading, employment and trade in the post-COVID-19 era.
 
-https://doi.org/10.1016/j.jdeveco.2019.102415
+https://doi.org/10.3389/fpubh.2022.856142
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

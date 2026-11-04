@@ -96,7 +96,7 @@ Foreign relations of China
 The six monarchies of the Persian Gulf – Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates – present a useful case study to examine the implications of the Belt and Road Initiative (BRI) on regions. This chapter uses a level of analysis approach to understand the opportunities and challenges inherent in the BRI when approached from the perspective of the Gulf monarchies. The analysis of the impact of the BRI on the Gulf monarchies is presented at three levels: the domestic, regional, and international. The Gulf monarchies are actively involved in BRI projects to support their own development agendas, making the initiative a useful means of addressing domestic pressures for economic diversification. At the regional level, the BRI has the potential to be more problematic for the Gulf monarchies. At the international level, the GCC states must try to maintain equilibrium between cooperation with China and India.
 
 https://doi.org/10.4324/9780429202346-6
-### Balancing power and prosperity: China’s geo-economic engagement with the Gulf Cooperation Council（2024，Asian Review of Political Economy，被引 17）
+### Balancing power and prosperity: China’s geo-economic engagement with the Gulf Cooperation Council（2024，Asian Review of Political Economy，被引 19）
 
 Abstract Since the 1990s, China’s engagement beyond its geographical periphery, especially with Asian regions, has grown exceptionally, which is best evident in the Gulf sub-region and Western Asian nations. Indeed, energy-based interactions were the first to be established with Gulf Arab countries, and today, more than two decades after the Cold War, such relationships have evolved into tighter partnerships and engagement networks. Thus, in the last decade, China has increased its economic and political footprint in the Gulf region, as it has become one of the region’s largest external investors and trade partners. In its relations with the Gulf Cooperation Council (GCC) states, China faces varying challenges as each country pursues its interests, making the Chinese strategy in the region more complex. The Gulf countries have had to balance their relationship between the US as a security guarantor and China as an important economic partner. They strive to maximize their political and economic interests in the process. The main contention of this paper is that the GCC should not be viewed as a homogenous entity and that the Belt and Road Initiative (BRI) is a flexible approach designed to bolster China’s economic objectives in each Gulf country. Our research scrutinizes China’s geo-economic strategy and geopolitical aims about the Gulf States’ aspirations to maximize their economic ties with China. Against this background, this paper discusses the political and economic relationships between the People’s Republic of China and the Gulf Arab states: Bahrain, Kuwait, Qatar, Oman, the Kingdom of Saudi Arabia (KSA), and the United Arab Emirates (UAE).
 
@@ -106,7 +106,7 @@ https://doi.org/10.1007/s44216-024-00040-6
 During the transition period, economic interests came to play a role, insignificant at first, but with increasingly clear opportunities for growth. Within the Gulf monarchies, China has come to be seen as an important and reliable partner, with mutual interests across a range of issues. The Belt and Road Initiative (BRI) appears to be an important factor in China's relationships with the other three Gulf monarchies, Qatar, Kuwait, and Bahrain, although unevenly, and with less intensity. The centrality of the BRI in China's foreign policy means China's presence in the Gulf can be linked with its interests across the Indian Ocean. In terms of construction and infrastructure projects, Saudi Arabia is also the most important Gulf Cooperation Council state for China, with the greatest number of projects, the largest value of projects, and the high profile of projects such as the Mecca-Medina hajj railway.
 
 https://doi.org/10.4324/9781315142678-7
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 200）
 
 （无摘要）
 
@@ -116,7 +116,7 @@ https://doi.org/10.1016/j.ememar.2019.100629
 China's Belt and Road Initiative aims to improve connectivity between China and more than 70 countries through infrastructure investment and regional cooperation. The initiative has the potential to accelerate significantly the rate of economic integration and development in the region, as trade costs decline. The goals of this paper are to (i) study the impacts of infrastructure improvements on Belt and Road Initiative and non?Belt and Road Initiative countries'trade flows, growth, and poverty; and (ii) suggest policies that would help maximize gains from the Belt and Road Initiative?induced trade cost declines. The analysis captures the trade costs reductions as a result of infrastructure improvements. The findings indicate that the Belt and Road Initiative would be largely beneficial. First, global income increases by 0.7 percent (in 2030 relative to the baseline). This translates into almost half a trillion dollars in 2014 prices and market exchange rates. The Belt and Road Initiative area captures 82 percent of the gain, with the largest percent gains in East Asia. Second, globally, the Belt and Road Initiative could contribute to lifting 7.6 million people from extreme poverty and 32 million from moderate poverty. Third, the initiative would lead to a modest increase in global carbon dioxide emissions, with a complex set of positive and negative outcomes at the national level for other types of emissions.
 
 https://doi.org/10.1596/1813-9450-8814
-### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 163）
+### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 164）
 
 （无摘要）
 
@@ -132,4 +132,4 @@ The “Belt and Road (B&R) Initiative” is an innovative idea proposed by China
 
 https://doi.org/10.3390/su10124370
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

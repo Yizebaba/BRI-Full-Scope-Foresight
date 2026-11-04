@@ -44,6 +44,8 @@ The future enlargement of the Eurasian Economic Union is theoretically open to a
 
 ## 世界银行最新文件（Documents & Reports）
 
+- 2026-10-28 · Learning and Results Note · Moldova - Land Registration and Property Valuation Project（项目：MD-Land Registration and Property Valuation Project -- P161238）。http://documents.worldbank.org/curated/en/099102926080038102
+  摘要：Ratings for the Land Registration and Property Valuation Project for Moldovo were as follows: relevance was high, overall efficacy was substantial, revised efficacy was substantial, efficiency was modest, and overall outcome was moderately satisfactory. Lessons learned included: this project delivered institutional reform, systematic registration, and property revaluation simultaneously. Implementation experience showed that institutional capacity was still being established while field activities were expected to proceed, contributing to early delays. Clear, complementary responsibilities between the sector policy and coordination authority and the operational cadastral institution provide the focus and accountability that complex reforms require. Moldova’s experience illustrates this: when cadastral functions were embedded within a broader public services agency, implementation lagged and public land delineation remained below 14%. The project demonstrated that sustainable property valuation reform requires more than valuation models and market data. The Moldova experience shows that relying heavily on a single benefit stream can understate the contribution of land administration reforms.
 - 2026-10-01 · Brief · Macro Poverty Outlook for Moldova : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099440210142623688
   摘要：Moldova's economy is expected to expand modestly in 2026, with the impacts of the Middle East conflict on energy prices weighing on growth. Fiscal and external deficits remain elevated, and inflation stays high, underscoring persistent macroeconomic vulnerabilities. While new domestic risks have emerged and the geopolitical outlook remains uncertain, timely reforms and effective absorption of the EU Growth Plan could strengthen growth, generate jobs, and lower poverty.
 - 2026-10-01 · Brief · Macro Poverty Outlook for Moldova : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099418310202674478
@@ -59,7 +61,6 @@ The future enlargement of the Eurasian Economic Union is theoretically open to a
 - 2026-09-07 · Agreement · Official Documents- Partial Cancellation and Amendment to Financing Agreements for Credits 6380-MD and 6381-MD.pdf（项目：MD-Moldova Power System Development Project -- P160829）。http://documents.worldbank.org/curated/en/099091826083520243
 - 2026-09-07 · Agreement · Official Documents- Partial Cancellation and Amendment to Financing Agreements for Credit 6380-MD and 6381-MD.pdf（项目：MD-Moldova Power System Development Project -- P160829）。http://documents.worldbank.org/curated/en/099090826133040883
 - 2026-06-26 · Agreement · Official Documents- Amendment to Financing Agreement and Loan Agreement for Credit 7174-MD and for Loan 9423-MD.pdf（项目：MD-MSME Competitiveness Project -- P177895）。http://documents.worldbank.org/curated/en/099062626101034158
-- 2026-06-26 · Grant or Trust Fund Agreement · Official Documents- Grant Agreement for Additional Financing Grant TF0D0184.pdf（项目：MD-MSME Competitiveness Project -- P177895）。http://documents.worldbank.org/curated/en/099062626101023660
 
 ## 学术论文（OpenAlex）
 
@@ -93,7 +94,7 @@ https://doi.org/10.24294/jipd.v3i1.1123
 （无摘要）
 
 https://openalex.org/W3168619470
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 200）
 
 （无摘要）
 
@@ -104,4 +105,4 @@ Innovation and globalization fosters a tendency towards multiparty collaboration
 
 https://doi.org/10.3390/su10082743
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

@@ -183,7 +183,7 @@ https://doi.org/10.31249/ape/2021.02.03
 This study delves into the multifaceted nature of China's engagement in Albania, with a focus on understanding the nuanced public perceptions surrounding this involvement. Situated within the broader context of China's Belt and Road Initiative (BRI), it examines the impact of China's expanding influence in the Western Balkans, particularly through the lens of Albania's strategic geopolitical positioning and rich historical context. Furthermore, by exploring the grassroots-level reception, the research aims to uncover the economic, political, and socio-cultural dimensions of China's presence in Albania and assess the broader implications of such foreign engagements in smaller, strategically located nations. Employing a mixed-methods approach, the study synthesizes findings from seven comprehensive surveys from three distinct sources: the Western Balkan Security Barometer, the China-Eastern European Countries (CEEC) group surveys, and the Balkan Barometer. This time-sequenced comparative perspective reveals a complex landscape of public opinion that is characterized by a shift from initially positive perceptions towards a more cautious and critical engagement with China's role in Albania. Overall, the study highlights a growing skepticism and a strategic recalibration of Albania's international alignments, evidenced by a nuanced preference for European Union integration over a deeper alliance with China. In conclusions, the findings suggest that while there is recognition of the economic opportunities presented by China's engagement, there is also an acute awareness of the potential pitfalls and complexities of such international partnerships. In this context, the paper argues for the importance of fostering an informed public discourse to navigate the challenges posed by global diplomacy and foreign influence. As Albania stands at a crossroads in its foreign policy, the evolving public perceptions underscore the need for a balanced approach that harmonizes establishe
 
 https://doi.org/10.56345/ijrdv11n128
-### How to Give China Face Yet Not Bow to Pressure: Albania’s Delicate Balancing Act with China（2020，The world of small states，被引 0）
+### How to Give China Face Yet Not Bow to Pressure: Albania’s Delicate Balancing Act with China（2020，The world of small states，被引 0）
 
 （无摘要）
 
@@ -214,4 +214,4 @@ China’s Belt and Road Initiative (BRI) hopes to deliver trillions of dollars i
 
 https://doi.org/10.24294/jipd.v3i1.1123
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

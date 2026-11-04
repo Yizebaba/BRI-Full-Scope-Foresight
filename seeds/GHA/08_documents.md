@@ -95,15 +95,6 @@ Ho, Conal Guan-Yow (February 2008a), "Living Transitions: A Primer to Chinese Pr
 
 来源：https://en.wikipedia.org/wiki/China%E2%80%93Ghana_relations（CC BY-SA 4.0）
 
-## 与“一带一路”相关的条目（维基百科导言）
-
-### Kotokoraba Market, Cape Coast, Ghana
-
-Kotokoraba Market, or Kotokuraba Market, is the largest market in Cape Coast, capital of the Central Region of Ghana, which is the tourism hub of Ghana. Cape Coast is known for many reasons, including for its UN World Heritage Site – Cape Coast Castle – and its senior high schools, and is also popular because of its market. Kotokoraba Market is the economic hub of the region, with all major trading stores located around it. Part of the market has a big transport yard from where various buses and cars transport traders and their wares, as well as individuals, to different parts of the country.
-The market is bordered to the north-west by Mfantsipim School and the Ghana Broadcasting Corporation hill. On the east is Tantri, a busy transport yard and the major departure point for travellers moving out of the city.
-
-来源：https://en.wikipedia.org/wiki/Kotokoraba_Market%2C_Cape_Coast%2C_Ghana
-
 ## 世界银行最新文件（Documents & Reports）
 
 - 2026-10-09 · Brief · Ghana Poverty and Equity Brief : October 2026
@@ -129,12 +120,11 @@ The market is bordered to the north-west by Mfantsipim School and the Ghana Broa
   摘要：Addressing the massive test score gaps between rich and poor countries will require programs that are both high-impact and scalable. This study uses the results of a randomized controlled trial in low-fee private schools in Ghana to study a program that meets both needs. The Tools for Foundational Learning Improvement program increased test scores by 0.5 standard deviation after just nine months of intervention. A machine learning method decomposes the effects by predicted test scores if the students did not receive the treatment, and the findings show that the gains were larger for weaker students. Moreover, the program’s impacts scale roughly linearly with time compared to a shorter-term, smaller-scale pilot randomized controlled trial. The program’s developers used generative artificial intelligence to accelerate lesson plan development and adaptation to new settings. An observational pilot test of this adaptation in Uganda yielded comparable results to those of this study’s randomized controlled trial. The study developed a model in which basic skills constrain the development of advanced skills, which predicts the pattern of effects observed across early reading capabilities, and it makes forecasts about the future impacts of the program as it continues into second grade.
 - 2026-07-01 · Board Report · Ghana  – Joint World Bank-IMF Debt Sustainability Analysis 。http://documents.worldbank.org/curated/en/099100126192040684
   摘要：Helped by strong cedi appreciation and growth, and efforts to rein in policy and reform slippages that emerged in the run-up to the December 2024 elections, all debt indicators fell below their respective LICDSF thresholds by end-2025, resulting in a mechanical signal of moderate risk of debt distress three years before expected. With the exchange rate stabilizing and a strong 2025 fiscal outturn, IMF and WB staff are upgrading Ghana’s debt risk rating in this DSA to ‘moderate’ with limited space to absorb shocks, in line with the mechanical signal.
-- 2026-06-30 · Project Paper · Ghana - Second Phase of the West Africa Food System Resilience Program (FSRP) Project : Additional Financing（项目：3W-West Africa Food System Resilience Program (FSRP) Phase 2 -- P178132）。http://documents.worldbank.org/curated/en/099070626153513617
-  摘要：The development objective of the West Africa Food System Resilience Program (FSRP) Phase 2 for Chad is to increase preparedness against food insecurity and improve the resilience of food systems. An additional financing was prepared to replenish a financing gap created when the Contingent Emergency Response Component (CERC) was activated to respond to a worsening food and nutrition security emergency driven by severe floods and drought, a large cereal deficit and the collapse of the national food reserve, sharp price increases, and large-scale displacement from the Sudan crisis; the Crisis Response Window Early Response Financing (CRW ERF) restores funding to long-term resilience components while sustaining time-critical relief. The Bank will work on strengthening digital advisory and early warning systems for climate and food security, expanding access to hydro and agrometeorological services delivered through multiple channels and languages, and reinforcing desert locust preparedness; advancing agricultural innovation and institutional capacity, including the National Center of Specialization for Wheat, the dissemination of high-yield, flood- and drought-tolerant varieties, expanded e-extension, and integrated landscape management; and improving regional food market integration through trade facilitation, policy harmonization, and support to priority value chains alongside stronger stock management at the National Food Security Office. Under the CERC, the project supports t
+- 2026-12-31 · Agreement · Official Documents- Amendment No. 2 to the GPE Grant Agreement for Grant TF0B0846.pdf（项目：GH-Ghana Accountability for Learning Outcomes Project -- P165557）。http://documents.worldbank.org/curated/en/099010125191591417
 
 ## 学术论文（OpenAlex）
 
-### From Chinese dam building in Africa to the Belt and Road Initiative: Assembling infrastructure projects and their linkages（2019，Political Geography，被引 107）
+### From Chinese dam building in Africa to the Belt and Road Initiative: Assembling infrastructure projects and their linkages（2019，Political Geography，被引 108）
 
 （无摘要）
 
@@ -175,4 +165,4 @@ How much and which AI does Ghana need when its challenges remain largely infrast
 
 https://doi.org/10.60690/sdwyd559
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

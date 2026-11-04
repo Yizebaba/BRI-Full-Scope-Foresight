@@ -139,20 +139,20 @@ https://doi.org/10.26886/2524-101x.7.2.2021.2
 （无摘要）
 
 https://doi.org/10.1016/j.ememar.2019.100629
-### China’s Eastern Europe plans hit by Baltics exit（2022，Emerald expert briefings，被引 0）
+### Towards a Balanced Synergy of Visions and Interests: Latvia’s Perspectives in 16+1 and Belt and Road Initiatives（2017，Croatian International Relations Review，被引 28）
 
-Headline ESTONIA/LATVIA: China’s 16+1 club shrinks further
+Abstract The article analyses China’s 16+1 and Belt and Road initiatives from Latvia’s perspective. Although the initiatives provide engagement on a large scale, it is challenging to achieve the task of achieving a synergy between a variety of stakeholders and interests in the context of a diversity of visions and agendas. The strategic dimension of transcontinental initiatives complicates further the building of synergy. Connectivity is an important and promising principle of both initiatives and transcontinental infrastructural linkages are especially high on the agenda. Mutually beneficial progress, however, must yet be achieved. In times of uncertainty, Central and Eastern European countries, including Latvia, are engaged in a balancing process of potential economic benefits and strategic implications of the 16+1 and Belt and Road initiatives.
 
-https://doi.org/10.1108/oxan-es272110
+https://doi.org/10.1515/cirr-2017-0006
 ### The Belt and Road Initiative and the Uneven Triangle of Latvia, Belarus, and China（2023，Springer eBooks，被引 0）
 
 （无摘要）
 
 https://doi.org/10.1007/978-981-19-6700-9_36
-### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 102）
+### China’s Eastern Europe plans hit by Baltics exit（2022，Emerald expert briefings，被引 0）
 
-China's Belt and Road Initiative aims to improve connectivity between China and more than 70 countries through infrastructure investment and regional cooperation. The initiative has the potential to accelerate significantly the rate of economic integration and development in the region, as trade costs decline. The goals of this paper are to (i) study the impacts of infrastructure improvements on Belt and Road Initiative and non?Belt and Road Initiative countries'trade flows, growth, and poverty; and (ii) suggest policies that would help maximize gains from the Belt and Road Initiative?induced trade cost declines. The analysis captures the trade costs reductions as a result of infrastructure improvements. The findings indicate that the Belt and Road Initiative would be largely beneficial. First, global income increases by 0.7 percent (in 2030 relative to the baseline). This translates into almost half a trillion dollars in 2014 prices and market exchange rates. The Belt and Road Initiative area captures 82 percent of the gain, with the largest percent gains in East Asia. Second, globally, the Belt and Road Initiative could contribute to lifting 7.6 million people from extreme poverty and 32 million from moderate poverty. Third, the initiative would lead to a modest increase in global carbon dioxide emissions, with a complex set of positive and negative outcomes at the national level for other types of emissions.
+Headline ESTONIA/LATVIA: China’s 16+1 club shrinks further
 
-https://doi.org/10.1596/1813-9450-8814
+https://doi.org/10.1108/oxan-es272110
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

@@ -164,6 +164,5 @@ The election of Philippine president Bongbong Marcos in 2022 saw the onset of wo
 - 2026-10-02 · Project Information Document · Appraisal Project Information Document (PID)（项目：PH-Boosting Employability in Strategic TVET Sectors (BEST) Project -- P508080）。http://documents.worldbank.org/curated/en/099100226001542756
 - 2026-09-13 · Climate Co-Benefits Assessment · Climate Finance Assessment (P510184)（项目：PH-Philippines Second Energy Transition and Climate Resilience DPL -- P510184）。http://documents.worldbank.org/curated/en/099091326180036974
 - 2026-08-11 · Environmental and Social Review Summary · Appraisal Environmental and Social Review Summary (ESRS) - Boosting Employability in Strategic TVET Sectors (BEST) Project - P508080（项目：PH-Boosting Employability in Strategic TVET Sectors (BEST) Project -- P508080）。http://documents.worldbank.org/curated/en/099081026224540837
-- 2026-08-06 · Project Information Document · Concept Program Information Document (PID)（项目：PH-Philippines Private Capital Mobilization and Competitiveness Enhancement DPL1 -- P518178）。http://documents.worldbank.org/curated/en/099080626031075248
 
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z

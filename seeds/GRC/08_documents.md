@@ -206,6 +206,11 @@ https://openalex.org/W3106237354
 This chapter discusses how the Belt and Road Initiative (BRI) and interrelated economic and political objectives of the Chinese government play out in the Greek context. The chapter opens with the background of Sino-Greek relations. It continues with the BRI’s political and economic objectives in the context of Greece and Southeastern Europe, and the Near East, exploring the expectation that Greek policymakers, business people, and ordinary citizens have had from the prospects of economic activities that the BRI seeks to bring to the country. Finally, the chapter sets Sino-Greek relations in their European context, analyzing the impact of the BRI on the European Union as a political and economic bloc.
 
 https://doi.org/10.4324/9780367853235-12-16
+### Greece’s Comparative Advantage as China’s Backdoor to Europe（2021，Springer eBooks，被引 0）
+
+（无摘要）
+
+https://doi.org/10.1007/978-3-030-64081-1_16
 ### China’s ‘Silky Involvement’ in the Eastern Mediterranean: A geopolitical upper hand for Greece and Cyprus?（2022，Journal of Balkan and Near Eastern Studies，被引 3）
 
 The paper argues that Chinese involvement in the Eastern Mediterranean is primarily motivated by increasing the country’s economic role within the region through Belt and Road Initiative (BRI). The paper uses case study analysis methodology dwelling on the evolution and content of Chinese involvement in Greece and Cyprus. Primarily focusing of the nature of the Chinese investments in strategic sectors of the two cases in question the role that that China plays in Eastern Mediterranean is described as a ‘silky involvement’. China’s policy choices are also perceived to be an opportunity for Greece and Cyprus to combat the negative effects of 2007–2008 economic crises and to increase their geopolitical stronghold in the post-Cold War geopolitical environment of the Eastern Mediterranean.
@@ -221,10 +226,5 @@ https://doi.org/10.1108/oxan-db241658
 Subject Turkey’s ‘Asia Anew’ foreign policy. Significance Turkish Foreign Minister Mevlut Cavusoglu unveiled the ‘Asia Anew’ foreign policy initiative at the Turkish ambassadors’ annual meeting last August. It underscores the Erdogan administration’s desire to communicate a proactive foreign policy vision at a time when Turkey is facing isolation in the Arab world, increased dependence on Russia and deteriorating relations with its traditional Western partners. Impacts The domestic pro-Uighur constituency will try to ensure Ankara does not forget Uighur interests as it seeks Belt and Road investment. Regional competitors Greece, Israel and Egypt may work together to offer Asian investors alternative East Mediterranean projects. Turkey’s extensive purge of public-sector institutions may strain the government’s capacity to implement Asia Anew.
 
 https://doi.org/10.1108/oxan-db250376
-### China’s BRI（2020，Routledge eBooks，被引 0）
 
-This chapter focuses on how European states and the EU have adjusted to Chinese Foreign Direct Investments (FDI) and the Belt and Road Initiative’s linking of China and the European continent. While the Chinese government has been promoting the BRI toward European countries, the reality is that most Chinese FDI, including by state-owned enterprises, has been targeting countries that did not officially join the BRI. Overall, Chinese FDI, especially state-backed, has tended to target the strong industries in advanced economies. This has been advanced manufacturing industries, with automotive, chemical, agribusiness, energy, and machinery taking a significant share of non-infrastructure (non-greenfield) investment. As this chapter shows, it is mainly in those countries where infrastructure is weaker and who have a connection to the BRI that China has focused on building up railways and ports to connect its commerce routes. This is particularly the case with Greece and the Balkan countries, which have attracted most “BRI-labelled investments.”
-
-https://doi.org/10.4324/9781003056683-10
-
-抓取时间：2026-10-28T10:50:59Z
+抓取时间：2026-11-04T12:35:54Z
