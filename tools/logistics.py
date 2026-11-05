@@ -93,7 +93,14 @@ try:
         cty.setdefault(k, {})["export" if r.get("flowCode") == "X" else "import"] = r.get("primaryValue")
     out["comtrade"] = {"source": "UN Comtrade（中国申报，年度，美元）", "url": "https://comtradeplus.un.org/", "year": yr, "countries": cty}
 except Exception as e: ERR["comtrade"] = str(e)[:200]
-if len(((out.get("portwatch") or {}).get("countries") or {})) < 60 and ((OLD.get("portwatch") or {}).get("countries")):
-    keep = dict(OLD["portwatch"]); keep["chokepoints"] = (out.get("portwatch") or {}).get("chokepoints") or keep.get("chokepoints"); keep["stale"] = True; out["portwatch"] = keep   # 不完整时保留上次的港口数据
+# PortWatch 每周整表重建时，部分国家或咽喉要道会查不到：没取到的逐项沿用上次的值并标 stale，不让网页上的数据变少
+OP = OLD.get("portwatch") or {}; NP = out.setdefault("portwatch", {})
+if not NP.get("countries") and OP: NP.update({k: v for k, v in OP.items() if k not in ("chokepoints",)})
+NP.setdefault("countries", {})
+for k, v in (OP.get("countries") or {}).items():
+    if k not in NP["countries"] and k in set(ERR.get("portwatch_some", [])) | ({k} if ERR.get("portwatch_ports") else set()):
+        NP["countries"][k] = dict(v, stale=True)
+if not (NP.get("chokepoints") or {}).get("items") and (OP.get("chokepoints") or {}).get("items"):
+    NP["chokepoints"] = dict(OP["chokepoints"], stale=True)
 json.dump(out, open("data/logistics.json", "w"), ensure_ascii=False, separators=(",", ":"))
 print("logistics:", len((out.get("portwatch") or {}).get("countries", {})), "countries with ports;", len(((out.get("portwatch") or {}).get("chokepoints") or {}).get("items", [])), "chokepoints;", len(out["comtrade"].get("countries", {})), "comtrade;", ERR)
