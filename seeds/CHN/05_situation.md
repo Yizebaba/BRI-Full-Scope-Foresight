@@ -13,6 +13,8 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-05 16:56 UTC：M5，130 km NE of Thang, India。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8p 
+- 2026-11-02 20:54 UTC：M4.5，186 km ENE of Nagqu, China。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuzz 
+- 2026-11-02 18:33 UTC：M4.5，212 km ENE of Nagqu, China。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuyi 
 - 2026-11-02 15:35 UTC：M4.7，193 km ENE of Nagqu, China。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuxi 
 
 ## 灾害警报（GDACS，近 14 天）
