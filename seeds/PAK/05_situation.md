@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-05 09:47 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-05 17:57 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -49,6 +49,7 @@
 ## 喀喇昆仑公路改扩建（雷科特—红其拉甫）
 
 周边自然事件（地震 150 km、灾害警报 300 km、NASA 自然事件 150 km 以内）：
+- 2026-11-05 16:56 UTC，GDACS：Green 级 · Earthquake in China，距项目 262.7 km。https://www.gdacs.org/report.aspx?eventid=1575785&episodeid=1744857&eventtype=EQ
 - 2026-11-01 17:57 UTC，USGS 地震目录：M4.1 earthquake · 117 km NNE of Barishal, Pakistan，距项目 51.9 km。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqq
 
 ## 喀喇昆仑公路二期（塔科特—哈维连）
@@ -67,18 +68,18 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-11-05 08:12 UTC：World’s Largest Animal Found Dead on Gwadar Beach - ProPakistani。https://news.google.com/rss/articles/CBMijAFBVV95cUxNWm02ckJTeDNwU09xQzFjVkZkdW5Jc0NIR2lZOXZTV2N0RGpUN256QWdvd0xEZW91MjRSbWV6eTlXY3B6RVM2TmlIeDU3cXlRaHhQbmdwWjJpMWQ0cVVaekdlVENGZzdHZXFsaXlBdVpfY29fX2tpck5RMmtTQjRHWVlVYUZyQXFaSmV5atIBkgFBVV95cUxONk9OWjJBeWlzMmM0X2VGRVpRdnU2TEpMTW1OcWtEamk0RVNZYmVyUnNHY1VfRVl1Ql80ZDZhSHFWempNcFpBMnJMR05RWFhCR0dLRm1aSWc4QW8zdGU4LXY4RE82SldWTTdOR19iM09QVm9FbVhMMkRIdDlDclpuRWJhdEJuN0F6UFVEbDBuQzIyQQ?oc=5
-- 2026-11-05 06:55 UTC：Blue whale found dead near Gwadar East Bay after two days at sea - The Current。https://news.google.com/rss/articles/CBMikAFBVV95cUxNOEFuOVZ0eFNSNTNESzZWaWRZZHJ4SF9GNGxmZXJrcEpMN25ROEowa1dHNkdkVk9pNWlfVWd1UUNNV0JZejBqNm1KN05OZXZTQVgtZlZ2QkZTSUFBVFVLWHFtUWp6azdSVkRSOWM0UC1MVmQ3d3gyU2NMcVdvVjVLNVcyRF9hbTJFVlNtTzliU18?oc=5
-- 2026-11-05 06:40 UTC：Lahore man killed in Gwadar days after sending slain friend’s body to Faisalabad - The Current。https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGVTd1VpWFUtc1hrV1RqZ3RUdUh3bUMxQm9sU1RuQnE5cjdLWXM1MFVFMjF0TGJCVDBsQk5zUEFZeDJDbHF3eERwT1JFWnZsV3R2OTZYTHJKWkVTN0ZfZVA4ek5EckxPblQ1bzVqSVAtS01FWmZwS21hX1Y4VDR4QWtyekV1RjlHU1JINk9Xb2gzdGlaZVlUc2lDa2d5eklMeUlIWQ?oc=5
+- 2026-11-05 15:52 UTC：Dead 30-foot blue whale washes ashore near Gwadar - Bol News。https://news.google.com/rss/articles/CBMiigFBVV95cUxQWGxSYTJic3VzdUZHZ29BZ1RHRERiMHFFNDNEWE5Nak5WZVRuQmhrRVVrUkRyLVo0VkxpazlfdnJVT01pXy1HUDZlcEZBY0JEUXU0STJXUFhtY0stNkYwc05icnpJZm9QUTFGRERObzNfajU1YlpWVG0yT1lXT3hJX29sblVkcEtjWEE?oc=5
+- 2026-11-05 12:08 UTC：30-Foot Blue Whale Found Dead on Gwadar Beach - Bloom Pakistan。https://news.google.com/rss/articles/CBMibkFVX3lxTFBqT3hLdXNIUWJaU1BPZDJxQkpvV016T1JZTFItQk5qVlJneWtoSmFHNncyc2pwRG5abVlKMHQtQnZIbXhqT1ZvcEplUVpFV0d0TjVIVnl3c0JyeGhiMUVPVEZKX0ZLRUVNVjVwUlFR?oc=5
+- 2026-11-05 08:12 UTC：World’s Largest Animal Found Dead on Gwadar Beach - ProPakistani。https://news.google.com/rss/articles/CBMijAFBVV95cUxNWm02ckJTeDNwU09xQzFjVkZkdW5Jc0NIR2lZOXZTV2N0RGpUN256QWdvd0xEZW91MjRSbWV6eTlXY3B6RVM2TmlIeDU3cXlRaHhQbmdwWjJpMWQ0cVVaekdlVENGZzdHZXFsaXlBdVpfY29fX2tpck5RMmtTQjRHWVlVYUZyQXFaSmV5atIB7gJBVV95cUxNUTdMMFlYaWo3TElQMGFnMEJKMDNfdmZOajFVZWQwbXlxUlczX1dCMUE2Yjd5cEtrN3phU1JkVGdfRjhxeDJOZG1kQ3M5alRLWGZaVkRaWGp4clZ0eVhXZG53bkFGeGN1SzRvT2tCTWNsdXE3MkUxdWkxbURpYUs3eWlLZmR1ZEJpc1luSW0tQlBmZF9hWDlCbFNTUnRIbi1LRjRwTXRaRF9vQUhBRjZyU29oci1ocDJkcjFwU244RnpJb0RORzBfN1VDWE45ZXQ0VnJPNWJSNU56V0tBcFZRM3FvMXFQbFF2V0RzRWo5R0xSOVdhYTFsT2JkVnBwY09xSzBiVVpxZHlPNkhFZnR2MkFPX1F0bHFmb2c0UDVSdU4tcE81S1FZQVVWOUFwTlp5WjRGaWNKZ0x6TVJOU195bnQ4eU5JMlZBeFFHM0QtTnZyMzFmcHpURGhHMExkU2lHWWtaTmltdEhKT3k3X2c?oc=5
+- 2026-11-05 06:58 UTC：Blue whale found dead near Gwadar East Bay after two days at sea - The Current。https://news.google.com/rss/articles/CBMikAFBVV95cUxNOEFuOVZ0eFNSNTNESzZWaWRZZHJ4SF9GNGxmZXJrcEpMN25ROEowa1dHNkdkVk9pNWlfVWd1UUNNV0JZejBqNm1KN05OZXZTQVgtZlZ2QkZTSUFBVFVLWHFtUWp6azdSVkRSOWM0UC1MVmQ3d3gyU2NMcVdvVjVLNVcyRF9hbTJFVlNtTzliU18?oc=5
+- 2026-11-05 06:42 UTC：Lahore man killed in Gwadar days after sending slain friend’s body to Faisalabad - The Current。https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGVTd1VpWFUtc1hrV1RqZ3RUdUh3bUMxQm9sU1RuQnE5cjdLWXM1MFVFMjF0TGJCVDBsQk5zUEFZeDJDbHF3eERwT1JFWnZsV3R2OTZYTHJKWkVTN0ZfZVA4ek5EckxPblQ1bzVqSVAtS01FWmZwS21hX1Y4VDR4QWtyekV1RjlHU1JINk9Xb2gzdGlaZVlUc2lDa2d5eklMeUlIWQ?oc=5
 - 2026-11-05 03:20 UTC：Blue whale washes ashore dead in Gwadar - The Express Tribune。https://news.google.com/rss/articles/CBMiggFBVV95cUxOX1NaUW1rWDVDWDRCMXgxd0x3cDctblY0bzNRSVpLeEkwQVo4YlprWkNKVzYwdVd4cHRxU0VlTG5xX1M1SXEybEE2SWNrT2huQXRuWDBkdGpVVDh1MU9ZdEJfMDlFajQ4czl4V3M3QTZMd01uTFNablRzX3doN1htTVln0gGKAUFVX3lxTE1rRzRjZ2Y1dWZES2x2R1hRSHI3OGtkcG8zNWV3SzQ2OVYwTDk3RHFtaGZLMmlHYVBPZHdtUjJic1hkYjVVbllEWlVQYjZ3ZHBkeDhrclloNVMtQnhBLXZOMTV5U0pCbzJDTjJMVDJMNmJ4bE9oUnFTUU01S0Z2WWNqZ1dhbUpsdVdFQQ?oc=5
 - 2026-11-03 05:36 UTC：10 terrorists, including one female, killed in Gwadar: ISPR - GNN | Latest News。https://news.google.com/rss/articles/CBMijAFBVV95cUxOaElMd1B1a1dhNVhFZm5xMTA3Nms5b1NMWVRycVpscHFySWM0d19wREVEelZMLWtTR2dOVmtOeTV6TEl4SFlIS3BueEJyajAtWUtnNUwxVG1ReTVNOTZRN3F0YVlkMlc1dXhjdDVDZF92X3hRcU1wdUoxMThvbkU5cUpGR0M1WWtNeEktYw?oc=5
 - 2026-10-30 07:00 UTC：Security Forces Foil Terror Attacks in Gwadar, Kill Three Militants - Pakistan Observer。https://news.google.com/rss/articles/CBMilgFBVV95cUxNWDhzWUlicUFJTG9EenctTGVkUE84bkRBeE9udDRzcGFqQnZZV2Fwd09Yc2t1anlPQy1CQU5GeFlsQzRnTHNsZTRORkJEXzBaVlY2eHZWU3E3ckpoVzQ2am1tVHVvazBHamVxak1lR19lWVk5OGJTNHFKS21xYjVWTGp1RzB1Q3lBSGY3Z0NVTVJkdjVxWHc?oc=5
-- 2026-10-29 11:28 UTC：Operation Almas: Baloch Liberation Front says it killed 80 Pakistani soldiers, captured FWO camp - OpIndia。https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdGFRTkxhZXJIdjRHN1VJZEZRM2NvTTI1TXcxU3dVMVp4bmhDb25pY2xmRWpiSEtJVWdWU2xBZFFkMzAyLVdFQ2U4NFA1akFGME9kSzduTkljSmEzUUNMWkNMN3JuZF9XQkFSUHlGaWtBc0lxUjU2TGtJZ3EyeDBxUkpjYm53ZUE3ckJ1ZFdDVEQzLWd4OGg3Zi13Y0tTd1czc2J0NmdIUm5tOEpjRFJCa1JoTko1bEcteUxSZlUzVEtDNXhScDNOYnBWbGhBa1ZBM2h6SlFIbTVUY3pvZk4wcTlETVplOHJsNWNqZ0tRTVB5SEt5?oc=5
-- 2026-10-29 10:32 UTC：Balochistan Attack: BLF Claims More Than 80 Pakistani Personnel Killed in Gwadar Operation - theopenpress.in。https://news.google.com/rss/articles/CBMiigFBVV95cUxPcDk1Z01RZkozRjhGUXlzWm12d2pST1g1bmpnZk5uNXZLb3VSM2RGZU5MZTI2R1FGT0lZZjB4QzhUbjlUeWIyR01MUTU4ZEdzbER3eHhHR2xkcUpVdGxnOEdzY2xFOEs3M0lUOTVqeUdhdnVWNWFqbDNCc2hKYjYwaVdWNWt2VVp5UHc?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-05 08:43 UTC：Blue Whale’s Carcass Washes Up on Gwadar Shore - Balochistan Pulse
-- 2026-11-05 05:48 UTC：Emergency landing facility provided at Gwadar airport - 24 News HD
+- 2026-11-05 05:48 UTC：Emergency landing facility provided at Gwadar airport - 24NewsHD
 - 2026-11-04 20:50 UTC：Year Land Settlement Dispute in Pasni Near Resolution, Says Hidayat-ur-Rehman - Daily Independent
 - 2026-11-04 16:28 UTC：Blue whale carcass washes ashore in Gwadar - samaa tv
 - 2026-11-04 12:04 UTC：Gwadar Port Strengthens Its Role as a CPEC Trade Hub - The Daily CPEC

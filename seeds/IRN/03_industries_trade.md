@@ -4,12 +4,12 @@
 
 ## 港口（IMF PortWatch，截至 2026-10-30 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 273 次（前 30 天 290 次），进口约 1671279 公吨，出口约 985507 公吨。
-- Bandar-e Anzali港：靠港 58 次，进口约 33777 公吨，出口约 8262 公吨
-- Amirabad Port港：靠港 48 次，进口约 37124 公吨，出口约 9334 公吨
-- Bandar Shahid Rajaee港：靠港 46 次，进口约 299350 公吨，出口约 405800 公吨
-- Nowshahr Port港：靠港 31 次，进口约 24216 公吨，出口约 2538 公吨
-- Bandar-E Pars Terminal港：靠港 20 次，进口约 105094 公吨，出口约 400388 公吨
-- Bandar Khomeini港：靠港 20 次，进口约 864286 公吨，出口约 96524 公吨
+全国靠港 291 次（前 30 天 271 次），进口约 1861360 公吨，出口约 1018936 公吨。
+- Amirabad Port港：靠港 54 次，进口约 43131 公吨，出口约 10068 公吨
+- Bandar-e Anzali港：靠港 53 次，进口约 29269 公吨，出口约 10462 公吨
+- Bandar Shahid Rajaee港：靠港 49 次，进口约 250954 公吨，出口约 460411 公吨
+- Nowshahr Port港：靠港 34 次，进口约 30368 公吨，出口约 4374 公吨
+- Bandar Khomeini港：靠港 24 次，进口约 1119757 公吨，出口约 57434 公吨
+- Bandar Abbas港：靠港 19 次，进口约 1733 公吨，出口约 1500 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

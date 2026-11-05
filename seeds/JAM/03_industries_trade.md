@@ -4,12 +4,12 @@
 
 ## 港口（IMF PortWatch，截至 2026-10-30 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 257 次（前 30 天 263 次），进口约 854655 公吨，出口约 413212 公吨。
-- Kingston港：靠港 201 次，进口约 590158 公吨，出口约 130316 公吨
-- Montego Bay港：靠港 22 次，进口约 46097 公吨，出口约 13149 公吨
-- Port Esquivel港：靠港 11 次，进口约 91653 公吨，出口约 59909 公吨
-- Jamaica - Offshore Oil Terminal 1港：靠港 10 次，进口约 9180 公吨，出口约 34038 公吨
-- Rocky Point港：靠港 7 次，进口约 115167 公吨，出口约 42220 公吨
-- Port Rhoades港：靠港 3 次，进口约 0 公吨，出口约 133580 公吨
+全国靠港 254 次（前 30 天 272 次），进口约 910510 公吨，出口约 259815 公吨。
+- Kingston港：靠港 200 次，进口约 612713 公吨，出口约 112504 公吨
+- Montego Bay港：靠港 20 次，进口约 47949 公吨，出口约 8114 公吨
+- Jamaica - Offshore Oil Terminal 1港：靠港 11 次，进口约 19211 公吨，出口约 29798 公吨
+- Port Esquivel港：靠港 10 次，进口约 102760 公吨，出口约 7513 公吨
+- Rocky Point港：靠港 6 次，进口约 124844 公吨，出口约 33678 公吨
+- Rio Bueno港：靠港 3 次，进口约 2465 公吨，出口约 0 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。
