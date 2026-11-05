@@ -6,6 +6,7 @@ jobs:
     steps:
       - run: |
           B=https://services9.arcgis.com/weJ1QsnbMYJlCHdG/ArcGIS/rest/services
-          curl -s "$B?f=json" | python3 -c 'import json,sys;d=json.load(sys.stdin);print([s["name"] for s in d.get("services",[]) if "hoke" in s["name"] or "Port" in s["name"]]);print(str(d)[:300])'
-          for s in Daily_Chokepoints_Data Daily_Ports_Data; do echo "== $s"; curl -s "$B/$s/FeatureServer/0/query?where=1%3D1&returnCountOnly=true&f=json" | head -c 300; echo; curl -s "$B/$s/FeatureServer?f=json" | head -c 300; echo; done
-          curl -s "https://portwatch.imf.org/api/search/v1?q=chokepoint" | head -c 500; echo
+          curl -s "$B?f=json" | python3 -c 'import json,sys;d=json.load(sys.stdin);[print(s) for s in d.get("services",[]) if "hokepoint" in s["name"]]'
+          curl -s "$B/Daily_Chokepoints_Data/FeatureServer/0?f=json" | head -c 400; echo
+          curl -s "https://portwatch.imf.org/api/search/v1/collections" | python3 -c 'import json,sys;d=json.load(sys.stdin);[print(c.get("id"),c.get("title")) for c in d.get("collections",[])]' | head -20
+          curl -s "https://portwatch.imf.org/api/search/v1/collections" | head -c 300; echo
