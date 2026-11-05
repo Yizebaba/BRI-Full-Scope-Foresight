@@ -5,7 +5,7 @@
 - 美国国务院旅行建议：Laos - Level 2: Exercise Increased Caution（Tue, 28 Jul 2026）。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lao.html 
 - World Monitor 汇总的旅行建议级别：caution
 
-# 老挝项目周边近期态势（截至 2026-11-04 16:10 UTC）
+# 老挝项目周边近期态势（截至 2026-11-05 09:47 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -22,7 +22,6 @@
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-04 09:28 UTC：China Diplomacy: Chinese FM Wang Yi meets Lao Deputy Prime Minister and Foreign Minister Thongsavanh Phomvihane - CGTN
 - 2026-10-29 10:38 UTC：Cross-Border Train Travel via China-Vietnam Border Port Surpasses 96,000 Passenger Trips - 昆明信息港
-- 2026-10-29 04:28 UTC：Vientiane Party Secretary Discusses Investment Opportunities with CP Group Chairman - ຂ່າວສານປະເທດລາວ
 
 ## 南欧江梯级水电站（一期）
 

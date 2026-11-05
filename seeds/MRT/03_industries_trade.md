@@ -4,9 +4,9 @@
 
 ## 港口（IMF PortWatch，截至 2026-10-30 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 71 次（前 30 天 73 次），进口约 364594 公吨，出口约 682707 公吨。
-- Nouadhibou港：靠港 36 次，进口约 133519 公吨，出口约 659778 公吨
-- Nouakchott港：靠港 34 次，进口约 231075 公吨，出口约 22929 公吨
+全国靠港 64 次（前 30 天 77 次），进口约 359809 公吨，出口约 597226 公吨。
+- Nouakchott港：靠港 32 次，进口约 255966 公吨，出口约 21191 公吨
+- Nouadhibou港：靠港 31 次，进口约 103843 公吨，出口约 576035 公吨
 - Mauritania - Offshore Oil Terminal 1港：靠港 1 次，进口约 0 公吨，出口约 0 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

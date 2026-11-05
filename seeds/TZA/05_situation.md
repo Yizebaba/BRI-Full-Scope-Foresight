@@ -10,8 +10,12 @@
 - 2026-10-20 14:04 UTC：UK FCDO Tanzania。https://www.gov.uk/foreign-travel-advice/tanzania 
 - 2026-10-16 00:00 UTC：US State Dept Tanzania - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tza.html 
 
+## 地震（USGS，M4.5+，近 7 天）
+
+- 2026-11-05 09:22 UTC：M5.1，19 km NNW of Masumbwe, Tanzania。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw76 
+
 ## 灾害警报（GDACS，近 14 天）
 
-- 2026-10-26 00:00 UTC：Green 级 WF，Forest fires in Tanzania。https://www.gdacs.org/report.aspx?eventid=1033374&episodeid=9&eventtype=WF 
+- 2026-11-05 09:22 UTC：Green 级 EQ，Earthquake in Tanzania。https://www.gdacs.org/report.aspx?eventid=1575745&episodeid=1744812&eventtype=EQ 
 - 2026-10-24 00:00 UTC：Green 级 WF，Forest fires in Tanzania。https://www.gdacs.org/report.aspx?eventid=1033310&episodeid=10&eventtype=WF 
 - 2026-10-20 00:00 UTC：Green 级 WF，Forest fires in Tanzania。https://www.gdacs.org/report.aspx?eventid=1033285&episodeid=13&eventtype=WF 
