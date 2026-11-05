@@ -3,6 +3,7 @@ name: logistics
 on:
   schedule: [{ cron: "41 2,14 * * *" }]
   workflow_dispatch:
+  repository_dispatch: { types: [logistics] }   # 珠峰 Worker 按时触发（GitHub 定时常延迟几小时）
 permissions: { contents: write }
 concurrency: { group: data-write, cancel-in-progress: false }
 jobs:

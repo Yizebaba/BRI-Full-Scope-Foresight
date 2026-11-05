@@ -3,6 +3,7 @@ name: chokepoints
 on:
   schedule: [{ cron: "17 1,13 * * *" }]
   workflow_dispatch:
+  repository_dispatch: { types: [chokepoints] }   # 珠峰 Worker 按时触发（GitHub 定时常延迟几小时）
 permissions: { contents: write }
 concurrency: { group: chokepoints, cancel-in-progress: false }
 jobs:
