@@ -13,4 +13,3 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-02 15:35 UTC：M4.7，193 km ENE of Nagqu, China。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuxi 
-- 2026-10-28 22:42 UTC：M4.6，80 km SE of Bole, China。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttuq 

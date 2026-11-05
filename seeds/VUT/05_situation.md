@@ -4,8 +4,3 @@
 
 - 美国国务院旅行建议：Vanuatu - Level 1: Exercise Normal Precautions（Thu, 22 May 2025）。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.vut.html 
 - World Monitor 汇总的旅行建议级别：normal
-
-## 地震（USGS，M4.5+，近 7 天）
-
-- 2026-10-29 00:57 UTC：M4.9，117 km E of Port-Olry, Vanuatu。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvn 
-- 2026-10-29 00:08 UTC：M5.4，109 km ENE of Luganville, Vanuatu。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvf 
