@@ -7,5 +7,5 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
-- 2026-11-01 00:00 UTC：Green 级 WF，Forest fires in Zambia, Zimbabwe。https://www.gdacs.org/report.aspx?eventid=1033530&episodeid=2&eventtype=WF 
-- 2026-11-01 00:00 UTC：Green 级 WF，Forest fires in Zimbabwe。https://www.gdacs.org/report.aspx?eventid=1033529&episodeid=2&eventtype=WF 
+- 2026-11-01 00:00 UTC：Green 级 WF，Forest fires in Zimbabwe。https://www.gdacs.org/report.aspx?eventid=1033529&episodeid=3&eventtype=WF 
+- 2026-11-01 00:00 UTC：Green 级 WF，Forest fires in Zambia, Zimbabwe。https://www.gdacs.org/report.aspx?eventid=1033530&episodeid=3&eventtype=WF 

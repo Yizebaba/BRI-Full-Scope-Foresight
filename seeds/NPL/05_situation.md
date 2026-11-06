@@ -9,7 +9,7 @@
 
 - 2026-09-04 00:00 UTC：US State Dept Nepal - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-06 11:59 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-06 19:16 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -26,9 +26,9 @@
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
 - 2026-11-05 05:57 UTC：Korala border point faces repeated disruptions from floods, snowfall - OnlineKhabar English News。https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeWYzM0JpNXp1YmVPaVhkMklOaHNhczNVQnZ3Sm03cXgtS3RZWXF4OWN4SUNDM05yeFRHRHdreUp2RmQxbkFrR2JRMVRmek4yejlveHdYM3ZyaGptWGVRZTlDSVMzZ3RLZGdweERldUVaYmhLeDZjd1dxdW1hSlh2Rk8zU2gzT2F3VTRkb0pkYlh4LWtFVUMtYjBjNGZZcU5LcThKbm1ELWo?oc=5
 - 2026-11-02 10:50 UTC：National Authority Studies Geography for Permanent Housing for BhoteKoshi Flood Victims - Ratopati。https://news.google.com/rss/articles/CBMizwFBVV95cUxPc2NGcVN4RXpBUkNyaGM2TnRLMTBQTkJ3MEhZZFpUZmpBZmkzaUN4ZEowYzhRNUhOWG1ucm9hSE0xR3UwaG52SnhvaElkWUZjQllZVzdpU0w4N0huRVJPaFA4UUR2UUpkUWZ5UWc4SDlwamRhZUpLRWdGT1hmeGFSMXd6Z1RMRThqSDBrRlVhVkVCdkJDNVJGRTV2RGM5bF9qeGIxeTRYNHNsVVlzdExWT05hQzd4dlpkSzY1TzU2ZTdTdWlUZG9ReWYxOUtRcE0?oc=5
-- 2026-10-30 11:44 UTC：Border Crossings Remain Closed Due to Natural Obstacles and Geopolitical Concerns - Ratopati。https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjRLczNNd1ZJbG9DOTNWMGdWZnUxZWRKWTJUQm9reFQzTXlmVDNvN09YMWltcWFpMEhVUDB2em9saE03bHNkQXdBcFVKczlRSHRWaEo1OUdvcEc1Q01DZThDR1NET3BiUkxUandKME80VndYeGhIbWJqbnZ2WXNUUU1DY3I2T1lBWXlpeGRZeVM5WUM3Y1dhNkZB?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-06 11:54 UTC：Preparations for Janakpurdham–Ayodhyadham railway service gather pace - OnlineKhabar English News
 - 2026-11-06 05:01 UTC：Indian Foreign Secretary Misri calls on PM Shah - The Himalayan Times
 - 2026-11-04 04:15 UTC：Damaged hydropower projects in Rasuwa and Nuwakot await government reconstruction plan - OnlineKhabar English News
 - 2026-11-04 02:16 UTC：Nepal imports 3,725 tons of Chinese fruit via Korala border crossing - FreshPlaza
@@ -40,14 +40,13 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-11-05 08:12 UTC：Flood victims at Kathmandu holding centres eager to return home (Photos) - Online Khabar。https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2lGZ21LSkd2Yjk2MnZZRXgtM092cmJ2ejNCQ19JVzh3SW42ekdFUzVQY29TZ1NENzZCT0lXVndYV0lxd3hWdWhlV2I1NUMzd2N2V0g0UVlRVTB2N0k5RG5hYW5zWmZ0MGxDMUFHNDFOZllhNzlpVzViaVhpbkxZSG1SYjhrU1kyMGFEcnVjcVdFMVc5LXFCdXUzS2ZDd1Y3ODVQalpqVE9WQmRw?oc=5
+- 2026-11-05 08:12 UTC：Flood victims at Kathmandu holding centres eager to return home (Photos) - OnlineKhabar English News。https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2lGZ21LSkd2Yjk2MnZZRXgtM092cmJ2ejNCQ19JVzh3SW42ekdFUzVQY29TZ1NENzZCT0lXVndYV0lxd3hWdWhlV2I1NUMzd2N2V0g0UVlRVTB2N0k5RG5hYW5zWmZ0MGxDMUFHNDFOZllhNzlpVzViaVhpbkxZSG1SYjhrU1kyMGFEcnVjcVdFMVc5LXFCdXUzS2ZDd1Y3ODVQalpqVE9WQmRw?oc=5
 - 2026-11-05 05:57 UTC：Korala border point faces repeated disruptions from floods, snowfall - OnlineKhabar English News。https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeWYzM0JpNXp1YmVPaVhkMklOaHNhczNVQnZ3Sm03cXgtS3RZWXF4OWN4SUNDM05yeFRHRHdreUp2RmQxbkFrR2JRMVRmek4yejlveHdYM3ZyaGptWGVRZTlDSVMzZ3RLZGdweERldUVaYmhLeDZjd1dxdW1hSlh2Rk8zU2gzT2F3VTRkb0pkYlh4LWtFVUMtYjBjNGZZcU5LcThKbm1ELWo?oc=5
 - 2026-11-05 05:15 UTC：Flood Victims Seek Return to Homeland Amidst Uncertain Future - Ratopati。https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUXRGamd2QUttZk5rZWdRNGNQcHlWZHdOX0FJSzVQMm05MmtudWpmY0lFQVRlR0czVUotbThzWGg3VmthVG45c1RqdHk4eFlWeUx5MGxzLWtWTlhkanNrREZpbFk5aGdWdFlnZU1wQ09jaGEwZTVFV1JZbWNWRmRBYmJOcVZDME5vYlgtT1lXY01Rd1FCa3lyQkExenNMQ2NxRUx5cDZaU1ptYWJBZDdNLVgzcGxfa2VONUpERXFFS2xKYnltYWFtTmxxOXVjMFJKTEJtbTA5QUR1UHBqNXJv?oc=5
-- 2026-10-30 11:44 UTC：Border Crossings Remain Closed Due to Natural Obstacles and Geopolitical Concerns - Ratopati。https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjRLczNNd1ZJbG9DOTNWMGdWZnUxZWRKWTJUQm9reFQzTXlmVDNvN09YMWltcWFpMEhVUDB2em9saE03bHNkQXdBcFVKczlRSHRWaEo1OUdvcEc1Q01DZThDR1NET3BiUkxUandKME80VndYeGhIbWJqbnZ2WXNUUU1DY3I2T1lBWXlpeGRZeVM5WUM3Y1dhNkZB?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-06 11:54 UTC：Preparations for Janakpurdham–Ayodhyadham railway service gather pace - Online Khabar
-- 2026-11-06 08:28 UTC：16 shortlisted for Nepal Tourism Board CEO - Online Khabar
+- 2026-11-06 11:54 UTC：Preparations for Janakpurdham–Ayodhyadham railway service gather pace - OnlineKhabar English News
+- 2026-11-06 08:28 UTC：16 shortlisted for Nepal Tourism Board CEO - OnlineKhabar English News
 - 2026-11-06 05:01 UTC：Indian Foreign Secretary Misri calls on PM Shah - The Himalayan Times
 - 2026-11-04 02:16 UTC：Nepal imports 3,725 tons of Chinese fruit via Korala border crossing - FreshPlaza
 - 2026-10-31 05:08 UTC：Everest Bank's Financial Leap: Strong Loan Management Boosts Profit Despite Decline in Interest Income - NEPSE Trading

@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-06 11:59 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-06 19:16 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -79,6 +79,7 @@
 - 2026-11-02 16:12 UTC：Multiple attacks target Pakistani forces in Balochistan - IANS LIVE。https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXcybGRSUzFPSjRFZWZ0TEN5TTN2WlZzbUVTSm1XclBOU0hXX0Qxb3VETmVuaVZibEthYld2M1BCQWw2b2p5Q0pKZmxia2hqR1lILVpsSDRjSDN0WkZpMVRmWlR6LVhMc2JkLUhQSkhvQXpndERIbjdNM0lZNHdWT1RHSUUwOUJkeW1PVWI5djZOcGFlVWc?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-06 15:33 UTC：Rare 45-Foot Sperm Whale Spotted Off Karachi Coast for First Time - Bloom Pakistan
 - 2026-11-05 20:44 UTC：Gwadar Medical Board Approves Disability Certificates for 22 Applicants - Daily Independent
 - 2026-11-05 14:05 UTC：Tsunami Awareness Session Held At Gwadar School To Promote Emergency Preparedness - UrduPoint
 - 2026-11-05 08:43 UTC：Blue Whale’s Carcass Washes Up on Gwadar Shore - Balochistan Pulse
@@ -86,7 +87,6 @@
 - 2026-11-05 05:48 UTC：Emergency landing facility provided at Gwadar airport - 24NewsHD
 - 2026-11-04 20:50 UTC：Year Land Settlement Dispute in Pasni Near Resolution, Says Hidayat-ur-Rehman - Daily Independent
 - 2026-11-04 16:28 UTC：Blue whale carcass washes ashore in Gwadar - samaa tv
-- 2026-11-04 12:04 UTC：Gwadar Port Strengthens Its Role as a CPEC Trade Hub - The Daily CPEC
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

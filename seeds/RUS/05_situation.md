@@ -16,7 +16,3 @@
 - 2026-10-20 15:13 UTC：Jon Stewart: Trump waiving Russia sanctions 'insane' and 'incoherent'（The Hill）。https://thehill.com/blogs/in-the-know/6160240-jon-stewart-trump-russia-sanctions-diesel-deal-daily-show/ 
 - 2026-10-20 15:04 UTC：Trump "should apply his creativity" to end Russia's war, Ukrainian parliament member says（CBS News）。https://www.cbsnews.com/video/trump-should-apply-his-creativity-to-end-russias-war-ukrainian-parliament-member-says/ 
 - 2026-10-20 12:52 UTC：Europe is preparing for direct talks with Putin, FT reports. One possible proposal: Russia gets Donbas, Ukraine gets NATO membership.（Meduza）。https://meduza.io/en/feature/2026/10/20/europe-is-preparing-for-direct-talks-with-putin-ft-reports-one-possible-proposal-russia-gets-donbas-ukraine-gets-nato-membership 
-
-## 地震（USGS，M4.5+，近 7 天）
-
-- 2026-10-30 18:01 UTC：M4.5，236 km ESE of Zyryanka, Russia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tudk 
