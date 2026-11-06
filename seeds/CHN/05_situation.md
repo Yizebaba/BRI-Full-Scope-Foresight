@@ -16,7 +16,3 @@
 - 2026-11-02 20:54 UTC：M4.5，186 km ENE of Nagqu, China。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuzz 
 - 2026-11-02 18:33 UTC：M4.5，212 km ENE of Nagqu, China。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuyi 
 - 2026-11-02 15:35 UTC：M4.7，193 km ENE of Nagqu, China。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuxi 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-11-05 16:56 UTC：Green 级 EQ，Earthquake in China。https://www.gdacs.org/report.aspx?eventid=1575785&episodeid=1744857&eventtype=EQ 
