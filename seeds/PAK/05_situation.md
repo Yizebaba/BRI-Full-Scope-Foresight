@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-05 23:33 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-06 03:37 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -68,6 +68,7 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-11-06 02:38 UTC：dead-blue-whale-washes-ashore-gwadar-2026.jpg - Balochistan Pulse。https://news.google.com/rss/articles/CBMisgFBVV95cUxOUVpWLUxLQTVVajR4Z3RScWhSRHhoZXE3eWZ3Q1pDVW9DRWdaeGlfZlplYndTLVdRU0xlZFZPV3FTT3FkOHFiOHN0eVlBdlQxcF9QU3U4cUszMTVrejlDN2FQUWU3VTRkODUwaEh4Rl8yNlZxclk3QmZvMnNoT0l3Ukl2TW14dGhYQ3FfcF9LRFhZWEF2NVhoNk4wY2RURUtFU3QyMVhkbm5Bcm0xalpSSHFB?oc=5
 - 2026-11-05 18:52 UTC：Dead 30-foot blue whale washes ashore near Gwadar - Bol News。https://news.google.com/rss/articles/CBMiigFBVV95cUxQWGxSYTJic3VzdUZHZ29BZ1RHRERiMHFFNDNEWE5Nak5WZVRuQmhrRVVrUkRyLVo0VkxpazlfdnJVT01pXy1HUDZlcEZBY0JEUXU0STJXUFhtY0stNkYwc05icnpJZm9QUTFGRERObzNfajU1YlpWVG0yT1lXT3hJX29sblVkcEtjWEE?oc=5
 - 2026-11-05 12:08 UTC：30-Foot Blue Whale Found Dead on Gwadar Beach - Bloom Pakistan。https://news.google.com/rss/articles/CBMibkFVX3lxTFBqT3hLdXNIUWJaU1BPZDJxQkpvV016T1JZTFItQk5qVlJneWtoSmFHNncyc2pwRG5abVlKMHQtQnZIbXhqT1ZvcEplUVpFV0d0TjVIVnl3c0JyeGhiMUVPVEZKX0ZLRUVNVjVwUlFR?oc=5
 - 2026-11-05 08:12 UTC：World’s Largest Animal Found Dead on Gwadar Beach - ProPakistani。https://news.google.com/rss/articles/CBMijAFBVV95cUxNWm02ckJTeDNwU09xQzFjVkZkdW5Jc0NIR2lZOXZTV2N0RGpUN256QWdvd0xEZW91MjRSbWV6eTlXY3B6RVM2TmlIeDU3cXlRaHhQbmdwWjJpMWQ0cVVaekdlVENGZzdHZXFsaXlBdVpfY29fX2tpck5RMmtTQjRHWVlVYUZyQXFaSmV5atIB7gJBVV95cUxNUTdMMFlYaWo3TElQMGFnMEJKMDNfdmZOajFVZWQwbXlxUlczX1dCMUE2Yjd5cEtrN3phU1JkVGdfRjhxeDJOZG1kQ3M5alRLWGZaVkRaWGp4clZ0eVhXZG53bkFGeGN1SzRvT2tCTWNsdXE3MkUxdWkxbURpYUs3eWlLZmR1ZEJpc1luSW0tQlBmZF9hWDlCbFNTUnRIbi1LRjRwTXRaRF9vQUhBRjZyU29oci1ocDJkcjFwU244RnpJb0RORzBfN1VDWE45ZXQ0VnJPNWJSNU56V0tBcFZRM3FvMXFQbFF2V0RzRWo5R0xSOVdhYTFsT2JkVnBwY09xSzBiVVpxZHlPNkhFZnR2MkFPX1F0bHFmb2c0UDVSdU4tcE81S1FZQVVWOUFwTlp5WjRGaWNKZ0x6TVJOU195bnQ4eU5JMlZBeFFHM0QtTnZyMzFmcHpURGhHMExkU2lHWWtaTmltdEhKT3k3X2c?oc=5
