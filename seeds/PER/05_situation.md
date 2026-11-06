@@ -8,3 +8,7 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-10-30 22:46 UTC：M4.6，33 km NE of Mazo Cruz, Peru。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tufp 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-10-26 01:00 UTC：Green 级 FL，Flood in Peru。https://www.gdacs.org/report.aspx?eventid=1104259&episodeid=5&eventtype=FL 

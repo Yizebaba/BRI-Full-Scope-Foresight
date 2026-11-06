@@ -13,7 +13,3 @@
 
 - 2026-11-04 07:40 UTC：M5，207 km ESE of Sarangani, Philippines。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvwj 
 - 2026-11-02 08:13 UTC：M5.1，19 km WNW of Tomohon, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-10-29 00:00 UTC：Green 级 WF，Forest fires in Indonesia。https://www.gdacs.org/report.aspx?eventid=1033458&episodeid=4&eventtype=WF 

@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-06 03:37 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-06 11:59 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -76,17 +76,17 @@
 - 2026-11-05 06:42 UTC：Lahore man killed in Gwadar days after sending slain friend’s body to Faisalabad - The Current。https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGVTd1VpWFUtc1hrV1RqZ3RUdUh3bUMxQm9sU1RuQnE5cjdLWXM1MFVFMjF0TGJCVDBsQk5zUEFZeDJDbHF3eERwT1JFWnZsV3R2OTZYTHJKWkVTN0ZfZVA4ek5EckxPblQ1bzVqSVAtS01FWmZwS21hX1Y4VDR4QWtyekV1RjlHU1JINk9Xb2gzdGlaZVlUc2lDa2d5eklMeUlIWQ?oc=5
 - 2026-11-05 03:20 UTC：Blue whale washes ashore dead in Gwadar - The Express Tribune。https://news.google.com/rss/articles/CBMiggFBVV95cUxOX1NaUW1rWDVDWDRCMXgxd0x3cDctblY0bzNRSVpLeEkwQVo4YlprWkNKVzYwdVd4cHRxU0VlTG5xX1M1SXEybEE2SWNrT2huQXRuWDBkdGpVVDh1MU9ZdEJfMDlFajQ4czl4V3M3QTZMd01uTFNablRzX3doN1htTVln0gGKAUFVX3lxTE1rRzRjZ2Y1dWZES2x2R1hRSHI3OGtkcG8zNWV3SzQ2OVYwTDk3RHFtaGZLMmlHYVBPZHdtUjJic1hkYjVVbllEWlVQYjZ3ZHBkeDhrclloNVMtQnhBLXZOMTV5U0pCbzJDTjJMVDJMNmJ4bE9oUnFTUU01S0Z2WWNqZ1dhbUpsdVdFQQ?oc=5
 - 2026-11-03 05:36 UTC：10 terrorists, including one female, killed in Gwadar: ISPR - GNN | Latest News。https://news.google.com/rss/articles/CBMijAFBVV95cUxOaElMd1B1a1dhNVhFZm5xMTA3Nms5b1NMWVRycVpscHFySWM0d19wREVEelZMLWtTR2dOVmtOeTV6TEl4SFlIS3BueEJyajAtWUtnNUwxVG1ReTVNOTZRN3F0YVlkMlc1dXhjdDVDZF92X3hRcU1wdUoxMThvbkU5cUpGR0M1WWtNeEktYw?oc=5
-- 2026-10-30 07:00 UTC：Security Forces Foil Terror Attacks in Gwadar, Kill Three Militants - Pakistan Observer。https://news.google.com/rss/articles/CBMilgFBVV95cUxNWDhzWUlicUFJTG9EenctTGVkUE84bkRBeE9udDRzcGFqQnZZV2Fwd09Yc2t1anlPQy1CQU5GeFlsQzRnTHNsZTRORkJEXzBaVlY2eHZWU3E3ckpoVzQ2am1tVHVvazBHamVxak1lR19lWVk5OGJTNHFKS21xYjVWTGp1RzB1Q3lBSGY3Z0NVTVJkdjVxWHc?oc=5
+- 2026-11-02 16:12 UTC：Multiple attacks target Pakistani forces in Balochistan - IANS LIVE。https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXcybGRSUzFPSjRFZWZ0TEN5TTN2WlZzbUVTSm1XclBOU0hXX0Qxb3VETmVuaVZibEthYld2M1BCQWw2b2p5Q0pKZmxia2hqR1lILVpsSDRjSDN0WkZpMVRmWlR6LVhMc2JkLUhQSkhvQXpndERIbjdNM0lZNHdWT1RHSUUwOUJkeW1PVWI5djZOcGFlVWc?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-05 20:44 UTC：Gwadar Medical Board Approves Disability Certificates for 22 Applicants - Daily Independent
 - 2026-11-05 14:05 UTC：Tsunami Awareness Session Held At Gwadar School To Promote Emergency Preparedness - UrduPoint
 - 2026-11-05 08:43 UTC：Blue Whale’s Carcass Washes Up on Gwadar Shore - Balochistan Pulse
+- 2026-11-05 08:25 UTC：Gillani Calls CPEC a Model of Global South Cooperation - The Daily CPEC
 - 2026-11-05 05:48 UTC：Emergency landing facility provided at Gwadar airport - 24NewsHD
 - 2026-11-04 20:50 UTC：Year Land Settlement Dispute in Pasni Near Resolution, Says Hidayat-ur-Rehman - Daily Independent
 - 2026-11-04 16:28 UTC：Blue whale carcass washes ashore in Gwadar - samaa tv
 - 2026-11-04 12:04 UTC：Gwadar Port Strengthens Its Role as a CPEC Trade Hub - The Daily CPEC
-- 2026-11-03 21:01 UTC：University of Gwadar, FAST-NUCES Plan Collaboration in AI, IT and Emerging Technologies - Daily Independent
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

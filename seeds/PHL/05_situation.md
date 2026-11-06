@@ -8,3 +8,7 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-10-30 17:06 UTC：M4.6，7 km NE of Tago, Philippines。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tub8 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-11-06 06:28 UTC：Green 级 EQ，Earthquake in Philippines。https://www.gdacs.org/report.aspx?eventid=1575896&episodeid=1744989&eventtype=EQ 
