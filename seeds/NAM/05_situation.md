@@ -5,6 +5,11 @@
 - 美国国务院旅行建议：Namibia - Level 2: Exercise Increased Caution（Fri, 15 May 2026）。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.nam.html 
 - World Monitor 汇总的旅行建议级别：caution
 
+## 地震（USGS，M4.5+，近 7 天）
+
+- 2026-11-07 15:22 UTC：M4.9，77 km NNW of Khorixas, Namibia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000twss 
+
 ## 灾害警报（GDACS，近 14 天）
 
+- 2026-11-07 15:22 UTC：Green 级 EQ，Earthquake in Namibia。https://www.gdacs.org/report.aspx?eventid=1576113&episodeid=1745218&eventtype=EQ 
 - 2026-10-26 00:00 UTC：Green 级 WF，Forest fires in Botswana, Namibia。https://www.gdacs.org/report.aspx?eventid=1033408&episodeid=13&eventtype=WF 

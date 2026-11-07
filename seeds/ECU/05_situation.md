@@ -4,3 +4,7 @@
 
 - 美国国务院旅行建议：Ecuador - Level 2: Exercise Increased Caution（Tue, 18 Aug 2026）。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ecu.html 
 - World Monitor 汇总的旅行建议级别：caution
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-11-07 17:17 UTC：Green 级 EQ，Earthquake in Ecuador。https://www.gdacs.org/report.aspx?eventid=1576128&episodeid=1745236&eventtype=EQ 
