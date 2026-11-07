@@ -12,4 +12,3 @@
 ## 灾害警报（GDACS，近 14 天）
 
 - 2026-10-29 00:00 UTC：Green 级 WF，Forest fires in Ethiopia, Sudan。https://www.gdacs.org/report.aspx?eventid=1033556&episodeid=1&eventtype=WF 
-- 2026-10-27 00:00 UTC：Green 级 WF，Forest fires in Ethiopia, Sudan。https://www.gdacs.org/report.aspx?eventid=1033471&episodeid=5&eventtype=WF 

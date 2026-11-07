@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-06 23:48 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-07 05:47 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -67,15 +67,14 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-11-06 08:01 UTC：Dead 30-foot blue whale washes ashore near Gwadar - Bol News。https://news.google.com/rss/articles/CBMiigFBVV95cUxQWGxSYTJic3VzdUZHZ29BZ1RHRERiMHFFNDNEWE5Nak5WZVRuQmhrRVVrUkRyLVo0VkxpazlfdnJVT01pXy1HUDZlcEZBY0JEUXU0STJXUFhtY0stNkYwc05icnpJZm9QUTFGRERObzNfajU1YlpWVG0yT1lXT3hJX29sblVkcEtjWEE?oc=5
 - 2026-11-06 02:38 UTC：dead-blue-whale-washes-ashore-gwadar-2026.jpg - Balochistan Pulse。https://news.google.com/rss/articles/CBMisgFBVV95cUxOUVpWLUxLQTVVajR4Z3RScWhSRHhoZXE3eWZ3Q1pDVW9DRWdaeGlfZlplYndTLVdRU0xlZFZPV3FTT3FkOHFiOHN0eVlBdlQxcF9QU3U4cUszMTVrejlDN2FQUWU3VTRkODUwaEh4Rl8yNlZxclk3QmZvMnNoT0l3Ukl2TW14dGhYQ3FfcF9LRFhZWEF2NVhoNk4wY2RURUtFU3QyMVhkbm5Bcm0xalpSSHFB?oc=5
-- 2026-11-05 18:52 UTC：Dead 30-foot blue whale washes ashore near Gwadar - Bol News。https://news.google.com/rss/articles/CBMiigFBVV95cUxQWGxSYTJic3VzdUZHZ29BZ1RHRERiMHFFNDNEWE5Nak5WZVRuQmhrRVVrUkRyLVo0VkxpazlfdnJVT01pXy1HUDZlcEZBY0JEUXU0STJXUFhtY0stNkYwc05icnpJZm9QUTFGRERObzNfajU1YlpWVG0yT1lXT3hJX29sblVkcEtjWEE?oc=5
 - 2026-11-05 12:08 UTC：30-Foot Blue Whale Found Dead on Gwadar Beach - Bloom Pakistan。https://news.google.com/rss/articles/CBMibkFVX3lxTFBqT3hLdXNIUWJaU1BPZDJxQkpvV016T1JZTFItQk5qVlJneWtoSmFHNncyc2pwRG5abVlKMHQtQnZIbXhqT1ZvcEplUVpFV0d0TjVIVnl3c0JyeGhiMUVPVEZKX0ZLRUVNVjVwUlFR?oc=5
 - 2026-11-05 08:12 UTC：World’s Largest Animal Found Dead on Gwadar Beach - ProPakistani。https://news.google.com/rss/articles/CBMijAFBVV95cUxNWm02ckJTeDNwU09xQzFjVkZkdW5Jc0NIR2lZOXZTV2N0RGpUN256QWdvd0xEZW91MjRSbWV6eTlXY3B6RVM2TmlIeDU3cXlRaHhQbmdwWjJpMWQ0cVVaekdlVENGZzdHZXFsaXlBdVpfY29fX2tpck5RMmtTQjRHWVlVYUZyQXFaSmV5atIB7gJBVV95cUxNUTdMMFlYaWo3TElQMGFnMEJKMDNfdmZOajFVZWQwbXlxUlczX1dCMUE2Yjd5cEtrN3phU1JkVGdfRjhxeDJOZG1kQ3M5alRLWGZaVkRaWGp4clZ0eVhXZG53bkFGeGN1SzRvT2tCTWNsdXE3MkUxdWkxbURpYUs3eWlLZmR1ZEJpc1luSW0tQlBmZF9hWDlCbFNTUnRIbi1LRjRwTXRaRF9vQUhBRjZyU29oci1ocDJkcjFwU244RnpJb0RORzBfN1VDWE45ZXQ0VnJPNWJSNU56V0tBcFZRM3FvMXFQbFF2V0RzRWo5R0xSOVdhYTFsT2JkVnBwY09xSzBiVVpxZHlPNkhFZnR2MkFPX1F0bHFmb2c0UDVSdU4tcE81S1FZQVVWOUFwTlp5WjRGaWNKZ0x6TVJOU195bnQ4eU5JMlZBeFFHM0QtTnZyMzFmcHpURGhHMExkU2lHWWtaTmltdEhKT3k3X2c?oc=5
 - 2026-11-05 07:58 UTC：Blue whale found dead near Gwadar East Bay after two days at sea - The Current。https://news.google.com/rss/articles/CBMikAFBVV95cUxNOEFuOVZ0eFNSNTNESzZWaWRZZHJ4SF9GNGxmZXJrcEpMN25ROEowa1dHNkdkVk9pNWlfVWd1UUNNV0JZejBqNm1KN05OZXZTQVgtZlZ2QkZTSUFBVFVLWHFtUWp6azdSVkRSOWM0UC1MVmQ3d3gyU2NMcVdvVjVLNVcyRF9hbTJFVlNtTzliU18?oc=5
 - 2026-11-05 06:42 UTC：Lahore man killed in Gwadar days after sending slain friend’s body to Faisalabad - The Current。https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGVTd1VpWFUtc1hrV1RqZ3RUdUh3bUMxQm9sU1RuQnE5cjdLWXM1MFVFMjF0TGJCVDBsQk5zUEFZeDJDbHF3eERwT1JFWnZsV3R2OTZYTHJKWkVTN0ZfZVA4ek5EckxPblQ1bzVqSVAtS01FWmZwS21hX1Y4VDR4QWtyekV1RjlHU1JINk9Xb2gzdGlaZVlUc2lDa2d5eklMeUlIWQ?oc=5
 - 2026-11-05 03:20 UTC：Blue whale washes ashore dead in Gwadar - The Express Tribune。https://news.google.com/rss/articles/CBMiggFBVV95cUxOX1NaUW1rWDVDWDRCMXgxd0x3cDctblY0bzNRSVpLeEkwQVo4YlprWkNKVzYwdVd4cHRxU0VlTG5xX1M1SXEybEE2SWNrT2huQXRuWDBkdGpVVDh1MU9ZdEJfMDlFajQ4czl4V3M3QTZMd01uTFNablRzX3doN1htTVln0gGKAUFVX3lxTE1rRzRjZ2Y1dWZES2x2R1hRSHI3OGtkcG8zNWV3SzQ2OVYwTDk3RHFtaGZLMmlHYVBPZHdtUjJic1hkYjVVbllEWlVQYjZ3ZHBkeDhrclloNVMtQnhBLXZOMTV5U0pCbzJDTjJMVDJMNmJ4bE9oUnFTUU01S0Z2WWNqZ1dhbUpsdVdFQQ?oc=5
 - 2026-11-03 05:36 UTC：10 terrorists, including one female, killed in Gwadar: ISPR - GNN | Latest News。https://news.google.com/rss/articles/CBMijAFBVV95cUxOaElMd1B1a1dhNVhFZm5xMTA3Nms5b1NMWVRycVpscHFySWM0d19wREVEelZMLWtTR2dOVmtOeTV6TEl4SFlIS3BueEJyajAtWUtnNUwxVG1ReTVNOTZRN3F0YVlkMlc1dXhjdDVDZF92X3hRcU1wdUoxMThvbkU5cUpGR0M1WWtNeEktYw?oc=5
-- 2026-11-02 16:12 UTC：Multiple attacks target Pakistani forces in Balochistan - IANS LIVE。https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXcybGRSUzFPSjRFZWZ0TEN5TTN2WlZzbUVTSm1XclBOU0hXX0Qxb3VETmVuaVZibEthYld2M1BCQWw2b2p5Q0pKZmxia2hqR1lILVpsSDRjSDN0WkZpMVRmWlR6LVhMc2JkLUhQSkhvQXpndERIbjdNM0lZNHdWT1RHSUUwOUJkeW1PVWI5djZOcGFlVWc?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-06 19:33 UTC：Rare 45-Foot Sperm Whale Spotted Off Karachi Coast for First Time - Bloom Pakistan
@@ -84,8 +83,8 @@
 - 2026-11-05 08:43 UTC：Blue Whale’s Carcass Washes Up on Gwadar Shore - Balochistan Pulse
 - 2026-11-05 08:25 UTC：Gillani Calls CPEC a Model of Global South Cooperation - The Daily CPEC
 - 2026-11-05 05:48 UTC：Emergency landing facility provided at Gwadar airport - 24 News HD
-- 2026-11-04 20:50 UTC：Year Land Settlement Dispute in Pasni Near Resolution, Says Hidayat-ur-Rehman - Daily Independent
-- 2026-11-04 16:28 UTC：Blue whale carcass washes ashore in Gwadar - samaa tv
+- 2026-11-04 12:04 UTC：Gwadar Port Strengthens Its Role as a CPEC Trade Hub - The Daily CPEC
+- 2026-11-04 08:00 UTC：SCO Forum on Sustainable Development held in Belarus - Gwadar Pro
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 
