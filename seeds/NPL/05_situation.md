@@ -9,7 +9,7 @@
 
 - 2026-09-04 00:00 UTC：US State Dept Nepal - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-07 17:59 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-07 21:43 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -66,9 +66,6 @@
 ## 吉隆—加德满都跨境铁路（规划）
 
 周边自然事件：扫描期间没有记录。
-
-近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-06 00:00 UTC：Gold, silver prices decline - Howl.Link
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 
