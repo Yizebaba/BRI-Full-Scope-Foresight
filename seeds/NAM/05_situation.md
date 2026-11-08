@@ -8,7 +8,3 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-07 15:22 UTC：M4.9，77 km NNW of Khorixas, Namibia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000twss 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-11-07 15:22 UTC：Green 级 EQ，Earthquake in Namibia。https://www.gdacs.org/report.aspx?eventid=1576113&episodeid=1745218&eventtype=EQ 

@@ -11,12 +11,14 @@
 
 ## 地震（USGS，M4.5+，近 7 天）
 
+- 2026-11-08 16:45 UTC：M4.6，117 km NE of Tobelo, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000twyd 
 - 2026-11-06 19:07 UTC：M4.8，36 km WNW of Poso, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000twmr 
 - 2026-11-04 07:40 UTC：M5，207 km ESE of Sarangani, Philippines。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvwj 
 - 2026-11-02 08:13 UTC：M5.1，19 km WNW of Tomohon, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy 
 
 ## 灾害警报（GDACS，近 14 天）
 
+- 2026-11-08 16:45 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1576282&episodeid=1745413&eventtype=EQ 
 - 2026-11-07 20:55 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1576151&episodeid=1745262&eventtype=EQ 
 - 2026-11-06 00:00 UTC：Green 级 WF，Forest fires in Indonesia。https://www.gdacs.org/report.aspx?eventid=1033624&episodeid=1&eventtype=WF 
 - 2026-10-29 00:00 UTC：Green 级 WF，Forest fires in Indonesia。https://www.gdacs.org/report.aspx?eventid=1033458&episodeid=8&eventtype=WF 
