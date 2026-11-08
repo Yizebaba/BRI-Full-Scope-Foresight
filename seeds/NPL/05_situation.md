@@ -9,7 +9,7 @@
 
 - 2026-09-04 00:00 UTC：US State Dept Nepal - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-08 07:54 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-08 15:00 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -24,7 +24,7 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-11-05 08:51 UTC：'We cannot stay here forever': Timure flood survivors in Kathmandu prepare to return home - Setopati。https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kQXJFLU9zZXVqNlZJaF9NUzBaMVJUSEtzMVNpdXphd3ZLSmQ5Z2FzcklKcXJNbjB3d0swcDRkNndBclZUNDhWSDZYMHBIQQ?oc=5
+- 2026-11-05 08:12 UTC：Flood victims at Kathmandu holding centres eager to return home (Photos) - OnlineKhabar English News。https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2lGZ21LSkd2Yjk2MnZZRXgtM092cmJ2ejNCQ19JVzh3SW42ekdFUzVQY29TZ1NENzZCT0lXVndYV0lxd3hWdWhlV2I1NUMzd2N2V0g0UVlRVTB2N0k5RG5hYW5zWmZ0MGxDMUFHNDFOZllhNzlpVzViaVhpbkxZSG1SYjhrU1kyMGFEcnVjcVdFMVc5LXFCdXUzS2ZDd1Y3ODVQalpqVE9WQmRw?oc=5
 - 2026-11-05 05:57 UTC：Korala border point faces repeated disruptions from floods, snowfall - OnlineKhabar English News。https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeWYzM0JpNXp1YmVPaVhkMklOaHNhczNVQnZ3Sm03cXgtS3RZWXF4OWN4SUNDM05yeFRHRHdreUp2RmQxbkFrR2JRMVRmek4yejlveHdYM3ZyaGptWGVRZTlDSVMzZ3RLZGdweERldUVaYmhLeDZjd1dxdW1hSlh2Rk8zU2gzT2F3VTRkb0pkYlh4LWtFVUMtYjBjNGZZcU5LcThKbm1ELWo?oc=5
 - 2026-11-02 10:50 UTC：National Authority Studies Geography for Permanent Housing for BhoteKoshi Flood Victims - Ratopati。https://news.google.com/rss/articles/CBMizwFBVV95cUxPc2NGcVN4RXpBUkNyaGM2TnRLMTBQTkJ3MEhZZFpUZmpBZmkzaUN4ZEowYzhRNUhOWG1ucm9hSE0xR3UwaG52SnhvaElkWUZjQllZVzdpU0w4N0huRVJPaFA4UUR2UUpkUWZ5UWc4SDlwamRhZUpLRWdGT1hmeGFSMXd6Z1RMRThqSDBrRlVhVkVCdkJDNVJGRTV2RGM5bF9qeGIxeTRYNHNsVVlzdExWT05hQzd4dlpkSzY1TzU2ZTdTdWlUZG9ReWYxOUtRcE0?oc=5
 
@@ -41,16 +41,17 @@
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
 - 2026-11-07 10:45 UTC：Flood Victims Leave Mustang Gumba Shelter - Ratopati。https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTVjdVdXOTlzVXN0TEljWEVsaXhhMloxcEVadFQ3NW9XOEN1Mnh2TWlmanJiV3dUckk5RU5rN2JWR0pESW1EWk1hbnMwcGJrRHhPWG9EX2lpU2lOcEUtSjFXSE4wWUgxMWl6SnMzMERrdWdKUVh4Nk5EbHR0eUZPNEJveXh3ZUlmckpfQlBLaTdESVZZU0VXU25wVTdzTWkwbXdsMDdNQ1lBNzdQeDV4UUNXZXNSVi1CbGxmSnBTR3BOMkk?oc=5
-- 2026-11-05 08:51 UTC：'We cannot stay here forever': Timure flood survivors in Kathmandu prepare to return home - Setopati。https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kQXJFLU9zZXVqNlZJaF9NUzBaMVJUSEtzMVNpdXphd3ZLSmQ5Z2FzcklKcXJNbjB3d0swcDRkNndBclZUNDhWSDZYMHBIQQ?oc=5
 - 2026-11-05 08:12 UTC：Flood victims at Kathmandu holding centres eager to return home (Photos) - OnlineKhabar English News。https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2lGZ21LSkd2Yjk2MnZZRXgtM092cmJ2ejNCQ19JVzh3SW42ekdFUzVQY29TZ1NENzZCT0lXVndYV0lxd3hWdWhlV2I1NUMzd2N2V0g0UVlRVTB2N0k5RG5hYW5zWmZ0MGxDMUFHNDFOZllhNzlpVzViaVhpbkxZSG1SYjhrU1kyMGFEcnVjcVdFMVc5LXFCdXUzS2ZDd1Y3ODVQalpqVE9WQmRw?oc=5
 - 2026-11-05 05:57 UTC：Korala border point faces repeated disruptions from floods, snowfall - OnlineKhabar English News。https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeWYzM0JpNXp1YmVPaVhkMklOaHNhczNVQnZ3Sm03cXgtS3RZWXF4OWN4SUNDM05yeFRHRHdreUp2RmQxbkFrR2JRMVRmek4yejlveHdYM3ZyaGptWGVRZTlDSVMzZ3RLZGdweERldUVaYmhLeDZjd1dxdW1hSlh2Rk8zU2gzT2F3VTRkb0pkYlh4LWtFVUMtYjBjNGZZcU5LcThKbm1ELWo?oc=5
 - 2026-11-05 05:15 UTC：Flood Victims Seek Return to Homeland Amidst Uncertain Future - Ratopati。https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUXRGamd2QUttZk5rZWdRNGNQcHlWZHdOX0FJSzVQMm05MmtudWpmY0lFQVRlR0czVUotbThzWGg3VmthVG45c1RqdHk4eFlWeUx5MGxzLWtWTlhkanNrREZpbFk5aGdWdFlnZU1wQ09jaGEwZTVFV1JZbWNWRmRBYmJOcVZDME5vYlgtT1lXY01Rd1FCa3lyQkExenNMQ2NxRUx5cDZaU1ptYWJBZDdNLVgzcGxfa2VONUpERXFFS2xKYnltYWFtTmxxOXVjMFJKTEJtbTA5QUR1UHBqNXJv?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-08 05:28 UTC：Best Dog Awarded for Search and Rescue Efforts - Ratopati
+- 2026-11-08 07:03 UTC：Leo Declared Best Dog for Search and Rescue Efforts - Ratopati
 - 2026-11-08 05:23 UTC：'Lee' Declared Best Dog of the Year - Ratopati
 - 2026-11-06 11:54 UTC：Preparations for Janakpurdham–Ayodhyadham railway service gather pace - OnlineKhabar English News
 - 2026-11-06 08:28 UTC：16 shortlisted for Nepal Tourism Board CEO - OnlineKhabar English News
+- 2026-11-06 05:01 UTC：Indian Foreign Secretary Misri calls on PM Shah - The Himalayan Times
+- 2026-11-03 18:16 UTC：Nepal imports 3,725 tons of Chinese fruit via Korala border crossing - FreshPlaza
 
 ## 上特里苏利 3A 水电站（60 MW）
 
