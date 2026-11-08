@@ -8,7 +8,6 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-07 10:53 UTC：M4.5，57 km SW of Ollagüe, Chile。https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrp 
-- 2026-11-01 01:24 UTC：M4.5，55 km SSW of Ollagüe, Chile。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuly 
 
 ## 灾害警报（GDACS，近 14 天）
 

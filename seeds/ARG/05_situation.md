@@ -8,4 +8,3 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-01 23:18 UTC：M4.5，86 km WNW of Abra Pampa, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tus5 
-- 2026-11-01 05:31 UTC：M4.8，71 km NNW of San Antonio de los Cobres, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tumy 

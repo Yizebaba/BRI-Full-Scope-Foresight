@@ -9,7 +9,7 @@
 
 - 2026-09-04 00:00 UTC：US State Dept Nepal - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-07 21:43 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-08 07:54 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -47,17 +47,14 @@
 - 2026-11-05 05:15 UTC：Flood Victims Seek Return to Homeland Amidst Uncertain Future - Ratopati。https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUXRGamd2QUttZk5rZWdRNGNQcHlWZHdOX0FJSzVQMm05MmtudWpmY0lFQVRlR0czVUotbThzWGg3VmthVG45c1RqdHk4eFlWeUx5MGxzLWtWTlhkanNrREZpbFk5aGdWdFlnZU1wQ09jaGEwZTVFV1JZbWNWRmRBYmJOcVZDME5vYlgtT1lXY01Rd1FCa3lyQkExenNMQ2NxRUx5cDZaU1ptYWJBZDdNLVgzcGxfa2VONUpERXFFS2xKYnltYWFtTmxxOXVjMFJKTEJtbTA5QUR1UHBqNXJv?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-08 05:28 UTC：Best Dog Awarded for Search and Rescue Efforts - Ratopati
+- 2026-11-08 05:23 UTC：'Lee' Declared Best Dog of the Year - Ratopati
 - 2026-11-06 11:54 UTC：Preparations for Janakpurdham–Ayodhyadham railway service gather pace - OnlineKhabar English News
 - 2026-11-06 08:28 UTC：16 shortlisted for Nepal Tourism Board CEO - OnlineKhabar English News
-- 2026-11-06 05:01 UTC：Indian Foreign Secretary Misri calls on PM Shah - The Himalayan Times
-- 2026-11-04 02:16 UTC：Nepal imports 3,725 tons of Chinese fruit via Korala border crossing - FreshPlaza
 
 ## 上特里苏利 3A 水电站（60 MW）
 
 周边自然事件：扫描期间没有记录。
-
-近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-11-07 05:09 UTC：Nepal: Two pulled alive from tunnel nine days after floods - DW.com。https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkpnY1dtSFdKcnN3RERtaEZlemJSekRuaEY1ZW9DWFkyNndac0xHR2V1ck5seHV3RUZoWmlUQWU3ckpvenB5dUhQYmV5a3JLOWRvdnVUc1BtdmNVR2NRNFpleGFmSVJWOGJYRFl3RFFpZWVBbXJENENRam9BZU5sQnJXdF9NT243VGhBSVI1ck9NMkVs0gGUAUFVX3lxTE9nNTMwTWRlQk5JaUc4YmJGUnljNVJoT0dVVDhIaDl2ZXA3MFRqVnRVTXItVndDR3cxUTBEUDhUSDVrdHhGTy1BWktNSWFYNmNHaGlXazhCOXR5TkdmN2ZHYVE2Nnpqa1dVV0lxeUYzaHBKOVM5TW9Wb2dTaVhncGpkNHhPNnRibmVpR21nSXJiNzlxVW4?oc=5
 
 ## 上特里苏利 3A—加德满都 220 kV 输电线
 
