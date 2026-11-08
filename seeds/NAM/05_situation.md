@@ -12,4 +12,4 @@
 ## 灾害警报（GDACS，近 14 天）
 
 - 2026-11-07 15:22 UTC：Green 级 EQ，Earthquake in Namibia。https://www.gdacs.org/report.aspx?eventid=1576113&episodeid=1745218&eventtype=EQ 
-- 2026-10-26 00:00 UTC：Green 级 WF，Forest fires in Botswana, Namibia。https://www.gdacs.org/report.aspx?eventid=1033408&episodeid=13&eventtype=WF 
+- 2026-10-26 00:00 UTC：Green 级 WF，Forest fires in Botswana, Namibia。https://www.gdacs.org/report.aspx?eventid=1033408&episodeid=14&eventtype=WF 
