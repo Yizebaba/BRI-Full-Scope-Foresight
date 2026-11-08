@@ -12,7 +12,3 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-04 19:55 UTC：M4.5，2 km W of Chinandega, Nicaragua。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw3k 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-11-07 19:55 UTC：Green 级 EQ，Earthquake in Nicaragua。https://www.gdacs.org/report.aspx?eventid=1576146&episodeid=1745258&eventtype=EQ 
