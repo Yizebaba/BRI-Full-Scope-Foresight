@@ -17,6 +17,21 @@
 - 中国港湾工程（CHEC）：在格林纳达出现在 3 个项目中，涉及金额约 575 万美元。例：2013 年 China Harbour Engineering Co., Ltd. provides a $5.1 million supplier's credit loan for St. Mark's Flood Mitiga；2014 年 China Harbour Engineering Co., Ltd. donates a basketball court to the Bonair Government School (Linked to Proj；2014 年 China Harbour Engineering Co., Ltd. donates school supplies to the students of Bonair Government School (Linke
 - 中国驻当地使领馆：在格林纳达出现在 13 个项目中，涉及金额约 4 万美元。例：2021 年 Chinese Embassy in Grenada provides 48,000 XCD to lighting the Hillsborough Playing Field in Carriacou in Nove；2019 年 Chinese embassy provides XCD 30,000 in laptop donations to the Grenada Telescope Community Center ；2021 年 Chinese Embassy in Grenada donates materials amounting to 12000 USD to Christine David's Child Development Cen
 
+## 主要贸易伙伴（UN Comtrade，2024 年，本国申报）
+
+- 美国：格林纳达对其出口 355 万美元，自其进口 2.42 亿美元
+- 特立尼达和多巴哥：格林纳达对其出口 319 万美元，自其进口 9565 万美元
+- Cayman Isds：格林纳达对其出口 3704 美元，自其进口 7438 万美元
+- 英国：格林纳达对其出口 232 万美元，自其进口 2635 万美元
+- 中国：格林纳达对其出口 95 万美元，自其进口 2629 万美元
+- 未列明地区：格林纳达对其出口 2285 万美元，自其进口 83 万美元
+- 日本：格林纳达对其出口 3 万美元，自其进口 2291 万美元
+- 巴巴多斯：格林纳达对其出口 143 万美元，自其进口 1325 万美元
+- 牙买加：格林纳达对其出口 16 万美元，自其进口 1038 万美元
+- 荷兰：格林纳达对其出口 11 万美元，自其进口 1028 万美元
+- Panama：格林纳达对其出口 无数据，自其进口 909 万美元
+- 多米尼加：格林纳达对其出口 无数据，自其进口 828 万美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Grenada - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.grd.html

@@ -8,7 +8,7 @@
 - 政府首脑：奥尔扎斯·别克捷诺夫（Olzhas Bektenov）；职位：哈萨克斯坦总理（Prime Minister of Kazakhstan）
 - 立法机构：哈萨克斯坦议会（Parliament of Kazakhstan）
 - 中央银行：哈萨克斯坦国家银行（National Bank of Kazakhstan）
-- 首都：阿斯塔纳（Astana）；货币：哈萨克斯坦坚戈（Kazakhstani tenge）；官方语言：哈萨克语（Kazakh）、俄语（Russian）
+- 首都：阿斯塔纳（Astana）；货币：哈萨克斯坦坚戈（Kazakhstani tenge）；官方语言：俄语（Russian）、哈萨克语（Kazakh）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：280（2024 年）
 - 高技术出口占制成品出口（%）：42.20（2024 年）
 - 高技术出口（现价美元）：71.94 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 21,167 篇（OpenAlex），主要学科：Social Sciences（3,775）、Engineering（3,193）、Medicine（1,999）、Computer Science（1,862）、Arts and Humanities（1,624）、Agricultural and Biological Sciences（1,505）、Environmental Science（1,074）、Materials Science（682）
+- 2025 年有本国作者参与的论文约 20,899 篇（OpenAlex），主要学科：Social Sciences（4,521）、Engineering（2,299）、Medicine（2,043）、Arts and Humanities（1,524）、Agricultural and Biological Sciences（1,470）、Computer Science（1,336）、Environmental Science（1,039）、Materials Science（978）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/KAZ ；Wikidata https://www.wikidata.org/ （CC0）。

@@ -75,7 +75,7 @@
 - 非居民专利申请（件）：48.00（2024 年）
 - 高技术出口占制成品出口（%）：7.42（2023 年）
 - 高技术出口（现价美元）：1.47 亿美元（2023 年）
-- 2025 年有本国作者参与的论文约 822 篇（OpenAlex），主要学科：Social Sciences（136）、Medicine（132）、Agricultural and Biological Sciences（121）、Environmental Science（87）、Biochemistry, Genetics and Molecular Biology（62）、Engineering（49）、Computer Science（42）、Business, Management and Accounting（30）
+- 2025 年有本国作者参与的论文约 804 篇（OpenAlex），主要学科：Agricultural and Biological Sciences（165）、Social Sciences（148）、Medicine（140）、Environmental Science（81）、Business, Management and Accounting（53）、Computer Science（36）、Engineering（34）、Immunology and Microbiology（26）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/LAO ；Wikidata https://www.wikidata.org/ （CC0）。

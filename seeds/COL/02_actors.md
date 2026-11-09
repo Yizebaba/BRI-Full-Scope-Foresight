@@ -27,6 +27,21 @@
 - Qingdao City Government：在哥伦比亚出现在 1 个项目中，涉及金额约 3330 美元。例：2021 年 Qingdao City Government donates medical supplies to City of Cartagena for Covid-19 relief in February 2021 
 - Suzhou Government：在哥伦比亚出现在 1 个项目中。例：2020 年 Suzhou Government donates medical supplies to Cartagena, Colombia in 2020 for Covid-19 relief
 
+## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
+
+- 美国：哥伦比亚对其出口 148.72 亿美元，自其进口 161.76 亿美元
+- 中国：哥伦比亚对其出口 16.45 亿美元，自其进口 193.76 亿美元
+- 巴西：哥伦比亚对其出口 18.95 亿美元，自其进口 35.16 亿美元
+- 墨西哥：哥伦比亚对其出口 15.93 亿美元，自其进口 35.35 亿美元
+- 印度：哥伦比亚对其出口 21.74 亿美元，自其进口 17.47 亿美元
+- Panama：哥伦比亚对其出口 36.80 亿美元，自其进口 3150 万美元
+- 自由区：哥伦比亚对其出口 15.29 亿美元，自其进口 18.89 亿美元
+- 中国台湾地区（Comtrade 记作 Other Asia, nes）：哥伦比亚对其出口 21.82 亿美元，自其进口 12.20 亿美元
+- 德国：哥伦比亚对其出口 8.69 亿美元，自其进口 23.20 亿美元
+- 秘鲁：哥伦比亚对其出口 15.64 亿美元，自其进口 11.07 亿美元
+- 加拿大：哥伦比亚对其出口 16.40 亿美元，自其进口 10.00 亿美元
+- 尼日利亚：哥伦比亚对其出口 18.91 亿美元，自其进口 4.92 亿美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Colombia - Level 3: Reconsider Travel。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.col.html

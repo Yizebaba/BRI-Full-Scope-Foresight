@@ -24,6 +24,21 @@
 - PetroChina：在古巴出现在 1 个项目中。例：2012 年 PetroChina and CUPET sign cooperation agreement for recovery of Santa Cruz and Seboruco Oilfields
 - 中国驻当地使领馆：在古巴出现在 1 个项目中。例：2021 年 Chinese Embassy provides a videoconferencing system to Cuba in July 2021
 
+## 主要贸易伙伴（UN Comtrade，2025 年，镜像：各国对它的申报）
+
+- 中国：古巴对其出口 2.30 亿美元，自其进口 10.84 亿美元
+- 西班牙：古巴对其出口 1.25 亿美元，自其进口 7.63 亿美元
+- 美国：古巴对其出口 1755 万美元，自其进口 8.11 亿美元
+- 加拿大：古巴对其出口 3.60 亿美元，自其进口 2.78 亿美元
+- 墨西哥：古巴对其出口 124 万美元，自其进口 3.56 亿美元
+- 巴西：古巴对其出口 309 万美元，自其进口 2.83 亿美元
+- 德国：古巴对其出口 7345 万美元，自其进口 1.12 亿美元
+- 土耳其：古巴对其出口 1870 万美元，自其进口 1.60 亿美元
+- 荷兰：古巴对其出口 3151 万美元，自其进口 1.43 亿美元
+- Italy：古巴对其出口 3242 万美元，自其进口 1.26 亿美元
+- 中国澳门：古巴对其出口 1.49 亿美元，自其进口 无数据
+- 圭亚那：古巴对其出口 2 万美元，自其进口 1.14 亿美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Cuba - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.cub.html

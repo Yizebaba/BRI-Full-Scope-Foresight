@@ -23,21 +23,6 @@
 - 中国建筑（CSCEC）：在刚果（布）出现在 1 个项目中。例：2018 年 China State Construction Engineering Corporation (CSCEC) financed the construction of dormitory in Pierre Pass
 - China Henan Provincial Department of Education：在刚果（布）出现在 1 个项目中。例：2018 年 China Henan Provincial Department of Education donates stationary and books to Mpila Middle School in Congo (B
 
-## 主要贸易伙伴（UN Comtrade，2024 年，本国申报）
-
-- 中国：刚果（布）对其出口 39.44 亿美元，自其进口 15.96 亿美元
-- 荷兰：刚果（布）对其出口 7.90 亿美元，自其进口 8931 万美元
-- 纳米比亚：刚果（布）对其出口 198 万美元，自其进口 7.58 亿美元
-- 中国香港：刚果（布）对其出口 6709 美元，自其进口 6.70 亿美元
-- 新加坡：刚果（布）对其出口 5.19 亿美元，自其进口 3039 万美元
-- Italy：刚果（布）对其出口 4.49 亿美元，自其进口 9774 万美元
-- 印度：刚果（布）对其出口 3.80 亿美元，自其进口 8581 万美元
-- 法国：刚果（布）对其出口 2130 万美元，自其进口 4.17 亿美元
-- 马来西亚：刚果（布）对其出口 2.86 亿美元，自其进口 6273 万美元
-- 比利时：刚果（布）对其出口 3182 万美元，自其进口 3.05 亿美元
-- 美国：刚果（布）对其出口 1165 万美元，自其进口 2.83 亿美元
-- 泰国：刚果（布）对其出口 2.30 亿美元，自其进口 4983 万美元
-
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Republic of Congo - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.cog.html

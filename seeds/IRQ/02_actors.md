@@ -21,6 +21,21 @@
 - 中国驻当地使领馆：在伊拉克出现在 2 个项目中，涉及金额约 1 万美元。例：2019 年 Chinese Embassy in Iraq provides Iftar meals to al-Adhamiyah neighborhood at the Abu Hanifa mosque；2009 年 Chinese Embassy donates office and educational equipment to the Iraqi Ministry of Foreign Affairs
 - 国家开发银行（China Development Bank）：在伊拉克出现在 1 个项目中。例：2016 年 CDB and China Eximbank provide a loan for the Maysan Oil Refinery Project
 
+## 主要贸易伙伴（UN Comtrade，2024 年，本国申报）
+
+- 未列明地区：伊拉克对其出口 1006.04 亿美元，自其进口 21.15 亿美元
+- 中国：伊拉克对其出口 125 万美元，自其进口 107.48 亿美元
+- 阿联酋：伊拉克对其出口 37.94 亿美元，自其进口 36.77 亿美元
+- 伊朗：伊拉克对其出口 95 万美元，自其进口 31.39 亿美元
+- 约旦：伊拉克对其出口 6586 万美元，自其进口 27.73 亿美元
+- 日本：伊拉克对其出口 无数据，自其进口 25.51 亿美元
+- 印度：伊拉克对其出口 5.04 亿美元，自其进口 17.25 亿美元
+- Italy：伊拉克对其出口 417 万美元，自其进口 21.75 亿美元
+- 韩国：伊拉克对其出口 无数据，自其进口 15.38 亿美元
+- 美国：伊拉克对其出口 42 万美元，自其进口 14.91 亿美元
+- 巴西：伊拉克对其出口 无数据，自其进口 13.19 亿美元
+- 沙特阿拉伯：伊拉克对其出口 3871 万美元，自其进口 9.01 亿美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Iraq - Level 4: Do Not Travel。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.irq.html

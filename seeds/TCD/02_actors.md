@@ -18,21 +18,6 @@
 - 汉办 / 孔子学院总部（Hanban）：在乍得出现在 1 个项目中。例：2013 年 Hanban provides funding for establishment of Chinese Department at N’Djamena University
 - China Overseas Construction Group Co., Ltd.：在乍得出现在 1 个项目中。例：2013 年 China Overseas Construction Group Co., Ltd. donates 7 wells to Chad
 
-## 主要贸易伙伴（UN Comtrade，2025 年，镜像：各国对它的申报）
-
-- 中国：乍得对其出口 5.64 亿美元，自其进口 5.46 亿美元
-- 德国：乍得对其出口 8.41 亿美元，自其进口 2283 万美元
-- 荷兰：乍得对其出口 7.27 亿美元，自其进口 3407 万美元
-- 法国：乍得对其出口 2.62 亿美元，自其进口 9867 万美元
-- 土耳其：乍得对其出口 1.25 亿美元，自其进口 1.10 亿美元
-- 印度：乍得对其出口 4848 万美元，自其进口 9764 万美元
-- 哥伦比亚：乍得对其出口 1.30 亿美元，自其进口 670 万美元
-- 美国：乍得对其出口 1719 万美元，自其进口 7337 万美元
-- 尼日尔：乍得对其出口 26 万美元，自其进口 4906 万美元
-- 埃及：乍得对其出口 81 万美元，自其进口 4031 万美元
-- 贝宁：乍得对其出口 62 万美元，自其进口 3193 万美元
-- 波兰：乍得对其出口 35 万美元，自其进口 3215 万美元
-
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Chad - Level 4: Do Not Travel。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tcd.html

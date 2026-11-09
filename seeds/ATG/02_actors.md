@@ -19,6 +19,21 @@
 - 汉办 / 孔子学院总部（Hanban）：在安提瓜和巴布达出现在 1 个项目中。例：2018 年 Hanban provides grant for establishment of Confucius Institute at Antigua and Barbuda Institute for Continuing
 - China Naval Hospital Ship arrives in St. John's port to：在安提瓜和巴布达出现在 1 个项目中。例：2018 年 China Naval Hospital Ship arrives in St. John's port to provide medical assistance in Harmony Mission-2018
 
+## 主要贸易伙伴（UN Comtrade，2024 年，本国申报）
+
+- 美国：安提瓜和巴布达对其出口 640 万美元，自其进口 3.58 亿美元
+- 中国：安提瓜和巴布达对其出口 328 万美元，自其进口 3456 万美元
+- 特立尼达和多巴哥：安提瓜和巴布达对其出口 50 万美元，自其进口 2817 万美元
+- 英国：安提瓜和巴布达对其出口 239 万美元，自其进口 2597 万美元
+- 日本：安提瓜和巴布达对其出口 2 万美元，自其进口 2616 万美元
+- 法国：安提瓜和巴布达对其出口 187 万美元，自其进口 1019 万美元
+- 多米尼加：安提瓜和巴布达对其出口 5 万美元，自其进口 1149 万美元
+- 荷兰：安提瓜和巴布达对其出口 256 万美元，自其进口 874 万美元
+- 巴西：安提瓜和巴布达对其出口 2 万美元，自其进口 1127 万美元
+- Sint Maarten：安提瓜和巴布达对其出口 359 万美元，自其进口 727 万美元
+- 牙买加：安提瓜和巴布达对其出口 29 万美元，自其进口 957 万美元
+- Italy：安提瓜和巴布达对其出口 87 万美元，自其进口 778 万美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Antigua and Barbuda - Level 1: Exercise Normal Precautions。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.atg.html

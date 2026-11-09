@@ -8,7 +8,7 @@
 - 政府首脑：埃默森·姆南加古瓦（Emmerson Mnangagwa）；职位：辛巴威總統（President of Zimbabwe）
 - 立法机构：辛巴威議會（Parliament of Zimbabwe）
 - 中央银行：辛巴威儲備銀行（Reserve Bank of Zimbabwe）
-- 首都：哈拉雷（Harare）；货币：印度盧比（Indian rupee）、欧元（euro）、美元（United States dollar）、日元（yen）、南非兰特（rand）、津巴布韦元（Zimbabwean dollar）、澳大利亚元（Australian dollar）、英镑（pound sterling）、人民币（renminbi）、津巴布韦金（Zimbabwe ZiG）；官方语言：英语（English）、科萨语（Xhosa）、恩道方言（Ndau）、科伊桑语系（Khoisan）、汤加语（Tonga）、卡蘭加語（Kalanga）、文达语（Venda）、修納語（Shona）、南比亞語（Nambya）、北恩德贝莱语（Northern Ndebele）、茨瓦纳语（Tswana）、切瓦语（Chewa）、Zimbabwe Sign Language、Barwe、索托语（Sesotho）、聪加语（Tsonga）
+- 首都：哈拉雷（Harare）；货币：印度盧比（Indian rupee）、南非兰特（rand）、津巴布韦元（Zimbabwean dollar）、欧元（euro）、美元（United States dollar）、澳大利亚元（Australian dollar）、日元（yen）、英镑（pound sterling）、津巴布韦金（Zimbabwe ZiG）、人民币（renminbi）；官方语言：英语（English）、恩道方言（Ndau）、南比亞語（Nambya）、切瓦语（Chewa）、Zimbabwe Sign Language、Barwe、文达语（Venda）、科萨语（Xhosa）、卡蘭加語（Kalanga）、科伊桑语系（Khoisan）、汤加语（Tonga）、北恩德贝莱语（Northern Ndebele）、索托语（Sesotho）、茨瓦纳语（Tswana）、修納語（Shona）、聪加语（Tsonga）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -75,7 +75,7 @@
 - 非居民专利申请（件）：13.00（2024 年）
 - 高技术出口占制成品出口（%）：2.80（2024 年）
 - 高技术出口（现价美元）：1389 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 3,440 篇（OpenAlex），主要学科：Social Sciences（794）、Medicine（625）、Agricultural and Biological Sciences（393）、Engineering（218）、Environmental Science（217）、Business, Management and Accounting（205）、Computer Science（200）、Health Professions（118）
+- 2025 年有本国作者参与的论文约 3,384 篇（OpenAlex），主要学科：Social Sciences（825）、Medicine（684）、Agricultural and Biological Sciences（366）、Business, Management and Accounting（233）、Environmental Science（217）、Engineering（151）、Computer Science（133）、Arts and Humanities（129）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/ZWE ；Wikidata https://www.wikidata.org/ （CC0）。

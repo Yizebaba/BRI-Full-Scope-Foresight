@@ -24,6 +24,21 @@
 - Anhui Jianghuai Automobile：在玻利维亚出现在 1 个项目中。例：2020 年 Anhui Jianghuai Automobile donates 15 ambulances to Bolivia
 - Sinopharm：在玻利维亚出现在 1 个项目中。例：2021 年 Sinopharm donates laboratory equipment to Bolivia in June 2021
 
+## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
+
+- 中国：玻利维亚对其出口 18.54 亿美元，自其进口 24.22 亿美元
+- 巴西：玻利维亚对其出口 12.47 亿美元，自其进口 14.29 亿美元
+- 秘鲁：玻利维亚对其出口 6.23 亿美元，自其进口 7.55 亿美元
+- 阿根廷：玻利维亚对其出口 1.90 亿美元，自其进口 8.29 亿美元
+- 印度：玻利维亚对其出口 8.23 亿美元，自其进口 1.89 亿美元
+- 日本：玻利维亚对其出口 7.40 亿美元，自其进口 2.29 亿美元
+- 美国：玻利维亚对其出口 4.20 亿美元，自其进口 4.96 亿美元
+- 智利：玻利维亚对其出口 1.22 亿美元，自其进口 7.73 亿美元
+- 比利时：玻利维亚对其出口 3.99 亿美元，自其进口 4.79 亿美元
+- 哥伦比亚：玻利维亚对其出口 5.06 亿美元，自其进口 1.21 亿美元
+- Paraguay：玻利维亚对其出口 7468 万美元，自其进口 5.15 亿美元
+- 阿联酋：玻利维亚对其出口 3.52 亿美元，自其进口 1.65 亿美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Bolivia - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bol.html

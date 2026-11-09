@@ -21,6 +21,21 @@
 - Chinese National People's Congress：在巴巴多斯出现在 1 个项目中。例：2013 年 Chinese National People's Congress donates office supplies to the Parliament of Barbados
 - Second Chinese medical expert team：在巴巴多斯出现在 1 个项目中。例：2018 年 Second Chinese medical expert team extends service at Queen Elizabeth Hospital in Barbados (linked to #54835, 
 
+## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
+
+- 美国：巴巴多斯对其出口 7036 万美元，自其进口 8.69 亿美元
+- 特立尼达和多巴哥：巴巴多斯对其出口 2492 万美元，自其进口 3.56 亿美元
+- 中国：巴巴多斯对其出口 202 万美元，自其进口 1.78 亿美元
+- 荷兰：巴巴多斯对其出口 105 万美元，自其进口 1.33 亿美元
+- 未列明地区：巴巴多斯对其出口 1.22 亿美元，自其进口 无数据
+- 英国：巴巴多斯对其出口 831 万美元，自其进口 1.07 亿美元
+- 加拿大：巴巴多斯对其出口 2007 万美元，自其进口 5711 万美元
+- 日本：巴巴多斯对其出口 321 美元，自其进口 7333 万美元
+- Panama：巴巴多斯对其出口 162 万美元，自其进口 7139 万美元
+- 牙买加：巴巴多斯对其出口 3225 万美元，自其进口 3599 万美元
+- 法国：巴巴多斯对其出口 1506 万美元，自其进口 1747 万美元
+- 圭亚那：巴巴多斯对其出口 1841 万美元，自其进口 1198 万美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Barbados - Level 1: Exercise Normal Precautions。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.brb.html

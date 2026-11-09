@@ -49,7 +49,7 @@
 ## 科研、创新与获奖
 
 - 科技期刊论文（篇）：3.74（2023 年）
-- 2025 年有本国作者参与的论文约 17 篇（OpenAlex），主要学科：Medicine（7）、Social Sciences（3）、Biochemistry, Genetics and Molecular Biology（2）、Agricultural and Biological Sciences（1）、Decision Sciences（1）、Environmental Science（1）、Nursing（1）、Psychology（1）
+- 2025 年有本国作者参与的论文约 17 篇（OpenAlex），主要学科：Medicine（8）、Social Sciences（3）、Agricultural and Biological Sciences（1）、Biochemistry, Genetics and Molecular Biology（1）、Decision Sciences（1）、Environmental Science（1）、Nursing（1）、Psychology（1）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/FSM ；Wikidata https://www.wikidata.org/ （CC0）。

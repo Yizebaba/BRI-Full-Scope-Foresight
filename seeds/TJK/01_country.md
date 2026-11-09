@@ -74,7 +74,7 @@
 - 非居民专利申请（件）：3.00（2022 年）
 - 高技术出口占制成品出口（%）：15.21（2023 年）
 - 高技术出口（现价美元）：3414 万美元（2023 年）
-- 2025 年有本国作者参与的论文约 696 篇（OpenAlex），主要学科：Medicine（140）、Engineering（91）、Agricultural and Biological Sciences（60）、Social Sciences（52）、Environmental Science（50）、Earth and Planetary Sciences（37）、Materials Science（36）、Mathematics（33）
+- 2025 年有本国作者参与的论文约 684 篇（OpenAlex），主要学科：Medicine（145）、Engineering（71）、Social Sciences（70）、Agricultural and Biological Sciences（60）、Environmental Science（47）、Earth and Planetary Sciences（44）、Materials Science（44）、Mathematics（30）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/TJK ；Wikidata https://www.wikidata.org/ （CC0）。

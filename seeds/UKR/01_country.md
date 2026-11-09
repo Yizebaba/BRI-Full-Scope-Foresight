@@ -79,7 +79,7 @@
 - 非居民专利申请（件）：1,590（2024 年）
 - 高技术出口占制成品出口（%）：6.37（2024 年）
 - 高技术出口（现价美元）：8.10 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 111,965 篇（OpenAlex），主要学科：Social Sciences（25,159）、Engineering（14,349）、Arts and Humanities（9,496）、Computer Science（9,248）、Medicine（9,001）、Business, Management and Accounting（8,128）、Agricultural and Biological Sciences（7,103）、Economics, Econometrics and Finance（6,538）
+- 2025 年有本国作者参与的论文约 108,946 篇（OpenAlex），主要学科：Social Sciences（27,760）、Engineering（12,231）、Business, Management and Accounting（9,591）、Arts and Humanities（9,388）、Medicine（8,767）、Economics, Econometrics and Finance（7,536）、Computer Science（6,587）、Agricultural and Biological Sciences（5,735）
 - 马林娜·维亚佐夫斯卡（Maryna Viazovska）：菲尔兹奖，2022 年
 - 弗拉基米尔·德林费尔德（Vladimir Drinfeld）：菲尔兹奖，1990 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。

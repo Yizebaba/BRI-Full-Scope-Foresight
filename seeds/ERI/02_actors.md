@@ -21,21 +21,6 @@
 - Ambassador Yang Zigang：在厄立特里亚出现在 1 个项目中。例：2018 年 Ambassador Yang Zigang donates projectors and soccer balls to Northern Red Sea Provincial Government in Eritre
 - China sponsors development：在厄立特里亚出现在 1 个项目中。例：2019 年 China sponsors development finance training course for Eritreans in 2019
 
-## 主要贸易伙伴（UN Comtrade，2025 年，镜像：各国对它的申报）
-
-- 中国：厄立特里亚对其出口 7.75 亿美元，自其进口 2.36 亿美元
-- 土耳其：厄立特里亚对其出口 21 万美元，自其进口 3405 万美元
-- Italy：厄立特里亚对其出口 544 万美元，自其进口 2788 万美元
-- 印度：厄立特里亚对其出口 无数据，自其进口 2605 万美元
-- 韩国：厄立特里亚对其出口 996 万美元，自其进口 887 万美元
-- 南非：厄立特里亚对其出口 6673 美元，自其进口 907 万美元
-- 捷克：厄立特里亚对其出口 822 万美元，自其进口 无数据
-- 埃及：厄立特里亚对其出口 2469 美元，自其进口 753 万美元
-- 克罗地亚：厄立特里亚对其出口 611 万美元，自其进口 5 万美元
-- 荷兰：厄立特里亚对其出口 12 万美元，自其进口 588 万美元
-- 西班牙：厄立特里亚对其出口 79 万美元，自其进口 431 万美元
-- 美国：厄立特里亚对其出口 18 万美元，自其进口 462 万美元
-
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Eritrea - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.eri.html

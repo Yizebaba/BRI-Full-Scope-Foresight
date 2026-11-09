@@ -8,7 +8,7 @@
 - 政府首脑：曼努埃尔·奥萨·恩苏埃·恩苏阿（Manuel Osa Nsue Nsua）；职位：赤道几内亚总理（Prime Minister of Equatorial Guinea）
 - 立法机构：议会（Parliament of Equatorial Guinea）
 - 中央银行：中非国家银行（Bank of Central African States）
-- 首都：拉巴斯城（Ciudad de la Paz）；货币：中非非洲金融共同体法郎（Central African CFA franc）；官方语言：法语（French）、西班牙语（Spanish）、葡萄牙语（Portuguese）
+- 首都：拉巴斯城（Ciudad de la Paz）；货币：中非非洲金融共同体法郎（Central African CFA franc）；官方语言：法语（French）、葡萄牙语（Portuguese）、西班牙语（Spanish）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -60,7 +60,7 @@
 ## 科研、创新与获奖
 
 - 科技期刊论文（篇）：3.44（2023 年）
-- 2025 年有本国作者参与的论文约 23 篇（OpenAlex），主要学科：Medicine（5）、Environmental Science（4）、Social Sciences（4）、Arts and Humanities（3）、Computer Science（2）、Health Professions（2）、Business, Management and Accounting（1）、Earth and Planetary Sciences（1）
+- 2025 年有本国作者参与的论文约 22 篇（OpenAlex），主要学科：Medicine（6）、Environmental Science（4）、Arts and Humanities（3）、Social Sciences（3）、Computer Science（2）、Business, Management and Accounting（1）、Earth and Planetary Sciences（1）、Economics, Econometrics and Finance（1）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/GNQ ；Wikidata https://www.wikidata.org/ （CC0）。

@@ -15,11 +15,26 @@
 - 中国进出口银行（China Eximbank）：在摩洛哥出现在 4 个项目中，涉及金额约 6.19 亿美元。例：2014 年 China Eximbank provides $299.88 million preferential buyer’s credit for 318MW Jerada Coal-Fired Power Plant Co；2011 年 China Eximbank provides $184 million buyer's credit loan for 38.6 km Berrechid-Ben Ahmed Section of Berrechid–；2001 年 China Eximbank provides RMB 125.2 million government concessional loan for Comprehensive Medical Clinic Constr
 - 中国工商银行（ICBC）：在摩洛哥出现在 2 个项目中，涉及金额约 2.93 亿美元。例：2016 年 ICBC provides $166.6 million buyer’s credit loan for Settat Cement Plant Construction Project；2018 年 ICBC participates in EUR 75 million syndicated loan for Phase 1 of Aluminum Wheel Production Facility Project
 - 中国政府：在摩洛哥出现在 3 个项目中，涉及金额约 710 万美元。例：2014 年 Chinese Government provides a MAD 53,964,000 grant for the supply of teaching materials to the Mohammed VI Sch；2012 年 Chinese Government provides grant for National Tea Museum Construction Project；2012 年 Chinese Government provides grant for Solar Streetlight Project
-- Morocco Branch of the ZTE Corporation：在摩洛哥出现在 1 个项目中，涉及金额约 9 万美元。例：2011 年 Morocco Branch of the ZTE Corporation provides MAD 600,000 grant for Moulay Idriss II Primary School Renovatio
 - 中兴通讯（ZTE）：在摩洛哥出现在 1 个项目中，涉及金额约 9 万美元。例：2011 年 Morocco Branch of the ZTE Corporation provides MAD 600,000 grant for Moulay Idriss II Primary School Renovatio
+- Morocco Branch of the ZTE Corporation：在摩洛哥出现在 1 个项目中，涉及金额约 9 万美元。例：2011 年 Morocco Branch of the ZTE Corporation provides MAD 600,000 grant for Moulay Idriss II Primary School Renovatio
 - 中国驻当地使领馆：在摩洛哥出现在 3 个项目中，涉及金额约 2 万美元。例：2021 年 Chinese Embassy provides a donation worth $200,000 Moroccan dirhams to Fédération Royale Marocaine De Wushu in；2011 年 Chinese embassy donates sports equipment to the Moroccan Ministry of Youth and Sports；2011 年 Chinese Embassy donates school materials to the Moroccan Ministry of Family, Solidarity, Equality and Social D
 - 汉办 / 孔子学院总部（Hanban）：在摩洛哥出现在 3 个项目中。例：2008 年 Hanban provides grant for establishment of Confucius Institute at Université Mohammed V de Rabat；2012 年 Hanban provides grant for establishment of Confucius Institute at Hassan II University of Casablanca；2016 年 Hanban provides grant for establishment of Confucius Institute at Abdelmalek Essaadi University
 - China's State Administration of Cultural Heritage：在摩洛哥出现在 1 个项目中。例：2016 年 China's State Administration of Cultural Heritage funds establishment of a Chinese Cultural Center
+
+## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
+
+- 西班牙：摩洛哥对其出口 196.06 亿美元，自其进口 165.13 亿美元
+- 法国：摩洛哥对其出口 172.86 亿美元，自其进口 111.37 亿美元
+- 中国：摩洛哥对其出口 5.56 亿美元，自其进口 142.27 亿美元
+- 美国：摩洛哥对其出口 28.84 亿美元，自其进口 102.10 亿美元
+- 德国：摩洛哥对其出口 50.08 亿美元，自其进口 60.99 亿美元
+- Italy：摩洛哥对其出口 35.69 亿美元，自其进口 47.53 亿美元
+- 土耳其：摩洛哥对其出口 21.62 亿美元，自其进口 57.04 亿美元
+- 印度：摩洛哥对其出口 49.09 亿美元，自其进口 19.92 亿美元
+- 英国：摩洛哥对其出口 35.42 亿美元，自其进口 14.65 亿美元
+- 巴西：摩洛哥对其出口 26.02 亿美元，自其进口 21.80 亿美元
+- 葡萄牙：摩洛哥对其出口 13.73 亿美元，自其进口 31.53 亿美元
+- 沙特阿拉伯：摩洛哥对其出口 1.12 亿美元，自其进口 32.69 亿美元
 
 ## 发布旅行建议的外国政府
 

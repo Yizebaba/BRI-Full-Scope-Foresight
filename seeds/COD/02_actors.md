@@ -33,21 +33,6 @@
 - 中国商务部（MOFCOM）：在刚果（金）出现在 1 个项目中。例：2011 年 China’s Ministry of Commerce donates office equipment to University of Kinshasa
 - 国家国际发展合作署（CIDCA）：在刚果（金）出现在 1 个项目中。例：2019 年 CIDCA provides Democratic Republic of the Congo with three air shipment worth of supplies to fight Ebola outbr
 
-## 主要贸易伙伴（UN Comtrade，2024 年，本国申报）
-
-- 中国：刚果（金）对其出口 220.11 亿美元，自其进口 41.98 亿美元
-- 南非：刚果（金）对其出口 29.25 亿美元，自其进口 11.18 亿美元
-- 中国香港：刚果（金）对其出口 29.35 亿美元，自其进口 1314 万美元
-- 阿联酋：刚果（金）对其出口 13.81 亿美元，自其进口 12.64 亿美元
-- 坦桑尼亚：刚果（金）对其出口 16.74 亿美元，自其进口 3.04 亿美元
-- 莫桑比克：刚果（金）对其出口 16.78 亿美元，自其进口 1773 万美元
-- 新加坡：刚果（金）对其出口 15.11 亿美元，自其进口 5355 万美元
-- 印度：刚果（金）对其出口 1.16 亿美元，自其进口 7.95 亿美元
-- 瑞士：刚果（金）对其出口 7.25 亿美元，自其进口 1.50 亿美元
-- 赞比亚：刚果（金）对其出口 4.20 亿美元，自其进口 3.62 亿美元
-- 越南：刚果（金）对其出口 7.49 亿美元，自其进口 2170 万美元
-- 美国：刚果（金）对其出口 377 万美元，自其进口 5.07 亿美元
-
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Democratic Republic of the Congo - Level 4: Do Not Travel。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.cod.html

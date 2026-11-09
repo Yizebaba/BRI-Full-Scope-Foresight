@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：3.00（2024 年）
 - 高技术出口占制成品出口（%）：17.49（2024 年）
 - 高技术出口（现价美元）：19.03 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 4,745 篇（OpenAlex），主要学科：Engineering（708）、Medicine（623）、Social Sciences（557）、Agricultural and Biological Sciences（361）、Environmental Science（356）、Computer Science（289）、Arts and Humanities（256）、Business, Management and Accounting（242）
+- 2025 年有本国作者参与的论文约 4,677 篇（OpenAlex），主要学科：Social Sciences（656）、Medicine（625）、Engineering（587）、Agricultural and Biological Sciences（415）、Environmental Science（271）、Business, Management and Accounting（266）、Arts and Humanities（251）、Computer Science（241）
 - 尤里斯·哈特马尼斯（Juris Hartmanis）：图灵奖，1993 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

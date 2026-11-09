@@ -79,20 +79,20 @@
 - 非居民专利申请（件）：5,196（2024 年）
 - 高技术出口占制成品出口（%）：9.73（2021 年）
 - 高技术出口（现价美元）：105.99 亿美元（2021 年）
-- 2025 年有本国作者参与的论文约 177,535 篇（OpenAlex），主要学科：Engineering（26,226）、Social Sciences（24,973）、Medicine（22,145）、Arts and Humanities（11,891）、Agricultural and Biological Sciences（11,244）、Computer Science（9,615）、Physics and Astronomy（7,971）、Environmental Science（7,657）
+- 2025 年有本国作者参与的论文约 175,486 篇（OpenAlex），主要学科：Social Sciences（27,755）、Medicine（21,781）、Engineering（21,177）、Arts and Humanities（12,367）、Agricultural and Biological Sciences（11,751）、Materials Science（8,526）、Physics and Astronomy（8,247）、Business, Management and Accounting（7,691）
 - 阿列克谢·叶基莫夫（Alexey Ekimov）：诺贝尔化学奖，2023 年
 - 德米特里·穆拉托夫（Dmitri Muratov）：诺贝尔和平奖，2021 年
-- 斯坦尼斯拉夫·斯米尔诺夫（Stanislav Smirnov）：菲尔兹奖，2010 年
 - 康斯坦丁·诺沃肖洛夫（Konstantin Novoselov）：诺贝尔物理学奖，2010 年
-- 安德烈·奥昆科夫（Andrei Okounkov）：菲尔兹奖，2006 年
+- 斯坦尼斯拉夫·斯米尔诺夫（Stanislav Smirnov）：菲尔兹奖，2010 年
 - 格里戈里·佩雷尔曼（Grigori Perelman）：菲尔兹奖，2006 年
-- 阿列克谢·阿布里科索夫（Alexei Abrikosov）：诺贝尔物理学奖，2003 年
+- 安德烈·奥昆科夫（Andrei Okounkov）：菲尔兹奖，2006 年
 - 维塔利·拉扎列维奇·金兹堡（Vitaly Ginzburg）：诺贝尔物理学奖，2003 年
+- 阿列克谢·阿布里科索夫（Alexei Abrikosov）：诺贝尔物理学奖，2003 年
 - 若雷斯·阿尔费罗夫（Zhores Alferov）：诺贝尔物理学奖，2000 年
 - 马克西姆·孔采维奇（Maxim Kontsevich）：菲尔兹奖，1998 年
 - 米哈伊尔·谢尔盖耶维奇·戈尔巴乔夫（Mikhail Gorbachev）：诺贝尔和平奖，1990 年
-- 亚历山大·索尔仁尼琴（Aleksandr Solzhenitsyn）：诺贝尔文学奖，1970 年
 - 谢尔盖·彼得罗维奇·诺维科夫（Sergei Novikov）：菲尔兹奖，1970 年
+- 亚历山大·索尔仁尼琴（Aleksandr Solzhenitsyn）：诺贝尔文学奖，1970 年
 - 亚历山大·普罗霍罗夫（Alexander Prokhorov）：诺贝尔物理学奖，1964 年
 - 尼古拉·巴索夫（Nikolay Basov）：诺贝尔物理学奖，1964 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。

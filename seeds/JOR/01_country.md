@@ -5,7 +5,7 @@
 ## 国家机构与领导人（Wikidata，现任）
 
 - 国家元首：阿卜杜拉二世（Abdullah II of Jordan）；职位：King of Jordan
-- 政府首脑：Jafar Hassan；职位：约旦首相（Prime Minister of Jordan）
+- 政府首脑：贾法尔·哈桑（Jafar Hassan）；职位：约旦首相（Prime Minister of Jordan）
 - 立法机构：約旦國會（Parliament of Jordan）
 - 中央银行：约旦中央银行（Central Bank of Jordan）
 - 首都：安曼（Amman）；货币：约旦第纳尔（Jordanian dinar）；官方语言：阿拉伯语（Arabic）
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：268（2024 年）
 - 高技术出口占制成品出口（%）：2.08（2023 年）
 - 高技术出口（现价美元）：1.78 亿美元（2023 年）
-- 2025 年有本国作者参与的论文约 21,219 篇（OpenAlex），主要学科：Medicine（3,975）、Computer Science（2,823）、Engineering（2,653）、Social Sciences（2,230）、Business, Management and Accounting（1,497）、Mathematics（901）、Arts and Humanities（770）、Psychology（735）
+- 2025 年有本国作者参与的论文约 21,049 篇（OpenAlex），主要学科：Medicine（3,975）、Computer Science（2,468）、Social Sciences（2,337）、Engineering（2,183）、Business, Management and Accounting（1,729）、Mathematics（1,016）、Arts and Humanities（845）、Materials Science（693）
 - 奧馬爾·亞基（Omar M. Yaghi）：诺贝尔化学奖，2025 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

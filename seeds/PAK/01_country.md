@@ -8,7 +8,7 @@
 - 政府首脑：夏巴兹·谢里夫（Shehbaz Sharif）；职位：巴基斯坦总理（Prime Minister of Pakistan）
 - 立法机构：巴基斯坦议会（Parliament of Pakistan）
 - 中央银行：巴基斯坦国家银行（State Bank of Pakistan）
-- 首都：伊斯兰堡（Islamabad）；货币：巴基斯坦卢比（Pakistani rupee）；官方语言：乌尔都语（Urdu）、英语（English）
+- 首都：伊斯兰堡（Islamabad）；货币：巴基斯坦卢比（Pakistani rupee）；官方语言：英语（English）、乌尔都语（Urdu）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -79,7 +79,7 @@
 - 非居民专利申请（件）：499（2024 年）
 - 高技术出口占制成品出口（%）：2.44（2024 年）
 - 高技术出口（现价美元）：5.35 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 95,427 篇（OpenAlex），主要学科：Medicine（23,488）、Social Sciences（11,939）、Engineering（8,425）、Agricultural and Biological Sciences（6,808）、Computer Science（6,393）、Arts and Humanities（4,424）、Business, Management and Accounting（4,247）、Environmental Science（3,869）
+- 2025 年有本国作者参与的论文约 92,249 篇（OpenAlex），主要学科：Medicine（22,530）、Social Sciences（12,133）、Agricultural and Biological Sciences（6,943）、Engineering（5,617）、Computer Science（5,140）、Business, Management and Accounting（4,623）、Arts and Humanities（4,590）、Materials Science（3,718）
 - 玛拉拉·优素福扎伊（Malala Yousafzai）：诺贝尔和平奖，2014 年
 - 阿卜杜勒·萨拉姆（Abdus Salam）：诺贝尔物理学奖，1979 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。

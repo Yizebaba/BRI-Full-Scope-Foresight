@@ -68,7 +68,7 @@
 - 科技期刊论文（篇）：1,547（2023 年）
 - 高技术出口占制成品出口（%）：2.10（2023 年）
 - 高技术出口（现价美元）：624 万美元（2023 年）
-- 2025 年有本国作者参与的论文约 7,262 篇（OpenAlex），主要学科：Medicine（1,604）、Agricultural and Biological Sciences（970）、Social Sciences（825）、Environmental Science（682）、Engineering（550）、Biochemistry, Genetics and Molecular Biology（408）、Computer Science（321）、Economics, Econometrics and Finance（300）
+- 2025 年有本国作者参与的论文约 7,078 篇（OpenAlex），主要学科：Medicine（1,609）、Agricultural and Biological Sciences（1,123）、Social Sciences（832）、Environmental Science（618）、Engineering（467）、Economics, Econometrics and Finance（327）、Physics and Astronomy（253）、Computer Science（203）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/CMR ；Wikidata https://www.wikidata.org/ （CC0）。

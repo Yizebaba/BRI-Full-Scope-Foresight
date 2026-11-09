@@ -33,6 +33,21 @@
 - Nanchang Municipal Government：在阿根廷出现在 1 个项目中，涉及金额约 6232 美元。例：2020 年 Nanchang Municipal Government donates 28,000 masks worth USD 5,580 to the Municipality of Quilmes in July 2020
 - Beijing's Fengtai District：在阿根廷出现在 1 个项目中，涉及金额约 3351 美元。例：2020 年 Beijing's Fengtai District provides a grant of 10,000 masks to Esperanza Municipal Government in July 2020
 
+## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
+
+- 巴西：阿根廷对其出口 127.83 亿美元，自其进口 184.24 亿美元
+- 中国：阿根廷对其出口 97.17 亿美元，自其进口 179.41 亿美元
+- 美国：阿根廷对其出口 83.27 亿美元，自其进口 67.04 亿美元
+- 智利：阿根廷对其出口 62.83 亿美元，自其进口 8.70 亿美元
+- 印度：阿根廷对其出口 54.72 亿美元，自其进口 14.36 亿美元
+- Paraguay：阿根廷对其出口 13.69 亿美元，自其进口 29.58 亿美元
+- 德国：阿根廷对其出口 11.12 亿美元，自其进口 31.36 亿美元
+- 越南：阿根廷对其出口 27.31 亿美元，自其进口 13.22 亿美元
+- 未列明地区：阿根廷对其出口 17.06 亿美元，自其进口 12.07 亿美元
+- 秘鲁：阿根廷对其出口 25.49 亿美元，自其进口 3.45 亿美元
+- 瑞士：阿根廷对其出口 20.63 亿美元，自其进口 7.00 亿美元
+- Italy：阿根廷对其出口 10.91 亿美元，自其进口 15.64 亿美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Argentina - Level 1: Exercise Normal Precautions。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.arg.html

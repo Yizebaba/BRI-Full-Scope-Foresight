@@ -8,7 +8,7 @@
 - 政府首脑：穆罕默德·哈桑·阿洪德（Mohammad Hasan Akhund）；职位：阿富汗总理（Prime Minister of Afghanistan）
 - 立法机构：无数据
 - 中央银行：阿富汗中央银行（Da Afghanistan Bank）
-- 首都：喀布尔（Kabul）；货币：阿富汗尼（afghani）；官方语言：达里语（Dari）、努里斯坦语支（Nuristani）、乌孜别克语（Uzbek）、土库曼语（Turkmen）、阿拉伯语（Arabic）、帕沙伊语（Pashayi）、俾路支语（Balochi）、帕米尔诸语言（Pamir）、普什图语（Pashto）
+- 首都：喀布尔（Kabul）；货币：阿富汗尼（afghani）；官方语言：努里斯坦语支（Nuristani）、达里语（Dari）、土库曼语（Turkmen）、乌孜别克语（Uzbek）、帕米尔诸语言（Pamir）、阿拉伯语（Arabic）、帕沙伊语（Pashayi）、俾路支语（Balochi）、普什图语（Pashto）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -69,7 +69,7 @@
 - 科技期刊论文（篇）：169（2023 年）
 - 高技术出口占制成品出口（%）：0.00（2019 年）
 - 高技术出口（现价美元）：0 美元（2019 年）
-- 2025 年有本国作者参与的论文约 3,278 篇（OpenAlex），主要学科：Social Sciences（715）、Medicine（537）、Agricultural and Biological Sciences（292）、Engineering（258）、Arts and Humanities（228）、Computer Science（182）、Environmental Science（164）、Business, Management and Accounting（129）
+- 2025 年有本国作者参与的论文约 3,258 篇（OpenAlex），主要学科：Social Sciences（663）、Medicine（536）、Agricultural and Biological Sciences（307）、Arts and Humanities（299）、Business, Management and Accounting（191）、Environmental Science（161）、Engineering（137）、Computer Science（135）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/AFG ；Wikidata https://www.wikidata.org/ （CC0）。

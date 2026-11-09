@@ -74,7 +74,7 @@
 - 非居民专利申请（件）：17.00（1986 年）
 - 高技术出口占制成品出口（%）：3.21（2024 年）
 - 高技术出口（现价美元）：285 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 678 篇（OpenAlex），主要学科：Social Sciences（141）、Environmental Science（97）、Medicine（76）、Engineering（63）、Computer Science（54）、Agricultural and Biological Sciences（48）、Business, Management and Accounting（36）、Arts and Humanities（23）
+- 2025 年有本国作者参与的论文约 673 篇（OpenAlex），主要学科：Social Sciences（164）、Medicine（88）、Environmental Science（86）、Engineering（63）、Agricultural and Biological Sciences（59）、Business, Management and Accounting（42）、Computer Science（40）、Arts and Humanities（22）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/FJI ；Wikidata https://www.wikidata.org/ （CC0）。

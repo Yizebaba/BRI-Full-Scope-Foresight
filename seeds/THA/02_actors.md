@@ -5,8 +5,8 @@
 ## 本国政府与机构
 
 - 玛哈·哇集拉隆功（Rama X of Thailand）：泰国现任国家元首。来源：Wikidata
-- 普坦·威乍耶猜（Phumtham Wechayachai）：泰国现任政府首脑。来源：Wikidata
 - 佩通坦·钦那瓦（Paetongtarn Shinawatra）：泰国现任政府首脑。来源：Wikidata
+- 普坦·威乍耶猜（Phumtham Wechayachai）：泰国现任政府首脑。来源：Wikidata
 - 泰国国会（National Assembly of Thailand）：泰国的立法机构。来源：Wikidata
 - 泰国银行（Bank of Thailand）：泰国的中央银行。来源：Wikidata
 - 泰国政府各部门：AidData 记录中的借款方、受援方和项目实施方。

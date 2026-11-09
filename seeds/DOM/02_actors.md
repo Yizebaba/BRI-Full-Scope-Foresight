@@ -16,6 +16,21 @@
 - Hunan Province：在多米尼加出现在 1 个项目中，涉及金额约 31 万美元。例：2021 年 Hunan Province and Zoomlion donate sugarcane harvester worth USD $310,000 to the Dominican Republic
 - 中国驻当地使领馆：在多米尼加出现在 2 个项目中，涉及金额约 13 万美元。例：2021 年 Chinese Embassy in Dominica donates USD $100,000 to help fight against the spread of Africa swine fever in the；2021 年 Chinese embassy donates 64 respirators and 100,000 masks to the Dominican Republic in March 2021
 
+## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
+
+- 美国：多米尼加对其出口 78.10 亿美元，自其进口 124.60 亿美元
+- 中国：多米尼加对其出口 3.10 亿美元，自其进口 59.88 亿美元
+- 印度：多米尼加对其出口 16.12 亿美元，自其进口 5.51 亿美元
+- 西班牙：多米尼加对其出口 1.06 亿美元，自其进口 14.32 亿美元
+- 墨西哥：多米尼加对其出口 4820 万美元，自其进口 12.05 亿美元
+- Haiti：多米尼加对其出口 11.69 亿美元，自其进口 588 万美元
+- 加拿大：多米尼加对其出口 7.58 亿美元，自其进口 2.44 亿美元
+- 巴西：多米尼加对其出口 5740 万美元，自其进口 9.25 亿美元
+- 荷兰：多米尼加对其出口 4.78 亿美元，自其进口 3.92 亿美元
+- Italy：多米尼加对其出口 8474 万美元，自其进口 7.43 亿美元
+- 德国：多米尼加对其出口 1.47 亿美元，自其进口 6.26 亿美元
+- 哥伦比亚：多米尼加对其出口 6407 万美元，自其进口 6.53 亿美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Dominican Republic - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.dom.html

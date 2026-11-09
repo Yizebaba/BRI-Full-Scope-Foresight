@@ -69,7 +69,7 @@
 - 非居民专利申请（件）：4.00（2020 年）
 - 高技术出口占制成品出口（%）：0.74（2018 年）
 - 高技术出口（现价美元）：38 万美元（2018 年）
-- 2025 年有本国作者参与的论文约 752 篇（OpenAlex），主要学科：Medicine（197）、Social Sciences（145）、Agricultural and Biological Sciences（90）、Environmental Science（55）、Health Professions（40）、Business, Management and Accounting（39）、Economics, Econometrics and Finance（31）、Immunology and Microbiology（30）
+- 2025 年有本国作者参与的论文约 729 篇（OpenAlex），主要学科：Medicine（222）、Social Sciences（146）、Agricultural and Biological Sciences（95）、Environmental Science（50）、Business, Management and Accounting（41）、Economics, Econometrics and Finance（31）、Immunology and Microbiology（19）、Health Professions（17）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/SLE ；Wikidata https://www.wikidata.org/ （CC0）。

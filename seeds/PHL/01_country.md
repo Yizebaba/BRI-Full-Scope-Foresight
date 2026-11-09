@@ -8,7 +8,7 @@
 - 政府首脑：小费迪南德·马科斯（Bongbong Marcos）；职位：菲律宾总统（President of the Philippines）
 - 立法机构：菲律宾國會（Congress of the Philippines）
 - 中央银行：菲律宾中央银行（Bangko Sentral ng Pilipinas）
-- 首都：马尼拉（Manila）；货币：菲律宾比索（Philippine peso）；官方语言：英语（English）、菲律宾语（Filipino）、他加禄式英語（Taglish）
+- 首都：马尼拉（Manila）；货币：菲律宾比索（Philippine peso）；官方语言：英语（English）、他加禄式英語（Taglish）、菲律宾语（Filipino）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：3,698（2024 年）
 - 高技术出口占制成品出口（%）：60.40（2024 年）
 - 高技术出口（现价美元）：343.60 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 30,460 篇（OpenAlex），主要学科：Social Sciences（8,796）、Medicine（2,912）、Computer Science（2,841）、Psychology（2,393）、Agricultural and Biological Sciences（2,128）、Engineering（1,857）、Business, Management and Accounting（1,735）、Environmental Science（1,597）
+- 2025 年有本国作者参与的论文约 30,216 篇（OpenAlex），主要学科：Social Sciences（10,199）、Medicine（3,251）、Business, Management and Accounting（2,381）、Agricultural and Biological Sciences（2,359）、Psychology（2,231）、Computer Science（1,825）、Environmental Science（1,404）、Engineering（1,400）
 - 玛丽亚·雷沙（Maria Ressa）：诺贝尔和平奖，2021 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

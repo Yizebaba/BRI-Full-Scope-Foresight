@@ -22,6 +22,21 @@
 - China's CHEC spends J$2 million during the 2013-2014 football season on：在牙买加出现在 1 个项目中，涉及金额约 2 万美元。例：2013 年 China's CHEC spends J$2 million during the 2013-2014 football season on awards (Linked with project #70720)
 - 汉办 / 孔子学院总部（Hanban）：在牙买加出现在 1 个项目中。例：2015 年 Hanban and the Chinese government offer a Chinese language programme to the Jamaica Constabulary Force
 
+## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
+
+- 美国：牙买加对其出口 6.75 亿美元，自其进口 28.51 亿美元
+- 中国：牙买加对其出口 2591 万美元，自其进口 8.79 亿美元
+- 巴西：牙买加对其出口 13 万美元，自其进口 3.97 亿美元
+- 特立尼达和多巴哥：牙买加对其出口 7542 万美元，自其进口 2.79 亿美元
+- 日本：牙买加对其出口 982 万美元，自其进口 3.00 亿美元
+- 俄罗斯：牙买加对其出口 1.87 亿美元，自其进口 4405 万美元
+- 加拿大：牙买加对其出口 1.01 亿美元，自其进口 1.22 亿美元
+- 尼日利亚：牙买加对其出口 3 万美元，自其进口 2.03 亿美元
+- 哥伦比亚：牙买加对其出口 31 万美元，自其进口 1.94 亿美元
+- 墨西哥：牙买加对其出口 926 万美元，自其进口 1.75 亿美元
+- 英国：牙买加对其出口 6590 万美元，自其进口 1.07 亿美元
+- 荷兰：牙买加对其出口 8192 万美元，自其进口 8713 万美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Jamaica - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.jam.html

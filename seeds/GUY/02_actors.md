@@ -25,6 +25,21 @@
 - Jiangsu Provincial People's Government：在圭亚那出现在 1 个项目中。例：2010 年 Jiangsu Provincial People's Government donates medical equipment to Guyanese hospitals
 - 中国商务部（MOFCOM）：在圭亚那出现在 1 个项目中。例：2019 年 Chinese Ministry of Commerce provides training on Agricultural Planting Technology to Guyanese technical emplo
 
+## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
+
+- 美国：圭亚那对其出口 39.71 亿美元，自其进口 20.92 亿美元
+- 新加坡：圭亚那对其出口 5.39 亿美元，自其进口 26.03 亿美元
+- 中国：圭亚那对其出口 18.33 亿美元，自其进口 13.03 亿美元
+- Panama：圭亚那对其出口 21.34 亿美元，自其进口 8591 万美元
+- 荷兰：圭亚那对其出口 16.46 亿美元，自其进口 1.17 亿美元
+- 英国：圭亚那对其出口 14.12 亿美元，自其进口 2.97 亿美元
+- 波兰：圭亚那对其出口 15.50 亿美元，自其进口 2901 万美元
+- 特立尼达和多巴哥：圭亚那对其出口 5315 万美元，自其进口 12.26 亿美元
+- 巴西：圭亚那对其出口 6.37 亿美元，自其进口 3.04 亿美元
+- Italy：圭亚那对其出口 7.30 亿美元，自其进口 1.39 亿美元
+- 阿联酋：圭亚那对其出口 8.02 亿美元，自其进口 3985 万美元
+- 西班牙：圭亚那对其出口 6.42 亿美元，自其进口 1849 万美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Guyana - Level 3: Reconsider Travel。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.guy.html

@@ -68,9 +68,9 @@
 - 非居民专利申请（件）：158（2023 年）
 - 高技术出口占制成品出口（%）：0.64（2023 年）
 - 高技术出口（现价美元）：10 万美元（2023 年）
-- 2025 年有本国作者参与的论文约 227 篇（OpenAlex），主要学科：Medicine（49）、Engineering（29）、Social Sciences（25）、Agricultural and Biological Sciences（24）、Computer Science（22）、Environmental Science（15）、Health Professions（12）、Materials Science（8）
-- 埃伦·约翰逊-瑟利夫（Ellen Johnson Sirleaf）：诺贝尔和平奖，2011 年
+- 2025 年有本国作者参与的论文约 224 篇（OpenAlex），主要学科：Medicine（49）、Social Sciences（33）、Agricultural and Biological Sciences（24）、Engineering（21）、Computer Science（16）、Environmental Science（16）、Materials Science（9）、Energy（8）
 - 莱伊曼·古博薇（Leymah Gbowee）：诺贝尔和平奖，2011 年
+- 埃伦·约翰逊-瑟利夫（Ellen Johnson Sirleaf）：诺贝尔和平奖，2011 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/LBR ；Wikidata https://www.wikidata.org/ （CC0）。

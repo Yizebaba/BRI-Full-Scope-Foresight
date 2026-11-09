@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：90.00（2024 年）
 - 高技术出口占制成品出口（%）：13.51（2024 年）
 - 高技术出口（现价美元）：401.10 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 97,624 篇（OpenAlex），主要学科：Medicine（17,827）、Social Sciences（14,141）、Engineering（11,634）、Arts and Humanities（8,596）、Environmental Science（4,756）、Computer Science（4,729）、Agricultural and Biological Sciences（4,632）、Biochemistry, Genetics and Molecular Biology（4,412）
+- 2025 年有本国作者参与的论文约 96,606 篇（OpenAlex），主要学科：Medicine（17,816）、Social Sciences（14,664）、Engineering（9,705）、Arts and Humanities（9,225）、Agricultural and Biological Sciences（5,149）、Computer Science（4,247）、Environmental Science（4,077）、Physics and Astronomy（3,984）
 - 维克托·安博斯（Victor Ambros）：诺贝尔生理学或医学奖，2024 年
 - 奥尔加·托卡尔丘克（Olga Tokarczuk）：诺贝尔文学奖，2018 年
 - 维斯瓦娃·辛波斯卡（Wisława Szymborska）：诺贝尔文学奖，1996 年
@@ -84,8 +84,8 @@
 - 乔治·夏帕克（Georges Charpak）：诺贝尔物理学奖，1992 年
 - 莱赫·瓦文萨（Lech Wałęsa）：诺贝尔和平奖，1983 年
 - 切斯瓦夫·米沃什（Czesław Miłosz）：诺贝尔文学奖，1980 年
-- 艾薩克·巴甚維斯·辛格（Isaac Bashevis Singer）：诺贝尔文学奖，1978 年
 - 梅纳赫姆·贝京（Menachem Begin）：诺贝尔和平奖，1978 年
+- 艾薩克·巴甚維斯·辛格（Isaac Bashevis Singer）：诺贝尔文学奖，1978 年
 - 朱利叶斯·阿克塞尔罗德（Julius Axelrod）：诺贝尔生理学或医学奖，1970 年
 - 塔德乌什·赖希施泰因（Tadeusz Reichstein）：诺贝尔生理学或医学奖，1950 年
 - 亨利克·亞當·亞歷山大·皮烏斯·显克微支（Henryk Sienkiewicz）：诺贝尔文学奖，1905 年

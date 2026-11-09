@@ -31,21 +31,6 @@
 - Chinese ophthalmologist team：在埃塞俄比亚出现在 1 个项目中。例：2014 年 Chinese ophthalmologist team offers services and donates medical equipments to Ethiopia
 - Xuzhou Construction Machinery Group (XCMG)：在埃塞俄比亚出现在 1 个项目中。例：2017 年 Xuzhou Construction Machinery Group (XCMG) provides 41 water cellars for Ethiopian Village
 
-## 主要贸易伙伴（UN Comtrade，2023 年，本国申报）
-
-- 中国：埃塞俄比亚对其出口 1.32 亿美元，自其进口 55.72 亿美元
-- 印度：埃塞俄比亚对其出口 1.39 亿美元，自其进口 16.38 亿美元
-- 沙特阿拉伯：埃塞俄比亚对其出口 2.98 亿美元，自其进口 11.29 亿美元
-- 美国：埃塞俄比亚对其出口 2.76 亿美元，自其进口 10.81 亿美元
-- 科威特：埃塞俄比亚对其出口 576 万美元，自其进口 13.27 亿美元
-- 摩洛哥：埃塞俄比亚对其出口 274 万美元，自其进口 6.77 亿美元
-- 土耳其：埃塞俄比亚对其出口 4637 万美元，自其进口 6.20 亿美元
-- 阿联酋：埃塞俄比亚对其出口 1.64 亿美元，自其进口 4.72 亿美元
-- 日本：埃塞俄比亚对其出口 1.04 亿美元，自其进口 3.82 亿美元
-- 埃及：埃塞俄比亚对其出口 871 万美元，自其进口 4.55 亿美元
-- 英国：埃塞俄比亚对其出口 4145 万美元，自其进口 3.63 亿美元
-- 印度尼西亚：埃塞俄比亚对其出口 2345 万美元，自其进口 3.31 亿美元
-
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Ethiopia - Level 3: Reconsider Travel。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.eth.html

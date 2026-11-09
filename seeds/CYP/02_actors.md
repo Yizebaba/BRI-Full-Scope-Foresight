@@ -5,7 +5,6 @@
 ## 本国政府与机构
 
 - 尼科斯·赫里斯托祖利季斯（Nicos Christodoulides）：塞浦路斯现任国家元首。来源：Wikidata
-- 尼科斯·阿纳斯塔夏季斯（Nikos Anastasiades）：塞浦路斯现任政府首脑。来源：Wikidata
 - 尼科斯·赫里斯托祖利季斯（Nicos Christodoulides）：塞浦路斯现任政府首脑。来源：Wikidata
 - 塞浦路斯众议院（House of Representatives）：塞浦路斯的立法机构。来源：Wikidata
 - 塞浦路斯中央银行（Central Bank of Cyprus）：塞浦路斯的中央银行。来源：Wikidata

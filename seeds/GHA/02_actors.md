@@ -29,21 +29,6 @@
 - Fujian Municipal Government：在加纳出现在 1 个项目中。例：2020 年 Fujian Municipal Government donates medical supplies to Ghana's Greater Accra Region
 - 中国援外医疗队：在加纳出现在 1 个项目中。例：2021 年 10th Chinese Medical Team to Ghana provides Traditional Chinese Medicine supplies to the China Traditional Her
 
-## 主要贸易伙伴（UN Comtrade，2023 年，本国申报）
-
-- 中国：加纳对其出口 13.76 亿美元，自其进口 30.53 亿美元
-- 瑞士：加纳对其出口 30.77 亿美元，自其进口 3.78 亿美元
-- 阿联酋：加纳对其出口 16.94 亿美元，自其进口 6.15 亿美元
-- 南非：加纳对其出口 19.66 亿美元，自其进口 3.11 亿美元
-- 荷兰：加纳对其出口 6.64 亿美元，自其进口 15.93 亿美元
-- 印度：加纳对其出口 11.76 亿美元，自其进口 10.43 亿美元
-- 美国：加纳对其出口 7.99 亿美元，自其进口 9.87 亿美元
-- 加拿大：加纳对其出口 8.47 亿美元，自其进口 2.88 亿美元
-- 俄罗斯：加纳对其出口 1070 万美元，自其进口 10.49 亿美元
-- 比利时：加纳对其出口 2.64 亿美元，自其进口 7.63 亿美元
-- 英国：加纳对其出口 3.04 亿美元，自其进口 5.08 亿美元
-- Italy：加纳对其出口 6.16 亿美元，自其进口 1.74 亿美元
-
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Ghana - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.gha.html

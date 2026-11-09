@@ -19,6 +19,21 @@
 - Government of People's Republic of China：在哥斯达黎加出现在 1 个项目中。例：2010 年 Government of People's Republic of China grants Minibus to Costa Rica's Ministry of Foreign Affairs and Worshi
 - Zhongshan Municipal Government：在哥斯达黎加出现在 1 个项目中。例：2020 年 Zhongshan Municipal Government donates two thermal sensing cameras to Costa Rica's General Directorate of Civi
 
+## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
+
+- 美国：哥斯达黎加对其出口 108.29 亿美元，自其进口 92.42 亿美元
+- 中国：哥斯达黎加对其出口 4.49 亿美元，自其进口 46.27 亿美元
+- 荷兰：哥斯达黎加对其出口 22.12 亿美元，自其进口 2.45 亿美元
+- 墨西哥：哥斯达黎加对其出口 3.13 亿美元，自其进口 15.19 亿美元
+- Guatemala：哥斯达黎加对其出口 10.41 亿美元，自其进口 6.22 亿美元
+- 比利时：哥斯达黎加对其出口 10.83 亿美元，自其进口 1.19 亿美元
+- 尼加拉瓜：哥斯达黎加对其出口 8.18 亿美元，自其进口 2.14 亿美元
+- 日本：哥斯达黎加对其出口 4.14 亿美元，自其进口 5.34 亿美元
+- Panama：哥斯达黎加对其出口 6.13 亿美元，自其进口 3.27 亿美元
+- 洪都拉斯：哥斯达黎加对其出口 6.85 亿美元，自其进口 1.90 亿美元
+- 德国：哥斯达黎加对其出口 1.48 亿美元，自其进口 6.95 亿美元
+- 西班牙：哥斯达黎加对其出口 3.55 亿美元，自其进口 4.71 亿美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Costa Rica - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.cri.html

@@ -4,8 +4,8 @@
 
 ## 本国政府与机构
 
-- 阿卜杜拉赫曼·奇亚尼（Abdourahamane Tiani）：尼日尔现任国家元首。来源：Wikidata
 - 哈苏米·马苏杜（Hassoumi Massoudou）：尼日尔现任国家元首。来源：Wikidata
+- 阿卜杜拉赫曼·奇亚尼（Abdourahamane Tiani）：尼日尔现任国家元首。来源：Wikidata
 - 阿里·拉明·泽因（Ali Lamine Zeine）：尼日尔现任政府首脑。来源：Wikidata
 - 尼日尔国民议会（National Assembly）：尼日尔的立法机构。来源：Wikidata
 - 西非国家中央银行（Central Bank of West African States）：尼日尔的中央银行。来源：Wikidata

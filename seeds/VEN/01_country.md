@@ -70,7 +70,7 @@
 - 科技期刊论文（篇）：475（2023 年）
 - 本国居民专利申请（件）：63.00（2024 年）
 - 非居民专利申请（件）：197（2024 年）
-- 2025 年有本国作者参与的论文约 5,609 篇（OpenAlex），主要学科：Social Sciences（1,264）、Medicine（1,113）、Environmental Science（377）、Arts and Humanities（364）、Agricultural and Biological Sciences（292）、Computer Science（265）、Engineering（247）、Psychology（225）
+- 2025 年有本国作者参与的论文约 5,089 篇（OpenAlex），主要学科：Social Sciences（1,387）、Medicine（1,041）、Arts and Humanities（391）、Environmental Science（280）、Agricultural and Biological Sciences（276）、Business, Management and Accounting（260）、Psychology（183）、Engineering（163）
 - 玛丽亚·科里纳·马查多（María Corina Machado）：诺贝尔和平奖，2025 年
 - 曼纽尔·布卢姆（Manuel Blum）：图灵奖，1995 年
 - 巴茹·贝纳塞拉夫（Baruj Benacerraf）：诺贝尔生理学或医学奖，1980 年

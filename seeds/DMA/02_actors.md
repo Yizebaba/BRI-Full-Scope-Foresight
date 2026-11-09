@@ -18,6 +18,21 @@
 - Grant from China：在多米尼克出现在 1 个项目中，涉及金额约 63 万美元。例：2013 年 Grant from China funds rehabilitation of Lalay Road in Grand Bay (linked to #72249)
 - 中国驻当地使领馆：在多米尼克出现在 3 个项目中。例：2013 年 Chinese Embassy donates 5 boxes of Chinese language learning materials to Orion Academy；2016 年 Chinese embassy provides computers and printers for New Town Primary School；2013 年 Chinese Embassy provides Tai Chi course for Dominica
 
+## 主要贸易伙伴（UN Comtrade，2023 年，本国申报）
+
+- 美国：多米尼克对其出口 176 万美元，自其进口 1.09 亿美元
+- 特立尼达和多巴哥：多米尼克对其出口 36 万美元，自其进口 3236 万美元
+- 中国：多米尼克对其出口 无数据，自其进口 1420 万美元
+- 英国：多米尼克对其出口 29 万美元，自其进口 1350 万美元
+- 安提瓜和巴布达：多米尼克对其出口 396 万美元，自其进口 914 万美元
+- 奥地利：多米尼克对其出口 1006 美元，自其进口 1107 万美元
+- 法国：多米尼克对其出口 206 万美元，自其进口 887 万美元
+- 委内瑞拉：多米尼克对其出口 无数据，自其进口 1045 万美元
+- 牙买加：多米尼克对其出口 20 万美元，自其进口 764 万美元
+- 巴巴多斯：多米尼克对其出口 143 万美元，自其进口 596 万美元
+- 日本：多米尼克对其出口 无数据，自其进口 654 万美元
+- Saint Lucia：多米尼克对其出口 157 万美元，自其进口 487 万美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Dominica - Level 1: Exercise Normal Precautions。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.dma.html

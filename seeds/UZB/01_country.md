@@ -77,7 +77,7 @@
 - 非居民专利申请（件）：251（2024 年）
 - 高技术出口占制成品出口（%）：1.73（2024 年）
 - 高技术出口（现价美元）：9632 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 59,405 篇（OpenAlex），主要学科：Social Sciences（13,173）、Arts and Humanities（9,716）、Medicine（5,537）、Engineering（4,744）、Computer Science（4,604）、Business, Management and Accounting（3,270）、Economics, Econometrics and Finance（3,122）、Psychology（2,990）
+- 2025 年有本国作者参与的论文约 58,522 篇（OpenAlex），主要学科：Social Sciences（15,446）、Arts and Humanities（10,108）、Medicine（5,325）、Business, Management and Accounting（3,976）、Engineering（3,694）、Economics, Econometrics and Finance（3,572）、Psychology（2,480）、Computer Science（2,420）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/UZB ；Wikidata https://www.wikidata.org/ （CC0）。

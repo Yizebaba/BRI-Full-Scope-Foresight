@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-09 10:18 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-09 21:01 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -49,9 +49,6 @@
 ## 喀喇昆仑公路改扩建（雷科特—红其拉甫）
 
 周边自然事件：扫描期间没有记录。
-
-近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-06 08:00 UTC：Karakoram Highway | Facts, Completion Date, & Khunjerab Pass - Britannica
 
 ## 喀喇昆仑公路二期（塔科特—哈维连）
 
@@ -77,14 +74,14 @@
 - 2026-11-05 03:20 UTC：Blue whale washes ashore dead in Gwadar - The Express Tribune。https://news.google.com/rss/articles/CBMiggFBVV95cUxOX1NaUW1rWDVDWDRCMXgxd0x3cDctblY0bzNRSVpLeEkwQVo4YlprWkNKVzYwdVd4cHRxU0VlTG5xX1M1SXEybEE2SWNrT2huQXRuWDBkdGpVVDh1MU9ZdEJfMDlFajQ4czl4V3M3QTZMd01uTFNablRzX3doN1htTVln0gGKAUFVX3lxTE1rRzRjZ2Y1dWZES2x2R1hRSHI3OGtkcG8zNWV3SzQ2OVYwTDk3RHFtaGZLMmlHYVBPZHdtUjJic1hkYjVVbllEWlVQYjZ3ZHBkeDhrclloNVMtQnhBLXZOMTV5U0pCbzJDTjJMVDJMNmJ4bE9oUnFTUU01S0Z2WWNqZ1dhbUpsdVdFQQ?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-09 17:58 UTC：Saudi business delegation shows interest in Gwadar Port's projects - 24 News HD
+- 2026-11-09 08:02 UTC：Modern fishermen’s shelter completed in Jiwani, Gwadar - Gwadar Pro
 - 2026-11-09 08:02 UTC：Pakistani graduates secure jobs after internship at Diamer-Basha Dam - Gwadar Pro
 - 2026-11-09 07:34 UTC：Pakistani delegation visits China to discuss Gwadar port development, CPEC and trade cooperation - https://cpecinfo.com/
 - 2026-11-08 23:46 UTC：Visit to China: Balochistan delegation discusses CPEC, Gwadar Port - Business Recorder
 - 2026-11-08 13:37 UTC：CPEC and Gwadar port development dominate Pakistani delegation’s China visit - Minute Mirror
 - 2026-11-07 17:25 UTC：Nawaz Sharif Era | Container Terminals | Gwadar Deep Sea Port | News Insight With Amir Zia - Aaj News
 - 2026-11-07 17:25 UTC：Nawaz Sharif Era | Container Terminals | Gwadar Deep Sea Port | News Insight With Amir Zia - Aaj English TV
-- 2026-11-06 19:33 UTC：Rare 45-Foot Sperm Whale Spotted Off Karachi Coast for First Time - Bloom Pakistan
-- 2026-11-05 20:44 UTC：Gwadar Medical Board Approves Disability Certificates for 22 Applicants - Daily Independent
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

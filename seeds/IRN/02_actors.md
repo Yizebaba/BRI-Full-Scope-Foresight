@@ -24,6 +24,21 @@
 - 中国驻当地使领馆：在伊朗出现在 8 个项目中，涉及金额约 5 万美元。例：2004 年 Chinese embassy donates US$20,000 to female survivors of the Bam earthquake in Iran；2015 年 Chinese Embassy donates teaching materials to Allameh Tabataba'i University；2015 年 Chinese Embassy donates teaching materials to Shahid Beheshti University
 - 汉办 / 孔子学院总部（Hanban）：在伊朗出现在 1 个项目中。例：2007 年 Hanban funds establishment of Confucius Institute at University of Tehran
 
+## 主要贸易伙伴（UN Comtrade，2023 年，本国申报）
+
+- 中国：伊朗对其出口 282.93 亿美元，自其进口 183.35 亿美元
+- 阿联酋：伊朗对其出口 60.91 亿美元，自其进口 205.70 亿美元
+- 中国台湾地区（Comtrade 记作 Other Asia, nes）：伊朗对其出口 226.44 亿美元，自其进口 2.41 亿美元
+- 土耳其：伊朗对其出口 70.67 亿美元，自其进口 69.01 亿美元
+- 未列明地区：伊朗对其出口 130.13 亿美元，自其进口 1.61 亿美元
+- 伊拉克：伊朗对其出口 120.35 亿美元，自其进口 4.90 亿美元
+- 印度：伊朗对其出口 23.77 亿美元，自其进口 21.65 亿美元
+- 俄罗斯：伊朗对其出口 9.10 亿美元，自其进口 18.49 亿美元
+- 巴基斯坦：伊朗对其出口 19.73 亿美元，自其进口 6.36 亿美元
+- 德国：伊朗对其出口 1.70 亿美元，自其进口 22.89 亿美元
+- 阿曼：伊朗对其出口 12.32 亿美元，自其进口 9.56 亿美元
+- 阿富汗：伊朗对其出口 17.62 亿美元，自其进口 3565 万美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Iran - Level 4: Do Not Travel。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.irn.html

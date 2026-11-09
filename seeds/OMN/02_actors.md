@@ -18,6 +18,21 @@
 - 汉办 / 孔子学院总部（Hanban）：在阿曼出现在 1 个项目中。例：2016 年 Hanban funds the establishment of Chinese Language Teacher Program at Sultan Qaboos University
 - 中国驻当地使领馆：在阿曼出现在 1 个项目中。例：2016 年 Chinese Embassy donates stationary and backpacks to the Muscat Chinese School
 
+## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
+
+- 未列明地区：阿曼对其出口 377.40 亿美元，自其进口 无数据
+- 阿联酋：阿曼对其出口 52.92 亿美元，自其进口 107.86 亿美元
+- 沙特阿拉伯：阿曼对其出口 32.70 亿美元，自其进口 31.68 亿美元
+- 印度：阿曼对其出口 20.37 亿美元，自其进口 37.66 亿美元
+- 中国：阿曼对其出口 7.18 亿美元，自其进口 50.34 亿美元
+- 科威特：阿曼对其出口 4.02 亿美元，自其进口 34.18 亿美元
+- 美国：阿曼对其出口 11.04 亿美元，自其进口 15.31 亿美元
+- 卡塔尔：阿曼对其出口 4.47 亿美元，自其进口 21.55 亿美元
+- 韩国：阿曼对其出口 12.61 亿美元，自其进口 5.00 亿美元
+- 日本：阿曼对其出口 1.52 亿美元，自其进口 15.12 亿美元
+- 伊朗：阿曼对其出口 9.58 亿美元，自其进口 5.92 亿美元
+- 巴西：阿曼对其出口 7704 万美元，自其进口 13.49 亿美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Oman - Level 3: Reconsider Travel。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.omn.html

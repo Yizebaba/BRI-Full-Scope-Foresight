@@ -9,8 +9,8 @@
 - 图尔古特·厄扎尔（Turgut Özal）：土耳其现任政府首脑。来源：Wikidata
 - 比連德·烏盧蘇（Bülent Ulusu）：土耳其现任政府首脑。来源：Wikidata
 - 耶尔德勒姆·阿克布卢特（Yıldırım Akbulut）：土耳其现任政府首脑。来源：Wikidata
-- 埃达尔·伊诺努（Erdal İnönü）：土耳其现任政府首脑。来源：Wikidata
 - 雷杰普·塔伊普·埃尔多安（Recep Tayyip Erdoğan）：土耳其现任政府首脑。来源：Wikidata
+- 埃达尔·伊诺努（Erdal İnönü）：土耳其现任政府首脑。来源：Wikidata
 - 土耳其大国民议会（Grand National Assembly of Turkey）：土耳其的立法机构。来源：Wikidata
 - 土耳其共和國中央銀行（Central Bank of the Republic of Turkey）：土耳其的中央银行。来源：Wikidata
 - 土耳其政府各部门：AidData 记录中的借款方、受援方和项目实施方。

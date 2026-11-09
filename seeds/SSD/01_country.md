@@ -56,7 +56,7 @@
 ## 科研、创新与获奖
 
 - 科技期刊论文（篇）：17.18（2023 年）
-- 2025 年有本国作者参与的论文约 274 篇（OpenAlex），主要学科：Social Sciences（107）、Medicine（35）、Agricultural and Biological Sciences（33）、Environmental Science（24）、Computer Science（10）、Engineering（8）、Energy（7）、Economics, Econometrics and Finance（6）
+- 2025 年有本国作者参与的论文约 267 篇（OpenAlex），主要学科：Social Sciences（106）、Medicine（40）、Agricultural and Biological Sciences（34）、Environmental Science（24）、Business, Management and Accounting（9）、Economics, Econometrics and Finance（8）、Energy（7）、Pharmacology, Toxicology and Pharmaceutics（6）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/SSD ；Wikidata https://www.wikidata.org/ （CC0）。

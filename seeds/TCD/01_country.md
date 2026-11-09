@@ -69,7 +69,7 @@
 - 研发支出占 GDP（%）：0.23（2016 年）
 - 每百万人研究人员：56.72（2016 年）
 - 科技期刊论文（篇）：52.36（2023 年）
-- 2025 年有本国作者参与的论文约 489 篇（OpenAlex），主要学科：Medicine（135）、Agricultural and Biological Sciences（91）、Engineering（54）、Environmental Science（37）、Computer Science（33）、Social Sciences（32）、Business, Management and Accounting（13）、Biochemistry, Genetics and Molecular Biology（12）
+- 2025 年有本国作者参与的论文约 476 篇（OpenAlex），主要学科：Medicine（136）、Agricultural and Biological Sciences（89）、Engineering（43）、Social Sciences（39）、Environmental Science（33）、Computer Science（21）、Earth and Planetary Sciences（14）、Energy（13）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/TCD ；Wikidata https://www.wikidata.org/ （CC0）。

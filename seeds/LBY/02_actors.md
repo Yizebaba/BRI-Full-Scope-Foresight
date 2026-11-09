@@ -18,6 +18,21 @@
 - 中国建筑（CSCEC）：在利比亚出现在 1 个项目中。例：2010 年 CSCEC funds the establishment of the Zhongli Vocational Training Center
 - 中国驻当地使领馆：在利比亚出现在 1 个项目中。例：2013 年 Chinese Embassy donates prosthetic limbs, blankets, and medical kits to the Libyan Red Crescent Society
 
+## 主要贸易伙伴（UN Comtrade，2025 年，镜像：各国对它的申报）
+
+- Italy：利比亚对其出口 67.82 亿美元，自其进口 21.75 亿美元
+- 德国：利比亚对其出口 58.67 亿美元，自其进口 9.27 亿美元
+- 中国：利比亚对其出口 7.96 亿美元，自其进口 40.46 亿美元
+- 土耳其：利比亚对其出口 3.85 亿美元，自其进口 31.55 亿美元
+- 西班牙：利比亚对其出口 26.40 亿美元，自其进口 3.55 亿美元
+- 法国：利比亚对其出口 24.71 亿美元，自其进口 5.00 亿美元
+- 希腊：利比亚对其出口 20.17 亿美元，自其进口 8.93 亿美元
+- 英国：利比亚对其出口 25.21 亿美元，自其进口 2.18 亿美元
+- 美国：利比亚对其出口 13.98 亿美元，自其进口 7.32 亿美元
+- 塞浦路斯：利比亚对其出口 1.04 亿美元，自其进口 15.55 亿美元
+- 荷兰：利比亚对其出口 9.67 亿美元，自其进口 6.08 亿美元
+- 埃及：利比亚对其出口 3958 万美元，自其进口 14.94 亿美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Libya - Level 4: Do Not Travel。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lby.html

@@ -32,6 +32,21 @@
 - Confucius Institute at Ricardo Palma University：在秘鲁出现在 1 个项目中。例：2017 年 Confucius Institute at Ricardo Palma University grants disaster relief materials
 - Chinese Ministry of Culture：在秘鲁出现在 1 个项目中。例：2004 年 Chinese Ministry of Culture donates 200 books to the National Library of Peru
 
+## 主要贸易伙伴（UN Comtrade，2023 年，本国申报）
+
+- 中国：秘鲁对其出口 230.98 亿美元，自其进口 135.34 亿美元
+- 美国：秘鲁对其出口 92.30 亿美元，自其进口 110.12 亿美元
+- 巴西：秘鲁对其出口 17.29 亿美元，自其进口 37.44 亿美元
+- 加拿大：秘鲁对其出口 30.42 亿美元，自其进口 12.14 亿美元
+- 印度：秘鲁对其出口 25.31 亿美元，自其进口 11.17 亿美元
+- 日本：秘鲁对其出口 23.15 亿美元，自其进口 11.02 亿美元
+- 智利：秘鲁对其出口 18.99 亿美元，自其进口 13.24 亿美元
+- 韩国：秘鲁对其出口 23.49 亿美元，自其进口 8.38 亿美元
+- 阿根廷：秘鲁对其出口 1.94 亿美元，自其进口 26.61 亿美元
+- 西班牙：秘鲁对其出口 18.82 亿美元，自其进口 7.93 亿美元
+- 墨西哥：秘鲁对其出口 8.62 亿美元，自其进口 17.71 亿美元
+- 厄瓜多尔：秘鲁对其出口 11.58 亿美元，自其进口 11.86 亿美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Peru - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.per.html

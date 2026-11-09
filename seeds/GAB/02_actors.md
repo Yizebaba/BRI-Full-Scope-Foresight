@@ -22,21 +22,6 @@
 - China Embassy in Gabon：在加蓬出现在 1 个项目中。例：2018 年 China Embassy in Gabon donates books for Wenhui Library at African Management University
 - 中国驻当地使领馆：在加蓬出现在 1 个项目中。例：2018 年 Chinese Embassy donates educational materials to the Sino-Gabonese Pilot School
 
-## 主要贸易伙伴（UN Comtrade，2023 年，本国申报）
-
-- 中国：加蓬对其出口 35.16 亿美元，自其进口 4.90 亿美元
-- 法国：加蓬对其出口 13.41 亿美元，自其进口 5.49 亿美元
-- 荷兰：加蓬对其出口 7.24 亿美元，自其进口 1.02 亿美元
-- 西班牙：加蓬对其出口 7.55 亿美元，自其进口 6652 万美元
-- 印度：加蓬对其出口 5.88 亿美元，自其进口 1.64 亿美元
-- Israel：加蓬对其出口 6.80 亿美元，自其进口 586 万美元
-- Italy：加蓬对其出口 5.94 亿美元，自其进口 7832 万美元
-- 马来西亚：加蓬对其出口 6.31 亿美元，自其进口 3119 万美元
-- 韩国：加蓬对其出口 6305 万美元，自其进口 5.60 亿美元
-- 印度尼西亚：加蓬对其出口 5.73 亿美元，自其进口 2348 万美元
-- 刚果（布）：加蓬对其出口 5.74 亿美元，自其进口 1012 万美元
-- 美国：加蓬对其出口 1.63 亿美元，自其进口 3.18 亿美元
-
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Gabon - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.gab.html

@@ -5,8 +5,8 @@
 ## 本国政府与机构
 
 - 泽利科·科姆希奇（Željko Komšić）：波黑现任国家元首。来源：Wikidata
-- 戴尼斯·贝契罗维奇（Denis Bećirović）：波黑现任国家元首。来源：Wikidata
 - 热莉卡·茨维亚诺维奇（Željka Cvijanović）：波黑现任国家元首。来源：Wikidata
+- 戴尼斯·贝契罗维奇（Denis Bećirović）：波黑现任国家元首。来源：Wikidata
 - 博里亚娜·克里什托（Borjana Krišto）：波黑现任政府首脑。来源：Wikidata
 - 波斯尼亚和黑塞哥维那议会（Parliamentary Assembly of Bosnia and Herzegovina）：波黑的立法机构。来源：Wikidata
 - 波斯尼亚和黑塞哥维那中央银行（Central Bank of Bosnia and Herzegovina）：波黑的中央银行。来源：Wikidata

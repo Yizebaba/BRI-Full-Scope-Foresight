@@ -18,6 +18,21 @@
 - 中国驻当地使领馆：在叙利亚出现在 10 个项目中。例：2009 年 Chinese embassy donates school supplies to SOS Children's Village；2011 年 Chinese embassy donates office equipment to Syrian Journalists Association；2011 年 Chinese Embassy donates office equipment to the Syrian Arab News Agency
 - Chinese Ministry of Culture：在叙利亚出现在 1 个项目中。例：2004 年 Chinese Ministry of Culture donates 400 books to Syrian national library
 
+## 主要贸易伙伴（UN Comtrade，2025 年，镜像：各国对它的申报）
+
+- 土耳其：叙利亚对其出口 2.35 亿美元，自其进口 34.94 亿美元
+- 中国：叙利亚对其出口 126 万美元，自其进口 6.68 亿美元
+- 沙特阿拉伯：叙利亚对其出口 2.19 亿美元，自其进口 4.01 亿美元
+- 埃及：叙利亚对其出口 1.10 亿美元，自其进口 4.23 亿美元
+- 韩国：叙利亚对其出口 22 万美元，自其进口 2.07 亿美元
+- 德国：叙利亚对其出口 7413 万美元，自其进口 6706 万美元
+- 阿塞拜疆：叙利亚对其出口 125 万美元，自其进口 1.25 亿美元
+- 印度：叙利亚对其出口 3316 万美元，自其进口 8254 万美元
+- Italy：叙利亚对其出口 3511 万美元，自其进口 7604 万美元
+- 阿根廷：叙利亚对其出口 2 万美元，自其进口 9354 万美元
+- 摩洛哥：叙利亚对其出口 103 万美元，自其进口 7975 万美元
+- 科威特：叙利亚对其出口 5780 万美元，自其进口 1372 万美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Syria - Level 4: Do Not Travel。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.syr.html

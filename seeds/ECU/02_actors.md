@@ -33,6 +33,21 @@
 - CEIEC：在厄瓜多尔出现在 1 个项目中，涉及金额约 1106 美元。例：2020 年 CEIEC donates 3,300 masks to Catamayo Municipal Government and Government of Ecuador in 2020
 - 汉办 / 孔子学院总部（Hanban）：在厄瓜多尔出现在 1 个项目中。例：2010 年 Hanban funds establishment of Confucius Institute at San Francisco University of Quito
 
+## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
+
+- 美国：厄瓜多尔对其出口 68.88 亿美元，自其进口 91.61 亿美元
+- 中国：厄瓜多尔对其出口 59.88 亿美元，自其进口 84.41 亿美元
+- Panama：厄瓜多尔对其出口 64.12 亿美元，自其进口 1.02 亿美元
+- 哥伦比亚：厄瓜多尔对其出口 8.86 亿美元，自其进口 19.60 亿美元
+- 秘鲁：厄瓜多尔对其出口 10.78 亿美元，自其进口 11.11 亿美元
+- 西班牙：厄瓜多尔对其出口 12.50 亿美元，自其进口 7.43 亿美元
+- 荷兰：厄瓜多尔对其出口 15.97 亿美元，自其进口 2.03 亿美元
+- 德国：厄瓜多尔对其出口 7.30 亿美元，自其进口 7.34 亿美元
+- Italy：厄瓜多尔对其出口 8.94 亿美元，自其进口 5.62 亿美元
+- 智利：厄瓜多尔对其出口 7.43 亿美元，自其进口 5.67 亿美元
+- 巴西：厄瓜多尔对其出口 1.25 亿美元，自其进口 11.26 亿美元
+- 阿根廷：厄瓜多尔对其出口 3.32 亿美元，自其进口 9.10 亿美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Ecuador - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ecu.html

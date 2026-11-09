@@ -18,6 +18,21 @@
 - 20th Chinese peacekeeping force：在黎巴嫩出现在 1 个项目中，涉及金额约 2 万美元。例：2021 年 20th Chinese peacekeeping force donates medicine worth USD 22,000 to a Lebanese village in November 2021 (Link
 - 汉办 / 孔子学院总部（Hanban）：在黎巴嫩出现在 1 个项目中。例：2006 年 Hanban establishes first Confucius Institute in the Middle East Region at Saint Joseph University in Lebanon
 
+## 主要贸易伙伴（UN Comtrade，2024 年，本国申报）
+
+- 中国：黎巴嫩对其出口 2353 万美元，自其进口 19.79 亿美元
+- 阿联酋：黎巴嫩对其出口 10.35 亿美元，自其进口 9.55 亿美元
+- 希腊：黎巴嫩对其出口 9380 万美元，自其进口 15.65 亿美元
+- 埃及：黎巴嫩对其出口 2.14 亿美元，自其进口 10.77 亿美元
+- 土耳其：黎巴嫩对其出口 1.99 亿美元，自其进口 10.46 亿美元
+- 瑞士：黎巴嫩对其出口 1.24 亿美元，自其进口 11.13 亿美元
+- Italy：黎巴嫩对其出口 5758 万美元，自其进口 9.03 亿美元
+- 沙特阿拉伯：黎巴嫩对其出口 21 万美元，自其进口 8.88 亿美元
+- 美国：黎巴嫩对其出口 2.25 亿美元，自其进口 5.84 亿美元
+- 德国：黎巴嫩对其出口 3964 万美元，自其进口 5.27 亿美元
+- 法国：黎巴嫩对其出口 1.01 亿美元，自其进口 4.09 亿美元
+- 塞浦路斯：黎巴嫩对其出口 6250 万美元，自其进口 3.68 亿美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Lebanon - Level 4: Do Not Travel。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lbn.html

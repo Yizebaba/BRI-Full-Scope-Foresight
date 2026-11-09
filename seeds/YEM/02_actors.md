@@ -22,6 +22,21 @@
 - Xinhua News Agency：在也门出现在 1 个项目中。例：2014 年 Xinhua News Agency grants technical equipment to Yemen Saba News Agency
 - Chinese Ministry of Civil Affairs：在也门出现在 1 个项目中。例：2014 年 Chinese Ministry of Civil Affairs provides grant for renovation of Chinese Martyrs Cemetery in Sana'a
 
+## 主要贸易伙伴（UN Comtrade，2024 年，本国申报）
+
+- 沙特阿拉伯：也门对其出口 3.47 亿美元，自其进口 2.96 亿美元
+- 阿联酋：也门对其出口 3070 万美元，自其进口 4.68 亿美元
+- 中国：也门对其出口 546 万美元，自其进口 4.14 亿美元
+- 印度：也门对其出口 272 万美元，自其进口 3.29 亿美元
+- 巴西：也门对其出口 无数据，自其进口 2.00 亿美元
+- 俄罗斯：也门对其出口 无数据，自其进口 1.61 亿美元
+- 日本：也门对其出口 39 万美元，自其进口 1.40 亿美元
+- 阿曼：也门对其出口 3269 万美元，自其进口 9410 万美元
+- 土耳其：也门对其出口 130 万美元，自其进口 1.25 亿美元
+- 埃及：也门对其出口 2257 万美元，自其进口 6669 万美元
+- 澳大利亚：也门对其出口 5 万美元，自其进口 8702 万美元
+- 未列明地区：也门对其出口 12 万美元，自其进口 8297 万美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Yemen - Level 4: Do Not Travel。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.yem.html

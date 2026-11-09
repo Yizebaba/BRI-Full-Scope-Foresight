@@ -10,6 +10,21 @@
 - 沙烏地阿拉伯貨幣局（Saudi Central Bank）：沙特阿拉伯的中央银行。来源：Wikidata
 - 沙特阿拉伯政府各部门：AidData 记录中的借款方、受援方和项目实施方。
 
+## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
+
+- 中国台湾地区（Comtrade 记作 Other Asia, nes）：沙特阿拉伯对其出口 1548.19 亿美元，自其进口 15.02 亿美元
+- 中国：沙特阿拉伯对其出口 77.51 亿美元，自其进口 696.60 亿美元
+- 阿联酋：沙特阿拉伯对其出口 280.45 亿美元，自其进口 143.81 亿美元
+- Other Europe, nes：沙特阿拉伯对其出口 305.05 亿美元，自其进口 无数据
+- 美国：沙特阿拉伯对其出口 25.22 亿美元，自其进口 209.21 亿美元
+- 印度：沙特阿拉伯对其出口 89.49 亿美元，自其进口 121.54 亿美元
+- Other Africa, nes：沙特阿拉伯对其出口 144.97 亿美元，自其进口 无数据
+- North America and Central America, nes：沙特阿拉伯对其出口 126.05 亿美元，自其进口 无数据
+- 德国：沙特阿拉伯对其出口 5.40 亿美元，自其进口 112.04 亿美元
+- 日本：沙特阿拉伯对其出口 6.87 亿美元，自其进口 101.86 亿美元
+- 埃及：沙特阿拉伯对其出口 28.73 亿美元，自其进口 66.10 亿美元
+- Italy：沙特阿拉伯对其出口 9.13 亿美元，自其进口 82.23 亿美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Saudi Arabia - Level 3: Reconsider Travel。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.sau.html

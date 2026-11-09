@@ -12,7 +12,7 @@
 
 ## 科研、创新与获奖
 
-- 2025 年有本国作者参与的论文约 10 篇（OpenAlex），主要学科：Psychology（6）、Arts and Humanities（1）、Business, Management and Accounting（1）、Medicine（1）、Physics and Astronomy（1）
+- 2025 年有本国作者参与的论文约 10 篇（OpenAlex），主要学科：Psychology（6）、Business, Management and Accounting（1）、Medicine（1）、Physics and Astronomy（1）、Social Sciences（1）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/NIU ；Wikidata https://www.wikidata.org/ （CC0）。

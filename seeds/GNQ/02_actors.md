@@ -30,21 +30,6 @@
 - Equatorial Guinea-China Chamber of Commerce：在赤道几内亚出现在 1 个项目中。例：2021 年 Equatorial Guinea-China Chamber of Commerce and other Chinese entities provide cash donation to the Government
 - China’s technical assistance project team：在赤道几内亚出现在 1 个项目中。例：2021 年 China’s technical assistance project team provides living supplies to Equatorial Guinea’s Ministry of Agricult
 
-## 主要贸易伙伴（UN Comtrade，2025 年，镜像：各国对它的申报）
-
-- 中国：赤道几内亚对其出口 7.78 亿美元，自其进口 1.76 亿美元
-- 西班牙：赤道几内亚对其出口 5.68 亿美元，自其进口 1.59 亿美元
-- 韩国：赤道几内亚对其出口 3.30 亿美元，自其进口 923 万美元
-- 荷兰：赤道几内亚对其出口 2.33 亿美元，自其进口 4313 万美元
-- Italy：赤道几内亚对其出口 2.14 亿美元，自其进口 3951 万美元
-- 美国：赤道几内亚对其出口 1.05 亿美元，自其进口 8417 万美元
-- 德国：赤道几内亚对其出口 1.49 亿美元，自其进口 3397 万美元
-- 尼日利亚：赤道几内亚对其出口 6470 万美元，自其进口 6416 万美元
-- 泰国：赤道几内亚对其出口 1.17 亿美元，自其进口 1154 万美元
-- 印度尼西亚：赤道几内亚对其出口 1.05 亿美元，自其进口 2243 万美元
-- 日本：赤道几内亚对其出口 1.23 亿美元，自其进口 222 万美元
-- 印度：赤道几内亚对其出口 9736 万美元，自其进口 2159 万美元
-
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Equatorial Guinea - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.gnq.html

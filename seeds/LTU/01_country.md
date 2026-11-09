@@ -75,7 +75,7 @@
 - 非居民专利申请（件）：5.00（2024 年）
 - 高技术出口占制成品出口（%）：17.32（2024 年）
 - 高技术出口（现价美元）：41.81 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 8,926 篇（OpenAlex），主要学科：Medicine（1,561）、Social Sciences（1,365）、Engineering（1,058）、Environmental Science（517）、Arts and Humanities（497）、Agricultural and Biological Sciences（439）、Computer Science（431）、Business, Management and Accounting（416）
+- 2025 年有本国作者参与的论文约 8,798 篇（OpenAlex），主要学科：Medicine（1,605）、Social Sciences（1,476）、Engineering（825）、Agricultural and Biological Sciences（532）、Arts and Humanities（499）、Business, Management and Accounting（496）、Environmental Science（417）、Computer Science（376）
 - 切斯瓦夫·米沃什（Czesław Miłosz）：诺贝尔文学奖，1980 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

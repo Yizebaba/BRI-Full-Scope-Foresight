@@ -73,7 +73,7 @@
 - 非居民专利申请（件）：6.00（2023 年）
 - 高技术出口占制成品出口（%）：4.83（2015 年）
 - 高技术出口（现价美元）：303 万美元（2015 年）
-- 2025 年有本国作者参与的论文约 4,210 篇（OpenAlex），主要学科：Medicine（759）、Social Sciences（569）、Engineering（356）、Computer Science（354）、Arts and Humanities（329）、Business, Management and Accounting（298）、Mathematics（198）、Agricultural and Biological Sciences（163）
+- 2025 年有本国作者参与的论文约 4,152 篇（OpenAlex），主要学科：Medicine（738）、Social Sciences（521）、Arts and Humanities（400）、Business, Management and Accounting（339）、Computer Science（294）、Engineering（261）、Mathematics（235）、Dentistry（191）
 - 塔瓦库·卡曼（Tawakkol Karman）：诺贝尔和平奖，2011 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

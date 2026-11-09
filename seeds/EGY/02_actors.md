@@ -24,6 +24,21 @@
 - Chinese：在埃及出现在 1 个项目中，涉及金额约 12 万美元。例：2014 年 Chinese provides USD 750,000 for the establishment of the China-Egypt Renewable Energy National Joint Laborato
 - 中兴通讯（ZTE）：在埃及出现在 1 个项目中。例：2010 年 ZTE establishes training, grants tech to Egypt National Telecommunication Institute
 
+## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
+
+- 中国：埃及对其出口 4.91 亿美元，自其进口 187.57 亿美元
+- 美国：埃及对其出口 27.06 亿美元，自其进口 127.75 亿美元
+- 沙特阿拉伯：埃及对其出口 29.81 亿美元，自其进口 94.53 亿美元
+- 阿联酋：埃及对其出口 70.31 亿美元，自其进口 26.39 亿美元
+- 土耳其：埃及对其出口 32.97 亿美元，自其进口 36.59 亿美元
+- Italy：埃及对其出口 40.42 亿美元，自其进口 28.96 亿美元
+- 俄罗斯：埃及对其出口 8.11 亿美元，自其进口 51.93 亿美元
+- 德国：埃及对其出口 12.49 亿美元，自其进口 43.52 亿美元
+- 巴西：埃及对其出口 11.23 亿美元，自其进口 43.45 亿美元
+- 印度：埃及对其出口 6.42 亿美元，自其进口 36.33 亿美元
+- 英国：埃及对其出口 15.98 亿美元，自其进口 16.66 亿美元
+- 西班牙：埃及对其出口 14.16 亿美元，自其进口 15.99 亿美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Egypt - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.egy.html

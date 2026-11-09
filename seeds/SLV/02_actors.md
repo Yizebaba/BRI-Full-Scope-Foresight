@@ -17,6 +17,21 @@
 - China's City of Hangzhou：在萨尔瓦多出现在 1 个项目中，涉及金额约 73 万美元。例：2019 年 China's City of Hangzhou donates 12 buses worth $650,000 to the city of San Salvador, El Salvador
 - 中国驻当地使领馆：在萨尔瓦多出现在 6 个项目中，涉及金额约 7 万美元。例：2019 年 Chinese Embassy donates medical supplies to Rosales National Hospital in El Salvador；2019 年 Chinese Embassy donates musical instruments worth USD 18,978.65 to the Ilopango city band in El Salvador ；2019 年 The Chinese Embassy in El Salvador awards 150 scholarships to impoverished students in Mejicanos, El Salvador
 
+## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
+
+- 美国：萨尔瓦多对其出口 21.11 亿美元，自其进口 46.93 亿美元
+- 中国：萨尔瓦多对其出口 5000 万美元，自其进口 35.66 亿美元
+- Guatemala：萨尔瓦多对其出口 12.63 亿美元，自其进口 16.60 亿美元
+- 洪都拉斯：萨尔瓦多对其出口 10.76 亿美元，自其进口 7.29 亿美元
+- 墨西哥：萨尔瓦多对其出口 2.52 亿美元，自其进口 14.40 亿美元
+- 尼加拉瓜：萨尔瓦多对其出口 5.86 亿美元，自其进口 5.58 亿美元
+- 哥斯达黎加：萨尔瓦多对其出口 2.86 亿美元，自其进口 4.72 亿美元
+- 韩国：萨尔瓦多对其出口 2651 万美元，自其进口 3.78 亿美元
+- 日本：萨尔瓦多对其出口 1066 万美元，自其进口 3.47 亿美元
+- 巴西：萨尔瓦多对其出口 809 万美元，自其进口 3.13 亿美元
+- 西班牙：萨尔瓦多对其出口 7157 万美元，自其进口 2.48 亿美元
+- 德国：萨尔瓦多对其出口 2195 万美元，自其进口 2.74 亿美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：El Salvador - Level 1: Exercise Normal Precautions。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.slv.html

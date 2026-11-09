@@ -75,7 +75,7 @@
 - 非居民专利申请（件）：63.00（2024 年）
 - 高技术出口占制成品出口（%）：13.45（2024 年）
 - 高技术出口（现价美元）：107.10 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 34,868 篇（OpenAlex），主要学科：Medicine（6,639）、Engineering（4,447）、Social Sciences（4,233）、Computer Science（2,479）、Arts and Humanities（2,291）、Agricultural and Biological Sciences（1,737）、Environmental Science（1,650）、Business, Management and Accounting（1,463）
+- 2025 年有本国作者参与的论文约 34,695 篇（OpenAlex），主要学科：Medicine（6,740）、Social Sciences（4,585）、Engineering（3,773）、Arts and Humanities（2,408）、Computer Science（2,158）、Agricultural and Biological Sciences（1,861）、Business, Management and Accounting（1,804）、Environmental Science（1,453）
 - 斯特凡·W·赫尔：诺贝尔化学奖，2014 年
 - 赫塔·米勒（Herta Müller）：诺贝尔文学奖，2009 年
 - 乔治·埃米尔·帕拉德（George Emil Palade）：诺贝尔生理学或医学奖，1974 年

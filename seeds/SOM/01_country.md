@@ -8,7 +8,7 @@
 - 政府首脑：哈姆扎·阿卜迪·巴雷（Hamza Abdi Barre）；职位：索马里总理（Prime Minister of Somalia）
 - 立法机构：索馬利亞聯邦議會（Federal Parliament of Somalia）
 - 中央银行：Central Bank of Somalia
-- 首都：摩加迪休（Mogadishu）；货币：索马里先令（Somali shilling）；官方语言：阿拉伯语（Arabic）、索马里语（Somali）
+- 首都：摩加迪休（Mogadishu）；货币：索马里先令（Somali shilling）；官方语言：索马里语（Somali）、阿拉伯语（Arabic）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -63,7 +63,7 @@
 - 科技期刊论文（篇）：152（2023 年）
 - 本国居民专利申请（件）：1.00（1984 年）
 - 非居民专利申请（件）：7.00（1985 年）
-- 2025 年有本国作者参与的论文约 1,224 篇（OpenAlex），主要学科：Medicine（364）、Social Sciences（216）、Economics, Econometrics and Finance（81）、Health Professions（67）、Computer Science（63）、Agricultural and Biological Sciences（62）、Business, Management and Accounting（55）、Environmental Science（45）
+- 2025 年有本国作者参与的论文约 1,199 篇（OpenAlex），主要学科：Medicine（419）、Social Sciences（217）、Economics, Econometrics and Finance（78）、Business, Management and Accounting（66）、Agricultural and Biological Sciences（63）、Computer Science（42）、Health Professions（41）、Environmental Science（40）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/SOM ；Wikidata https://www.wikidata.org/ （CC0）。

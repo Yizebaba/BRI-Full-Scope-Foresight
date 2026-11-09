@@ -23,6 +23,21 @@
 - People's Liberation Army Navy organizes 'Bright Eyes Operation' to：在吉布提出现在 1 个项目中。例：2019 年 People's Liberation Army Navy organizes 'Bright Eyes Operation' to provide free cataract surgeries in Djibouti
 - 中国援外医疗队：在吉布提出现在 1 个项目中。例：2021 年 20th Chinese Medical Team in Djibouti donates medical supplies to Bertille Hospital in October 2021 
 
+## 主要贸易伙伴（UN Comtrade，2023 年，本国申报）
+
+- 埃塞俄比亚：吉布提对其出口 39.95 亿美元，自其进口 1.28 亿美元
+- 中国：吉布提对其出口 1.16 亿美元，自其进口 9.36 亿美元
+- 阿联酋：吉布提对其出口 2.22 亿美元，自其进口 6.06 亿美元
+- 印度：吉布提对其出口 141 万美元，自其进口 7.67 亿美元
+- 土耳其：吉布提对其出口 3130 万美元，自其进口 4.91 亿美元
+- 沙特阿拉伯：吉布提对其出口 460 万美元，自其进口 4.52 亿美元
+- 印度尼西亚：吉布提对其出口 92 万美元，自其进口 2.94 亿美元
+- 阿曼：吉布提对其出口 3789 万美元，自其进口 2.16 亿美元
+- 马来西亚：吉布提对其出口 194 万美元，自其进口 2.24 亿美元
+- 日本：吉布提对其出口 61 万美元，自其进口 2.17 亿美元
+- 法国：吉布提对其出口 8435 万美元，自其进口 6703 万美元
+- 新加坡：吉布提对其出口 30 万美元，自其进口 1.43 亿美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Djibouti - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.dji.html

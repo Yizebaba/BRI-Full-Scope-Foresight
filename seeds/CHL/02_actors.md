@@ -24,6 +24,21 @@
 - All-China Federation of Trade Unions：在智利出现在 1 个项目中，涉及金额约 4 万美元。例：2010 年 All-China Federation of Trade Unions donates $30,000 USD to the Workers' United Center of Chile to rebuild uni
 - Latin American Regional Center for Confucius Institutes：在智利出现在 1 个项目中。例：2016 年 Latin American Regional Center for Confucius Institutes donates a statue of Confucius to the Municipal Governm
 
+## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
+
+- 中国：智利对其出口 406.47 亿美元，自其进口 264.58 亿美元
+- 美国：智利对其出口 177.40 亿美元，自其进口 165.90 亿美元
+- 巴西：智利对其出口 48.99 亿美元，自其进口 78.51 亿美元
+- 日本：智利对其出口 89.36 亿美元，自其进口 21.27 亿美元
+- 阿根廷：智利对其出口 10.66 亿美元，自其进口 68.65 亿美元
+- 韩国：智利对其出口 51.87 亿美元，自其进口 18.04 亿美元
+- 印度：智利对其出口 42.40 亿美元，自其进口 14.51 亿美元
+- 德国：智利对其出口 18.05 亿美元，自其进口 29.87 亿美元
+- 西班牙：智利对其出口 21.20 亿美元，自其进口 21.45 亿美元
+- 秘鲁：智利对其出口 15.87 亿美元，自其进口 21.84 亿美元
+- 墨西哥：智利对其出口 18.63 亿美元，自其进口 15.97 亿美元
+- 法国：智利对其出口 13.73 亿美元，自其进口 14.62 亿美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Chile - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.chl.html

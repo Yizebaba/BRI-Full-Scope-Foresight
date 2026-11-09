@@ -20,6 +20,21 @@
 - 中国驻当地使领馆：在突尼斯出现在 2 个项目中。例：2009 年 Chinese Embassy donates books and CDs to the Confucius Classroom at CRI in Sfax (Linked to Project ID#31221)；2019 年 Chinese Embassy donates computers and electronic equipment to the Tunisian Ministry of Women, Family, Children
 - Chinese Ministry of Education：在突尼斯出现在 1 个项目中。例：2005 年 Chinese Ministry of Education and Hanban donate 1,063 books to ISLT at the University of Carthage
 
+## 主要贸易伙伴（UN Comtrade，2024 年，本国申报）
+
+- 法国：突尼斯对其出口 43.44 亿美元，自其进口 26.69 亿美元
+- Italy：突尼斯对其出口 37.54 亿美元，自其进口 31.24 亿美元
+- 德国：突尼斯对其出口 26.67 亿美元，自其进口 19.07 亿美元
+- 中国：突尼斯对其出口 2435 万美元，自其进口 29.44 亿美元
+- 阿尔及利亚：突尼斯对其出口 5.45 亿美元，自其进口 19.47 亿美元
+- 西班牙：突尼斯对其出口 10.58 亿美元，自其进口 9.97 亿美元
+- 俄罗斯：突尼斯对其出口 2000 万美元，自其进口 17.53 亿美元
+- 土耳其：突尼斯对其出口 2.72 亿美元，自其进口 11.88 亿美元
+- 船用燃料：突尼斯对其出口 5.43 亿美元，自其进口 9.03 亿美元
+- 美国：突尼斯对其出口 6.50 亿美元，自其进口 5.80 亿美元
+- 未列明地区：突尼斯对其出口 8.65 亿美元，自其进口 79 万美元
+- 利比亚：突尼斯对其出口 7.89 亿美元，自其进口 4878 万美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Tunisia - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tun.html

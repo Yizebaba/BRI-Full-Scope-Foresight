@@ -18,21 +18,6 @@
 - 中国驻当地使领馆：在科摩罗出现在 1 个项目中。例：2018 年 Chinese Embassy donates office equipment to Comoros Broadcasting and Television Center
 - 中国援外医疗队：在科摩罗出现在 1 个项目中。例：2018 年 12th Chinese Medical Team provides free medical clinic to Oussivo Village in Comoros (Linked to Project ID#572
 
-## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
-
-- 阿联酋：科摩罗对其出口 339 万美元，自其进口 4832 万美元
-- 印度：科摩罗对其出口 1745 万美元，自其进口 3384 万美元
-- 中国：科摩罗对其出口 5 万美元，自其进口 4529 万美元
-- 法国：科摩罗对其出口 462 万美元，自其进口 3263 万美元
-- 巴基斯坦：科摩罗对其出口 58 万美元，自其进口 3555 万美元
-- 越南：科摩罗对其出口 10 万美元，自其进口 1873 万美元
-- 土耳其：科摩罗对其出口 无数据，自其进口 1583 万美元
-- 坦桑尼亚：科摩罗对其出口 19 万美元，自其进口 1104 万美元
-- 马来西亚：科摩罗对其出口 6 万美元，自其进口 766 万美元
-- 波兰：科摩罗对其出口 6 万美元，自其进口 747 万美元
-- Mauritius：科摩罗对其出口 1251 美元，自其进口 628 万美元
-- 西班牙：科摩罗对其出口 6 万美元，自其进口 563 万美元
-
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Comoros - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.com.html
