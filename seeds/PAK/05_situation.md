@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-08 23:04 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-09 02:36 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -71,7 +71,6 @@
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
 - 2026-11-07 10:11 UTC：Missing Baloch Youth Found Dead in Gwadar, Pakistan Forces Under Scrutiny - Lokmat Times。https://news.google.com/rss/articles/CBMiwAFBVV95cUxOczhwMDQ3NGVMT1BoOThpcnA4cW9JOXNnT2FkM1VLZTBMLVhQVG1rWWczWFhodEViZWxaNzJkaDd6eVlMQi1xal9BQVFnc1dSRXVwVU4tRXFaeXBhekcwSnpEUF85RDMyTXllMGxnOE5TQVcwNmhSeTRuUEtxWW1vNkJFMzFPNHRFeXRvTGN6MFNlcXdSeXpxcXpvb01weUN6TGtFSThoU0tBMklXOWliNUFNdzdzQlo1aEZsbjhtc3LSAccBQVVfeXFMTXNqWWdER3RYWks0MzFqQklwNjBNWi03VllJME83VHQyNHNBa3hqVDJNVUNITkV3Q1dJM0RMNkxCNGFpeVNnVTliUWdGZE9yeFdfZThFZlFUaExqUEgtNGNMV20zam9vbERETHJZZnM3SmZsemtFTDhILTRRRWd1WmxDN0JvODJzaXFfUVRRRXFod2lESTZUQ0l1aUNDdUlGUTRjbnFxWklRVnNManl2N0hOQzFoRUQxZUFMS094c09nU2VxNm1oZw?oc=5
 - 2026-11-07 09:04 UTC：Pakistan forces under fire after missing Baloch youth found dead in Gwadar amid enforced disappearances - Devdiscourse。https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMUFwbUZ5bU9nZ0FIMVNhTnFHeDlYd0tNTml6eGY0Y0djcXcybmRYT0xvejczSXVnQklGcVJrV0wtU0Q0VVk5cHBYWWdWbmxQbzVJVDFIOUhFTTBCdlE4QU43S1Uybi1JUE5Gcm92T3cyY21XYTVGUlNTZGp4cm9oVS1YZFVoQ1p4ejltRlA1SW52b0lCc2JLeVV2QjlQRHl3WHV1NmRic2ViOUk3ZE5aR1haTzJjZ2Q0bjZmUXdSamh3cGt4am5Ma3VUZHJtb3JneTJhYXUwODZVeUpuNHhkd2VuUTF4MTZ0Zzc1M2dSWEdUZmpwaGl4NGtB0gH6AUFVX3lxTE4xQXBtRnltT2dnQUgxU2FOcUd4OVh3S01OaXp4ZjRjR2NxdzJuZFhPTG96NzNJdWdCSUZxUmtXTC1TRDRVWTlwcFhZZ1ZubFBvNUlUMUg5SEVNMEJ2UThBTjdLVTJuLUlQTkZyb3ZPdzJjbVdhNUZSU1Nkanhyb2hVLVhkVWhDWnh6OW1GUDVJbnZvSUJzYkt5VXZCOVBEeXdYdXU2ZGJzZWI5STdkTlpHWFpPMmNnZDRuNmZRd1JqaHdwa3hqbkxrdVRkcm1vcmd5MmFhdTA4NlV5Sm40eGR3ZW5RMXgxNnRnNzUzZ1JYR1RmanBoaXg0a0E?oc=5
-- 2026-11-06 08:01 UTC：Dead 30-foot blue whale washes ashore near Gwadar - Bol News。https://news.google.com/rss/articles/CBMiigFBVV95cUxQWGxSYTJic3VzdUZHZ29BZ1RHRERiMHFFNDNEWE5Nak5WZVRuQmhrRVVrUkRyLVo0VkxpazlfdnJVT01pXy1HUDZlcEZBY0JEUXU0STJXUFhtY0stNkYwc05icnpJZm9QUTFGRERObzNfajU1YlpWVG0yT1lXT3hJX29sblVkcEtjWEE?oc=5
 - 2026-11-05 12:08 UTC：30-Foot Blue Whale Found Dead on Gwadar Beach - Bloom Pakistan。https://news.google.com/rss/articles/CBMibkFVX3lxTFBqT3hLdXNIUWJaU1BPZDJxQkpvV016T1JZTFItQk5qVlJneWtoSmFHNncyc2pwRG5abVlKMHQtQnZIbXhqT1ZvcEplUVpFV0d0TjVIVnl3c0JyeGhiMUVPVEZKX0ZLRUVNVjVwUlFR?oc=5
 - 2026-11-05 08:12 UTC：World’s Largest Animal Found Dead on Gwadar Beach - ProPakistani。https://news.google.com/rss/articles/CBMijAFBVV95cUxNWm02ckJTeDNwU09xQzFjVkZkdW5Jc0NIR2lZOXZTV2N0RGpUN256QWdvd0xEZW91MjRSbWV6eTlXY3B6RVM2TmlIeDU3cXlRaHhQbmdwWjJpMWQ0cVVaekdlVENGZzdHZXFsaXlBdVpfY29fX2tpck5RMmtTQjRHWVlVYUZyQXFaSmV5atIBkgFBVV95cUxONk9OWjJBeWlzMmM0X2VGRVpRdnU2TEpMTW1OcWtEamk0RVNZYmVyUnNHY1VfRVl1Ql80ZDZhSHFWempNcFpBMnJMR05RWFhCR0dLRm1aSWc4QW8zdGU4LXY4RE82SldWTTdOR19iM09QVm9FbVhMMkRIdDlDclpuRWJhdEJuN0F6UFVEbDBuQzIyQQ?oc=5
 - 2026-11-05 07:58 UTC：Blue whale found dead near Gwadar East Bay after two days at sea - The Current。https://news.google.com/rss/articles/CBMikAFBVV95cUxNOEFuOVZ0eFNSNTNESzZWaWRZZHJ4SF9GNGxmZXJrcEpMN25ROEowa1dHNkdkVk9pNWlfVWd1UUNNV0JZejBqNm1KN05OZXZTQVgtZlZ2QkZTSUFBVFVLWHFtUWp6azdSVkRSOWM0UC1MVmQ3d3gyU2NMcVdvVjVLNVcyRF9hbTJFVlNtTzliU18?oc=5
@@ -79,6 +78,7 @@
 - 2026-11-05 03:20 UTC：Blue whale washes ashore dead in Gwadar - The Express Tribune。https://news.google.com/rss/articles/CBMiggFBVV95cUxOX1NaUW1rWDVDWDRCMXgxd0x3cDctblY0bzNRSVpLeEkwQVo4YlprWkNKVzYwdVd4cHRxU0VlTG5xX1M1SXEybEE2SWNrT2huQXRuWDBkdGpVVDh1MU9ZdEJfMDlFajQ4czl4V3M3QTZMd01uTFNablRzX3doN1htTVln0gGKAUFVX3lxTE1rRzRjZ2Y1dWZES2x2R1hRSHI3OGtkcG8zNWV3SzQ2OVYwTDk3RHFtaGZLMmlHYVBPZHdtUjJic1hkYjVVbllEWlVQYjZ3ZHBkeDhrclloNVMtQnhBLXZOMTV5U0pCbzJDTjJMVDJMNmJ4bE9oUnFTUU01S0Z2WWNqZ1dhbUpsdVdFQQ?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-08 23:46 UTC：Visit to China: Balochistan delegation discusses CPEC, Gwadar Port - Business Recorder
 - 2026-11-08 13:37 UTC：CPEC and Gwadar port development dominate Pakistani delegation’s China visit - Minute Mirror
 - 2026-11-07 17:25 UTC：Nawaz Sharif Era | Container Terminals | Gwadar Deep Sea Port | News Insight With Amir Zia - Aaj News
 - 2026-11-07 17:25 UTC：Nawaz Sharif Era | Container Terminals | Gwadar Deep Sea Port | News Insight With Amir Zia - Aaj English TV
@@ -86,7 +86,6 @@
 - 2026-11-05 20:44 UTC：Gwadar Medical Board Approves Disability Certificates for 22 Applicants - Daily Independent
 - 2026-11-05 14:05 UTC：Tsunami Awareness Session Held At Gwadar School To Promote Emergency Preparedness - UrduPoint
 - 2026-11-05 08:43 UTC：Blue Whale’s Carcass Washes Up on Gwadar Shore - Balochistan Pulse
-- 2026-11-05 05:48 UTC：Emergency landing facility provided at Gwadar airport - 24 News HD
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

@@ -4,7 +4,3 @@
 
 - 美国国务院旅行建议：Argentina - Level 1: Exercise Normal Precautions（Fri, 10 Jul 2026）。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.arg.html 
 - World Monitor 汇总的旅行建议级别：normal
-
-## 地震（USGS，M4.5+，近 7 天）
-
-- 2026-11-01 23:18 UTC：M4.5，86 km WNW of Abra Pampa, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tus5 
