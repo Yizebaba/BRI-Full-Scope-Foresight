@@ -1,5 +1,5 @@
 {
-"generated": "2026-11-02T11:45:21Z",
+"generated": "2026-11-09T12:23:07Z",
 "source": "UN Comtrade 公共预览接口",
 "countries": {
 "NPL": {
@@ -269,9 +269,9 @@
 "china_year": 2025
 },
 "UZB": {
-"year": 2024,
+"year": 2025,
 "basis": "本国申报",
-"n_ind": 97,
+"n_ind": 96,
 "n_partners": 25,
 "china_year": 2025
 },
@@ -308,84 +308,84 @@
 "basis": "本国申报",
 "n_ind": 95,
 "n_partners": 25,
-"china_year": 2025
+"china_year": 2024
 },
 "CMR": {
-"year": 2023,
-"basis": "本国申报",
-"n_ind": 96,
-"n_partners": 25,
-"china_year": 2025
+"year": null,
+"basis": null,
+"n_ind": 0,
+"n_partners": 0,
+"china_year": null
 },
 "CAF": {
-"year": 2024,
-"basis": "本国申报",
-"n_ind": 87,
-"n_partners": 25,
-"china_year": 2025
+"year": null,
+"basis": null,
+"n_ind": 0,
+"n_partners": 0,
+"china_year": null
 },
 "TCD": {
-"year": 2025,
-"basis": "镜像：各国对它的申报",
+"year": null,
+"basis": null,
 "n_ind": 0,
-"n_partners": 25,
-"china_year": 2025
+"n_partners": 0,
+"china_year": null
 },
 "COM": {
-"year": 2025,
-"basis": "本国申报",
-"n_ind": 88,
-"n_partners": 25,
-"china_year": 2025
+"year": null,
+"basis": null,
+"n_ind": 0,
+"n_partners": 0,
+"china_year": null
 },
 "COD": {
-"year": 2024,
-"basis": "本国申报",
-"n_ind": 96,
-"n_partners": 25,
-"china_year": 2025
+"year": null,
+"basis": null,
+"n_ind": 0,
+"n_partners": 0,
+"china_year": null
 },
 "COG": {
-"year": 2024,
-"basis": "本国申报",
-"n_ind": 97,
-"n_partners": 25,
-"china_year": 2025
+"year": null,
+"basis": null,
+"n_ind": 0,
+"n_partners": 0,
+"china_year": null
 },
 "CIV": {
-"year": 2025,
-"basis": "本国申报",
-"n_ind": 96,
-"n_partners": 25,
-"china_year": 2025
+"year": null,
+"basis": null,
+"n_ind": 0,
+"n_partners": 0,
+"china_year": null
 },
 "GNQ": {
-"year": 2025,
-"basis": "镜像：各国对它的申报",
+"year": null,
+"basis": null,
 "n_ind": 0,
-"n_partners": 25,
-"china_year": 2025
+"n_partners": 0,
+"china_year": null
 },
 "ERI": {
-"year": 2025,
-"basis": "镜像：各国对它的申报",
+"year": null,
+"basis": null,
 "n_ind": 0,
-"n_partners": 25,
-"china_year": 2025
+"n_partners": 0,
+"china_year": null
 },
 "ETH": {
-"year": 2023,
-"basis": "本国申报",
-"n_ind": 96,
-"n_partners": 25,
-"china_year": 2025
+"year": null,
+"basis": null,
+"n_ind": 0,
+"n_partners": 0,
+"china_year": null
 },
 "GAB": {
-"year": 2023,
-"basis": "本国申报",
+"year": null,
+"basis": null,
 "n_ind": 0,
-"n_partners": 25,
-"china_year": 2024
+"n_partners": 0,
+"china_year": null
 },
 "GMB": {
 "year": null,
@@ -395,10 +395,10 @@
 "china_year": null
 },
 "GHA": {
-"year": 2023,
-"basis": "本国申报",
+"year": null,
+"basis": null,
 "n_ind": 0,
-"n_partners": 25,
+"n_partners": 0,
 "china_year": null
 },
 "GIN": {
@@ -591,255 +591,255 @@
 "china_year": null
 },
 "BHR": {
-"year": null,
-"basis": null,
+"year": 2025,
+"basis": "镜像：各国对它的申报",
 "n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"n_partners": 25,
+"china_year": 2025
 },
 "DJI": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2023,
+"basis": "本国申报",
+"n_ind": 94,
+"n_partners": 25,
+"china_year": 2025
 },
 "EGY": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2025,
+"basis": "本国申报",
+"n_ind": 97,
+"n_partners": 25,
+"china_year": 2025
 },
 "IRN": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2023,
+"basis": "本国申报",
+"n_ind": 94,
+"n_partners": 25,
+"china_year": 2025
 },
 "IRQ": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2024,
+"basis": "本国申报",
+"n_ind": 96,
+"n_partners": 25,
+"china_year": 2025
 },
 "KWT": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2025,
+"basis": "本国申报",
+"n_ind": 97,
+"n_partners": 25,
+"china_year": 2025
 },
 "LBN": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2024,
+"basis": "本国申报",
+"n_ind": 97,
+"n_partners": 25,
+"china_year": 2025
 },
 "LBY": {
-"year": null,
-"basis": null,
+"year": 2025,
+"basis": "镜像：各国对它的申报",
 "n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"n_partners": 25,
+"china_year": 2025
 },
 "MLT": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2025,
+"basis": "本国申报",
+"n_ind": 96,
+"n_partners": 25,
+"china_year": 2025
 },
 "MAR": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2025,
+"basis": "本国申报",
+"n_ind": 96,
+"n_partners": 25,
+"china_year": 2025
 },
 "OMN": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2025,
+"basis": "本国申报",
+"n_ind": 97,
+"n_partners": 25,
+"china_year": 2025
 },
 "QAT": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2024,
+"basis": "本国申报",
+"n_ind": 97,
+"n_partners": 25,
+"china_year": 2025
 },
 "SAU": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2025,
+"basis": "本国申报",
+"n_ind": 97,
+"n_partners": 25,
+"china_year": 2025
 },
 "SYR": {
-"year": null,
-"basis": null,
+"year": 2025,
+"basis": "镜像：各国对它的申报",
 "n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"n_partners": 25,
+"china_year": 2025
 },
 "TUN": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2024,
+"basis": "本国申报",
+"n_ind": 96,
+"n_partners": 25,
+"china_year": 2025
 },
 "ARE": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2023,
+"basis": "本国申报",
+"n_ind": 97,
+"n_partners": 25,
+"china_year": 2025
 },
 "YEM": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2024,
+"basis": "本国申报",
+"n_ind": 94,
+"n_partners": 25,
+"china_year": 2025
 },
 "JOR": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2024,
+"basis": "本国申报",
+"n_ind": 96,
+"n_partners": 25,
+"china_year": 2025
 },
 "ATG": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2024,
+"basis": "本国申报",
+"n_ind": 96,
+"n_partners": 25,
+"china_year": 2025
 },
 "ARG": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2025,
+"basis": "本国申报",
+"n_ind": 97,
+"n_partners": 25,
+"china_year": 2025
 },
 "BRB": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2025,
+"basis": "本国申报",
+"n_ind": 97,
+"n_partners": 25,
+"china_year": 2025
 },
 "BOL": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2025,
+"basis": "本国申报",
+"n_ind": 97,
+"n_partners": 25,
+"china_year": 2025
 },
 "CHL": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2025,
+"basis": "本国申报",
+"n_ind": 96,
+"n_partners": 25,
+"china_year": 2025
 },
 "COL": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2025,
+"basis": "本国申报",
+"n_ind": 97,
+"n_partners": 25,
+"china_year": 2025
 },
 "CRI": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2025,
+"basis": "本国申报",
+"n_ind": 96,
+"n_partners": 25,
+"china_year": 2025
 },
 "CUB": {
-"year": null,
-"basis": null,
+"year": 2025,
+"basis": "镜像：各国对它的申报",
 "n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"n_partners": 25,
+"china_year": 2025
 },
 "DMA": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2023,
+"basis": "本国申报",
+"n_ind": 95,
+"n_partners": 25,
+"china_year": 2025
 },
 "DOM": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2025,
+"basis": "本国申报",
+"n_ind": 97,
+"n_partners": 25,
+"china_year": 2025
 },
 "ECU": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2025,
+"basis": "本国申报",
+"n_ind": 97,
+"n_partners": 25,
+"china_year": 2025
 },
 "SLV": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2025,
+"basis": "本国申报",
+"n_ind": 97,
+"n_partners": 25,
+"china_year": 2025
 },
 "GRD": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2024,
+"basis": "本国申报",
+"n_ind": 97,
+"n_partners": 25,
+"china_year": 2025
 },
 "GUY": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2025,
+"basis": "本国申报",
+"n_ind": 96,
+"n_partners": 25,
+"china_year": 2025
 },
 "HND": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2024,
+"basis": "本国申报",
+"n_ind": 96,
+"n_partners": 25,
+"china_year": 2025
 },
 "JAM": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2025,
+"basis": "本国申报",
+"n_ind": 97,
+"n_partners": 25,
+"china_year": 2025
 },
 "NIC": {
-"year": null,
-"basis": null,
-"n_ind": 0,
-"n_partners": 0,
-"china_year": null
+"year": 2025,
+"basis": "本国申报",
+"n_ind": 96,
+"n_partners": 25,
+"china_year": 2025
 },
 "PER": {
-"year": null,
-"basis": null,
+"year": 2023,
+"basis": "本国申报",
 "n_ind": 0,
-"n_partners": 0,
+"n_partners": 25,
 "china_year": null
 },
 "SUR": {
