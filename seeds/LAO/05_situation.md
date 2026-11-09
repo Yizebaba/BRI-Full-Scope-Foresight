@@ -5,7 +5,7 @@
 - 美国国务院旅行建议：Laos - Level 2: Exercise Increased Caution（Tue, 28 Jul 2026）。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lao.html 
 - World Monitor 汇总的旅行建议级别：caution
 
-# 老挝项目周边近期态势（截至 2026-11-07 05:47 UTC）
+# 老挝项目周边近期态势（截至 2026-11-09 10:18 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -24,7 +24,8 @@
 
 ## 南欧江梯级水电站（一期）
 
-周边自然事件：扫描期间没有记录。
+周边自然事件（地震 150 km、灾害警报 300 km、NASA 自然事件 150 km 以内）：
+- 2026-11-06 01:00 UTC，GDACS：Green 级 · Flood in Vietnam，距项目 235.8 km。https://www.gdacs.org/report.aspx?eventid=1104271&episodeid=1&eventtype=FL
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 
