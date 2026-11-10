@@ -9,7 +9,7 @@
 
 - 2026-09-04 00:00 UTC：US State Dept Nepal - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-10 11:40 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-10 19:38 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -32,6 +32,8 @@
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-06 11:54 UTC：Preparations for Janakpurdham–Ayodhyadham railway service gather pace - OnlineKhabar English News
+- 2026-11-06 01:08 UTC：The mountain gave us weeks of warning: Nepal needs a system that can read them - myRepublica
+- 2026-11-06 01:08 UTC：The mountain gave us weeks of warning: Nepal needs a system that can read them - Hamro Patro
 - 2026-11-04 04:15 UTC：Damaged hydropower projects in Rasuwa and Nuwakot await government reconstruction plan - OnlineKhabar English News
 - 2026-11-04 02:16 UTC：Nepal imports 3,725 tons of Chinese fruit via Korala border crossing - FreshPlaza
 
@@ -49,7 +51,6 @@
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-08 07:03 UTC：Leo Declared Best Dog for Search and Rescue Efforts - Ratopati
-- 2026-11-08 05:23 UTC：'Lee' Declared Best Dog of the Year - Ratopati
 - 2026-11-06 11:54 UTC：Preparations for Janakpurdham–Ayodhyadham railway service gather pace - OnlineKhabar English News
 - 2026-11-06 08:28 UTC：16 shortlisted for Nepal Tourism Board CEO - OnlineKhabar English News
 

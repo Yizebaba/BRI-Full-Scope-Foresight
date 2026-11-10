@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-10 11:40 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-10 19:38 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -70,14 +70,14 @@
 - 2026-11-05 03:20 UTC：Blue whale washes ashore dead in Gwadar - The Express Tribune。https://news.google.com/rss/articles/CBMiggFBVV95cUxOX1NaUW1rWDVDWDRCMXgxd0x3cDctblY0bzNRSVpLeEkwQVo4YlprWkNKVzYwdVd4cHRxU0VlTG5xX1M1SXEybEE2SWNrT2huQXRuWDBkdGpVVDh1MU9ZdEJfMDlFajQ4czl4V3M3QTZMd01uTFNablRzX3doN1htTVln0gGKAUFVX3lxTE1rRzRjZ2Y1dWZES2x2R1hRSHI3OGtkcG8zNWV3SzQ2OVYwTDk3RHFtaGZLMmlHYVBPZHdtUjJic1hkYjVVbllEWlVQYjZ3ZHBkeDhrclloNVMtQnhBLXZOMTV5U0pCbzJDTjJMVDJMNmJ4bE9oUnFTUU01S0Z2WWNqZ1dhbUpsdVdFQQ?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-10 10:15 UTC：Baloch Woman with Heart Condition Disappears After CTD Raid in Gwadar, Family Demands Answers - Lokmat Times
 - 2026-11-10 09:55 UTC：Saudi Delegation Eyes Investment in Gwadar Port - Daily Independent
 - 2026-11-10 09:01 UTC：Baloch Women Forum condemns disappearance of woman with cardiac condition during CTD raid in Gwadar - Devdiscourse
 - 2026-11-10 08:02 UTC：Pakistani students take first prize at international culture and arts festival - Gwadar Pro
 - 2026-11-10 06:50 UTC：Modern fishermen’s shelter completed in Jiwani, Gwadar Breaking - Independent News Pakistan
 - 2026-11-10 04:25 UTC：pakistani-delegation-china-beijing-cpec-gwadar.jpg (1) - Balochistan Pulse
+- 2026-11-10 01:20 UTC：Gwadar Port receives Panama-flagged vessel in major transshipment development - Dunya News
 - 2026-11-09 17:58 UTC：Saudi business delegation shows interest in Gwadar Port's projects - 24 News HD
-- 2026-11-09 08:02 UTC：Pakistani graduates secure jobs after internship at Diamer-Basha Dam - Gwadar Pro
-- 2026-11-09 07:34 UTC：Pakistani delegation visits China to discuss Gwadar port development, CPEC and trade cooperation - https://cpecinfo.com/
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 
