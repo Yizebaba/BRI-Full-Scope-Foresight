@@ -9,4 +9,3 @@
 
 - 2026-11-08 22:30 UTC：M4.7，119 km SW of Kokopo, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us7000twzn 
 - 2026-11-06 00:02 UTC：M4.6，96 km NNW of Lae, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us7000twdd 
-- 2026-11-03 07:43 UTC：M4.5，56 km NW of Finschhafen, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv4c 

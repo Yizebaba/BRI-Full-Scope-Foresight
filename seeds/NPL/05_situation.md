@@ -9,7 +9,7 @@
 
 - 2026-09-04 00:00 UTC：US State Dept Nepal - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-10 03:26 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-10 11:40 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -24,22 +24,24 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-11-09 13:09 UTC：Death toll rises to 162 in Nepal flash floods - DD News。https://news.google.com/rss/articles/CBMie0FVX3lxTFBfdEdFbWhLR2pOczRrMDZVVVhCNEhKeFZmdlhRRTdiSDdhWC1HRlVtYVo4ZVZrZHh4Y2JWZVhuTDRBaE9MbFFpTkJKVmxMVWZNQmc5MzZCaVFUX2g1Qm5QSlN5dFhRbm5wS0o2ZkxtNllFOHg4TkVhcnpNbw?oc=5
+- 2026-11-09 06:54 UTC：Hundreds missing, including 47 Americans, in deadly Nepal floods, local officials say - ABC News - Breaking News, Latest News and Videos。https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFFKbWhSWTR5S25UT01SQnE4V1Jua044M19rZmJiYzRwRHphTU1GdFBIUi1ORXl2UUF1Y0NzNG00cDVuNzZuZzFjQ0doUTF5VUg1elRPdE02V0UxNFB1U1dub1ZrMnpjR190bnJIV2VWN0ZPbTRucURXYTlkQWlHS2d0XzR4dzgxaGdCWk92OE9paV92VWIzdTlYNE5xQThPNWRzR2N3R0hjUdIBrwFBVV95cUxNYjM2dnl3U1htTjMxc1ctcjBITTVMMXlXQlFCTjNPV2cxOXF6U3BmU2xSZHZRdHI1QTJRYTB6T1kyVVJ0Y2s3UlZQUm1ZS210UUozM0F3M09Sbk1QWU9pTXVwdjBNT3lGRkhnM0NGZU5ha1BuVDJ1R1hKbVR1M0REMkVMdFpZYnhDb2RUdlNSMVpQbHEwUXV5WGxSMFp1ci16M2dzVGhnQlNpTlVHZ3Qw?oc=5
 - 2026-11-09 06:44 UTC：Nepal disaster: Families of missing Malaysians want clear legal answers - NST Online。https://news.google.com/rss/articles/CBMivwFBVV95cUxPNDlhRnQyWFprQUlrN2pXUnR6Q2g4OUExV3FrOXJEeVc2d2hhZHY3QzhvbG5SRGVqVElaQ2FXUEIxNl9GNHg3VzVRT2x2VGY3TDhsdk1TX09XWXpFdm1EZ2FXUDB3eWM0Q2ZWbHZ5Wmphc0ExNUxHZEhZSzVPanYzVEZYWjNWV3ZyLVlSUVRpWnZfdFl5YUgyRENOb2dscmpHUmg5bXQwYm9zZnRhUjdKMG1QYWVIdEthRTNhN3JoZ9IBvwFBVV95cUxPNDlhRnQyWFprQUlrN2pXUnR6Q2g4OUExV3FrOXJEeVc2d2hhZHY3QzhvbG5SRGVqVElaQ2FXUEIxNl9GNHg3VzVRT2x2VGY3TDhsdk1TX09XWXpFdm1EZ2FXUDB3eWM0Q2ZWbHZ5Wmphc0ExNUxHZEhZSzVPanYzVEZYWjNWV3ZyLVlSUVRpWnZfdFl5YUgyRENOb2dscmpHUmg5bXQwYm9zZnRhUjdKMG1QYWVIdEthRTNhN3JoZw?oc=5
 - 2026-11-05 08:12 UTC：Flood victims at Kathmandu holding centres eager to return home (Photos) - OnlineKhabar English News。https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2lGZ21LSkd2Yjk2MnZZRXgtM092cmJ2ejNCQ19JVzh3SW42ekdFUzVQY29TZ1NENzZCT0lXVndYV0lxd3hWdWhlV2I1NUMzd2N2V0g0UVlRVTB2N0k5RG5hYW5zWmZ0MGxDMUFHNDFOZllhNzlpVzViaVhpbkxZSG1SYjhrU1kyMGFEcnVjcVdFMVc5LXFCdXUzS2ZDd1Y3ODVQalpqVE9WQmRw?oc=5
 - 2026-11-05 05:57 UTC：Korala border point faces repeated disruptions from floods, snowfall - OnlineKhabar English News。https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeWYzM0JpNXp1YmVPaVhkMklOaHNhczNVQnZ3Sm03cXgtS3RZWXF4OWN4SUNDM05yeFRHRHdreUp2RmQxbkFrR2JRMVRmek4yejlveHdYM3ZyaGptWGVRZTlDSVMzZ3RLZGdweERldUVaYmhLeDZjd1dxdW1hSlh2Rk8zU2gzT2F3VTRkb0pkYlh4LWtFVUMtYjBjNGZZcU5LcThKbm1ELWo?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-06 11:54 UTC：Preparations for Janakpurdham–Ayodhyadham railway service gather pace - OnlineKhabar English News
-- 2026-11-06 02:11 UTC：The mountain gave us weeks of warning: Nepal needs a system that can read them - myRepublica
 - 2026-11-04 04:15 UTC：Damaged hydropower projects in Rasuwa and Nuwakot await government reconstruction plan - OnlineKhabar English News
 - 2026-11-04 02:16 UTC：Nepal imports 3,725 tons of Chinese fruit via Korala border crossing - FreshPlaza
-- 2026-11-03 07:59 UTC：290,287 tourists visit Mustang in 10 months - OnlineKhabar English News
 
 ## 热索瓦加迪（Timure）口岸边检站
 
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-11-09 13:09 UTC：Death toll rises to 162 in Nepal flash floods - DD News。https://news.google.com/rss/articles/CBMie0FVX3lxTFBfdEdFbWhLR2pOczRrMDZVVVhCNEhKeFZmdlhRRTdiSDdhWC1HRlVtYVo4ZVZrZHh4Y2JWZVhuTDRBaE9MbFFpTkJKVmxMVWZNQmc5MzZCaVFUX2g1Qm5QSlN5dFhRbm5wS0o2ZkxtNllFOHg4TkVhcnpNbw?oc=5
+- 2026-11-09 06:54 UTC：Hundreds missing, including 47 Americans, in deadly Nepal floods, local officials say - ABC News - Breaking News, Latest News and Videos。https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFFKbWhSWTR5S25UT01SQnE4V1Jua044M19rZmJiYzRwRHphTU1GdFBIUi1ORXl2UUF1Y0NzNG00cDVuNzZuZzFjQ0doUTF5VUg1elRPdE02V0UxNFB1U1dub1ZrMnpjR190bnJIV2VWN0ZPbTRucURXYTlkQWlHS2d0XzR4dzgxaGdCWk92OE9paV92VWIzdTlYNE5xQThPNWRzR2N3R0hjUdIBrwFBVV95cUxNYjM2dnl3U1htTjMxc1ctcjBITTVMMXlXQlFCTjNPV2cxOXF6U3BmU2xSZHZRdHI1QTJRYTB6T1kyVVJ0Y2s3UlZQUm1ZS210UUozM0F3M09Sbk1QWU9pTXVwdjBNT3lGRkhnM0NGZU5ha1BuVDJ1R1hKbVR1M0REMkVMdFpZYnhDb2RUdlNSMVpQbHEwUXV5WGxSMFp1ci16M2dzVGhnQlNpTlVHZ3Qw?oc=5
 - 2026-11-07 10:45 UTC：Flood Victims Leave Mustang Gumba Shelter - Ratopati。https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTVjdVdXOTlzVXN0TEljWEVsaXhhMloxcEVadFQ3NW9XOEN1Mnh2TWlmanJiV3dUckk5RU5rN2JWR0pESW1EWk1hbnMwcGJrRHhPWG9EX2lpU2lOcEUtSjFXSE4wWUgxMWl6SnMzMERrdWdKUVh4Nk5EbHR0eUZPNEJveXh3ZUlmckpfQlBLaTdESVZZU0VXU25wVTdzTWkwbXdsMDdNQ1lBNzdQeDV4UUNXZXNSVi1CbGxmSnBTR3BOMkk?oc=5
 - 2026-11-05 08:12 UTC：Flood victims at Kathmandu holding centres eager to return home (Photos) - OnlineKhabar English News。https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2lGZ21LSkd2Yjk2MnZZRXgtM092cmJ2ejNCQ19JVzh3SW42ekdFUzVQY29TZ1NENzZCT0lXVndYV0lxd3hWdWhlV2I1NUMzd2N2V0g0UVlRVTB2N0k5RG5hYW5zWmZ0MGxDMUFHNDFOZllhNzlpVzViaVhpbkxZSG1SYjhrU1kyMGFEcnVjcVdFMVc5LXFCdXUzS2ZDd1Y3ODVQalpqVE9WQmRw?oc=5
 - 2026-11-05 05:57 UTC：Korala border point faces repeated disruptions from floods, snowfall - OnlineKhabar English News。https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeWYzM0JpNXp1YmVPaVhkMklOaHNhczNVQnZ3Sm03cXgtS3RZWXF4OWN4SUNDM05yeFRHRHdreUp2RmQxbkFrR2JRMVRmek4yejlveHdYM3ZyaGptWGVRZTlDSVMzZ3RLZGdweERldUVaYmhLeDZjd1dxdW1hSlh2Rk8zU2gzT2F3VTRkb0pkYlh4LWtFVUMtYjBjNGZZcU5LcThKbm1ELWo?oc=5
@@ -50,7 +52,6 @@
 - 2026-11-08 05:23 UTC：'Lee' Declared Best Dog of the Year - Ratopati
 - 2026-11-06 11:54 UTC：Preparations for Janakpurdham–Ayodhyadham railway service gather pace - OnlineKhabar English News
 - 2026-11-06 08:28 UTC：16 shortlisted for Nepal Tourism Board CEO - OnlineKhabar English News
-- 2026-11-04 02:16 UTC：Nepal imports 3,725 tons of Chinese fruit via Korala border crossing - FreshPlaza
 
 ## 上特里苏利 3A 水电站（60 MW）
 

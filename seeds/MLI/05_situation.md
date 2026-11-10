@@ -14,6 +14,6 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
-- 2026-11-06 00:00 UTC：Green 级 WF，Forest fires in Mali。https://www.gdacs.org/report.aspx?eventid=1033657&episodeid=2&eventtype=WF 
+- 2026-11-06 00:00 UTC：Green 级 WF，Forest fires in Mali。https://www.gdacs.org/report.aspx?eventid=1033657&episodeid=3&eventtype=WF 
 - 2026-11-06 00:00 UTC：Green 级 WF，Forest fires in Mali。https://www.gdacs.org/report.aspx?eventid=1033656&episodeid=3&eventtype=WF 
 - 2026-11-05 00:00 UTC：Green 级 WF，Forest fires in Mali。https://www.gdacs.org/report.aspx?eventid=1033637&episodeid=3&eventtype=WF 
