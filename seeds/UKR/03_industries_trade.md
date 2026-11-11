@@ -205,9 +205,9 @@
 | 炸药、烟火（HS 36，Explosives; pyrotechnic products; matches; pyrophoric alloys; certain） | 3120 美元 | 无数据 |
 | 锡及其制品（HS 80，Tin; articles thereof） | 2410 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-10-30 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 4 次（前 30 天 16 次），进口约 0 公吨，出口约 6026 公吨。
+全国靠港 4 次（前 30 天 13 次），进口约 0 公吨，出口约 6026 公吨。
 - Izmail港：靠港 2 次，进口约 0 公吨，出口约 2588 公吨
 - Reni港：靠港 2 次，进口约 0 公吨，出口约 3438 公吨
 - Berdyansk港：靠港 0 次，进口约 0 公吨，出口约 0 公吨

@@ -174,13 +174,13 @@
 | 其他贱金属（HS 81，Metals; n.e.c., cermets and articles thereof） | 115 美元 | 无数据 |
 | 艺术品、收藏品（HS 97，Works of art; collectors' pieces and antiques） | 无数据 | 34 美元 |
 
-## 港口（IMF PortWatch，截至 2026-10-30 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 113 次（前 30 天 121 次），进口约 125231 公吨，出口约 27917 公吨。
-- Porto Grande港：靠港 51 次，进口约 60150 公吨，出口约 21554 公吨
-- Porto Da Praia港：靠港 26 次，进口约 25930 公吨，出口约 5459 公吨
-- Palmeira港：靠港 18 次，进口约 32122 公吨，出口约 895 公吨
-- Sal Rei港：靠港 12 次，进口约 6659 公吨，出口约 0 公吨
+全国靠港 114 次（前 30 天 122 次），进口约 114597 公吨，出口约 31899 公吨。
+- Porto Grande港：靠港 49 次，进口约 48654 公吨，出口约 26331 公吨
+- Porto Da Praia港：靠港 28 次，进口约 23776 公吨，出口约 5295 公吨
+- Palmeira港：靠港 18 次，进口约 33334 公吨，出口约 264 公吨
+- Sal Rei港：靠港 13 次，进口约 8463 公吨，出口约 0 公吨
 - Port Vale Knights港：靠港 6 次，进口约 370 公吨，出口约 9 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

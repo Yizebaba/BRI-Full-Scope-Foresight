@@ -202,12 +202,12 @@
 | 生皮及皮革（HS 41，Raw hides and skins (other than furskins) and leather） | 2990 美元 | 无数据 |
 | 软木（HS 45，Cork and articles of cork） | 2527 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-10-30 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 113 次（前 30 天 135 次），进口约 427558 公吨，出口约 574028 公吨。
-- Poti港：靠港 66 次，进口约 230147 公吨，出口约 167953 公吨
-- Batumi港：靠港 36 次，进口约 90820 公吨，出口约 265426 公吨
-- Kulevi Oil Terminal港：靠港 11 次，进口约 106591 公吨，出口约 140649 公吨
+全国靠港 114 次（前 30 天 127 次），进口约 431592 公吨，出口约 636890 公吨。
+- Poti港：靠港 61 次，进口约 230771 公吨，出口约 189731 公吨
+- Batumi港：靠港 40 次，进口约 95685 公吨，出口约 284736 公吨
+- Kulevi Oil Terminal港：靠港 13 次，进口约 105136 公吨，出口约 162423 公吨
 - Supsa港：靠港 0 次，进口约 0 公吨，出口约 0 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

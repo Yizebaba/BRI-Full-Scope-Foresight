@@ -21,7 +21,3 @@
 
 - 2026-11-09 07:04 UTC：M4.6，54 km S of Klyuchi, Russia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx2g 
 - 2026-11-06 10:12 UTC：M4.5，91 km SSW of Vilyuchinsk, Russia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg3 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-11-09 07:04 UTC：Green 级 EQ，Earthquake in Russia。https://www.gdacs.org/report.aspx?eventid=1576387&episodeid=1745530&eventtype=EQ 

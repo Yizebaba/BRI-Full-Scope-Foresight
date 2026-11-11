@@ -193,9 +193,9 @@
 | 编结用植物材料（HS 14，Vegetable plaiting materials; vegetable products not elsewhere specifi） | 1050 美元 | 无数据 |
 | 艺术品、收藏品（HS 97，Works of art; collectors' pieces and antiques） | 589 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-10-30 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 99 次（前 30 天 106 次），进口约 1194231 公吨，出口约 113621 公吨。
-- Djibouti港：靠港 99 次，进口约 1194231 公吨，出口约 113621 公吨
+全国靠港 94 次（前 30 天 109 次），进口约 1110138 公吨，出口约 97878 公吨。
+- Djibouti港：靠港 94 次，进口约 1110138 公吨，出口约 97878 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

@@ -168,9 +168,9 @@
 | 稻草编结品（HS 46，Manufactures of straw, esparto or other plaiting materials; basketware） | 2326 美元 | 无数据 |
 | 锌及其制品（HS 79，Zinc and articles thereof） | 1600 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-10-30 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 20 次（前 30 天 17 次），进口约 35504 公吨，出口约 1104 公吨。
-- Port of Saint John's港：靠港 20 次，进口约 35504 公吨，出口约 1104 公吨
+全国靠港 24 次（前 30 天 17 次），进口约 29029 公吨，出口约 2024 公吨。
+- Port of Saint John's港：靠港 24 次，进口约 29029 公吨，出口约 2024 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

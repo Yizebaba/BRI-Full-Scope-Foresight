@@ -203,11 +203,11 @@
 | 生皮及皮革（HS 41，Raw hides and skins (other than furskins) and leather） | 5866 美元 | 无数据 |
 | 炸药、烟火（HS 36，Explosives; pyrotechnic products; matches; pyrophoric alloys; certain） | 4673 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-10-30 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 124 次（前 30 天 130 次），进口约 714258 公吨，出口约 815406 公吨。
-- Umm Qasr港：靠港 121 次，进口约 711716 公吨，出口约 646214 公吨
-- Basrah Oil Terminal港：靠港 3 次，进口约 2542 公吨，出口约 169192 公吨
+全国靠港 119 次（前 30 天 127 次），进口约 696403 公吨，出口约 962100 公吨。
+- Umm Qasr港：靠港 114 次，进口约 692385 公吨，出口约 594873 公吨
+- Basrah Oil Terminal港：靠港 5 次，进口约 4018 公吨，出口约 367227 公吨
 - Al Basrah港：靠港 0 次，进口约 0 公吨，出口约 0 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

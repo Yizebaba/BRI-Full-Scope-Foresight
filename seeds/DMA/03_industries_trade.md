@@ -170,9 +170,9 @@
 | 乐器（HS 92，Musical instruments; parts and accessories of such articles） | 78 美元 | 无数据 |
 | 糖及糖食（HS 17，Sugars and sugar confectionery） | 2 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-10-30 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 22 次（前 30 天 22 次），进口约 19215 公吨，出口约 1915 公吨。
-- Roseau港：靠港 22 次，进口约 19215 公吨，出口约 1915 公吨
+全国靠港 23 次（前 30 天 19 次），进口约 18899 公吨，出口约 2057 公吨。
+- Roseau港：靠港 23 次，进口约 18899 公吨，出口约 2057 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

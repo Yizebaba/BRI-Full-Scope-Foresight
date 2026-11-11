@@ -188,10 +188,10 @@
 | 锡及其制品（HS 80，Tin; articles thereof） | 743 美元 | 无数据 |
 | 编结用植物材料（HS 14，Vegetable plaiting materials; vegetable products not elsewhere specifi） | 665 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-10-30 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 44 次（前 30 天 44 次），进口约 73006 公吨，出口约 7789 公吨。
-- Bridgetown港：靠港 44 次，进口约 73006 公吨，出口约 7789 公吨
+全国靠港 42 次（前 30 天 47 次），进口约 85675 公吨，出口约 7259 公吨。
+- Bridgetown港：靠港 42 次，进口约 85675 公吨，出口约 7259 公吨
 - Arawak港：靠港 0 次，进口约 0 公吨，出口约 0 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

@@ -203,14 +203,14 @@
 | 谷物（HS 10，Cereals） | 38 美元 | 无数据 |
 | 编结用植物材料（HS 14，Vegetable plaiting materials; vegetable products not elsewhere specifi） | 34 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-10-30 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 271 次（前 30 天 290 次），进口约 1358962 公吨，出口约 293319 公吨。
-- Haina港：靠港 105 次，进口约 475477 公吨，出口约 61082 公吨
-- Caucedo港：靠港 77 次，进口约 485143 公吨，出口约 61476 公吨
-- San Pedro De Macoris港：靠港 36 次，进口约 239937 公吨，出口约 115746 公吨
-- Santo Domingo港：靠港 26 次，进口约 70549 公吨，出口约 6406 公吨
-- Puerto Plata港：靠港 18 次，进口约 28437 公吨，出口约 5161 公吨
-- Puerto Viejo港：靠港 4 次，进口约 22105 公吨，出口约 1072 公吨
+全国靠港 270 次（前 30 天 286 次），进口约 1312329 公吨，出口约 314000 公吨。
+- Haina港：靠港 102 次，进口约 475435 公吨，出口约 63816 公吨
+- Caucedo港：靠港 78 次，进口约 503509 公吨，出口约 70327 公吨
+- San Pedro De Macoris港：靠港 33 次，进口约 171736 公吨，出口约 103696 公吨
+- Santo Domingo港：靠港 26 次，进口约 71320 公吨，出口约 5661 公吨
+- Puerto Plata港：靠港 20 次，进口约 62241 公吨，出口约 9504 公吨
+- Pepillo Salcedo (Manzanillo)港：靠港 5 次，进口约 26528 公吨，出口约 10520 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

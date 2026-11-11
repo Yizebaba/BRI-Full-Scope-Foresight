@@ -169,9 +169,9 @@
 | 乐器（HS 92，Musical instruments; parts and accessories of such articles） | 10 美元 | 无数据 |
 | 有机化学品（HS 29，Organic chemicals） | 1 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-10-30 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 33 次（前 30 天 36 次），进口约 47032 公吨，出口约 3750 公吨。
-- Saint George's港：靠港 33 次，进口约 47032 公吨，出口约 3750 公吨
+全国靠港 33 次（前 30 天 37 次），进口约 41280 公吨，出口约 4194 公吨。
+- Saint George's港：靠港 33 次，进口约 41280 公吨，出口约 4194 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

@@ -205,12 +205,12 @@
 | 乳品、蛋、蜂蜜（HS 04，Dairy produce; birds' eggs; natural honey; edible products of animal o） | 4136 美元 | 无数据 |
 | 生皮及皮革（HS 41，Raw hides and skins (other than furskins) and leather） | 2199 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-10-30 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 123 次（前 30 天 116 次），进口约 595999 公吨，出口约 811655 公吨。
-- Hamad Port港：靠港 45 次，进口约 81867 公吨，出口约 37055 公吨
-- Ras Laffan港：靠港 35 次，进口约 2019 公吨，出口约 617885 公吨
-- Doha-Umm Said港：靠港 31 次，进口约 509432 公吨，出口约 156265 公吨
-- Al Ruwais港：靠港 12 次，进口约 2681 公吨，出口约 450 公吨
+全国靠港 125 次（前 30 天 113 次），进口约 636710 公吨，出口约 996695 公吨。
+- Hamad Port港：靠港 44 次，进口约 99433 公吨，出口约 30406 公吨
+- Ras Laffan港：靠港 40 次，进口约 2397 公吨，出口约 841555 公吨
+- Doha-Umm Said港：靠港 29 次，进口约 532102 公吨，出口约 124329 公吨
+- Al Ruwais港：靠港 12 次，进口约 2778 公吨，出口约 405 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

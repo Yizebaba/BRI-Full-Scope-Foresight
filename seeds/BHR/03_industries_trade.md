@@ -103,11 +103,11 @@
 | 肥料（HS 31，Fertilizers） | 6909 美元 | 无数据 |
 | 生皮及皮革（HS 41，Raw hides and skins (other than furskins) and leather） | 1029 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-10-30 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 42 次（前 30 天 56 次），进口约 116213 公吨，出口约 337796 公吨。
-- Sitrah港：靠港 38 次，进口约 104443 公吨，出口约 337796 公吨
-- Mina Salman港：靠港 4 次，进口约 11770 公吨，出口约 0 公吨
+全国靠港 47 次（前 30 天 52 次），进口约 158631 公吨，出口约 473949 公吨。
+- Sitrah港：靠港 43 次，进口约 151072 公吨，出口约 473936 公吨
+- Mina Salman港：靠港 4 次，进口约 7559 公吨，出口约 13 公吨
 - Khalifa Bin Salman港：靠港 0 次，进口约 0 公吨，出口约 0 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。
