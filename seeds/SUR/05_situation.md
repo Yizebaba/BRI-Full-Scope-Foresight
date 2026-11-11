@@ -11,4 +11,4 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
-- 2026-11-03 00:00 UTC：Green 级 WF，Forest fires in Suriname, Brazil。https://www.gdacs.org/report.aspx?eventid=1033608&episodeid=8&eventtype=WF 
+- 2026-10-29 00:00 UTC：Green 级 WF，Forest fires in Suriname, Brazil。https://www.gdacs.org/report.aspx?eventid=1033652&episodeid=2&eventtype=WF 

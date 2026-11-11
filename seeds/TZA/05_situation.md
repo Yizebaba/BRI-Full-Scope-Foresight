@@ -19,4 +19,5 @@
 - 2026-11-07 00:00 UTC：Green 级 WF，Forest fires in Tanzania。https://www.gdacs.org/report.aspx?eventid=1033709&episodeid=1&eventtype=WF 
 - 2026-11-05 00:00 UTC：Green 级 WF，Forest fires in Tanzania。https://www.gdacs.org/report.aspx?eventid=1033716&episodeid=1&eventtype=WF 
 - 2026-11-02 00:00 UTC：Green 级 WF，Forest fires in Tanzania。https://www.gdacs.org/report.aspx?eventid=1033722&episodeid=1&eventtype=WF 
-- 2026-10-31 00:00 UTC：Green 级 WF，Forest fires in Tanzania。https://www.gdacs.org/report.aspx?eventid=1033642&episodeid=5&eventtype=WF 
+- 2026-11-01 00:00 UTC：Green 级 WF，Forest fires in Tanzania。https://www.gdacs.org/report.aspx?eventid=1033641&episodeid=5&eventtype=WF 
+- 2026-10-31 00:00 UTC：Green 级 WF，Forest fires in Tanzania。https://www.gdacs.org/report.aspx?eventid=1033642&episodeid=6&eventtype=WF 
