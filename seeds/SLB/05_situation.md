@@ -8,9 +8,3 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-10 15:52 UTC：M4.8，20 km SSW of Lata, Solomon Islands。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txbj 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-11-10 15:52 UTC：Green 级 EQ，Earthquake in Solomon Islands。https://www.gdacs.org/report.aspx?eventid=1576642&episodeid=1745816&eventtype=EQ 
-- 2026-11-10 04:30 UTC：Green 级 EQ，Earthquake in Solomon Islands。https://www.gdacs.org/report.aspx?eventid=1576552&episodeid=1745715&eventtype=EQ 
-- 2026-11-10 03:37 UTC：Green 级 EQ，Earthquake in Solomon Islands。https://www.gdacs.org/report.aspx?eventid=1576540&episodeid=1745703&eventtype=EQ 

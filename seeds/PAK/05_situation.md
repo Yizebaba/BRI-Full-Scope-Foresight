@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-11 15:04 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-11 21:51 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -49,9 +49,6 @@
 ## 喀喇昆仑公路改扩建（雷科特—红其拉甫）
 
 周边自然事件：扫描期间没有记录。
-
-近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-06 08:00 UTC：Karakoram Highway | Facts, Completion Date, & Khunjerab Pass - Britannica
 
 ## 喀喇昆仑公路二期（塔科特—哈维连）
 
@@ -74,14 +71,14 @@
 - 2026-11-05 03:20 UTC：Blue whale washes ashore dead in Gwadar - The Express Tribune。https://news.google.com/rss/articles/CBMiggFBVV95cUxOX1NaUW1rWDVDWDRCMXgxd0x3cDctblY0bzNRSVpLeEkwQVo4YlprWkNKVzYwdVd4cHRxU0VlTG5xX1M1SXEybEE2SWNrT2huQXRuWDBkdGpVVDh1MU9ZdEJfMDlFajQ4czl4V3M3QTZMd01uTFNablRzX3doN1htTVln0gGKAUFVX3lxTE1rRzRjZ2Y1dWZES2x2R1hRSHI3OGtkcG8zNWV3SzQ2OVYwTDk3RHFtaGZLMmlHYVBPZHdtUjJic1hkYjVVbllEWlVQYjZ3ZHBkeDhrclloNVMtQnhBLXZOMTV5U0pCbzJDTjJMVDJMNmJ4bE9oUnFTUU01S0Z2WWNqZ1dhbUpsdVdFQQ?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-11 19:19 UTC：Free Veterinary Camps Bring Animal Healthcare to Remote Gwadar Areas - Daily Independent
 - 2026-11-11 09:49 UTC：All seven main transformers positioned at Mansehra 765 kV Substation - Gwadar Pro
+- 2026-11-11 07:54 UTC：Gwadar Deputy Commissioner Hears Complaints of 43 Candidates in SST Recruitment Process - Daily Independent
 - 2026-11-10 10:15 UTC：Baloch Woman with Heart Condition Disappears After CTD Raid in Gwadar, Family Demands Answers - Lokmat Times
 - 2026-11-10 09:55 UTC：Saudi Delegation Eyes Investment in Gwadar Port - Daily Independent
 - 2026-11-10 09:01 UTC：Baloch Women Forum condemns disappearance of woman with cardiac condition during CTD raid in Gwadar - Devdiscourse
 - 2026-11-10 08:02 UTC：Pakistani students take first prize at international culture and arts festival - Gwadar Pro
 - 2026-11-10 06:50 UTC：Modern fishermen’s shelter completed in Jiwani, Gwadar Breaking - Independent News Pakistan
-- 2026-11-10 04:25 UTC：pakistani-delegation-china-beijing-cpec-gwadar.jpg (1) - Balochistan Pulse
-- 2026-11-10 01:20 UTC：Gwadar Port receives Panama-flagged vessel in major transshipment development - Dunya News
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 
