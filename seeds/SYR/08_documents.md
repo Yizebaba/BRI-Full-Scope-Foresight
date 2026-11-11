@@ -80,7 +80,7 @@ Chinese Ministry of Foreign Affairs about the relations with Syria
 
 ## 学术论文（OpenAlex）
 
-### Risk assessment of China’s Belt and Road Initiative’s sustainable investing: a data envelopment analysis approach（2018，Economic and Political Studies，被引 20）
+### Risk assessment of China’s Belt and Road Initiative’s sustainable investing: a data envelopment analysis approach（2018，Economic and Political Studies，被引 19）
 
 China’s Belt and Road Initiative (BRI) aims to promote greater development and connectivity between 64 Eurasian countries. To accomplish this, China must increase its investments in the countries involved as well. The BRI’s investments are expected to positively influence the development and connectivity of countries along the BRI, but a low return of investment cannot reflect investment risks. This study proposes the assessment of the BRI’s investments through the lens of sustainable investing risk. Sustainable investing is an investment discipline that considers environmental, social and governance (ESG) dimensions to generate long-term competitive financial returns and positive societal impact. A data envelopment analysis (DEA) model is used to calculate the composite indicators for each ESG dimension and country, and the average of the three indicators represents the sustainable investing risk score of each country. Results of the DEA reveal that Afghanistan has the lowest environmental rating (i.e. highest risk), Syria has the lowest social and governance ratings, Yemen has the lowest average rating, and Singapore has the highest rating. Moreover, no significant relationship is found between the BRI’s investment efforts and a country’s risk ratings, and an adequate risk ratio reflects the investments of the BRI.
 
@@ -121,4 +121,4 @@ Abstract Amid contemporary shifts in global power relations, investment in large
 
 https://doi.org/10.21203/rs.3.rs-7853544/v1
 
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

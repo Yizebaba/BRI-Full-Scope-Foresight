@@ -29,7 +29,7 @@ Emir Tamim bin Hamad Al Thani made his first visit to China in November 2014. Wh
 Both countries had minimal contact in the 1950s and 1960s because Qatar was still under the control of the United Kingdom and was regarded as a supporter of capitalism. Furthermore, Qatar had limited nationalist movements and so was unlikely to share the anti-imperialism sentiment of China.
 On 10 September 1971, nine days after Qatar was granted its sovereignty, Qatar and China had its first unofficial interaction. A congratulatory message was sent by Premier Zhou and Emir Ahmad bin Ali Al Thani responded on 11 September. Nonetheless, interactions remained at a low level throughout the 1970s. When Qatar fully nationalized its oil industry in February 1977, China reacted positively.
 On an official level, the two countries established relations in July 1988. During an April 1999 visit to Beijing by then-Emir Hamad bin Khalifa Al-Thani, the emir expressed his support of the one-China policy. Both countries view Hamas as a legitimate representative of Palestinian people.
-Qatar supported China's policies in Xinjiang until August 21, 2019; Qatar was the first Middle Eastern country to withdraw its defense of the Xinjiang internment camps.
+Qatar supported China's policies in Xinjiang until August 21, 2019; Qatar was the first Middle Eastern country to withdraw its defense of the Xinjiang re-education camps.
 
 
 == COVID-19 pandemic ==
@@ -155,4 +155,4 @@ Review of: Qatar’s Role in China’s Belt and Road Initiative: Bridging Two Ec
 
 https://doi.org/10.1386/jgs_00020_5
 
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

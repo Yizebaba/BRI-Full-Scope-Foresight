@@ -73,4 +73,4 @@ In November 2019, El Salvador permitted the opening of its first Confucius Insti
 - 2026-09-04 · Program Information Document · Concept Program Information Document (PID)（项目：SV-Advancing Healthcare through Digital Transformation in El Salvador -- P518482）。http://documents.worldbank.org/curated/en/099090426101097500
 - 2026-09-04 · Program Information Document · Concept Program Information Document (PID)（项目：SV-El Salvador Eastern Coast Strategic Tourism Development Program -- P517176）。http://documents.worldbank.org/curated/en/099090426143044712
 
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

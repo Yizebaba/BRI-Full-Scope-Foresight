@@ -4,7 +4,7 @@
 
 ## 国家概况（维基百科）
 
-Laos, officially the Lao People's Democratic Republic (LPDR), is a country in Mainland Southeast Asia; it is the only landlocked country in Southeast Asia. It is bordered by Myanmar and China to the northwest, Vietnam to the east, Cambodia to the southeast, and Thailand to the west and southwest. Laos has a population of more than 8 million, and its capital and most populous city is Vientiane. It has three UNESCO World Heritage Sites: the town of Luang Prabang, the temple complex of Vat Phou, and the Plain of Jars. Laos participates in the Greater Mekong Subregion economic cooperation programme and is a member of ASEAN, the Asia-Pacific Trade Agreement, East Asia Summit, La Francophonie, and the World Trade Organization.
+Laos, officially the Lao People's Democratic Republic (LPDR), is a country in Mainland Southeast Asia; it is the only landlocked country in Southeast Asia. It is bordered by Myanmar and China to the northwest, Vietnam to the east, Cambodia to the southeast, and Thailand to the west and southwest. The 2025 population and housing census enumerated 6,744,701 residents. A post-enumeration survey estimated the true resident population at approximately 7.24 million. Its capital and most populous city is Vientiane. It has three UNESCO World Heritage Sites: the town of Luang Prabang, the temple complex of Vat Phou, and the Plain of Jars. Laos participates in the Greater Mekong Subregion economic cooperation programme and is a member of ASEAN, the Asia-Pacific Trade Agreement, East Asia Summit, La Francophonie, and the World Trade Organization.
 The kingdom of Lan Xang existed from the 14th to 18th centuries and was a hub for overland trade through its territory. In 1707 it split into three kingdoms: Luang Prabang, Vientiane, and Champasak. In 1893, these kingdoms were unified under French rule as part of French Indochina. Laos was under Japanese administration during World War II, gaining independence in 1945 before returning to French administration until achieving autonomy in 1949. It regained full independence in 1953 as the Kingdom of Laos, with a constitutional monarchy under Sisavang Vong. A civil war from 1959 to 1975 saw the communist Pathet Lao (supported by China, North Vietnam, and the Soviet Union) oppose the Royal Lao Armed Forces (backed by the United States). It ended with the Lao People's Revolutionary Party's establishment of the Lao People's Democratic Republic in 1975.
 
 来源：https://en.wikipedia.org/wiki/Laos（CC BY-SA 4.0）
@@ -137,4 +137,4 @@ If current trajectories continue there will be no elephants left in Laos by the 
 
 https://openalex.org/W3005905567
 
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

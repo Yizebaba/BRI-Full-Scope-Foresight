@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-10 19:38 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-11 15:04 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -49,6 +49,9 @@
 ## 喀喇昆仑公路改扩建（雷科特—红其拉甫）
 
 周边自然事件：扫描期间没有记录。
+
+近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-06 08:00 UTC：Karakoram Highway | Facts, Completion Date, & Khunjerab Pass - Britannica
 
 ## 喀喇昆仑公路二期（塔科特—哈维连）
 
@@ -67,9 +70,11 @@
 - 2026-11-05 12:08 UTC：30-Foot Blue Whale Found Dead on Gwadar Beach - Bloom Pakistan。https://news.google.com/rss/articles/CBMibkFVX3lxTFBqT3hLdXNIUWJaU1BPZDJxQkpvV016T1JZTFItQk5qVlJneWtoSmFHNncyc2pwRG5abVlKMHQtQnZIbXhqT1ZvcEplUVpFV0d0TjVIVnl3c0JyeGhiMUVPVEZKX0ZLRUVNVjVwUlFR?oc=5
 - 2026-11-05 08:12 UTC：World’s Largest Animal Found Dead on Gwadar Beach - ProPakistani。https://news.google.com/rss/articles/CBMijAFBVV95cUxNWm02ckJTeDNwU09xQzFjVkZkdW5Jc0NIR2lZOXZTV2N0RGpUN256QWdvd0xEZW91MjRSbWV6eTlXY3B6RVM2TmlIeDU3cXlRaHhQbmdwWjJpMWQ0cVVaekdlVENGZzdHZXFsaXlBdVpfY29fX2tpck5RMmtTQjRHWVlVYUZyQXFaSmV5atIBkgFBVV95cUxONk9OWjJBeWlzMmM0X2VGRVpRdnU2TEpMTW1OcWtEamk0RVNZYmVyUnNHY1VfRVl1Ql80ZDZhSHFWempNcFpBMnJMR05RWFhCR0dLRm1aSWc4QW8zdGU4LXY4RE82SldWTTdOR19iM09QVm9FbVhMMkRIdDlDclpuRWJhdEJuN0F6UFVEbDBuQzIyQQ?oc=5
 - 2026-11-05 07:58 UTC：Blue whale found dead near Gwadar East Bay after two days at sea - The Current。https://news.google.com/rss/articles/CBMikAFBVV95cUxNOEFuOVZ0eFNSNTNESzZWaWRZZHJ4SF9GNGxmZXJrcEpMN25ROEowa1dHNkdkVk9pNWlfVWd1UUNNV0JZejBqNm1KN05OZXZTQVgtZlZ2QkZTSUFBVFVLWHFtUWp6azdSVkRSOWM0UC1MVmQ3d3gyU2NMcVdvVjVLNVcyRF9hbTJFVlNtTzliU18?oc=5
+- 2026-11-05 06:42 UTC：Lahore man killed in Gwadar days after sending slain friend’s body to Faisalabad - The Current。https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGVTd1VpWFUtc1hrV1RqZ3RUdUh3bUMxQm9sU1RuQnE5cjdLWXM1MFVFMjF0TGJCVDBsQk5zUEFZeDJDbHF3eERwT1JFWnZsV3R2OTZYTHJKWkVTN0ZfZVA4ek5EckxPblQ1bzVqSVAtS01FWmZwS21hX1Y4VDR4QWtyekV1RjlHU1JINk9Xb2gzdGlaZVlUc2lDa2d5eklMeUlIWQ?oc=5
 - 2026-11-05 03:20 UTC：Blue whale washes ashore dead in Gwadar - The Express Tribune。https://news.google.com/rss/articles/CBMiggFBVV95cUxOX1NaUW1rWDVDWDRCMXgxd0x3cDctblY0bzNRSVpLeEkwQVo4YlprWkNKVzYwdVd4cHRxU0VlTG5xX1M1SXEybEE2SWNrT2huQXRuWDBkdGpVVDh1MU9ZdEJfMDlFajQ4czl4V3M3QTZMd01uTFNablRzX3doN1htTVln0gGKAUFVX3lxTE1rRzRjZ2Y1dWZES2x2R1hRSHI3OGtkcG8zNWV3SzQ2OVYwTDk3RHFtaGZLMmlHYVBPZHdtUjJic1hkYjVVbllEWlVQYjZ3ZHBkeDhrclloNVMtQnhBLXZOMTV5U0pCbzJDTjJMVDJMNmJ4bE9oUnFTUU01S0Z2WWNqZ1dhbUpsdVdFQQ?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-11 09:49 UTC：All seven main transformers positioned at Mansehra 765 kV Substation - Gwadar Pro
 - 2026-11-10 10:15 UTC：Baloch Woman with Heart Condition Disappears After CTD Raid in Gwadar, Family Demands Answers - Lokmat Times
 - 2026-11-10 09:55 UTC：Saudi Delegation Eyes Investment in Gwadar Port - Daily Independent
 - 2026-11-10 09:01 UTC：Baloch Women Forum condemns disappearance of woman with cardiac condition during CTD raid in Gwadar - Devdiscourse
@@ -77,7 +82,6 @@
 - 2026-11-10 06:50 UTC：Modern fishermen’s shelter completed in Jiwani, Gwadar Breaking - Independent News Pakistan
 - 2026-11-10 04:25 UTC：pakistani-delegation-china-beijing-cpec-gwadar.jpg (1) - Balochistan Pulse
 - 2026-11-10 01:20 UTC：Gwadar Port receives Panama-flagged vessel in major transshipment development - Dunya News
-- 2026-11-09 17:58 UTC：Saudi business delegation shows interest in Gwadar Port's projects - 24 News HD
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

@@ -18,12 +18,13 @@
 - 2026-11-09 09:48 UTC：M5.4，160 km E of Masohi, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx32 
 - 2026-11-08 16:45 UTC：M4.6，117 km NE of Tobelo, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000twyd 
 - 2026-11-06 19:07 UTC：M4.8，36 km WNW of Poso, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000twmr 
-- 2026-11-04 07:40 UTC：M5，207 km ESE of Sarangani, Philippines。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvwj 
 
 ## 灾害警报（GDACS，近 14 天）
 
+- 2026-11-11 11:32 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1576792&episodeid=1745984&eventtype=EQ 
 - 2026-11-10 15:51 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1576636&episodeid=1745812&eventtype=EQ 
 - 2026-11-10 14:31 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1576664&episodeid=1745843&eventtype=EQ 
 - 2026-11-10 08:34 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1576577&episodeid=1745746&eventtype=EQ 
 - 2026-11-10 01:53 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1576526&episodeid=1745686&eventtype=EQ 
 - 2026-11-10 00:11 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1576523&episodeid=1745875&eventtype=EQ 
+- 2026-10-24 01:00 UTC：Green 级 FL，Flood in Indonesia。https://www.gdacs.org/report.aspx?eventid=1104253&episodeid=6&eventtype=FL 

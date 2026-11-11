@@ -144,45 +144,45 @@ The Russia–China Investment Fund (Russian: Российско-Китайски
 
 ## 学术论文（OpenAlex）
 
-### Does One Belt One Road initiative promote Chinese overseas direct investment?（2017，China Economic Review，被引 563）
+### Does One Belt One Road initiative promote Chinese overseas direct investment?（2017，China Economic Review，被引 588）
 
 （无摘要）
 
 https://doi.org/10.1016/j.chieco.2017.05.010
-### Does the Connectivity of the Belt and Road Initiative Contribute to the Economic Growth of the Belt and Road Countries?（2019，Emerging Markets Finance and Trade，被引 48）
+### Does the Connectivity of the Belt and Road Initiative Contribute to the Economic Growth of the Belt and Road Countries?（2019，Emerging Markets Finance and Trade，被引 52）
 
 Since the Belt and Road Initiative (BRI) has been implemented for five years, it is time to ask whether the BRI contributes to Belt and Road (BR) countries’ economic growth, and how are the five elements of connectivity implemented between China and its partner countries since the BRI was proposed. This study focuses on the development of the five elements of connectivity between China and the BR countries from 2008 to 2017 using a comprehensive connectivity index extracted from principle component analysis, and then investigating if the connectivity has contributed to the economic growth of the BR countries with quantitative analysis of the fixed effect econometrical model. It is found that Russia, South Korea, and Singapore presented the top three levels of connectivity with China with regard to the overall connectivity index, varying from 1.4 to 2.4. Madagascar and Panama have the lowest level of connectivity with China, with values of −0.8 to −1.1. The result of the fixed effect model shows that the connectivity of the BR countries with China contributes to their economic growth. This provides quantitative evidence that the connectivity between BR countries and China has a significant influence on the economic growth of those countries.
 
 https://doi.org/10.1080/1540496x.2019.1643315
-### Energy relations between China and the countries along the Belt and Road: An analysis of the distribution of energy resources and interdependence relationships（2019，Renewable and Sustainable Energy Reviews，被引 141）
+### Energy relations between China and the countries along the Belt and Road: An analysis of the distribution of energy resources and interdependence relationships（2019，Renewable and Sustainable Energy Reviews，被引 145）
 
 （无摘要）
 
 https://doi.org/10.1016/j.rser.2019.03.007
-### Virtual water trade of agricultural products: A new perspective to explore the Belt and Road（2017，The Science of The Total Environment，被引 112）
+### Virtual water trade of agricultural products: A new perspective to explore the Belt and Road（2017，The Science of The Total Environment，被引 113）
 
 （无摘要）
 
 https://doi.org/10.1016/j.scitotenv.2017.11.351
-### The structure and evolution of trade relations between countries along the Belt and Road（2018，Journal of Geographical Sciences，被引 72）
+### The structure and evolution of trade relations between countries along the Belt and Road（2018，Journal of Geographical Sciences，被引 76）
 
 （无摘要）
 
 https://doi.org/10.1007/s11442-018-1522-9
-### Two Ways of Influence-building: The Eurasian Economic Union and the One Belt, One Road Initiative（2017，Europe Asia Studies，被引 70）
+### Two Ways of Influence-building: The Eurasian Economic Union and the One Belt, One Road Initiative（2017，Europe Asia Studies，被引 76）
 
 Russia and China have been pursuing the Eurasian Economic Union and the One Belt, One Road initiative since the early 2010s, employing two distinct sets of practices in their respective influence-building endeavours. Russia is interested in creating an exclusive sphere of influence in the post-Soviet space, in order to bolster its great power status and secure regional primacy. China, in turn, is expanding its economic influence over a vast geographical area disguising economic expansion behind multilateralism. These differences make Sino–Russian competition in Central Asia less plausible.
 
 https://doi.org/10.1080/09668136.2017.1373270
-### The Silk Road goes north: Russia’s role within China’s Belt and Road Initiative（2016，Area Development and Policy，被引 34）
-
-Russia, the world’s largest country, forms a key part of China’s Belt and Road Initiative (BRI). Underfunded infrastructure and vast energy resources into which Western investment is now largely prohibited by US and European Union sanctions also make Russia a logical site for BRI projects. Two are currently under way: the Moscow–Kazan high-speed railway and the Yamal liquefied natural gas plant. These BRI endeavours build on recent Sino-Russia energy cooperation and a longer history of transportation infrastructure partnership in which China is now the investor. However, longstanding mutual suspicions that peaked during the Cold War may challenge implementation.
-
-https://doi.org/10.1080/23792949.2016.1239508
-### The Belt and Road Initiative and the Eurasian Economic Union: Exploring the “Greater Eurasian Partnership”（2020，Journal of Current Chinese Affairs，被引 41）
+### The Belt and Road Initiative and the Eurasian Economic Union: Exploring the “Greater Eurasian Partnership”（2020，Journal of Current Chinese Affairs，被引 50）
 
 The Russian-led Eurasian Economic Union (EAEU) is a key partner in China’s Belt, and Road Initiative (BRI), since it comprises the majority of territories which the BRI’s overland route, the Silk Road Economic Belt, needs to traverse as it crosses Central Asia on the way to Europe. The goal of this article is to explore the BRI in the context of BRI–EAEU coordination. The first part of the analysis focusses on the ways the Eurasian Economic Commission delineates the “Greater Eurasian Partnership” and counterposes it against China and the BRI. Then, the article compares two sets of interpretations of the BRI and “Greater Eurasian Partnership” obtained from interviews with elites in Kazakhstan and Russia. The interviews indicate that the BRI has had a much more forceful impact on local elites than Russia’s idea of “Greater Eurasian Partnership.”
 
 https://doi.org/10.1177/1868102620911666
+### The Silk Road goes north: Russia’s role within China’s Belt and Road Initiative（2016，Area Development and Policy，被引 36）
 
-抓取时间：2026-11-04T12:35:54Z
+Russia, the world’s largest country, forms a key part of China’s Belt and Road Initiative (BRI). Underfunded infrastructure and vast energy resources into which Western investment is now largely prohibited by US and European Union sanctions also make Russia a logical site for BRI projects. Two are currently under way: the Moscow–Kazan high-speed railway and the Yamal liquefied natural gas plant. These BRI endeavours build on recent Sino-Russia energy cooperation and a longer history of transportation infrastructure partnership in which China is now the investor. However, longstanding mutual suspicions that peaked during the Cold War may challenge implementation.
+
+https://doi.org/10.1080/23792949.2016.1239508
+
+抓取时间：2026-11-11T12:13:04Z

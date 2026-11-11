@@ -104,4 +104,4 @@ The PNGDF Land Element includes two infantry battalions, an engineer battalion, 
 - 2026-10-29 · Environmental and Social Management Plan · Environmental and Social Management Framework (ESMF) PNG Agriculture Commercialization and Diversification Project Phase 2  (P515452)（项目：PG-PNG Agriculture Commercialization and Diversification Project Phase 2 -- P515452）。http://documents.worldbank.org/curated/en/099102926205039149
 - 2026-10-29 · Environmental and Social Management Framework · Resettlement Framework PNG Agriculture Commercialization and Diversification Project Phase 2  (P515452)（项目：PG-PNG Agriculture Commercialization and Diversification Project Phase 2 -- P515452）。http://documents.worldbank.org/curated/en/099102926205537707
 
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

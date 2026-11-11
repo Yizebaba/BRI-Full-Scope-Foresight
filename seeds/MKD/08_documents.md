@@ -92,19 +92,18 @@ Cooperation between China and Central and Eastern European Countries (China-CEE,
   摘要：The Country Opinion Survey in North Macedonia assists the World Bank Group (WBG) in better understanding how stakeholders in North Macedonia perceive the WBG. It provides the WBG with systematic feedback from national and local governments, multilateral/bilateral agencies, media, academia, the private sector, and civil society in North Macedonia on 1) their views regarding the general environment in North Macedonia; 2) their overall attitudes toward the WBG in North Macedonia; 3) overall impressions of the WBG’s effectiveness and results, knowledge work and activities, and communication and information sharing in North Macedonia; and 4) their perceptions of the WBG’s future role in North Macedonia.
 - 2026-05-31 · Report · FY 2026 North Macedonia Country Opinion Survey Report。http://documents.worldbank.org/curated/en/099816406262630141
   摘要：The Country Opinion Survey in North Macedonia assists the World Bank Group (WBG) in better understanding how stakeholders in North Macedonia perceive the WBG. It provides the WBG with systematic feedback from national and local governments, multilateral/bilateral agencies, media, academia, the private sector, and civil society in North Macedonia on 1) their views regarding the general environment in North Macedonia; 2) their overall attitudes toward the WBG in North Macedonia; 3) overall impressions of the WBG’s effectiveness and results, knowledge work and activities, and communication and information sharing in North Macedonia; and 4) their perceptions of the WBG’s future role in North Macedonia.
-- 2026-04-16 · Brief · Macro Poverty Outlook for North Macedonia : April 2026。http://documents.worldbank.org/curated/en/099846008042610105
-  摘要：Growth strengthened in 2025, driven by highway construction and services. Rising wages, together with food and services price increases kept inflationary pressures elevated. Revenue shortfalls and an increasing debt stock highlight the need for timely fiscal consolidation. Outlook projections are contingent on sustained reform implementation and subject to significant downside risks, including uncertainty stemming from the Middle East conflict.
+- 2026-11-06 · Climate Co-Benefits Assessment · Climate Finance Assessment (P513182)（项目：MK-Improving Public Expenditure, Accountability and Tax Administration in North Macedonia (IMPACT) -- P513182）。http://documents.worldbank.org/curated/en/099110626132050539
 - 2026-09-24 · Implementation Completion Report Review · North Macedonia - Road Upgrading and Development Project（项目：MK-Road Upgrading and Development Project -- P149955）。http://documents.worldbank.org/curated/en/099092426125012964
 - 2026-08-25 · Agreement · Official Documents- Amendment to the Loan Agreement and Revised Withdrawal Schedule Following Cancellation for Loan 9454-MK.pdf（项目：MK-Building Effective, Transparent and Accountable Public Financial Management Institutions Project -- P176366）。http://documents.worldbank.org/curated/en/099082526091030880
 
 ## 学术论文（OpenAlex）
 
-### “One Belt, One Road”: China's New Global Strategy（2016，Journal of Contemporary East Asia Studies，被引 162）
+### “One Belt, One Road”: China's New Global Strategy（2016，Journal of Contemporary East Asia Studies，被引 176）
 
 The “One Belt, One Road” (OBOR) initiative has been a topic of hot debate among Sinologists and pundits in recent years. What is the nature of this foreign policy and how is it implemented under the Xi Jinping administration? By examining China's OBOR initiative, this article argues that OBOR is not only a regional policy but a grand global strategy for achieving the “Chinese Dream”. While there is little chance that China will be able to create a large area of influence around the world, the potential impact on global politics cannot be overlooked.
 
 https://doi.org/10.1080/24761028.2016.11869094
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 200）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 209）
 
 （无摘要）
 
@@ -114,30 +113,30 @@ https://doi.org/10.1016/j.ememar.2019.100629
 The political and economic situation in the Republic of Nort Macedonia and the declarative commitments of the EU for the European future of the country, are a serious geopolitical challenge for the EU and an opportunity for the penetration of China's interests in the region. In fact, China's strategy is present in all Western Balkan countries and we can perceive it primarily through the One Belt One Road Initiative (OBOR) or known as the Belt and Road Initiative (BRI) and the 17+1 cooperation platform as a framework, for the implementation of Chinese projects.The above two serious projects contribute and have contributed to the change in the perception of China's foreign policy capacity. The Covid pandemic has only further strengthened China's influence globally, in the context of the global struggle for dominance in the production of vaccines against Covid 19. This paper aims to show how North Macedonia, as a small country, is positioned within the geostrategic interests of China expressed through the initiative known as the Belt and Road Initiative (BRI) and the 17+1 cooperation platform, but also in the context of the current Covid situation.
 
 https://doi.org/10.20544/horizons.a.29.2.21.p13
-### Energy and Ecological Sustainability: Challenges and Panoramas in Belt and Road Initiative Countries（2018，Sustainability，被引 123）
+### Energy and Ecological Sustainability: Challenges and Panoramas in Belt and Road Initiative Countries（2018，Sustainability，被引 125）
 
 Innovation and globalization fosters a tendency towards multiparty collaboration and strategic contacts among nations. A similar path was followed by the Chinese administration in 2013, with its “Belt and Road Initiative” (BRI). The most important objective of the present fact-finding study was to demonstrate the links between economic growth, energy consumption, urbanization, gross fixed capital formation, trade openness, financial development and carbon emissions (ecological degradation) from a panel of 47 BRI economies, over a time span of 1980 to 2016. Dynamic panel estimations (dynamic ordinary least square (DOLS) and fully modified ordinary least square (FMOLS)) were engaged to examine the long-run links between the subjected variables. Synchronized outcomes for the full panel show that energy consumption, gross fixed capital formation, economic growth, financial development, and urbanization unfavorably led to environmental degradation (CO2 emissions). However, trade openness is negatively correlated with emissions. Furthermore, pairwise panel Granger causative estimations justified bi-directional links from all regressors towards CO2 emissions, except for trade openness, which had unidirectional ties with environmental quality. In cross-country, long-run assessments, different results were found, with CO2 emissions being greatly increased by economic growth in all countries and energy consumption in 30 countries; other predictors testified to some mixed interactions with CO2 emissions in the country-level examination. The reported investigation provides some noteworthy guiding principles and policy inferences aimed at governments and ecological supervisory administrations, suggesting assertive moves towards truncated used of carbon fossil fuels and dependency on renewable energy, establishing waste and water treatment plants, familiarizing themselves with the concept of a green economy, and making the general public aware of eco-friendly investments in BRI e
 
 https://doi.org/10.3390/su10082743
-### Trade Openness and CO2 Emissions: The Heterogeneous and Mediating Effects for the Belt and Road Countries（2021，Sustainability，被引 130）
+### Trade Openness and CO2 Emissions: The Heterogeneous and Mediating Effects for the Belt and Road Countries（2021，Sustainability，被引 139）
 
 To investigate whether increasing trade openness results in more severe environmental problems, this study investigates the impact of trade openness on carbon dioxide (CO2) emissions using panel data from 64 countries along the Belt and Road from 2001–2019. Fully considering the potential heterogeneity, the panel quantile regression approach is utilized. Moreover, this study explores the three major mediating effects of the process, namely the energy-substitution effect, economic effect, and technology effect. The empirical results indicate that the improvement in trade openness has a significantly positive effect on CO2 emissions, and it also shows that the impact varies with different levels of CO2 emissions. Furthermore, the indirect effect of trade openness on CO2 emissions via the economic effect is positive, while the indirect effect via the energy-substitution and the technology effect is negative. Therefore, it is necessary to improve renewable energy consumption, decrease energy intensity, and formulate related policies to reduce carbon emissions policies in terms of local conditions.
 
 https://doi.org/10.3390/su13041958
-### The impact of China’s one belt one road initiative on international trade in the ASEAN region（2019，The North American Journal of Economics and Finance，被引 137）
-
-（无摘要）
-
-https://doi.org/10.1016/j.najef.2019.101089
-### Foreign Investment across the Belt and Road: Patterns, Determinants, and Effects（2018，World Bank, Washington, DC eBooks，被引 80）
+### Foreign Investment across the Belt and Road: Patterns, Determinants, and Effects（2018，World Bank, Washington, DC eBooks，被引 87）
 
 This paper examines the patterns and economic effects of foreign direct investment across the Belt and Road Initiative countries and assesses the potential role of the initiative in shaping the patterns and effects. Exploring cross-country bilateral transportation cost and foreign investment data, the analysis shows that, by reducing overall travel times and transportation costs, the proposed Belt and Road Initiative transportation network can pave the way for additional investments and increased growth in gross domestic product. But the magnitude of the effect varies significantly across source and destination countries. Aggregate foreign direct investment in Belt and Road Initiative countries is predicted to increase by around 5 percent, with regions such as Sub-Saharan Africa and East Asia and Pacific seeing greater potential gains. The increase in foreign direct investment can exert a positive effect on GDP, trade, and employment growth, especially for lower-income countries.
 
 https://doi.org/10.1596/1813-9450-8607
-### Exposure of belt and road economies to China trade shocks（2020，Journal of Development Economics，被引 55）
+### The Belt and Road Initiative depicted in Hungary and Slovakia（2018，Journal of Contemporary East Asia Studies，被引 49）
+
+Central and Eastern European countries, like Hungary and Slovakia, are located along the Western section of the Belt and Road Initiative (BRI) and serve as a gateway to the European Union. Thus, the participation of the CEE region is inevitable in the BRI, and the attitude of national governments and the public opinion may have an impact on the future of EU-China relations in the framework of the new “Silk Road” connecting the East to the West. The following paper offers an introduction to the so-called 16 + 1 cooperation of China and its 16 partners in the CEE region, and analyzes the political environment, public support, and media discourse of the BRI in two selected countries of Central and Eastern Europe.
+
+https://doi.org/10.1080/24761028.2018.1537091
+### The impact of China’s one belt one road initiative on international trade in the ASEAN region（2019，The North American Journal of Economics and Finance，被引 147）
 
 （无摘要）
 
-https://doi.org/10.1016/j.jdeveco.2020.102474
+https://doi.org/10.1016/j.najef.2019.101089
 
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

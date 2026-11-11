@@ -112,45 +112,45 @@ Cooperation between China and Central and Eastern European Countries (China-CEE,
 
 ## 学术论文（OpenAlex）
 
-### Between the Belt and Road and the Indo-Pacific: Lithuania's Strategic Reorientation（2026，CU Research Publications Repository，被引 0）
-
-Abstract: This paper examines the evolving dynamics of Lithuania’s engagement with China’s Belt and Road Initiative, analysing how Lithuania has navigated the intersection of economic opportunities, security concerns, and value-based foreign policy. Lithuania's initial participation in the BRI framework was a pragmatic attempt to diversify trade partnerships, attract investment, and enhance global connectivity. However, when these expectations failed to materialise, and concerns arose regarding the strategic implications of Chinese interest in key infrastructure, the BRI was increasingly framed not as an economic opportunity but as a potential security threat. Although this development is consistent with other CEE countries, Lithuania stands out as a small state that has coupled its reassessment of China policy with the adoption of an Indo-Pacific strategy, thereby embracing a competing framework to conceptualise regional order. Drawing on an inductive analysis of government documents and interviews, this paper demonstrates how Lithuania exercised its agency by shifting from engagement with the BRI to alignment with like-minded partners in the Indo-Pacific. The findings suggest that Lithuania’s case demonstrates how small states can adapt foreign policy through pragmatic risk management and values-based positioning.
-
-https://doi.org/10.5281/zenodo.18742597
 ### Between the Belt and Road and the Indo-Pacific: Lithuania’s strategic reorientation（2026，Cambridge Review of International Affairs，被引 0）
 
 This paper examines the evolving dynamics of Lithuania’s engagement with China’s Belt and Road Initiative, analysing how Lithuania has navigated the intersection of economic opportunities, security concerns, and value-based foreign policy. Lithuania’s initial participation in the BRI framework was a pragmatic attempt to diversify trade partnerships, attract investment, and enhance global connectivity. However, when these expectations failed to materialise, and concerns arose regarding the strategic implications of Chinese interest in key infrastructure, the BRI was increasingly framed not as an economic opportunity but as a potential security threat. Although this development is consistent with other CEE countries, Lithuania stands out as a small state that has coupled its reassessment of China policy with the adoption of an Indo-Pacific strategy, thereby embracing a competing framework to conceptualise regional order. Drawing on an inductive analysis of government documents and interviews, this paper demonstrates how Lithuania exercised its agency by shifting from engagement with the BRI to alignment with like-minded partners in the Indo-Pacific. The findings suggest that Lithuania’s case demonstrates how small states can adapt foreign policy through pragmatic risk management and values-based positioning.
 
 https://doi.org/10.1080/09557571.2026.2664110
-### Organized Crime and Corruption Across Borders: Exploring the Belt and Road Initiative（2019，Utrecht University Repository (Utrecht University)，被引 0）
-
-This book explores China’s Belt and Road Initiative and the criminogenic potential for economic, financial, and socio-cultural cooperation across countries, where some are known for weak law enforcement and high levels of corruption. It examines whether these flows of capital are increasing the amount of organized crime in the newly linked regions and how law enforcement agencies are responding. Bringing together experts across the Global South and Europe, this book considers transnational organized crime and corruption across One Belt One Road (OBOR). It examines crime and corruption in China and its international United Front tactic; analyzes various forms of transnational organized crime such as trafficking of illegal drugs, looted antiquities, and wildlife and counterfeit products; and presents studies on corruption and organized crime in selected OBOR countries including Russia, Kazakhstan, Lithuania, Czech Republic, Poland, and Bangladesh. This book makes a significant contribution to the development of southern criminology and will also be of interest to those engaged with transnational organized crime, political economy, international relations, and Asian and Chinese studies.
-
-https://openalex.org/W7149217889
-### COMPARATIVE ANALYSIS OF THE EASTERN EUROPEAN COUNTRIES AS PARTICIPANTS OF THE NEW SILK ROAD（2017，Journal of Business Economics and Management，被引 37）
+### COMPARATIVE ANALYSIS OF THE EASTERN EUROPEAN COUNTRIES AS PARTICIPANTS OF THE NEW SILK ROAD（2017，Journal of Business Economics and Management，被引 41）
 
 the chinese one belt one road (obor) initiative often referred to as the new silk road (nsr), seems to be the greatest endeavour of our times in terms of economy, politics and logistics. the study aimed to examine the potential of poland, belarus, lithuania, latvia, estonia and russia to participate in the nsr. the method applied was comparative analysis including both quantitative and qualitative studies. the juxtaposition of data from the intensity of global integration enabled assessment of the potential negative consequences of non-participation of the countries in the nsr. in turn, the analysis of specific indicators of trade integration, the intensity of global integration and the logistics performance of the researched part of europe has made it possible to answer the question about the most promising variants of the nsr.
 
 https://doi.org/10.3846/16111699.2017.1404488
-### The Baltic Resilience to China’s “Divide and Rule”（2021，Lex Portus，被引 13）
-
-The article examines the interactions of the Baltic states of Estonia, Latvia and Lithuania with China in the Belt and Road Initiative (BRI) format. First, it explores three most widespread criticisms of the Chinese BRI approach, namely: 1. The risk of Beijing becoming legitimating factor for strains on democracy, freedom and the rule of law; 2. Support towards the Chinese interpretation of values and tolerance of censorship; 3. Debt arising from infrastructure loans. Further, the article tries to establish to what extent did the Baltic states remain resilient to them, offering possible explanations to the Baltic cases along three lines – systemic resilience, discursive resilience, and financial resilience. The article concludes that BRI is taking different shapes in different regions, and that local political culture along with wider supra-national organizations determines the range and response to BRI, therefore, national institutional frameworks in combination with overwatch from supranational standard-enforcing institutions are the leading factors of countries’ resilience to risks stemming from BRI. Methodologically, the article employs qualitative approaches to data, including discourse analysis, document analysis and historic analysis. The primary sources include documents, agreements and statements of officials from China, the Baltic states, Italy, and the EU, as well as secondary sources including research publications, media reports, and mutually comparable national data.
-
-https://doi.org/10.26886/2524-101x.7.2.2021.2
 ### 中东欧视界 CEE Horizon 2017年第6 期 | 总第 7 期（2017，CEIBS Institutional Repository，被引 0）
 
 Republic does not agree with EU redistribution system according to refugee quotas and will defend its postition 12 Lithuanian Minister of Foreign Affairs: Lithuania is a safe and reliable country 13 Polish President Duda: "Three Seas Initiative Summit" will be held in Warsaw due to "logistics and security reasons" 14 Polish Prime Minister: Historic day of importing LNG from U.S. 15 Financial and Economic Information 15 Overview of technological innovation capacity of CEE countries 21 TAROM expects to launch direct flights to China 23 Net profits of PPF group tripled in 2016 24 Higher record of growth for annual monthly salary in Czech Republic 25 Financial Times: Macedonia featured by strong technological innvation capacity 27 Serbian Minister of Economy: FDI in 2016 exceeds 1.9 billion EUR 28 IMF urges Slovenia to reform and privatise 28 Bank of Albania: Foreign enterprises revenue increase 01 Interview 01 Croatian Deputy Prime Minister Martina Dalic: Three Seas Initiative and "Belt and Road" Initiative are complementary
 
 https://openalex.org/W7211440831
+### The Baltic Resilience to China’s “Divide and Rule”（2021，Lex Portus，被引 13）
+
+The article examines the interactions of the Baltic states of Estonia, Latvia and Lithuania with China in the Belt and Road Initiative (BRI) format. First, it explores three most widespread criticisms of the Chinese BRI approach, namely: 1. The risk of Beijing becoming legitimating factor for strains on democracy, freedom and the rule of law; 2. Support towards the Chinese interpretation of values and tolerance of censorship; 3. Debt arising from infrastructure loans. Further, the article tries to establish to what extent did the Baltic states remain resilient to them, offering possible explanations to the Baltic cases along three lines – systemic resilience, discursive resilience, and financial resilience. The article concludes that BRI is taking different shapes in different regions, and that local political culture along with wider supra-national organizations determines the range and response to BRI, therefore, national institutional frameworks in combination with overwatch from supranational standard-enforcing institutions are the leading factors of countries’ resilience to risks stemming from BRI. Methodologically, the article employs qualitative approaches to data, including discourse analysis, document analysis and historic analysis. The primary sources include documents, agreements and statements of officials from China, the Baltic states, Italy, and the EU, as well as secondary sources including research publications, media reports, and mutually comparable national data.
+
+https://doi.org/10.26886/2524-101x.7.2.2021.2
 ### Cooperation Among Belarus, Ukraine and Lithuania Under the Silk Road Economic Belt Initiative（2026，China and globalization 2.0，被引 0）
 
 （无摘要）
 
 https://doi.org/10.1007/978-981-95-3898-0_20
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 200）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 209）
 
 （无摘要）
 
 https://doi.org/10.1016/j.ememar.2019.100629
+### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 107）
 
-抓取时间：2026-11-04T12:35:54Z
+China's Belt and Road Initiative aims to improve connectivity between China and more than 70 countries through infrastructure investment and regional cooperation. The initiative has the potential to accelerate significantly the rate of economic integration and development in the region, as trade costs decline. The goals of this paper are to (i) study the impacts of infrastructure improvements on Belt and Road Initiative and non?Belt and Road Initiative countries'trade flows, growth, and poverty; and (ii) suggest policies that would help maximize gains from the Belt and Road Initiative?induced trade cost declines. The analysis captures the trade costs reductions as a result of infrastructure improvements. The findings indicate that the Belt and Road Initiative would be largely beneficial. First, global income increases by 0.7 percent (in 2030 relative to the baseline). This translates into almost half a trillion dollars in 2014 prices and market exchange rates. The Belt and Road Initiative area captures 82 percent of the gain, with the largest percent gains in East Asia. Second, globally, the Belt and Road Initiative could contribute to lifting 7.6 million people from extreme poverty and 32 million from moderate poverty. Third, the initiative would lead to a modest increase in global carbon dioxide emissions, with a complex set of positive and negative outcomes at the national level for other types of emissions.
+
+https://doi.org/10.1596/1813-9450-8814
+### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 170）
+
+（无摘要）
+
+https://doi.org/10.1016/j.jdeveco.2019.102415
+
+抓取时间：2026-11-11T12:13:04Z

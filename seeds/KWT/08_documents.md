@@ -113,7 +113,7 @@ https://doi.org/10.1016/j.chnaes.2021.02.007
 The six monarchies of the Persian Gulf – Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates – present a useful case study to examine the implications of the Belt and Road Initiative (BRI) on regions. This chapter uses a level of analysis approach to understand the opportunities and challenges inherent in the BRI when approached from the perspective of the Gulf monarchies. The analysis of the impact of the BRI on the Gulf monarchies is presented at three levels: the domestic, regional, and international. The Gulf monarchies are actively involved in BRI projects to support their own development agendas, making the initiative a useful means of addressing domestic pressures for economic diversification. At the regional level, the BRI has the potential to be more problematic for the Gulf monarchies. At the international level, the GCC states must try to maintain equilibrium between cooperation with China and India.
 
 https://doi.org/10.4324/9780429202346-6
-### Judicial Cooperation as Belt and Road Initiative (BRI) Transnational Dispute Settlement Order（2022，European Journal of East Asian Studies，被引 0）
+### Judicial Cooperation as Belt and Road Initiative (BRI) Transnational Dispute Settlement Order（2022，European Journal of East Asian Studies，被引 1）
 
 Abstract Traditional socio-legal works showed that authoritarian regimes benefit from embracing international arbitration, obviating any foreign investor’s distrust of non-independent and non-democratic courts. This article explores judicial cooperation by analysing the methods of dispute settlement adopted between China and the Arab Middle Eastern States involved in the BRI. After reviewing the background of China’s legal involvement in the Middle East, China’s involvement with various transnational dispute resolution institutions in the Middle East is discussed, and special consideration is given to legal disputes in Kuwait, UAE, and Egypt. Finally, this article argues that rule of law legitimacy, social and cultural inertia, and governance cost-effectiveness all influence the resulting transnational dispute settlement scheme.
 
@@ -144,4 +144,4 @@ In July 2018, the Kuwaiti Emir made a state visit of great significance to China
 
 https://doi.org/10.1177/2347798920940081
 
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

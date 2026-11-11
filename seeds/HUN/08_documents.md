@@ -28,7 +28,7 @@ In 1869, Austria-Hungary established diplomatic relations with the Qing dynasty.
 
 
 === Cold War ===
-On October 3, 1949, the Hungarian People's Republic recognized the People's Republic of China. On October 6, the two countries established diplomatic relations. During the Korean War, the Hungarian People's Republic sent medical teams to Pyongyang to treat wounded North Korean and Chinese People's Volunteer Army troops. At the height of the Hungarian Revolution of 1956, Chinese premier Zhou Enlai encouraged Soviet premier Nikita Khrushchev to intervene against the Hungarian revolutionaries.
+On October 3, 1949, the Hungarian People's Republic recognized the People's Republic of China. On October 6, the two countries established diplomatic relations. During the Korean War, the Hungarian People's Republic sent medical teams to Pyongyang to treat wounded North Korean and Chinese People's Volunteer Army troops. At the height of the Hungarian Revolution of 1956, Chinese premier Zhou Enlai encouraged Soviet premier Nikita Khrushchev to intervene against the Hungarian revolutionaries. Starting in 1956, shortly before the Hungarian Revolution, Hungary sent a team of experts to China to prospect for oil in Daqing, which would become China's largest oil field. 
 In 1989, Hungarian government, which was undergoing political reform, reacted strongly to the 1989 Tiananmen Square protests and massacre, condeming the Chinese government's actions. Demonstrations were held outside the Chinese embassy. Hungary was the only country in Europe to have substantially reduced relations with China in the aftermath of the events.
 
 
@@ -124,7 +124,7 @@ Cooperation between China and Central and Eastern European Countries (China-CEE,
 
 ## 学术论文（OpenAlex）
 
-### The Belt and Road Initiative depicted in Hungary and Slovakia（2018，Journal of Contemporary East Asia Studies，被引 39）
+### The Belt and Road Initiative depicted in Hungary and Slovakia（2018，Journal of Contemporary East Asia Studies，被引 49）
 
 Central and Eastern European countries, like Hungary and Slovakia, are located along the Western section of the Belt and Road Initiative (BRI) and serve as a gateway to the European Union. Thus, the participation of the CEE region is inevitable in the BRI, and the attitude of national governments and the public opinion may have an impact on the future of EU-China relations in the framework of the new “Silk Road” connecting the East to the West. The following paper offers an introduction to the so-called 16 + 1 cooperation of China and its 16 partners in the CEE region, and analyzes the political environment, public support, and media discourse of the BRI in two selected countries of Central and Eastern Europe.
 
@@ -186,4 +186,4 @@ This dissertation uses the Belt and Road Initiative as a case study to systemati
 
 https://openalex.org/W7167443829
 
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

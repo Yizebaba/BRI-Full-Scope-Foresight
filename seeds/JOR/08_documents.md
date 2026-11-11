@@ -65,45 +65,45 @@ In October 2003, China and Jordan signed the "Memorandum of Understanding on the
 
 ## 学术论文（OpenAlex）
 
-### Environmental Governance of China's Belt and Road Initiative（2020，Environmental Policy and Governance，被引 220）
+### Environmental Governance of China's Belt and Road Initiative（2020，Environmental Policy and Governance，被引 241）
 
 Abstract China's Belt and Road Initiative (BRI), launched in 2013, is rapidly subsuming much of China's political and economic involvement abroad. As a far‐reaching infrastructure development and investment strategy, officially involving more than 130 countries, the expansion of the BRI raises important questions about its environmental impacts and its implications for environmental governance. This article examines how China is actively and rapidly developing an institutional architecture for its envisioned “green BRI,” considering the key actors, policies, and initiatives involved in the environmental governance of the BRI. We find that the current institutional architecture of the “green BRI” relies on voluntary corporate self‐governance and a multitude of international and transnational sustainability initiatives. The effectiveness of the environmental governance of the BRI not only hinges on China's priorities and commitments, but also on the political willingness and capacity of BRI partner countries to maintain, implement, and enforce stringent environmental laws and regulations. We conclude by outlining several environmental governance challenges and an agenda for future research.
 
 https://doi.org/10.1002/eet.1901
-### Examining the debt implications of the Belt and Road Initiative from a policy perspective（2019，Journal of Infrastructure Policy and Development，被引 472）
+### Examining the debt implications of the Belt and Road Initiative from a policy perspective（2019，Journal of Infrastructure Policy and Development，被引 490）
 
 China’s Belt and Road Initiative (BRI) hopes to deliver trillions of dollars in infrastructure financing to Asia, Europe, and Africa. If the initiative follows Chinese practices to date for infrastructure financing, which often entail lending to sovereign borrowers, then BRI raises the risk of debt distress in some borrower countries. This paper assesses the likelihood of debt problems in the 68 countries identified as potential BRI borrowers. We conclude that eight countries are at particular risk of debt distress based on an identified pipeline of project lending associated with BRI.Because this indebtedness also suggests a higher concentration in debt owed to official and quasi-official Chinese creditors, we examine Chinese policies and practices related to sustainable financing and the management of debt problems in borrower countries. Based on this evidence, we offer recommendations to improve Chinese policy in these areas. The recommendations are offered to Chinese policymakers directly, as well as to BRI’s bilateral and multilateral partners, including the IMF and World Bank.
 
 https://doi.org/10.24294/jipd.v3i1.1123
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 200）
-
-（无摘要）
-
-https://doi.org/10.1016/j.ememar.2019.100629
-### “One Belt, One Road”: China's New Global Strategy（2016，Journal of Contemporary East Asia Studies，被引 162）
+### “One Belt, One Road”: China's New Global Strategy（2016，Journal of Contemporary East Asia Studies，被引 176）
 
 The “One Belt, One Road” (OBOR) initiative has been a topic of hot debate among Sinologists and pundits in recent years. What is the nature of this foreign policy and how is it implemented under the Xi Jinping administration? By examining China's OBOR initiative, this article argues that OBOR is not only a regional policy but a grand global strategy for achieving the “Chinese Dream”. While there is little chance that China will be able to create a large area of influence around the world, the potential impact on global politics cannot be overlooked.
 
 https://doi.org/10.1080/24761028.2016.11869094
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 209）
+
+（无摘要）
+
+https://doi.org/10.1016/j.ememar.2019.100629
 ### China-Arab Cooperation under the Digital Silk Road Framework: A Case Study of Jordan（2026，BRIQ Belt & Road Initiative Quarterly，被引 0）
 
 （无摘要）
 
 https://doi.org/10.67696/8q6a9a7j
-### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 102）
+### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 107）
 
 China's Belt and Road Initiative aims to improve connectivity between China and more than 70 countries through infrastructure investment and regional cooperation. The initiative has the potential to accelerate significantly the rate of economic integration and development in the region, as trade costs decline. The goals of this paper are to (i) study the impacts of infrastructure improvements on Belt and Road Initiative and non?Belt and Road Initiative countries'trade flows, growth, and poverty; and (ii) suggest policies that would help maximize gains from the Belt and Road Initiative?induced trade cost declines. The analysis captures the trade costs reductions as a result of infrastructure improvements. The findings indicate that the Belt and Road Initiative would be largely beneficial. First, global income increases by 0.7 percent (in 2030 relative to the baseline). This translates into almost half a trillion dollars in 2014 prices and market exchange rates. The Belt and Road Initiative area captures 82 percent of the gain, with the largest percent gains in East Asia. Second, globally, the Belt and Road Initiative could contribute to lifting 7.6 million people from extreme poverty and 32 million from moderate poverty. Third, the initiative would lead to a modest increase in global carbon dioxide emissions, with a complex set of positive and negative outcomes at the national level for other types of emissions.
 
 https://doi.org/10.1596/1813-9450-8814
-### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 164）
+### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 170）
 
 （无摘要）
 
 https://doi.org/10.1016/j.jdeveco.2019.102415
-### Energy and Ecological Sustainability: Challenges and Panoramas in Belt and Road Initiative Countries（2018，Sustainability，被引 123）
+### Does the Belt and Road Initiative Promote Sustainable Development? Evidence from Countries along the Belt and Road（2018，Sustainability，被引 48）
 
-Innovation and globalization fosters a tendency towards multiparty collaboration and strategic contacts among nations. A similar path was followed by the Chinese administration in 2013, with its “Belt and Road Initiative” (BRI). The most important objective of the present fact-finding study was to demonstrate the links between economic growth, energy consumption, urbanization, gross fixed capital formation, trade openness, financial development and carbon emissions (ecological degradation) from a panel of 47 BRI economies, over a time span of 1980 to 2016. Dynamic panel estimations (dynamic ordinary least square (DOLS) and fully modified ordinary least square (FMOLS)) were engaged to examine the long-run links between the subjected variables. Synchronized outcomes for the full panel show that energy consumption, gross fixed capital formation, economic growth, financial development, and urbanization unfavorably led to environmental degradation (CO2 emissions). However, trade openness is negatively correlated with emissions. Furthermore, pairwise panel Granger causative estimations justified bi-directional links from all regressors towards CO2 emissions, except for trade openness, which had unidirectional ties with environmental quality. In cross-country, long-run assessments, different results were found, with CO2 emissions being greatly increased by economic growth in all countries and energy consumption in 30 countries; other predictors testified to some mixed interactions with CO2 emissions in the country-level examination. The reported investigation provides some noteworthy guiding principles and policy inferences aimed at governments and ecological supervisory administrations, suggesting assertive moves towards truncated used of carbon fossil fuels and dependency on renewable energy, establishing waste and water treatment plants, familiarizing themselves with the concept of a green economy, and making the general public aware of eco-friendly investments in BRI e
+The “Belt and Road (B&R) Initiative” is an innovative idea proposed by China aimed at promoting common prosperity in the world. Although it has gained more and more recognition and response, there is also some one-sided understanding or distortion. Taking the 60 countries along the Belt and Road from 2010 to 2015 as samples, this paper mainly answers three questions from the perspective of sustainable development: (1) What is the current status of sustainable development in all countries along the “B&R”? (2) Is the “B&R Initiative” conducive to promoting the sustainable development of all countries along the “B&R”? (3) How could the “B&R” be better promoted? The study found that, first, various countries along the “B&R” have manifested an imbalanced characteristic in terms of the sustainable development, and there is much room for improvement in general. Second, the “B&R Initiative” has a positive impact on the sustainable development of all countries. However, due to the relatively short period of time, this impact is not significant at present. Third, to promote “B&R” construction, we must take sustainable development as the fundamental goal to jointly promote the connectivity of facilities, integrate the UN 2030 sustainable development goals, and strengthen the cross-border cooperation between non-governmental and non-profit organizations.
 
-https://doi.org/10.3390/su10082743
+https://doi.org/10.3390/su10124370
 
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

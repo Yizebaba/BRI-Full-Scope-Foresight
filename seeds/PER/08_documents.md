@@ -132,4 +132,4 @@ The opening of the port of Chancay decongests the Port of Callao, but it has bee
 - 2026-10-15 · Implementation Completion Report Review · Peru - Modernization of WSS Services（项目：PE-Modernization of Water Supply and Sanitation Services -- P157043）。http://documents.worldbank.org/curated/en/099101526135022283
 - 2026-09-15 · Loan Agreement · Official Documents- Loan Agreement for Loan 9910-PE.pdf（项目：PE-Peru Second Fiscal Policy and Sustainable Growth DPF-DDO -- P506131）。http://documents.worldbank.org/curated/en/099092126120036674
 
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

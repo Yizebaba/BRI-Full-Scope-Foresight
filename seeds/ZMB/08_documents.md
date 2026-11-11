@@ -177,10 +177,10 @@ https://doi.org/10.7256/2454-0641.2025.4.72504
 The expansion of Chinese companies into Africa's extractive industries has significantly reshaped the governance of natural resources across the continent. Since the early 2000s, China has emerged as Africa's largest trading partner and a major investor in strategic sectors including oil, copper, cobalt, and infrastructure. This growing presence is closely associated with the Belt and Road Initiative (BRI), which integrates infrastructure financing with long-term trade and resource access agreements. This chapter examines Chinese corporate engagement through selected cases in the Democratic Republic of the Congo, Angola, and Zambia, with a focus on governance implications, knowledge transfer, and development outcomes.
 
 https://doi.org/10.4018/979-8-3373-7350-8.ch018
-### The price of ‘openness’: towards Chinese economic control in Zambia（2010，Zed Books Ltd，被引 8）
+### The price of ‘openness’: towards Chinese economic control in Zambia（2010，Zed Books Ltd，被引 7）
 
 （无摘要）
 
 https://doi.org/10.5040/9781350223493.ch-016
 
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

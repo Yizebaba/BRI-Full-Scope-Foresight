@@ -60,17 +60,17 @@ Cardenal, Juan Pablo; Araújo, Heriberto (2011). La silenciosa conquista china (
 
 ## 学术论文（OpenAlex）
 
-### Examining the debt implications of the Belt and Road Initiative from a policy perspective（2019，Journal of Infrastructure Policy and Development，被引 472）
+### Examining the debt implications of the Belt and Road Initiative from a policy perspective（2019，Journal of Infrastructure Policy and Development，被引 490）
 
 China’s Belt and Road Initiative (BRI) hopes to deliver trillions of dollars in infrastructure financing to Asia, Europe, and Africa. If the initiative follows Chinese practices to date for infrastructure financing, which often entail lending to sovereign borrowers, then BRI raises the risk of debt distress in some borrower countries. This paper assesses the likelihood of debt problems in the 68 countries identified as potential BRI borrowers. We conclude that eight countries are at particular risk of debt distress based on an identified pipeline of project lending associated with BRI.Because this indebtedness also suggests a higher concentration in debt owed to official and quasi-official Chinese creditors, we examine Chinese policies and practices related to sustainable financing and the management of debt problems in borrower countries. Based on this evidence, we offer recommendations to improve Chinese policy in these areas. The recommendations are offered to Chinese policymakers directly, as well as to BRI’s bilateral and multilateral partners, including the IMF and World Bank.
 
 https://doi.org/10.24294/jipd.v3i1.1123
-### The roles of cultural and institutional distance in international trade: Evidence from China's trade with the Belt and Road countries（2018，China Economic Review，被引 161）
+### The roles of cultural and institutional distance in international trade: Evidence from China's trade with the Belt and Road countries（2018，China Economic Review，被引 168）
 
 （无摘要）
 
 https://doi.org/10.1016/j.chieco.2018.10.001
-### Building Bridges or Breaking Bonds? The Belt and Road Initiative and Foreign Aid Competition（2023，Foreign Policy Analysis，被引 68）
+### Building Bridges or Breaking Bonds? The Belt and Road Initiative and Foreign Aid Competition（2023，Foreign Policy Analysis，被引 70）
 
 Abstract China’s renewed prominence is the most important development in international relations in the 21st century. Despite longstanding rhetoric of its own “peaceful rise”, China is increasingly viewed as a long-term strategic competitor, especially in the United States. Foreign aid is one arena where this competition may be playing out. While Western foreign aid principles have emphasized coordination and harmonization, the rise of China as a development partner has raised the specter of a return to competitive foreign aid practices. Most notably, China's Belt and Road Initiative (BRI), has received a wary reception by those who view it primarily as a geostrategic effort, but our knowledge of responses to the BRI is often anecdotal and fragmentary. To remedy this, we test if the BRI is inducing a competitive foreign aid response by evaluating if countries involved in this initiative are more likely to receive US support for loan packages from the major, Western, multilateral development banks (MDBs). Using an instrumental variable approach, covering 7,850 project/loan packages in 10 MDBs from 162 countries during 2013–2018 period, we find that the United States was more likely to vote for MDB packages to countries that have signed on to the BRI, but predominantly when the actual amount of Chinese aid flowing to those countries is still low, suggesting the United States is competing for “hedging” countries.
 
@@ -80,12 +80,12 @@ https://doi.org/10.1093/fpa/orad015
 （无摘要）
 
 https://doi.org/10.1007/978-981-15-2564-3_14
-### National Culture and Financial Inclusion: Evidence from Belt and Road Economies（2022，Sustainability，被引 28）
+### National Culture and Financial Inclusion: Evidence from Belt and Road Economies（2022，Sustainability，被引 32）
 
 Financial Inclusion is a key factor in achieving the sustainable development goals of the United Nations. The research in the area of financial inclusion is becoming more critical for scholars and policymakers. In previous studies, effects of formal institutions on financial inclusion have been explored. However, influence of informal institutions (culture) on financial inclusion remained untapped. To fill this gap, we investigate how national culture affects the financial inclusion of 81 Belt and Road economies using 17 years of data from 2004 to 2020. The empirical findings of the two-stage least square (2SLS) show that Hofstede’s cultural dimensions are significantly associated with financial inclusion with different signs and levels of magnitude. We find that financial inclusion is lower in countries where uncertainty avoidance and power distance is high and that the opposite is true for individualism and masculinity. The overall results are reliable to a series of robustness checks and provide a useful basis for policymakers, regulatory agencies, and other stakeholders in achieving the sustainable development goal of financial inclusion in Belt and Road countries.
 
 https://doi.org/10.3390/su14063405
-### The Belt and Road Initiative: Economic Causes and Effects（2023，Asian Economic Papers，被引 3）
+### The Belt and Road Initiative: Economic Causes and Effects（2023，Asian Economic Papers，被引 5）
 
 Abstract Chinese investment abroad has grown significantly in connection with the Belt and Road Initiative (BRI). This paper tries to answer two questions: First, what considerations gave birth to the BRI? And second, what are the project's economic effects in terms of capital flows and international trade? It is found that the project is above all a way to deal with large surplus capacity in China's capital-intensive industries, to increase growth in relatively poor regions of the country, and to secure a supply of energy and raw materials. For other countries involved in the project, BRI investments are a means to increase production and international trade. International trade and foreign direct investment have been positively affected, although to a limited extent. Finally, there are concerns that lack of transparency in Chinese lending may lead to increased corruption, and that some countries will face financial difficulties.
 
@@ -101,4 +101,4 @@ Abstract This chapter focuses on the political impact of the Belt and Road Initi
 
 https://doi.org/10.1007/978-3-031-16659-4_24
 
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

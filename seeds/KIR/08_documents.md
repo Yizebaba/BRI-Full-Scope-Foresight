@@ -77,4 +77,4 @@ Maamau's government stopped recognizing Taiwan in favour of closer ties with Chi
 - 2026-11-02 · Environmental and Social Review Summary · AF Initial Environmental and Social Review Summary (ESRS) - Kiribati Outer Islands Resilience and Adaptation Project - P176702 - AF Seq No: 1（项目：KI-Kiribati Outer Islands Resilience and Adaptation Project -- P176702）。http://documents.worldbank.org/curated/en/099110126231018872
 - 2026-11-02 · Project Information Document · Initial Project Information Document (PID) - Kiribati Outer Islands Resilience and Adaptation Project - P176702（项目：KI-Kiribati Outer Islands Resilience and Adaptation Project -- P176702）。http://documents.worldbank.org/curated/en/099110126230519625
 
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

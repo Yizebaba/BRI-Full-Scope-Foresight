@@ -114,7 +114,7 @@ https://doi.org/10.31861/mediaforum.2025.17.44-67
 The new wave of modern rail transit and the proposal of the Belt and Road Initiative (BRI) have complicated the business patterns of the rolling stock manufacturing industry (RSMI) and the export of rolling stock products, especially in the case of countries participating in the BRI. Based on the analysis of trade patterns—which focuses on the evolution of trade links, community structures, and intraregional export competitiveness—this study aims to explore the changes in the RSMI within the BRI region from 2003 to 2017. Sequential clustering was applied to the creation of a three-phase timeline. The network models of the cumulative trade of the rolling stock products and trades of two typical categories of products were constructed in each phase for the evolution analysis. Social network analysis methods, such as the analysis of network indices and community detection, were also applied. The results show that from 2003 to 2017, the connectivity of the rolling stock trade in this region significantly increased. China was the largest exporter, with increasing trade influence and technological strength. Ukraine and Russia were less competitive and highly mutually dependent. Czechia and Austria’s competitiveness remained prominent, but compared with China they lacked expansive vitality. South Korea was also an active and competitive country with strong technological prowess. These countries accounted for the majority of the exports, and were always at the center of their own separate communities, over which they maintained a sphere of influence. The grouping of countries far from any such spheres of influence changed frequently.
 
 https://doi.org/10.3390/ijgi9070431
-### China’s New Silk Roads. Categorising and Grouping the World: Beijing’s 16+1+X European Formula（2018，Vienna journal of East Asian studies，被引 6）
+### China’s New Silk Roads. Categorising and Grouping the World: Beijing’s 16+1+X European Formula（2018，Vienna journal of East Asian studies，被引 7）
 
 In autumn 2013, Chinese President Xi Jinping presented his Belt and Road Initiative (BRI). Central, Eastern, and Southeastern Europe play an important role in this ambitious infrastructure and connectivity project. The analysis of the 16+1 cooperation format, established by Beijing in 2012, shows that Beijing is able to establish new regional groupings that have the potential to undermine the unity of a larger regional bloc. Yet, it also demonstrates that China lacks a coherent BRI master plan. Rather, it pragmatically adapts its strategies to challenges and external criticism. The European Union (EU), notably the European Parliament (EP), became since 2015 more critical of the strategic impacts of BRI on Europe. Austria, which recognised the economic opportunities offered by BRI only recently, supports a common EU position. While Austria plays a strong—if not a leading—role in two Central and Eastern European cooperation mechanisms that may in the future also address BRI, that is, the Salzburg Forum and the Central European Defense Cooperation (CEDC), 16+1 remains the key institution for multi- and bilateral agreements on the New Silk Roads in this region. Austria, however, will remain only an observer and thus an ‘X’ in the 16+1+X format, reducing Vienna’s influence.
 
@@ -129,20 +129,20 @@ https://doi.org/10.1201/9781003198147-8
 （无摘要）
 
 https://doi.org/10.1007/978-3-030-43399-4_5
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
-
-（无摘要）
-
-https://doi.org/10.1016/j.ememar.2019.100629
-### “One Belt, One Road”: China's New Global Strategy（2016，Journal of Contemporary East Asia Studies，被引 162）
+### “One Belt, One Road”: China's New Global Strategy（2016，Journal of Contemporary East Asia Studies，被引 176）
 
 The “One Belt, One Road” (OBOR) initiative has been a topic of hot debate among Sinologists and pundits in recent years. What is the nature of this foreign policy and how is it implemented under the Xi Jinping administration? By examining China's OBOR initiative, this article argues that OBOR is not only a regional policy but a grand global strategy for achieving the “Chinese Dream”. While there is little chance that China will be able to create a large area of influence around the world, the potential impact on global politics cannot be overlooked.
 
 https://doi.org/10.1080/24761028.2016.11869094
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 209）
+
+（无摘要）
+
+https://doi.org/10.1016/j.ememar.2019.100629
 ### Chances and Challenges for Kazakhstan, the EU and Austria in Chinese project “New Silk Road”（2019，BULLETIN of the L N GUMILYOV EURASIAN NATIONAL UNIVERSITY POLITICAL SCIENCE REGIONAL STUDIES ORIENTAL STUDIES TURKOLOGY Series，被引 0）
 
 （无摘要）
 
 https://doi.org/10.32523/26-16-6887/2019-129-4-96-105
 
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

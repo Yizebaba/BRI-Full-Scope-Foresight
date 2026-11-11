@@ -165,4 +165,4 @@ The election of Philippine president Bongbong Marcos in 2022 saw the onset of wo
 - 2026-09-13 · Climate Co-Benefits Assessment · Climate Finance Assessment (P510184)（项目：PH-Philippines Second Energy Transition and Climate Resilience DPL -- P510184）。http://documents.worldbank.org/curated/en/099091326180036974
 - 2026-08-11 · Environmental and Social Review Summary · Appraisal Environmental and Social Review Summary (ESRS) - Boosting Employability in Strategic TVET Sectors (BEST) Project - P508080（项目：PH-Boosting Employability in Strategic TVET Sectors (BEST) Project -- P508080）。http://documents.worldbank.org/curated/en/099081026224540837
 
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

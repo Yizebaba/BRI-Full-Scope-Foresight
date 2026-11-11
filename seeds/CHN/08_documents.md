@@ -156,4 +156,4 @@ Green finance is officially promoted as an important feature of the Belt and Roa
 - 2026-08-31 · Working Paper · China - Renewable Energy and Battery Storage Promotion Project : Project Progress Report（项目：CN-China Renewable Energy and Battery Storage Promotion Project -- P163679）。http://documents.worldbank.org/curated/en/099103026010528855
   摘要：The China Renewable Energy and Battery Storage Promotion Project supports the development and deployment of renewable energy and battery storage solutions in China. Approved by the World Bank in June 2019 and effective since March 2020, the project achieved a 100 percent disbursement rate by the end of 2025, with all Project Development Objective indicators exceeding their targets by two to four times. The project supported 23 subprojects, providing total financing equivalent to approximately EUR 379.55 million. Supported activities cover behind-the-meter and front-of-the-meter storage, generation-load integration, distributed renewable energy with storage, and heat storage.
 
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

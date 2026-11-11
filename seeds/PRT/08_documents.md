@@ -4,7 +4,7 @@
 
 ## 国家概况（维基百科）
 
-Portugal, officially the Portuguese Republic, is a country in Southwestern Europe. Mainland Portugal is located on the southwestern portion of the Iberian Peninsula, and bordered by Spain to the north and east. Portugal also includes the archipelagos of Madeira and the Azores in the Atlantic Ocean. The country has a population of 11.4 million, and Lisbon, its capital, is the largest city. Portugal's internal waters and territorial sea together account for two-fifths of its territory, and its exclusive economic zone is one of Europe's largest. The country's terrain contains a diverse range of landscapes and regional climates.
+Portugal, officially the Portuguese Republic, is a country in  Southern and Western Europe. Mainland Portugal is located on the southwestern portion of the Iberian Peninsula, and bordered by Spain to the north and east. Portugal also includes the archipelagos of Madeira and the Azores in the Atlantic Ocean. The country has a population of 11.4 million, and Lisbon, its capital, is the largest city. Portugal's internal waters and territorial sea together account for two-fifths of its territory, and its exclusive economic zone is one of Europe's largest. The country's terrain contains a diverse range of landscapes and regional climates.
 The western Iberian Peninsula has been inhabited since prehistory, with the earliest signs of permanent settlement dating to between 5500 BC and 5300 BC. Muslims had occupied the Iberian Peninsula since 711. As a result of the Reconquista against them, Portugal was established as a county of the Kingdom of León in 868 and formally as a kingdom in 1179. During the Age of Discovery, the kingdom made several advancements in nautical science and maritime exploration to discover new territories and sea routes, which led to the establishment of the Portuguese Empire. The kingdom became a republic in 1910, before becoming a dictatorship in 1926, whose 1974 overthrow enabled democracy to be established in 1976.
 Portugal is a unitary republic and multi-party representative democracy with four separate sovereignty organs: president, government, parliament, and judiciary. It has a unicameral national legislature known as the Assembly of the Republic (Assembleia da República). Portugal is divided into seven mainland regions and two autonomous overseas regions, though it remains a highly centralised country.
 A developed country, Portugal has an advanced economy that chiefly relies upon services, industry, and tourism. Shaped by the various civilisations that have inhabited its territory, such as the Carthaginians and the Romans, Portugal developed a culture with a worldwide influence. This allowed Portuguese to become the world's fifth-most spoken native language, with more than 250 million native speakers. With a stable foreign policy shaped by its colonial and diplomatic history and location, Portugal is a member of multiple international organisations and forums.
@@ -114,11 +114,6 @@ Embassy of the People's Republic of China in the Republic of Portugal (in Chines
 
 ## 学术论文（OpenAlex）
 
-### ATLANTIC ANCHOR: PORTUGAL IN THE BELT AND ROAD INITIATIVE（2026，JANUS NET e-journal of International Relation，被引 0）
-
-This paper explores Portugal’s engagement with China’s Belt and Road Initiative (BRI) as a case study in geoeconomic strategy, situated at the intersection of U.S.-China rivalry and European integration. While much scholarly attention has focused on Central and Eastern Europe, Portugal's role in the BRI remains underexamined despite its Atlantic location, deep-sea port infrastructure, and historical ties with China. The study situates Portugal’s participation in the BRI within the broader framework of geoeconomics, defined as the use of economic tools to pursue geopolitical aims. Chinese investments in Portuguese energy, infrastructure, and telecommunications have intensified since the Eurozone crisis, prompting concerns among Western allies about strategic dependencies. The Port of Sines exemplifies this strategic tension, attracting interest from both Chinese and American stakeholders. At the same time, Portugal has advanced its maritime ambitions through “blue economy” partnerships with China, balancing commercial cooperation with geopolitical caution. The study further examines the evolving regulatory landscape shaped by the European Union’s foreign investment screening framework and the United States’ efforts to curtail Chinese influence in critical sectors like 5G. Portugal’s recent distancing from Huawei and reassessment of its BRI participation illustrate how smaller states can recalibrate their foreign policy amid intensifying global competition. The findings suggest that Portugal’s case highlights the strategic dilemmas of middle powers navigating competing geoeconomic agendas, revealing how economic connectivity is increasingly instrumentalized for geopolitical ends in Southern Europe.
-
-https://doi.org/10.26619/1647-7251.17.1.13
 ### The Ultimate European Border: The Belt and Road Initiative Discovers Portugal（2020，Springer eBooks，被引 5）
 
 （无摘要）
@@ -139,20 +134,25 @@ https://doi.org/10.1007/978-981-97-5640-7_9
 Launched in 2013, the Belt and Road Initiative (BRI) has been presented as China’s grand strategy that could reshape the twenty-first century. Since its inception, two of its core objectives are common development and connectivity. Energy interconnectivity, in particular, is one of the pillars supporting this ambitious project. This chapter seeks to shed light specifically on the potential of BRI’s environmental dimension. It discusses the role that BRI – and China - may play in promoting more sustainable solutions in the African power sector. Environmental leadership is, according to this chapter, the way China can demonstrate that BRI is not only viable but advantageous. Using the Portuguese-speaking African countries as an example, and highlighting the role that Portugal may play in China’s strategy, the chapter argues that investing in renewables in this region would have an amplified result – economically, socially, in terms of sustainability, and, ultimately, politically. By connecting connectivities, China can create strategic complementarities. China has great potential for influencing Africa’s development objectives and needs. In doing so, it will also improve BRI’s potential.
 
 https://doi.org/10.1163/9789004473195_011
-### Understanding China’s Belt and Road Initiative（2024，Asia in transition，被引 90）
+### Understanding China’s Belt and Road Initiative（2024，Asia in transition，被引 95）
 
 This open access book provokes critical thinking regarding the most ambitious Chinese project since the founding of the People’s Republic of China
 
 https://doi.org/10.1007/978-981-99-9633-9
-### China and the Belt and Road Initiative in Europe: The case of Portugal（2021，Routledge eBooks，被引 10）
-
-The growing presence of China in Europe aiming at the incremental implementation of the Belt and Road Initiative (BRI) has created not only general concern and controversy within the EU, but also heterogeneous reactions amongst its member states. This study will focus on Portugal, which is a very illustrative case study to understand the medium- to long-term interests of Beijing within the framework of BRI. It also represents an intriguing case given the collaborative approach exhibited by national authorities vis-à-vis Chinese bilateral initiatives. This chapter aims at examining the rise of Chinese interests in Portugal under the aegis of the BRI and Portugal’s growing realization of the opportunities resulting from an ever-closer relationship with China. It argues that the traumatic experience generated by post-2008 economic hardship, which eventually ignited China’s pull on Portugal, moved national policymakers to adopt an open stance towards the BRI-related projects and investments. Such an open posture, particularly driven by the goal of restoring economic growth, has enabled a Luso-Chinese collaboration in various critical areas encompassing energy, 5G networks and the issuing of Portuguese sovereign debt in Chinese currency. Such cooperative dynamics are not without consequences for Portugal’s foreign policy. The latter’s continued overstretching may well prove problematic given Lisbon’s traditional record of unqualified support for US strategic interests.
-
-https://doi.org/10.4324/9780367853235-14-18
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 197）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 209）
 
 （无摘要）
 
 https://doi.org/10.1016/j.ememar.2019.100629
+### China and the Belt and Road Initiative in Europe: The case of Portugal（2021，Routledge eBooks，被引 9）
 
-抓取时间：2026-11-04T12:35:54Z
+The growing presence of China in Europe aiming at the incremental implementation of the Belt and Road Initiative (BRI) has created not only general concern and controversy within the EU, but also heterogeneous reactions amongst its member states. This study will focus on Portugal, which is a very illustrative case study to understand the medium- to long-term interests of Beijing within the framework of BRI. It also represents an intriguing case given the collaborative approach exhibited by national authorities vis-à-vis Chinese bilateral initiatives. This chapter aims at examining the rise of Chinese interests in Portugal under the aegis of the BRI and Portugal’s growing realization of the opportunities resulting from an ever-closer relationship with China. It argues that the traumatic experience generated by post-2008 economic hardship, which eventually ignited China’s pull on Portugal, moved national policymakers to adopt an open stance towards the BRI-related projects and investments. Such an open posture, particularly driven by the goal of restoring economic growth, has enabled a Luso-Chinese collaboration in various critical areas encompassing energy, 5G networks and the issuing of Portuguese sovereign debt in Chinese currency. Such cooperative dynamics are not without consequences for Portugal’s foreign policy. The latter’s continued overstretching may well prove problematic given Lisbon’s traditional record of unqualified support for US strategic interests.
+
+https://doi.org/10.4324/9780367853235-14-18
+### Renewable energy investment risk assessment in belt and road initiative countries under uncertainty conditions（2020，Energy，被引 136）
+
+（无摘要）
+
+https://doi.org/10.1016/j.energy.2020.118923
+
+抓取时间：2026-11-11T12:13:04Z

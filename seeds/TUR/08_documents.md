@@ -50,7 +50,7 @@ On 7 October 2010, China and Turkey signed eight cooperation agreements relating
 Cooperation between China and Turkey has intensified since 2016, with the two countries signing ten bilateral agreements on various matters, including nuclear energy and health policy.
 In 2017, the Chinese ambassador to Turkey Yu Hongyang said that China is ready to discuss Turkey's membership to the Shanghai Cooperation Organization.
 In April 2019, China was the first country to congratulate Ekrem İmamoğlu after he became the mayor of Istanbul. Ekrem İmamoğlu told the Chinese Consul General in Istanbul Cui Wei that the political, economic, trade and cultural relations between China and Turkey are very good and important.
-In July 2019, when Turkish President Erdoğan visited China, he said "It is a fact that the people of all ethnicities in Xinjiang are leading a happy life amid China's development and prosperity". Erdoğan also said that some people were seeking to "abuse" the Xinjiang crisis to jeopardize "Turkish-Chinese relationship". Beijing also invited Turkish reporters to tour the Xinjiang internment camps. The Chinese Communist Party tabloid newspaper Global Times described the camps as a model for counter-terrorism and a "paradise" for the Uyghurs.
+In July 2019, when Turkish President Erdoğan visited China, he said "It is a fact that the people of all ethnicities in Xinjiang are leading a happy life amid China's development and prosperity". Erdoğan also said that some people were seeking to "abuse" the Xinjiang crisis to jeopardize "Turkish-Chinese relationship". Beijing also invited Turkish reporters to tour the Xinjiang re-education camps. The Chinese Communist Party tabloid newspaper Global Times described the camps as a model for counter-terrorism and a "paradise" for the Uyghurs.
 China criticized the 2019 Turkish offensive into north-eastern Syria. China's Foreign Ministry spokesperson stated that China held "Syria's sovereignty, independence and territorial integrity must be respected and upheld", noted that several sides had "expressed concerns" over Turkey's military operation and urged Turkey to "exercise restraint".
 On 21 November 2022, Qian Hongshan, deputy head of the International Department of the Chinese Communist Party, visited Istanbul to meet with Ünal Çeviköz, an advisor to Republican People's Party (CHP) leader Kemal Kılıçdaroğlu, as well as Yüksel Mansur Kılınç, MP for the CHP from Istanbul.
 China offered monetary support to Turkey after the 2023 Turkey–Syria earthquake. and sent additional personnel to Turkey to help in the relief effort. Chinese leader Xi Jinping, said the country would send aid and medics to the affected regions. The government of China has also announced to offer 30 million yuan ($4.4 million) to Syria and 40 million yuan ($5.9 million) to Turkey as emergency humanitarian assistance.
@@ -177,7 +177,7 @@ https://openalex.org/W7128456743
 （无摘要）
 
 https://openalex.org/W3114699569
-### Exploring the structure and influence factors of trade competitive advantage network along the Belt and Road（2020，Physica A Statistical Mechanics and its Applications，被引 44）
+### Exploring the structure and influence factors of trade competitive advantage network along the Belt and Road（2020，Physica A Statistical Mechanics and its Applications，被引 45）
 
 （无摘要）
 
@@ -193,4 +193,4 @@ The Belt and Road Initiative (BRI), which is an extensive transportation and inf
 
 https://doi.org/10.4018/979-8-3373-0938-5.ch002
 
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

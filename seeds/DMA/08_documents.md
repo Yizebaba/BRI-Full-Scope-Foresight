@@ -72,4 +72,4 @@ Dominica is listed as a destination for Chinese citizens. In 2014, Dominica unil
 - 2025-10-08 · Brief · Prosperity Data360 Gender Country Snapshots : Dominica。http://documents.worldbank.org/curated/en/099933510102517108
   摘要：This Factsheet provides an overview of the gender sector according to key performance indicators.
 
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

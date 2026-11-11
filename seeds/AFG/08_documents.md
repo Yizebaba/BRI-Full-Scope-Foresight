@@ -169,12 +169,6 @@ The succes
 The Five Nations Railway Corridor or FNRC or Five States Railway Corridor is a proposed rail link in Central Asia between Iran in the west, through Afghanistan, Tajikistan, Kyrgyzstan, and reaching China in the east. Around half of the length of the railway would pass through northern Afghanistan. A preliminary agreement for developing the FNRC project was signed in the Tajik capital Dushanbe in December 2014 and has moved sluggishly since then. The project with a length of 2100 kilometres will run through five countries- China, Tajikistan, Kyrgyzstan, Afghanistan, and Iran, connecting China with the Iranian ports of Chabahar and Bandar Abbas. About 50 percent of the total railway line, roughly 1148 kilometres, will cross through Afghanistan's Kunduz, Balkh, Jawozjan, Faryab, Badghis, and Herat provinces. A preliminary agreement for the railway link was first signed in 2014, with costs estimated at US$2 billion, however construction of the main section through Afghanistan was uncertain due to the conflict in Afghanistan.
 
 来源：https://en.wikipedia.org/wiki/Five_Nations_Railway_Corridor
-### New Silk Road Initiative
-
-The New Silk Road Initiative was a United States initiative in the 2010s that aimed to integrate Afghanistan with Central Asia, boosting trade and economic development. Originally developed by the staff of General David Petraeus at the United States Central Command, it was formally announced by US Secretary of State Hillary Clinton in 2011 in a speech in Chennai. However, the initiative never got off the ground.  General Jim Mattis cancelled all military funding after Petraeus retired, and the US State Department lacked the funds to implement the projects. The term "New Silk Road" is now commonly used by journalists to refer to China's Belt and Road Initiative.
-Key projects that were previously linked to the US initiative were later funded by other sources. The CASA-1000 hydroelectricity project is being funded by a consortium led by the International Development Association. The United States contributed 1% of the cost of the project before it pulled out, making it the smallest of seven funding sources. The Turkmenistan-Afghanistan-Pakistan-India Pipeline (TAPI) is being funded by a consortium led by the Asian Development Bank. A 2021 rumor alleged that the United States provided funding to TAPI, but this is untrue.
-
-来源：https://en.wikipedia.org/wiki/New_Silk_Road_Initiative
 
 ## 世界银行最新文件（Documents & Reports）
 
@@ -206,4 +200,4 @@ Key projects that were previously linked to the US initiative were later funded 
 - 2026-04-30 · Report · Afghanistan Economic Monitor（项目：AF-Afghanistan Futures Analytical Program II -- P500679）。http://documents.worldbank.org/curated/en/099093026090312007
   摘要：Despite modest economic growth, rising population pressures are eroding living standards. Afghanistan’s economy is expanding modestly, supported by strong demand, relative price stability and improved domestic revenue mobilization. However, this growth is insufficient to raise living standards. Rapid population growth—driven by the return of millions of Afghans—has diluted income gains, resulting in declining per capita incomes.
 
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

@@ -140,4 +140,4 @@ The emergence of the String of Pearls is indicative of China's growing geopoliti
   摘要：This briefing showcases the gender landscape in Maldives on key indicators helpful for monitoring gender equality and designing effective policy interventions. Gender equality fosters productivity gains, minimizes losses in wealth, reduces poverty, boosts shared prosperity, and supports green, resilient, and inclusive development.
 - 2026-10-22 · Agreement · Official Documents- Amendment to the Project Agreement Grant E046-MV.pdf（项目：MV-Sustainable and Integrated Labor Services (SAILS) -- P177240）。http://documents.worldbank.org/curated/en/099102226100538541
 
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

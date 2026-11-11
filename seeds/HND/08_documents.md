@@ -68,4 +68,4 @@ Foreign relations of Taiwan
 - 2026-08-19 · Environmental and Social Management Framework · Resettlement Framework Honduras Resilient Management for La Ceiba - Puerto Castilla Road Corridor Project (P507958)（项目：HN-Honduras Resilient Management for La Ceiba - Puerto Castilla Road Corridor Project -- P507958）。http://documents.worldbank.org/curated/en/099081926082075641
 - 2026-08-18 · Procedure and Checklist · Labor Management Procedures Honduras Resilient Management for La Ceiba - Puerto Castilla Road Corridor Project (P507958)（项目：HN-Honduras Resilient Management for La Ceiba - Puerto Castilla Road Corridor Project -- P507958）。http://documents.worldbank.org/curated/en/099081826133571704
 
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

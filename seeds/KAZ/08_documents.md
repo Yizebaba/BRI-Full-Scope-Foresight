@@ -202,16 +202,21 @@ The corridor is a part of the Belt and Road Initiative and among the corridors a
 
 ## 学术论文（OpenAlex）
 
-### The Belt and Road Initiative : What is in it for China ?（2018，Asia & the Pacific Policy Studies，被引 144）
+### The Belt and Road Initiative : What is in it for China ?（2018，Asia & the Pacific Policy Studies，被引 169）
 
 Abstract China's outbound investment exceeded inbound investment for the first time in 2015. In years leading up this transition, a maturing demographic transition alongside slowing internal migration and diminishing returns to physical capital investment, all had a role in China's diminished competitiveness in low‐wage manufactured exports and the fading of the related growth model. In that context, the 2013 launch of the Belt and Road Initiative (BRI) took place in two stages in two developing countries, Kazakhstan and Indonesia. These launch choices, and the BRI in general are herein elaborated in terms of economic history, geography, and demography. The BRI in turn is considered to be aiming to foster the ongoing development of China, and in doing so also seeks to instigate new era development opportunity for other developing countries. One facilitation channel for the latter is China's concept of “patient capital,” essentially concessional capital, or foreign aid. For China that offers a means via which to internationalise the financial sector and also the Renminbi. Lessons from China's own use of foreign aid and economic development hence serve as an important reference for ongoing scoping of the shape and trajectory of the BRI. To that end, this article sheds light on what is in the BRI for China.
 
 https://doi.org/10.1002/app5.265
-### Kazakhstan: A Centrepiece in China’s Belt and Road（2019，Repository for Publications and Research Data (ETH Zurich)，被引 27）
+### Kazakhstan: A Centrepiece in China’s Belt and Road（2019，Repository for Publications and Research Data (ETH Zurich)，被引 29）
 
 CSS CSS Analyses in Security Policy Kazakhstan: A Centrepiece in China's Belt and RoadKazakhstan is a linchpin for trade and transport links on the Eurasian continent -for China's "Belt and Road Initiative" (BRI) and beyonddue to its location, vast landmass and energy reserves.It is both the object and the subject of Chinese, Russian and Western geopolitical interests.The Kazakhstani case shows that the shape and success of the BRI largely depend on internal, not external, factors.
 
 https://doi.org/10.3929/ethz-b-000362184
+### BELT AND ROAD: BENEFITS AND PROSPECTS FOR KAZAKHSTAN（2020，Central Asia and the Caucasus，被引 10）
+
+（无摘要）
+
+https://doi.org/10.37178/ca-c.20.1.07
 ### Kazakhstan as Logistics Linchpin in the Belt and Road Initiative（2020，Euro-Asian Studies，被引 12）
 
 （无摘要）
@@ -222,25 +227,20 @@ https://doi.org/10.1007/978-3-030-37389-4_7
 （无摘要）
 
 https://doi.org/10.1142/9789811203275_0005
+### Belt and Road Initiative for Kazakhstan: Opportunities and Risks（2018，Springer eBooks，被引 9）
+
+（无摘要）
+
+https://doi.org/10.1007/978-981-13-2998-2_17
 ### The impact of the Belt and Road Initiative on Kazakhstan（2023，MAP Social Sciences，被引 3）
 
 In 2013, the Belt and Road Initiative (BRI) was announced in Astana. It was expected to connect as the New Silk Road the producing East and consuming West. In line with this, Kazakhstan introduced a major infrastructure program called “NurlyZhol” to improve the logistic corridor. Now, after almost 10 years after its announcement it is worth seeing whether the country benefited from the programs and whether the expectations set up 10 years ago came true. Besides the literature, the experience of 10 experts in the region was used. Strong involvement of China, politically and economically, supports the development of the logistics corridor. Not only the logistics sector showed growth, potential also for the future, but the agriculture and renewable energy sectorsas well might light for the country’s economy as to the international experts. Negative impacts, due to hindrances on the land corridor, which goes partially through Russia to Europe, hinders the projects to use their full potential.
 
 https://doi.org/10.53880/2744-2454.2023.3.1.33
-### BELT AND ROAD: BENEFITS AND PROSPECTS FOR KAZAKHSTAN（2020，Central Asia and the Caucasus，被引 1）
-
-（无摘要）
-
-https://doi.org/10.37178/ca-c.20.1.07
-### Belt and Road Initiative for Kazakhstan: Opportunities and Risks（2018，Springer eBooks，被引 7）
-
-（无摘要）
-
-https://doi.org/10.1007/978-981-13-2998-2_17
-### Role of Kazakhstan in a Belt and Road Initiative project（2021，Russian Journal of Water Transport，被引 3）
+### Role of Kazakhstan in a Belt and Road Initiative project（2021，Russian Journal of Water Transport，被引 5）
 
 The idea of the New Silk Road project (also Belt and Road Initiative – BRI) was first pitched in 2013 by the President of the People's Republic of China (PRC) Xi Jinping. This project contains the Silk Road Economic Belt as well as the 21st Century Maritime Silk Road. The main goal of this project is the creation a modern transport infrastructure in Eurasia, in order to optimize shipping of goods between Asia and Europe. Since then, this project was in an active development that involves building and optimization of the transport infrastructure, integration of the project into the economy of the involved countries, signing agreements and deals between the countries and also improving the relationship between PRC and countries-participants of this project. Because this project is considered global and international for Eurasia, Kazakhstan views it as an important for the political and economical state of the country. The geographic position of the country makes it one of the most important participants of the project. This factor makes it important to identify other reasons behind this idea of Kazakhstan being an important destination of economical investment of PRC. Other important objectives are role and involvement of Kazakhstan in the development of the BRI project. This article reviews the Belt and Road Initiative project, how Kazakhstan is involved in this project and its role in it in the economical, political and logistical areas. The results of the implementation of the project is also present in this article.
 
 https://doi.org/10.37890/jwt.vi67.198
 
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

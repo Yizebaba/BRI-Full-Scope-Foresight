@@ -4,10 +4,9 @@
 
 ## 国家概况（维基百科）
 
-The Republic of the Congo, also commonly known as the Congo Republic, Congo-Brazzaville, or simply Congo,  is a country located on the western coast of Central Africa to the west of the Congo River. It is bordered to the west by Gabon, to the northwest by Cameroon, to the northeast by the Central African Republic, to the southeast by the Democratic Republic of the Congo, to the south by the Angolan exclave of Cabinda, and to the southwest by the Atlantic Ocean.
+The Republic of the Congo, also commonly known as the Congo Republic, Congo-Brazzaville, or simply Congo,  is a country located on the western coast of Central Africa to the west of the Congo River. It is bordered to the west by Gabon, to the northwest by Cameroon, to the northeast by the Central African Republic, to the southeast by the Democratic Republic of the Congo, to the south by the Angolan exclave of Cabinda.
 The region was dominated by Bantu-speaking tribes at least 3,000 years ago, who built trade links leading into the Congo River basin. From the 13th century, the present-day territory was dominated by a confederation led by Vungu which included Kakongo and Ngoyo. The Tio Kingdom emerged in the 14th century, and Loango in the 16th century. In the late 19th century France colonised the region and incorporated it into French Equatorial Africa. The Republic of the Congo was established on 28 November 1958 and gained independence from France in 1960. It was a Marxist–Leninist state from 1969 to 1992, under the name People's Republic of the Congo (PRC). After the introduction of multi-party elections in 1992, the democratically elected government was overthrown during the civil war, after which Denis Sassou Nguesso, who had previously served as president from 1979 to 1992, returned to office in 1997. He has remained president since then.
 The Republic of the Congo is a member of the African Union, the United Nations, La Francophonie, the Economic Community of Central African States, and the Non-Aligned Movement. It is the fourth-largest oil producer in the Gulf of Guinea, providing the country a degree of prosperity, with political and economic instability in some areas and unequal distribution of oil revenue nationwide. Its economy is dependent on the oil sector and economic growth slowed after the post-2015 drop in oil prices.
-Christianity is the most widely professed faith in the country. According to the 2024 rendition of the World Happiness Report, the Republic of the Congo is ranked 89th among 140 nations.
 
 来源：https://en.wikipedia.org/wiki/Republic_of_the_Congo（CC BY-SA 4.0）
 
@@ -62,6 +61,7 @@ The Kenya Standard Gauge Railway (SGR) is a partially finished railway system co
 
 The mining industry of the Democratic Republic of the Congo (French: Industrie minière de la République Démocratique du Congo) is a major global supplier of minerals including cobalt, copper, diamonds, gold, tantalum, and tin. The DRC supplies over 60% of global cobalt, and mineral exports account for more than 95% of the country's export revenues. According to a 2011 report, the total value of the major mineral reserves in the DRC amounts to a total of over 300 billion US dollars.
 Mining includes large-scale industrial projects, semi-industrial ventures, and widespread artisanal and small-scale mining (ASM), often under dangerous and exploitative conditions.
+The Democratic Republic of the Congo frequently exports some varieties of minerals to Australia, Canada, Japan, Mexico and the United States. In other words, Australia, Canada, Japan, Mexico and the United States frequently import some varieties of minerals from the Democratic Republic of the Congo.
 
 来源：https://en.wikipedia.org/wiki/Mining_industry_of_the_Democratic_Republic_of_the_Congo
 
@@ -82,12 +82,12 @@ Mining includes large-scale industrial projects, semi-industrial ventures, and w
 
 ## 学术论文（OpenAlex）
 
-### Understanding China’s Belt and Road Initiative（2024，Asia in transition，被引 90）
+### Understanding China’s Belt and Road Initiative（2024，Asia in transition，被引 95）
 
 This open access book provokes critical thinking regarding the most ambitious Chinese project since the founding of the People’s Republic of China
 
 https://doi.org/10.1007/978-981-99-9633-9
-### Examining the debt implications of the Belt and Road Initiative from a policy perspective（2019，Journal of Infrastructure Policy and Development，被引 472）
+### Examining the debt implications of the Belt and Road Initiative from a policy perspective（2019，Journal of Infrastructure Policy and Development，被引 490）
 
 China’s Belt and Road Initiative (BRI) hopes to deliver trillions of dollars in infrastructure financing to Asia, Europe, and Africa. If the initiative follows Chinese practices to date for infrastructure financing, which often entail lending to sovereign borrowers, then BRI raises the risk of debt distress in some borrower countries. This paper assesses the likelihood of debt problems in the 68 countries identified as potential BRI borrowers. We conclude that eight countries are at particular risk of debt distress based on an identified pipeline of project lending associated with BRI.Because this indebtedness also suggests a higher concentration in debt owed to official and quasi-official Chinese creditors, we examine Chinese policies and practices related to sustainable financing and the management of debt problems in borrower countries. Based on this evidence, we offer recommendations to improve Chinese policy in these areas. The recommendations are offered to Chinese policymakers directly, as well as to BRI’s bilateral and multilateral partners, including the IMF and World Bank.
 
@@ -107,20 +107,20 @@ https://doi.org/10.22271/allresearch.2021.v7.i12d.9249
 With the advancement of the Belt and Road Initiative (BRI), China–Africa educational cooperation has intensified, leading to a steady increase in the number of African students studying in China. However, due to differences in cultural backgrounds and value systems, many African students face challenges in adapting to life in China. Using a literature review methodology, this study examines the cultural backgrounds of African students in China and identifies key challenges they face in adapting to daily life, academics, mental health, and interpersonal communication. The analysis further explores how these difficulties are rooted in cultural differences. Drawing on these findings, the study proposes strategies to enhance cultural adaptation, including strengthening social and cultural integration, optimizing academic support, developing peer and psychological support systems, and improving policy safeguards. The goal is to improve African students' adaptive capacity, foster mutual understanding between China and Africa, and advance international educational cooperation.
 
 https://doi.org/10.23977/jhrd.2025.070112
-### Does the Belt and Road Initiative Increase the Carbon Emission Intensity of Participating Countries?（2021，China & World Economy，被引 92）
+### China Belt and Road Initiative (BRI) Investment Report 2025（2026，Griffith Research Online，被引 19）
+
+Key findings • 2025 saw the highest BRI engagement ever for any year, with USD 128.4 billion in construction contracts and about USD 85.2 billion in investments; • China’s energy-related engagement in 2025 was the highest in any period since the BRI’s inception, reaching USD93.9 billion, more than double than in 2024; • China’s 2025 BRI energy engagement was the dirtiest and greenest: o Oil and gas engagement surged to about USD71.5 billion, more than triple the previous record year 2024; o Green energy engagement reached new records with USD 18.3 billion in wind, solar, and waste-to-energy projects and planned capacity of over 22 GW of green energy; • China continued to invest in coal-related activities through the construction of coal mine infrastructure; • The metals and mining sector reached new records, surpassing 2024 (which itself was a record year) with about USD 32.6 billion – mostly through investments and in minerals processing (about USD 15 billion into mining) with a focus on Kazakhstan; • Copper, in support of data centres, saw a significant surge of Chinese investment in the second half of 2025; • The technology and manufacturing sector also broke records and reached almost USD 28.7 billion with high-tech engagements in data centres, EV batteries and in hydrogen (in Nigeria); • Africa topped the rank of BRI engagement, reaching USD 61.2 billion, a plus of 283 per cent; countries with the highest construction engagement were Nigeria (USD 24.6 billion), the Republic of Congo (USD 23.1 billion), Saudi Arabia (USD 19.8 billion), and Iraq (USD 4.5 billion). • Part of Chinese Africa engagement may be explained by lower US tariffs in Africa compared to Asia; • BRI investments in 2025 were driven by private sector companies, dominated by East Hope Group, Xinfa Group and Longi Green Energy; construction was dominated by SOEs • Since its establishment in 2013, cumulative BRI engagement reached USD 1.399 trillion, with about USD 837 billion in construction contr
+
+https://doi.org/10.25904/1912/5857
+### Does the Belt and Road Initiative Increase the Carbon Emission Intensity of Participating Countries?（2021，China & World Economy，被引 96）
 
 Abstract The impact that the Belt and Road Initiative (BRI) has had on carbon emissions is a hotly debated issue. Using a panel dataset of 178 countries from 2002 to 2017, and applying the quantile difference‐in‐difference method in different industries, this study finds that, first, the BRI overall tends to reduce the carbon emission intensity of BRI countries. Second, the impact of BRI on reducing the carbon emission intensity is significant for BRI countries at higher (0.8 and 0.9) and lower (0.2 and 0.3) carbon emission intensity quantiles but it is insignificant for those at medium levels. Third, the BRI has significant impacts on reducing carbon emission intensity in the energy‐intensive industries, and this effect is the highest at the quantile level of 0.9 for all three industries considered here: transportation, electric and heating, and manufacturing and construction. These results indicate that establishing BRI cooperation with China will improve the environment and enhance the sustainable development ability of BRI countries.
 
 https://doi.org/10.1111/cwe.12374
-### Policy, institutional fragility, and Chinese outward foreign direct investment: An empirical examination of the Belt and Road Initiative（2020，Journal of International Business Policy，被引 149）
+### Policy, institutional fragility, and Chinese outward foreign direct investment: An empirical examination of the Belt and Road Initiative（2020，Journal of International Business Policy，被引 155）
 
 （无摘要）
 
 https://doi.org/10.1057/s42214-020-00056-8
-### INFRASTRUCTURE AND RESOURCES: THE EVOLVING DYNAMICS OF SINO-CONGOLESE COOPERATION UNDER THE BELT AND ROAD INITIATIVE（2025，Global and Regional Dimensions of International Economic Relations，被引 0）
 
-The Belt and Road Initiative has become a signature instrument for the Chinese government in promoting global trade and economic integration. A new model of cooperation based on the Belt and Road Initiative, such as “infrastructure-for-resources” agreements, has been utilized in China’s collaboration with the Democratic Republic of the Congo. The article examines the economic feasibility and repercussions of the model by using the copper mining sector in the DRC. By using the case study of Sino-Congolese cooperation, the study demonstrates how investments in road, railway, and public utility infrastructure have unleashed the potential of mineral resources to the benefit of both parties.
-
-https://doi.org/10.58861/tae.grdier.2025.01
-
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

@@ -84,4 +84,4 @@ In addition, several Pacific countries, including Australia, Fiji, New Zealand, 
 - 2026-06-04 · Country Partnership Framework · Kiribati, Marshall Islands, Federated States of Micronesia, Nauru, Palau, Samoa, Tonga, Tuvalu, and Vanuatu - Regional Partnership Framework for the Period FY2026-FY2031 : Annex 3 - Summary of PIC9 Regional Gender Action Plan（项目：P3-Regional Partnership Framework for Nine Pacific Island Countries (FY26 to FY31) -- P502465）。http://documents.worldbank.org/curated/en/099544106042671645
   摘要：The document presents summary of PIC9 regional gender action plan: gender inequalities in the PIC9; priority areas for World Bank Group (WBG) engagement.
 
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z

@@ -138,40 +138,40 @@ La Chine en Algérie : Approches socio-économiques, sous la direction de Abderr
 “China is a sleeping lion. Let her sleep, for when she wakes, she will shake the world” (Napoleon Bonaparte). This French Emperor’s warning, uttered more than 200 years ago, rang hollow for most of that time. Alain Peyrefitte chose this Napoleon’s Prophecy as a title of his best seller written in 1973: Quand la Chine s’eveillera le monde tremblra. The book was a premonitory tale, about most of the things that are happening now... So, Were Alain Peyrefitte and Napoleon right...? and "Will China become the nightmare of the world after its awakening"?! In fact, many specialists, mostly in the Western world, have a positive answer and doubt about China's goal of a "westward" strategy. In this study, we will try to analyse this point of view by taking Algeria as an example, being the biggest African, Mediterranean and Arabic country with a strategic geographical position, subsoil full of wealth and one of the countries concerned by the OBOR initiative. Indeed, we will approach several aspects of Sino-Algerian relationship (diplomatic, politic, economic, cultural...), by focusing on the points which can develop bilateral cooperation, in the context of the “O.B.O.R” initiative, and on those which can increase all forms of prejudice and apprehension that could hinder these ties. Thereby, questions that impose themselves are: what is the appropriate way to reach sustainable cooperation: Cultural, economic, linguistic, strategic...? Would not the cultural dimension, with its various components, be the best way? How two great civilizations, that have marked the history of humanity and whose impact and influence remain strong until now, can contribute to the establishment of a new world order that would allow all humanity to live together in peace and the respect of differences...? These are what we will try to answer in this short research.
 
 https://openalex.org/W7220020057
-### Monitoring of UN sustainable development goal SDG-9.1.1: study of Algerian “Belt and Road” expressways constructed by China（2020，PeerJ，被引 7）
+### The reality of the Sino- Algerian partnership within the framework of the Belt and Road initiative: Gains and challenges.（2025，Science Education and Innovations in the Context of Modern Problems，被引 0）
+
+The article discusses the impact of Algeria's accession to the Belt and Road Initiative on the Sino-Algerian partnership, after learning about the nature and level of relations between the two countries, as well as of this Chinese initiative, which expresses China's future strategic vision to enhance its international standing.We eventually learned through it that the Sino-Algerian partnership has entered a new stage of development since Algeria joined the Belt and Road Initiative in 2019, which will work to strengthen the bonds of partnership between them and open broad horizons for both parties China seeks through it to strengthen its influence in Algeria, and to benefit from its resources and all its geostrategic assets, while Algeria aims to achieve significant economic growth rates and breaks free from economic dependence on hydrocarbons and the West.Citation.Biriem F. (2025).The reality of the Sino-Algerian partnership within the framework of the Belt and Road initiative: Gains and challengesScience, Education and Innovations in the Context of Modern Problems, 8(11),
+
+https://doi.org/10.56334/sei/8.11.60
+### Monitoring of UN sustainable development goal SDG-9.1.1: study of Algerian “Belt and Road” expressways constructed by China（2020，PeerJ，被引 8）
 
 The proportion of the rural population who live within 2 km of an all-season road is an indicator of the United Nations' Sustainable Development Goals (SDGs) 9.1.1. This paper aims to calculate SDG indicator 9.1.1 in the proximity of five Algerian expressways. Three monitoring methods are proposed for different spatial regions based on the five expressways built by China's Belt and Road Initiative Project. These methods are based on remote sensing and WorldPop and The High Resolution Settlement Layer (HRSL) population data. The results indicate that (1) the WorldPop population statistics show that the five expressways built by China's Belt Project have increased the rural population of the 2 km buffer zone by 192,016 between the start of construction and eight years after its completion. By the end of 2019, the population increased by 329,291 accounting for 1.17% of the rural population. (2) Based on populations estimated form built-up index (NDBI) building areas, the rural populations within the 2 km buffer area of the Bejaia-Haniff Expressway in 2011, 2015, and 2019 were 273,118, 306,430, and 375,408, respectively. (3) HRSL population grid statistics indicate that, in 2015, the populations were: East-West Expressway = 911,549, Bejaia Expressway = 127,471, Tipaza Expressway = 71,411, North-South Expressway = 30,583, and Cherchell Ring Expressway = 41,657. (4) A visual interpretation method based on Google Earth imagery was used to count the number of buildings and number of building floors in the town of Tikhramtath. Based on the estimated population of each building and floor, the population of Tikhramtath town in 2011, 2015, 2017, and 2019 was estimated as 1,790, 2,785, 3,365, and 3,870, respectively. (5) Through analysis and accuracy assessment, the appropriate statistical methods for different regions were determined.
 
 https://doi.org/10.7717/peerj.8953
-### Impact of Belt and Road Initiative Investments on Sustainability in the MENA Region（2026，Gulf Studies，被引 0）
-
-（无摘要）
-
-https://doi.org/10.1007/978-981-92-1762-5_13
 ### Exploring the Prospects for Tourism Development in China and Arab Countries under the Belt and Road Initiative: Taking Algeria as an Example（2024，Modern Economics & Management Forum，被引 0）
 
 With the in-depth development of the “Belt and Road” strategy, the tourism development of countries along the route is in full swing. This new strategic concept of travel culture not only covers hundreds of tourist routes in many regions of the country, but also has huge connections with the vast number of Arab countries. Nowadays, the “Belt and Road” national tour will be the development trend of the tourism industry. It is of great practical significance to study the development prospects of tourism in Arab countries under the Belt and Road Initiative.
 
 https://doi.org/10.32629/memf.v5i2.1978
+### Impact of Belt and Road Initiative Investments on Sustainability in the MENA Region（2026，Gulf Studies，被引 0）
+
+（无摘要）
+
+https://doi.org/10.1007/978-981-92-1762-5_13
+### Use and Abuse of Chinese Workers Recruited for Belt and Road Projects Abroad（2026，Journal of Contemporary Asia，被引 0）
+
+China’s Belt and Road Initiative is the subject of considerable debate. However, relatively little attention has been devoted to the reasons why Chinese state-owned enterprises involved in the initiative so heavily recruit their own country’s manual workers to work overseas and why those workers sometimes experience mistreatment. This article seeks to answer these questions through a close analysis of documents collected by an advocacy group in Indonesia, Algeria, Serbia, and the Democratic Republic of Congo. It details workplace abuses in the sequence that workers encounter them, from their initial recruitment to their confinement within work-site compounds abroad. In addition, the article highlights several factors inherited from China’s early reform era that enable abuses and lead Chinese state-owned enterprises to use Chinese workers abroad: militaristic oversight of employees; barracks-style housing for them; surveillance of workers’ personal lives and communications; elaborate tiers of sub-contracting; and wage gaps resulting from regional and demographic distinctions between workers. Finally, it examines the characteristics of host countries, especially their political regime types, that render them less likely to enforce their own labour laws on behalf of foreign workers.
+
+https://doi.org/10.1080/00472336.2026.2686201
 ### Cross-Cultural Adaptation of African Students in China under the Belt and Road Initiative: A Case Study of Egypt, Algeria, the Republic of the Congo, and Uganda（2025，Journal of Human Resource Development，被引 2）
 
 With the advancement of the Belt and Road Initiative (BRI), China–Africa educational cooperation has intensified, leading to a steady increase in the number of African students studying in China. However, due to differences in cultural backgrounds and value systems, many African students face challenges in adapting to life in China. Using a literature review methodology, this study examines the cultural backgrounds of African students in China and identifies key challenges they face in adapting to daily life, academics, mental health, and interpersonal communication. The analysis further explores how these difficulties are rooted in cultural differences. Drawing on these findings, the study proposes strategies to enhance cultural adaptation, including strengthening social and cultural integration, optimizing academic support, developing peer and psychological support systems, and improving policy safeguards. The goal is to improve African students' adaptive capacity, foster mutual understanding between China and Africa, and advance international educational cooperation.
 
 https://doi.org/10.23977/jhrd.2025.070112
-### Chinese Relations with the Maghreb: The leading role of Algeria（2019，，被引 2）
-
-This article explores the foundation and evolution of the diplomatic and commercial relations between China and three Maghreb countries (Morocco, Algeria and Tunisia). It shows the predominant role of Algeria in Chinese relations with the Maghreb. It questions the roots of these relationships with multiple interests and puts them into perspective by describing the shift from ideologically driven relations to business-driven relations. Chinese presence in the Maghreb is part of its global strategy via mechanisms such as the forums (the Forum on China–Africa Cooperation and the Sino Arab Cooperation Forum) and projects such as the Belt and Road Initiative. However, it is operationalized at the bilateral level.
-
-https://openalex.org/W3117436581
 ### Peer Review #2 of "Monitoring of UN sustainable development goal SDG-9.1.1: study of Algerian “Belt and Road” expressways constructed by China (v0.1)"（2020，PeerJ，被引 1）
 
 （无摘要）
 
 https://doi.org/10.7287/peerj.8953v0.1/reviews/2
-### Peer Review #2 of "Monitoring of UN sustainable development goal SDG-9.1.1: study of Algerian “Belt and Road” expressways constructed by China (v0.2)"（2020，PeerJ，被引 0）
 
-（无摘要）
-
-https://doi.org/10.7287/peerj.8953v0.2/reviews/2
-
-抓取时间：2026-11-04T12:35:54Z
+抓取时间：2026-11-11T12:13:04Z
