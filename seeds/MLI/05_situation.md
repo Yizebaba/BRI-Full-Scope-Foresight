@@ -11,3 +11,7 @@
 - 2026-08-31：Government of Mali 与 IS，死亡 0 人。UCDP 引用来源：FAMa
 - 2026-08-31：Dozos (Mali) 与 JNIM，死亡 0 人。UCDP 引用来源：JNIM
 - 2026-08-31：Government of Mali 与 JNIM，死亡 1 人。UCDP 引用来源：Africa Corps
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-11-06 00:00 UTC：Green 级 WF，Forest fires in Burkina Faso, Mali。https://www.gdacs.org/report.aspx?eventid=1033712&episodeid=3&eventtype=WF 

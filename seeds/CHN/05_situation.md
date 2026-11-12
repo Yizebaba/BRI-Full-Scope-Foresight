@@ -12,4 +12,5 @@
 
 ## 地震（USGS，M4.5+，近 7 天）
 
+- 2026-11-10 22:15 UTC：M4.5，16 km SSE of Gaoyou, China。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txf9 
 - 2026-11-05 16:56 UTC：M5，130 km NE of Thang, India。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8p 
