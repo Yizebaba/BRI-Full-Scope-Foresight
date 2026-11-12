@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-12 10:54 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-12 18:49 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -50,9 +50,15 @@
 
 周边自然事件：扫描期间没有记录。
 
+近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-06 08:00 UTC：Karakoram Highway | Facts, Completion Date, & Khunjerab Pass - Britannica
+
 ## 喀喇昆仑公路二期（塔科特—哈维连）
 
 周边自然事件：扫描期间没有记录。
+
+近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-11-12 01:49 UTC：Heavy snowfall suspends traffic between KP and GB - Dawn。https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KZEdwc1laLWJocG1idE9uQUtQZ2ZhcmtXVmhBRURCVjNyNlVaZ0ZjcWNxUU5zTnlwUi1RRl9oaVhodzgtUXNEeg?oc=5
 
 ## 卡洛特水电站（720 MW）
 
@@ -64,17 +70,16 @@
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
 - 2026-11-07 09:01 UTC：Pakistan forces under fire after missing Baloch youth found dead in Gwadar amid enforced disappearances - ANI News。https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbmV5MTFWZENnSEVraW9yVVBJbkpGOF9HR3c5blMwN1RpLV94ZFMyY0F3N3lJcDdxUU5qY2FTN3k4UjlzWThXLUZULWpyamxvS2hhYkFjR1dWOXdFc3Z2N2RhaE14cE42TXhaczZybml6STFpMkxwLVE3ZlRBWXE4RGRYZm9WNDRxSHFTVGlUMUwtMzVpTEMwT1VJWEtOa0s1cEJTcnhnaHJZUEZiWE42Y1lIbGNkclM2TDFJNTlfZGxEYnUtLWJpRC1ZeFNhS2t6WnN5U2o3WWwyMVFubUQ3dEZGRWZENlcwTHh0Wg?oc=5
-- 2026-11-05 12:08 UTC：30-Foot Blue Whale Found Dead on Gwadar Beach - Bloom Pakistan。https://news.google.com/rss/articles/CBMibkFVX3lxTFBqT3hLdXNIUWJaU1BPZDJxQkpvV016T1JZTFItQk5qVlJneWtoSmFHNncyc2pwRG5abVlKMHQtQnZIbXhqT1ZvcEplUVpFV0d0TjVIVnl3c0JyeGhiMUVPVEZKX0ZLRUVNVjVwUlFR?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-12 10:44 UTC：Gwadar Pak-China Friendship Hospital Marks Four Years - The Daily CPEC
+- 2026-11-12 11:20 UTC：Pak-China Friendship hospital completes 4 years Breaking - Independent News Pakistan
+- 2026-11-12 10:43 UTC：Gwadar Pak-China Friendship Hospital Marks Four Years - The Daily CPEC
 - 2026-11-12 08:32 UTC：Pakistan Delegation Discusses Gwadar Port and CPEC in China - The Daily CPEC
 - 2026-11-11 19:19 UTC：Free Veterinary Camps Bring Animal Healthcare to Remote Gwadar Areas - Daily Independent
 - 2026-11-11 17:52 UTC：Gwadar Deputy Commissioner Hears Complaints of 43 Candidates in SST Recruitment Process - Daily Independent
 - 2026-11-11 10:23 UTC：Swat, Chinese universities sign MoU targeting horticultural exports - Gwadar Pro
 - 2026-11-11 10:23 UTC：All seven main transformers positioned at Mansehra 765 kV Substation - Gwadar Pro
 - 2026-11-10 10:15 UTC：Baloch Woman with Heart Condition Disappears After CTD Raid in Gwadar, Family Demands Answers - Lokmat Times
-- 2026-11-10 09:55 UTC：Saudi Delegation Eyes Investment in Gwadar Port - Daily Independent
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

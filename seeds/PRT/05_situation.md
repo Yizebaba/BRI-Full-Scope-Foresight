@@ -7,4 +7,4 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
-- 2026-11-07 01:00 UTC：Green 级 FL，Flood in Portugal。https://www.gdacs.org/report.aspx?eventid=1104276&episodeid=2&eventtype=FL 
+- 2026-11-07 01:00 UTC：Green 级 FL，Flood in Portugal。https://www.gdacs.org/report.aspx?eventid=1104276&episodeid=3&eventtype=FL 

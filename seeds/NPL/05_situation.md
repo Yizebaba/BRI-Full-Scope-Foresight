@@ -18,7 +18,7 @@
 - 2026-11-11 23:00 UTC：Green 级 EQ，Earthquake in Nepal。https://www.gdacs.org/report.aspx?eventid=1576877&episodeid=1746083&eventtype=EQ 
 - 2026-05-21 00:00 UTC：Green 级 DR，Drought in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam。https://www.gdacs.org/report.aspx?eventid=1027462&episodeid=2&eventtype=DR 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-12 10:54 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-12 18:49 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -26,7 +26,7 @@
 
 - 美国国务院旅行建议：Nepal - Level 2: Exercise Increased Caution（发布 Fri, 04 Sep 2026）。来源：https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 - 英国外交部旅行建议最近更新于 2026-10-01 13:09 UTC，更新说明：Removal of information about the Family Assistance Centre at the British Embassy Kathmandu (‘Warnings and insurance’ page).。来源：https://www.gov.uk/foreign-travel-advice/nepal 
-- IODA 近 7 天记录到全国性网络中断告警 1 条。来源：IODA 互联网中断检测（佐治亚理工），https://ioda.inetintel.cc.gatech.edu/
+- IODA 近 7 天记录到全国性网络中断告警 2 条。来源：IODA 互联网中断检测（佐治亚理工），https://ioda.inetintel.cc.gatech.edu/
 
 ## 沙布鲁贝西—热索瓦加迪公路
 
@@ -34,9 +34,8 @@
 - 2026-11-11 23:00 UTC，GDACS：Green 级 · Earthquake in Nepal，距项目 250.1 km。https://www.gdacs.org/report.aspx?eventid=1576877&episodeid=1746083&eventtype=EQ
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-11-12 10:22 UTC：Nepal-China Railway feasibility study completed, but high costs and flood risks raise concerns - The Farsight Nepal。https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXlUdmtZck5qOFkxV0ZvMHRjWnUtd1ZGUDZiTjJ2WmVnSldMN3dzaUlYcEl1OTRfbVR3YWZEcHZyTGFYdEhqUURtdjZpSm51cENaZ1hJNHZUSVljSGRlSWZPOVFBUjVNTWYyZWRWQ2xsZklBejBzREJmOWNYUjFsc01zYUZPd1hUeUJqN3pMZWZWek96cXdmMjB3OVZCd0V0N3lVZWNQbThZSUlwUFdnbDNjQzFKb1phRTFaZWIzOWJCV2c?oc=5
+- 2026-11-12 10:21 UTC：Nepal-China Railway feasibility study completed, but high costs and flood risks raise concerns - The Farsight Nepal。https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXlUdmtZck5qOFkxV0ZvMHRjWnUtd1ZGUDZiTjJ2WmVnSldMN3dzaUlYcEl1OTRfbVR3YWZEcHZyTGFYdEhqUURtdjZpSm51cENaZ1hJNHZUSVljSGRlSWZPOVFBUjVNTWYyZWRWQ2xsZklBejBzREJmOWNYUjFsc01zYUZPd1hUeUJqN3pMZWZWek96cXdmMjB3OVZCd0V0N3lVZWNQbThZSUlwUFdnbDNjQzFKb1phRTFaZWIzOWJCV2c?oc=5
 - 2026-11-09 13:09 UTC：Death toll rises to 162 in Nepal flash floods - DD News。https://news.google.com/rss/articles/CBMie0FVX3lxTFBfdEdFbWhLR2pOczRrMDZVVVhCNEhKeFZmdlhRRTdiSDdhWC1HRlVtYVo4ZVZrZHh4Y2JWZVhuTDRBaE9MbFFpTkJKVmxMVWZNQmc5MzZCaVFUX2g1Qm5QSlN5dFhRbm5wS0o2ZkxtNllFOHg4TkVhcnpNbw?oc=5
-- 2026-11-09 06:44 UTC：Nepal disaster: Families of missing Malaysians want clear legal answers - NST Online。https://news.google.com/rss/articles/CBMivwFBVV95cUxPNDlhRnQyWFprQUlrN2pXUnR6Q2g4OUExV3FrOXJEeVc2d2hhZHY3QzhvbG5SRGVqVElaQ2FXUEIxNl9GNHg3VzVRT2x2VGY3TDhsdk1TX09XWXpFdm1EZ2FXUDB3eWM0Q2ZWbHZ5Wmphc0ExNUxHZEhZSzVPanYzVEZYWjNWV3ZyLVlSUVRpWnZfdFl5YUgyRENOb2dscmpHUmg5bXQwYm9zZnRhUjdKMG1QYWVIdEthRTNhN3JoZ9IBvwFBVV95cUxPNDlhRnQyWFprQUlrN2pXUnR6Q2g4OUExV3FrOXJEeVc2d2hhZHY3QzhvbG5SRGVqVElaQ2FXUEIxNl9GNHg3VzVRT2x2VGY3TDhsdk1TX09XWXpFdm1EZ2FXUDB3eWM0Q2ZWbHZ5Wmphc0ExNUxHZEhZSzVPanYzVEZYWjNWV3ZyLVlSUVRpWnZfdFl5YUgyRENOb2dscmpHUmg5bXQwYm9zZnRhUjdKMG1QYWVIdEthRTNhN3JoZw?oc=5
 - 2026-11-06 06:41 UTC：Bailey bridges in flood-prone areas could be dangerous, says Department of Roads chief - OnlineKhabar English News。https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNmxycTdXRmdKRm1lNGdlS3o4WDhBMFpzYk9Fd21PV1VoMnJBTEl0b2xJaTlTXzN6U2pKWGJnNnNlSEs0S0hKVkN0VzR3Ul9wbjBuT2RwcWhXRWJFelJvX1NnZWJ2TmZDeGNHcUxEOVJvd1ZSc2U1T1VZY2JJdm42QV91eGxkeF9jcUpIUDVTSnVaOU1NajI2aTJQX2RrVHlGd2NWWDlXSW9nakVBdV93TFhoc1lMTTBXYXEzVms3eUU?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
@@ -51,9 +50,8 @@
 - 2026-11-11 23:00 UTC，GDACS：Green 级 · Earthquake in Nepal，距项目 250.9 km。https://www.gdacs.org/report.aspx?eventid=1576877&episodeid=1746083&eventtype=EQ
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-11-12 10:22 UTC：Nepal-China Railway feasibility study completed, but high costs and flood risks raise concerns - The Farsight Nepal。https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXlUdmtZck5qOFkxV0ZvMHRjWnUtd1ZGUDZiTjJ2WmVnSldMN3dzaUlYcEl1OTRfbVR3YWZEcHZyTGFYdEhqUURtdjZpSm51cENaZ1hJNHZUSVljSGRlSWZPOVFBUjVNTWYyZWRWQ2xsZklBejBzREJmOWNYUjFsc01zYUZPd1hUeUJqN3pMZWZWek96cXdmMjB3OVZCd0V0N3lVZWNQbThZSUlwUFdnbDNjQzFKb1phRTFaZWIzOWJCV2c?oc=5
+- 2026-11-12 10:21 UTC：Nepal-China Railway feasibility study completed, but high costs and flood risks raise concerns - The Farsight Nepal。https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXlUdmtZck5qOFkxV0ZvMHRjWnUtd1ZGUDZiTjJ2WmVnSldMN3dzaUlYcEl1OTRfbVR3YWZEcHZyTGFYdEhqUURtdjZpSm51cENaZ1hJNHZUSVljSGRlSWZPOVFBUjVNTWYyZWRWQ2xsZklBejBzREJmOWNYUjFsc01zYUZPd1hUeUJqN3pMZWZWek96cXdmMjB3OVZCd0V0N3lVZWNQbThZSUlwUFdnbDNjQzFKb1phRTFaZWIzOWJCV2c?oc=5
 - 2026-11-09 13:09 UTC：Death toll rises to 162 in Nepal flash floods - DD News。https://news.google.com/rss/articles/CBMie0FVX3lxTFBfdEdFbWhLR2pOczRrMDZVVVhCNEhKeFZmdlhRRTdiSDdhWC1HRlVtYVo4ZVZrZHh4Y2JWZVhuTDRBaE9MbFFpTkJKVmxMVWZNQmc5MzZCaVFUX2g1Qm5QSlN5dFhRbm5wS0o2ZkxtNllFOHg4TkVhcnpNbw?oc=5
-- 2026-11-09 06:44 UTC：Nepal disaster: Families of missing Malaysians want clear legal answers - NST Online。https://news.google.com/rss/articles/CBMivwFBVV95cUxPNDlhRnQyWFprQUlrN2pXUnR6Q2g4OUExV3FrOXJEeVc2d2hhZHY3QzhvbG5SRGVqVElaQ2FXUEIxNl9GNHg3VzVRT2x2VGY3TDhsdk1TX09XWXpFdm1EZ2FXUDB3eWM0Q2ZWbHZ5Wmphc0ExNUxHZEhZSzVPanYzVEZYWjNWV3ZyLVlSUVRpWnZfdFl5YUgyRENOb2dscmpHUmg5bXQwYm9zZnRhUjdKMG1QYWVIdEthRTNhN3JoZ9IBvwFBVV95cUxPNDlhRnQyWFprQUlrN2pXUnR6Q2g4OUExV3FrOXJEeVc2d2hhZHY3QzhvbG5SRGVqVElaQ2FXUEIxNl9GNHg3VzVRT2x2VGY3TDhsdk1TX09XWXpFdm1EZ2FXUDB3eWM0Q2ZWbHZ5Wmphc0ExNUxHZEhZSzVPanYzVEZYWjNWV3ZyLVlSUVRpWnZfdFl5YUgyRENOb2dscmpHUmg5bXQwYm9zZnRhUjdKMG1QYWVIdEthRTNhN3JoZw?oc=5
 - 2026-11-07 10:45 UTC：Flood Victims Leave Mustang Gumba Shelter - Ratopati。https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTVjdVdXOTlzVXN0TEljWEVsaXhhMloxcEVadFQ3NW9XOEN1Mnh2TWlmanJiV3dUckk5RU5rN2JWR0pESW1EWk1hbnMwcGJrRHhPWG9EX2lpU2lOcEUtSjFXSE4wWUgxMWl6SnMzMERrdWdKUVh4Nk5EbHR0eUZPNEJveXh3ZUlmckpfQlBLaTdESVZZU0VXU25wVTdzTWkwbXdsMDdNQ1lBNzdQeDV4UUNXZXNSVi1CbGxmSnBTR3BOMkk?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
@@ -62,14 +60,12 @@
 - 2026-11-06 11:54 UTC：Preparations for Janakpurdham–Ayodhyadham railway service gather pace - OnlineKhabar English News
 - 2026-11-06 08:28 UTC：16 shortlisted for Nepal Tourism Board CEO - OnlineKhabar English News
 - 2026-11-06 01:08 UTC：The mountain gave us weeks of warning: Nepal needs a system that can read them - myRepublica
+- 2026-11-06 01:08 UTC：The mountain gave us weeks of warning: Nepal needs a system that can read them - Hamro Patro
 
 ## 上特里苏利 3A 水电站（60 MW）
 
 周边自然事件（地震 150 km、灾害警报 300 km、NASA 自然事件 150 km 以内）：
 - 2026-11-11 23:00 UTC，GDACS：Green 级 · Earthquake in Nepal，距项目 264.0 km。https://www.gdacs.org/report.aspx?eventid=1576877&episodeid=1746083&eventtype=EQ
-
-近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-11-11 19:21 UTC：Nepal: Two pulled alive from tunnel nine days after floods - DW.com。https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkpnY1dtSFdKcnN3RERtaEZlemJSekRuaEY1ZW9DWFkyNndac0xHR2V1ck5seHV3RUZoWmlUQWU3ckpvenB5dUhQYmV5a3JLOWRvdnVUc1BtdmNVR2NRNFpleGFmSVJWOGJYRFl3RFFpZWVBbXJENENRam9BZU5sQnJXdF9NT243VGhBSVI1ck9NMkVs0gGUAUFVX3lxTE9nNTMwTWRlQk5JaUc4YmJGUnljNVJoT0dVVDhIaDl2ZXA3MFRqVnRVTXItVndDR3cxUTBEUDhUSDVrdHhGTy1BWktNSWFYNmNHaGlXazhCOXR5TkdmN2ZHYVE2Nnpqa1dVV0lxeUYzaHBKOVM5TW9Wb2dTaVhncGpkNHhPNnRibmVpR21nSXJiNzlxVW4?oc=5
 
 ## 上特里苏利 3A—加德满都 220 kV 输电线
 
@@ -77,7 +73,8 @@
 - 2026-11-11 23:00 UTC，GDACS：Green 级 · Earthquake in Nepal，距项目 257.2 km。https://www.gdacs.org/report.aspx?eventid=1576877&episodeid=1746083&eventtype=EQ
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-12 08:29 UTC：Darkness on the horizon: Why Nepal’s winter power supply hangs in balance - Nepalnews.com
+- 2026-11-12 13:27 UTC：Climate Adaptation Infrastructure: Building for Tomorrow - World Economic Forum
+- 2026-11-12 08:51 UTC：Darkness on the horizon: Why Nepal’s winter power supply hangs in balance - Nepalnews.com
 
 ## 吉隆—加德满都跨境铁路（规划）
 

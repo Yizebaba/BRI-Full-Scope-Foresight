@@ -9,7 +9,7 @@
 
 - 2026-05-21 00:00 UTC：Green 级 DR，Drought in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam。https://www.gdacs.org/report.aspx?eventid=1027462&episodeid=2&eventtype=DR 
 
-# 老挝项目周边近期态势（截至 2026-11-12 10:54 UTC）
+# 老挝项目周边近期态势（截至 2026-11-12 18:49 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -17,7 +17,7 @@
 
 - 美国国务院旅行建议：Laos - Level 2: Exercise Increased Caution（发布 Tue, 28 Jul 2026）。来源：https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lao.html 
 - 英国外交部旅行建议最近更新于 2026-08-13 12:10 UTC，更新说明：Updated information on flooding risks during periods of heavy rain (‘Safety and security’ page).。来源：https://www.gov.uk/foreign-travel-advice/laos 
-- IODA 近 7 天记录到全国性网络中断告警 11 条。来源：IODA 互联网中断检测（佐治亚理工），https://ioda.inetintel.cc.gatech.edu/
+- IODA 近 7 天记录到全国性网络中断告警 9 条。来源：IODA 互联网中断检测（佐治亚理工），https://ioda.inetintel.cc.gatech.edu/
 
 ## 中老铁路
 
@@ -25,7 +25,6 @@
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-12 03:52 UTC：Belt and Road links deepen as freight trains run loaded both ways_InKunming - 昆明信息港
-- 2026-11-09 13:00 UTC："Flowers Bridge the World, Coffee Links the Silk Road" South & Southeast Asia International Communication Program Gains Momentum - 昆明信息港
 
 ## 南欧江梯级水电站（一期）
 
