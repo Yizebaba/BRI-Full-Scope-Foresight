@@ -5,7 +5,11 @@
 - 美国国务院旅行建议：Laos - Level 2: Exercise Increased Caution（Tue, 28 Jul 2026）。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lao.html 
 - World Monitor 汇总的旅行建议级别：caution
 
-# 老挝项目周边近期态势（截至 2026-11-11 15:04 UTC）
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-05-21 00:00 UTC：Green 级 DR，Drought in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam。https://www.gdacs.org/report.aspx?eventid=1027462&episodeid=2&eventtype=DR 
+
+# 老挝项目周边近期态势（截至 2026-11-12 10:54 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -20,6 +24,7 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-12 03:52 UTC：Belt and Road links deepen as freight trains run loaded both ways_InKunming - 昆明信息港
 - 2026-11-09 13:00 UTC："Flowers Bridge the World, Coffee Links the Silk Road" South & Southeast Asia International Communication Program Gains Momentum - 昆明信息港
 
 ## 南欧江梯级水电站（一期）

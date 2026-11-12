@@ -8,5 +8,5 @@
 ## 灾害警报（GDACS，近 14 天）
 
 - 2026-11-09 00:00 UTC：Green 级 WF，Forest fires in Chad。https://www.gdacs.org/report.aspx?eventid=1033743&episodeid=1&eventtype=WF 
-- 2026-11-09 00:00 UTC：Green 级 WF，Forest fires in Central African Republic, Chad。https://www.gdacs.org/report.aspx?eventid=1033697&episodeid=2&eventtype=WF 
 - 2026-10-28 00:00 UTC：Green 级 WF，Forest fires in Chad。https://www.gdacs.org/report.aspx?eventid=1033768&episodeid=1&eventtype=WF 
+- 2026-05-21 00:00 UTC：Orange 级 DR，Drought in Burundi, Democratic Republic of Congo, Central African Republic, Eritrea, Ethiopia, Kenya, Niger, Nigeria, Rwanda, Sudan, South Sudan, Chad, Tanzania, Uganda。https://www.gdacs.org/report.aspx?eventid=1027450&episodeid=13&eventtype=DR 

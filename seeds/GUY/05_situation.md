@@ -7,4 +7,4 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
-- 2026-11-07 00:00 UTC：Green 级 WF，Forest fires in Brazil, Guyana。https://www.gdacs.org/report.aspx?eventid=1033686&episodeid=6&eventtype=WF 
+- 2022-09-21 00:00 UTC：Orange 级 DR，Drought in Aruba, , Brazil, Colombia, Costa Rica, , French Guiana, Guyana, Panama, Suriname, Venezuela。https://www.gdacs.org/report.aspx?eventid=1023877&episodeid=14&eventtype=DR 

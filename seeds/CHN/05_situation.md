@@ -14,3 +14,8 @@
 
 - 2026-11-10 22:15 UTC：M4.5，16 km SSE of Gaoyou, China。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txf9 
 - 2026-11-05 16:56 UTC：M5，130 km NE of Thang, India。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8p 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-06-21 00:00 UTC：Green 级 DR，Drought in China, Kazakhstan, Mongolia, Russia。https://www.gdacs.org/report.aspx?eventid=1027491&episodeid=12&eventtype=DR 
+- 2026-05-21 00:00 UTC：Green 级 DR，Drought in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam。https://www.gdacs.org/report.aspx?eventid=1027462&episodeid=2&eventtype=DR 

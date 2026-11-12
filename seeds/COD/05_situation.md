@@ -18,3 +18,5 @@
 ## 灾害警报（GDACS，近 14 天）
 
 - 2026-11-01 01:00 UTC：Green 级 FL，Flood in Democratic Republic of Congo。https://www.gdacs.org/report.aspx?eventid=1104269&episodeid=3&eventtype=FL 
+- 2026-05-21 00:00 UTC：Orange 级 DR，Drought in Burundi, Democratic Republic of Congo, Central African Republic, Eritrea, Ethiopia, Kenya, Niger, Nigeria, Rwanda, Sudan, South Sudan, Chad, Tanzania, Uganda。https://www.gdacs.org/report.aspx?eventid=1027450&episodeid=13&eventtype=DR 
+- 2025-12-21 00:00 UTC：Green 级 DR，Drought in Angola, Democratic Republic of Congo, Republic of Congo, Cameroon, Gabon, Equatorial Guinea。https://www.gdacs.org/report.aspx?eventid=1018344&episodeid=28&eventtype=DR 

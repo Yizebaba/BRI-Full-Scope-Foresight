@@ -16,8 +16,9 @@
 ## 灾害警报（GDACS，近 14 天）
 
 - 2026-11-11 23:00 UTC：Green 级 EQ，Earthquake in Nepal。https://www.gdacs.org/report.aspx?eventid=1576877&episodeid=1746083&eventtype=EQ 
+- 2026-05-21 00:00 UTC：Green 级 DR，Drought in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam。https://www.gdacs.org/report.aspx?eventid=1027462&episodeid=2&eventtype=DR 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-12 02:51 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-12 10:54 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -25,7 +26,7 @@
 
 - 美国国务院旅行建议：Nepal - Level 2: Exercise Increased Caution（发布 Fri, 04 Sep 2026）。来源：https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 - 英国外交部旅行建议最近更新于 2026-10-01 13:09 UTC，更新说明：Removal of information about the Family Assistance Centre at the British Embassy Kathmandu (‘Warnings and insurance’ page).。来源：https://www.gov.uk/foreign-travel-advice/nepal 
-- IODA 近 7 天记录到全国性网络中断告警 0 条。来源：IODA 互联网中断检测（佐治亚理工），https://ioda.inetintel.cc.gatech.edu/
+- IODA 近 7 天记录到全国性网络中断告警 1 条。来源：IODA 互联网中断检测（佐治亚理工），https://ioda.inetintel.cc.gatech.edu/
 
 ## 沙布鲁贝西—热索瓦加迪公路
 
@@ -33,14 +34,13 @@
 - 2026-11-11 23:00 UTC，GDACS：Green 级 · Earthquake in Nepal，距项目 250.1 km。https://www.gdacs.org/report.aspx?eventid=1576877&episodeid=1746083&eventtype=EQ
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-11-12 10:22 UTC：Nepal-China Railway feasibility study completed, but high costs and flood risks raise concerns - The Farsight Nepal。https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXlUdmtZck5qOFkxV0ZvMHRjWnUtd1ZGUDZiTjJ2WmVnSldMN3dzaUlYcEl1OTRfbVR3YWZEcHZyTGFYdEhqUURtdjZpSm51cENaZ1hJNHZUSVljSGRlSWZPOVFBUjVNTWYyZWRWQ2xsZklBejBzREJmOWNYUjFsc01zYUZPd1hUeUJqN3pMZWZWek96cXdmMjB3OVZCd0V0N3lVZWNQbThZSUlwUFdnbDNjQzFKb1phRTFaZWIzOWJCV2c?oc=5
 - 2026-11-09 13:09 UTC：Death toll rises to 162 in Nepal flash floods - DD News。https://news.google.com/rss/articles/CBMie0FVX3lxTFBfdEdFbWhLR2pOczRrMDZVVVhCNEhKeFZmdlhRRTdiSDdhWC1HRlVtYVo4ZVZrZHh4Y2JWZVhuTDRBaE9MbFFpTkJKVmxMVWZNQmc5MzZCaVFUX2g1Qm5QSlN5dFhRbm5wS0o2ZkxtNllFOHg4TkVhcnpNbw?oc=5
 - 2026-11-09 06:44 UTC：Nepal disaster: Families of missing Malaysians want clear legal answers - NST Online。https://news.google.com/rss/articles/CBMivwFBVV95cUxPNDlhRnQyWFprQUlrN2pXUnR6Q2g4OUExV3FrOXJEeVc2d2hhZHY3QzhvbG5SRGVqVElaQ2FXUEIxNl9GNHg3VzVRT2x2VGY3TDhsdk1TX09XWXpFdm1EZ2FXUDB3eWM0Q2ZWbHZ5Wmphc0ExNUxHZEhZSzVPanYzVEZYWjNWV3ZyLVlSUVRpWnZfdFl5YUgyRENOb2dscmpHUmg5bXQwYm9zZnRhUjdKMG1QYWVIdEthRTNhN3JoZ9IBvwFBVV95cUxPNDlhRnQyWFprQUlrN2pXUnR6Q2g4OUExV3FrOXJEeVc2d2hhZHY3QzhvbG5SRGVqVElaQ2FXUEIxNl9GNHg3VzVRT2x2VGY3TDhsdk1TX09XWXpFdm1EZ2FXUDB3eWM0Q2ZWbHZ5Wmphc0ExNUxHZEhZSzVPanYzVEZYWjNWV3ZyLVlSUVRpWnZfdFl5YUgyRENOb2dscmpHUmg5bXQwYm9zZnRhUjdKMG1QYWVIdEthRTNhN3JoZw?oc=5
 - 2026-11-06 06:41 UTC：Bailey bridges in flood-prone areas could be dangerous, says Department of Roads chief - OnlineKhabar English News。https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNmxycTdXRmdKRm1lNGdlS3o4WDhBMFpzYk9Fd21PV1VoMnJBTEl0b2xJaTlTXzN6U2pKWGJnNnNlSEs0S0hKVkN0VzR3Ul9wbjBuT2RwcWhXRWJFelJvX1NnZWJ2TmZDeGNHcUxEOVJvd1ZSc2U1T1VZY2JJdm42QV91eGxkeF9jcUpIUDVTSnVaOU1NajI2aTJQX2RrVHlGd2NWWDlXSW9nakVBdV93TFhoc1lMTTBXYXEzVms3eUU?oc=5
-- 2026-11-05 08:12 UTC：Flood victims at Kathmandu holding centres eager to return home (Photos) - OnlineKhabar English News。https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2lGZ21LSkd2Yjk2MnZZRXgtM092cmJ2ejNCQ19JVzh3SW42ekdFUzVQY29TZ1NENzZCT0lXVndYV0lxd3hWdWhlV2I1NUMzd2N2V0g0UVlRVTB2N0k5RG5hYW5zWmZ0MGxDMUFHNDFOZllhNzlpVzViaVhpbkxZSG1SYjhrU1kyMGFEcnVjcVdFMVc5LXFCdXUzS2ZDd1Y3ODVQalpqVE9WQmRw?oc=5
-- 2026-11-05 05:57 UTC：Korala border point faces repeated disruptions from floods, snowfall - OnlineKhabar English News。https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeWYzM0JpNXp1YmVPaVhkMklOaHNhczNVQnZ3Sm03cXgtS3RZWXF4OWN4SUNDM05yeFRHRHdreUp2RmQxbkFrR2JRMVRmek4yejlveHdYM3ZyaGptWGVRZTlDSVMzZ3RLZGdweERldUVaYmhLeDZjd1dxdW1hSlh2Rk8zU2gzT2F3VTRkb0pkYlh4LWtFVUMtYjBjNGZZcU5LcThKbm1ELWo?oc=5
-- 2026-11-05 05:15 UTC：Flood Victims Seek Return to Homeland Amidst Uncertain Future - Ratopati。https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUXRGamd2QUttZk5rZWdRNGNQcHlWZHdOX0FJSzVQMm05MmtudWpmY0lFQVRlR0czVUotbThzWGg3VmthVG45c1RqdHk4eFlWeUx5MGxzLWtWTlhkanNrREZpbFk5aGdWdFlnZU1wQ09jaGEwZTVFV1JZbWNWRmRBYmJOcVZDME5vYlgtT1lXY01Rd1FCa3lyQkExenNMQ2NxRUx5cDZaU1ptYWJBZDdNLVgzcGxfa2VONUpERXFFS2xKYnltYWFtTmxxOXVjMFJKTEJtbTA5QUR1UHBqNXJv?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-12 04:43 UTC：Transboundary data asymmetry and Himalayan resilience at COP31 | Hindustan Times - Hindustan Times
 - 2026-11-06 11:54 UTC：Preparations for Janakpurdham–Ayodhyadham railway service gather pace - OnlineKhabar English News
 - 2026-11-06 01:08 UTC：The mountain gave us weeks of warning: Nepal needs a system that can read them - myRepublica
 - 2026-11-06 01:08 UTC：The mountain gave us weeks of warning: Nepal needs a system that can read them - Hamro Patro
@@ -51,17 +51,17 @@
 - 2026-11-11 23:00 UTC，GDACS：Green 级 · Earthquake in Nepal，距项目 250.9 km。https://www.gdacs.org/report.aspx?eventid=1576877&episodeid=1746083&eventtype=EQ
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-11-12 10:22 UTC：Nepal-China Railway feasibility study completed, but high costs and flood risks raise concerns - The Farsight Nepal。https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXlUdmtZck5qOFkxV0ZvMHRjWnUtd1ZGUDZiTjJ2WmVnSldMN3dzaUlYcEl1OTRfbVR3YWZEcHZyTGFYdEhqUURtdjZpSm51cENaZ1hJNHZUSVljSGRlSWZPOVFBUjVNTWYyZWRWQ2xsZklBejBzREJmOWNYUjFsc01zYUZPd1hUeUJqN3pMZWZWek96cXdmMjB3OVZCd0V0N3lVZWNQbThZSUlwUFdnbDNjQzFKb1phRTFaZWIzOWJCV2c?oc=5
 - 2026-11-09 13:09 UTC：Death toll rises to 162 in Nepal flash floods - DD News。https://news.google.com/rss/articles/CBMie0FVX3lxTFBfdEdFbWhLR2pOczRrMDZVVVhCNEhKeFZmdlhRRTdiSDdhWC1HRlVtYVo4ZVZrZHh4Y2JWZVhuTDRBaE9MbFFpTkJKVmxMVWZNQmc5MzZCaVFUX2g1Qm5QSlN5dFhRbm5wS0o2ZkxtNllFOHg4TkVhcnpNbw?oc=5
 - 2026-11-09 06:44 UTC：Nepal disaster: Families of missing Malaysians want clear legal answers - NST Online。https://news.google.com/rss/articles/CBMivwFBVV95cUxPNDlhRnQyWFprQUlrN2pXUnR6Q2g4OUExV3FrOXJEeVc2d2hhZHY3QzhvbG5SRGVqVElaQ2FXUEIxNl9GNHg3VzVRT2x2VGY3TDhsdk1TX09XWXpFdm1EZ2FXUDB3eWM0Q2ZWbHZ5Wmphc0ExNUxHZEhZSzVPanYzVEZYWjNWV3ZyLVlSUVRpWnZfdFl5YUgyRENOb2dscmpHUmg5bXQwYm9zZnRhUjdKMG1QYWVIdEthRTNhN3JoZ9IBvwFBVV95cUxPNDlhRnQyWFprQUlrN2pXUnR6Q2g4OUExV3FrOXJEeVc2d2hhZHY3QzhvbG5SRGVqVElaQ2FXUEIxNl9GNHg3VzVRT2x2VGY3TDhsdk1TX09XWXpFdm1EZ2FXUDB3eWM0Q2ZWbHZ5Wmphc0ExNUxHZEhZSzVPanYzVEZYWjNWV3ZyLVlSUVRpWnZfdFl5YUgyRENOb2dscmpHUmg5bXQwYm9zZnRhUjdKMG1QYWVIdEthRTNhN3JoZw?oc=5
 - 2026-11-07 10:45 UTC：Flood Victims Leave Mustang Gumba Shelter - Ratopati。https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTVjdVdXOTlzVXN0TEljWEVsaXhhMloxcEVadFQ3NW9XOEN1Mnh2TWlmanJiV3dUckk5RU5rN2JWR0pESW1EWk1hbnMwcGJrRHhPWG9EX2lpU2lOcEUtSjFXSE4wWUgxMWl6SnMzMERrdWdKUVh4Nk5EbHR0eUZPNEJveXh3ZUlmckpfQlBLaTdESVZZU0VXU25wVTdzTWkwbXdsMDdNQ1lBNzdQeDV4UUNXZXNSVi1CbGxmSnBTR3BOMkk?oc=5
-- 2026-11-05 08:12 UTC：Flood victims at Kathmandu holding centres eager to return home (Photos) - OnlineKhabar English News。https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2lGZ21LSkd2Yjk2MnZZRXgtM092cmJ2ejNCQ19JVzh3SW42ekdFUzVQY29TZ1NENzZCT0lXVndYV0lxd3hWdWhlV2I1NUMzd2N2V0g0UVlRVTB2N0k5RG5hYW5zWmZ0MGxDMUFHNDFOZllhNzlpVzViaVhpbkxZSG1SYjhrU1kyMGFEcnVjcVdFMVc5LXFCdXUzS2ZDd1Y3ODVQalpqVE9WQmRw?oc=5
-- 2026-11-05 05:57 UTC：Korala border point faces repeated disruptions from floods, snowfall - OnlineKhabar English News。https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeWYzM0JpNXp1YmVPaVhkMklOaHNhczNVQnZ3Sm03cXgtS3RZWXF4OWN4SUNDM05yeFRHRHdreUp2RmQxbkFrR2JRMVRmek4yejlveHdYM3ZyaGptWGVRZTlDSVMzZ3RLZGdweERldUVaYmhLeDZjd1dxdW1hSlh2Rk8zU2gzT2F3VTRkb0pkYlh4LWtFVUMtYjBjNGZZcU5LcThKbm1ELWo?oc=5
-- 2026-11-05 05:15 UTC：Flood Victims Seek Return to Homeland Amidst Uncertain Future - Ratopati。https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUXRGamd2QUttZk5rZWdRNGNQcHlWZHdOX0FJSzVQMm05MmtudWpmY0lFQVRlR0czVUotbThzWGg3VmthVG45c1RqdHk4eFlWeUx5MGxzLWtWTlhkanNrREZpbFk5aGdWdFlnZU1wQ09jaGEwZTVFV1JZbWNWRmRBYmJOcVZDME5vYlgtT1lXY01Rd1FCa3lyQkExenNMQ2NxRUx5cDZaU1ptYWJBZDdNLVgzcGxfa2VONUpERXFFS2xKYnltYWFtTmxxOXVjMFJKTEJtbTA5QUR1UHBqNXJv?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-12 04:43 UTC：Transboundary data asymmetry and Himalayan resilience at COP31 | Hindustan Times - Hindustan Times
 - 2026-11-08 07:03 UTC：Leo Declared Best Dog for Search and Rescue Efforts - Ratopati
 - 2026-11-06 11:54 UTC：Preparations for Janakpurdham–Ayodhyadham railway service gather pace - OnlineKhabar English News
 - 2026-11-06 08:28 UTC：16 shortlisted for Nepal Tourism Board CEO - OnlineKhabar English News
+- 2026-11-06 01:08 UTC：The mountain gave us weeks of warning: Nepal needs a system that can read them - myRepublica
 
 ## 上特里苏利 3A 水电站（60 MW）
 
@@ -75,6 +75,9 @@
 
 周边自然事件（地震 150 km、灾害警报 300 km、NASA 自然事件 150 km 以内）：
 - 2026-11-11 23:00 UTC，GDACS：Green 级 · Earthquake in Nepal，距项目 257.2 km。https://www.gdacs.org/report.aspx?eventid=1576877&episodeid=1746083&eventtype=EQ
+
+近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-12 08:29 UTC：Darkness on the horizon: Why Nepal’s winter power supply hangs in balance - Nepalnews.com
 
 ## 吉隆—加德满都跨境铁路（规划）
 
