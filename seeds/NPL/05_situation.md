@@ -18,7 +18,7 @@
 - 2026-11-11 23:00 UTC：Green 级 EQ，Earthquake in Nepal。https://www.gdacs.org/report.aspx?eventid=1576877&episodeid=1746083&eventtype=EQ 
 - 2026-05-21 00:00 UTC：Green 级 DR，Drought in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam。https://www.gdacs.org/report.aspx?eventid=1027462&episodeid=2&eventtype=DR 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-12 18:49 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-13 00:08 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -42,7 +42,6 @@
 - 2026-11-12 04:43 UTC：Transboundary data asymmetry and Himalayan resilience at COP31 | Hindustan Times - Hindustan Times
 - 2026-11-06 11:54 UTC：Preparations for Janakpurdham–Ayodhyadham railway service gather pace - OnlineKhabar English News
 - 2026-11-06 01:08 UTC：The mountain gave us weeks of warning: Nepal needs a system that can read them - myRepublica
-- 2026-11-06 01:08 UTC：The mountain gave us weeks of warning: Nepal needs a system that can read them - Hamro Patro
 
 ## 热索瓦加迪（Timure）口岸边检站
 
@@ -50,6 +49,7 @@
 - 2026-11-11 23:00 UTC，GDACS：Green 级 · Earthquake in Nepal，距项目 250.9 km。https://www.gdacs.org/report.aspx?eventid=1576877&episodeid=1746083&eventtype=EQ
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-11-12 12:02 UTC：Nearly 100 killed, over 750 missing in Nepal flash floods - DD News。https://news.google.com/rss/articles/CBMiigFBVV95cUxQdklDc3I4dEdCRVc3VWVzZDhvQXZ1dTAzMnVhSTBaT3p2WDUwZHBaWkJxYVphZHhzeGhpUmRCdVNfYldSV0UxQzNES3FDeFk5WkRGeV8xaUpUOVNsRmRkZVBGTkppb0dGNFZ3Z3FLWGp4RXBkUF9OcHJtNjNqUFRIRHd2RzA2VnhoM2c?oc=5
 - 2026-11-12 10:21 UTC：Nepal-China Railway feasibility study completed, but high costs and flood risks raise concerns - The Farsight Nepal。https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXlUdmtZck5qOFkxV0ZvMHRjWnUtd1ZGUDZiTjJ2WmVnSldMN3dzaUlYcEl1OTRfbVR3YWZEcHZyTGFYdEhqUURtdjZpSm51cENaZ1hJNHZUSVljSGRlSWZPOVFBUjVNTWYyZWRWQ2xsZklBejBzREJmOWNYUjFsc01zYUZPd1hUeUJqN3pMZWZWek96cXdmMjB3OVZCd0V0N3lVZWNQbThZSUlwUFdnbDNjQzFKb1phRTFaZWIzOWJCV2c?oc=5
 - 2026-11-09 13:09 UTC：Death toll rises to 162 in Nepal flash floods - DD News。https://news.google.com/rss/articles/CBMie0FVX3lxTFBfdEdFbWhLR2pOczRrMDZVVVhCNEhKeFZmdlhRRTdiSDdhWC1HRlVtYVo4ZVZrZHh4Y2JWZVhuTDRBaE9MbFFpTkJKVmxMVWZNQmc5MzZCaVFUX2g1Qm5QSlN5dFhRbm5wS0o2ZkxtNllFOHg4TkVhcnpNbw?oc=5
 - 2026-11-07 10:45 UTC：Flood Victims Leave Mustang Gumba Shelter - Ratopati。https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTVjdVdXOTlzVXN0TEljWEVsaXhhMloxcEVadFQ3NW9XOEN1Mnh2TWlmanJiV3dUckk5RU5rN2JWR0pESW1EWk1hbnMwcGJrRHhPWG9EX2lpU2lOcEUtSjFXSE4wWUgxMWl6SnMzMERrdWdKUVh4Nk5EbHR0eUZPNEJveXh3ZUlmckpfQlBLaTdESVZZU0VXU25wVTdzTWkwbXdsMDdNQ1lBNzdQeDV4UUNXZXNSVi1CbGxmSnBTR3BOMkk?oc=5
@@ -60,7 +60,6 @@
 - 2026-11-06 11:54 UTC：Preparations for Janakpurdham–Ayodhyadham railway service gather pace - OnlineKhabar English News
 - 2026-11-06 08:28 UTC：16 shortlisted for Nepal Tourism Board CEO - OnlineKhabar English News
 - 2026-11-06 01:08 UTC：The mountain gave us weeks of warning: Nepal needs a system that can read them - myRepublica
-- 2026-11-06 01:08 UTC：The mountain gave us weeks of warning: Nepal needs a system that can read them - Hamro Patro
 
 ## 上特里苏利 3A 水电站（60 MW）
 

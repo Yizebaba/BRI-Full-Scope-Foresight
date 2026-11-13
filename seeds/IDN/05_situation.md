@@ -11,10 +11,12 @@
 
 ## 地震（USGS，M4.5+，近 7 天）
 
+- 2026-11-11 12:10 UTC：M4.6，130 km E of Masohi, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txiv 
 - 2026-11-10 22:09 UTC：M4.5，61 km ENE of Blangpidie, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txf8 
 - 2026-11-10 14:31 UTC：M4.7，Java, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txb6 
 - 2026-11-10 08:34 UTC：M5，58 km NE of Fef, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx9z 
 - 2026-11-10 00:11 UTC：M4.5，224 km W of Abepura, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txa7 
+- 2026-11-09 16:52 UTC：M4.5，152 km E of Masohi, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx4r 
 - 2026-11-09 09:53 UTC：M4.8，183 km E of Masohi, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx34 
 - 2026-11-09 09:48 UTC：M5.4，160 km E of Masohi, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx32 
 - 2026-11-08 16:45 UTC：M4.6，117 km NE of Tobelo, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000twyd 
@@ -22,6 +24,7 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
+- 2026-11-12 14:58 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1576996&episodeid=1746256&eventtype=EQ 
 - 2026-11-11 12:17 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1576797&episodeid=1746171&eventtype=EQ 
 - 2026-11-11 11:32 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1576792&episodeid=1745984&eventtype=EQ 
 - 2026-10-24 01:00 UTC：Green 级 FL，Flood in Indonesia。https://www.gdacs.org/report.aspx?eventid=1104253&episodeid=22&eventtype=FL 
