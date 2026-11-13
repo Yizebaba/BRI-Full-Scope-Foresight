@@ -21,4 +21,3 @@
 ## 灾害警报（GDACS，近 14 天）
 
 - 2026-11-10 01:00 UTC：Green 级 FL，Flood in Myanmar。https://www.gdacs.org/report.aspx?eventid=1104280&episodeid=1&eventtype=FL 
-- 2026-05-21 00:00 UTC：Green 级 DR，Drought in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam。https://www.gdacs.org/report.aspx?eventid=1027462&episodeid=2&eventtype=DR 

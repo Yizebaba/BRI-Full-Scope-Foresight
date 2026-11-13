@@ -18,5 +18,3 @@
 ## 灾害警报（GDACS，近 14 天）
 
 - 2026-11-12 20:03 UTC：Green 级 EQ，Earthquake in China。https://www.gdacs.org/report.aspx?eventid=1577047&episodeid=1746266&eventtype=EQ 
-- 2026-06-21 00:00 UTC：Green 级 DR，Drought in China, Kazakhstan, Mongolia, Russia。https://www.gdacs.org/report.aspx?eventid=1027491&episodeid=12&eventtype=DR 
-- 2026-05-21 00:00 UTC：Green 级 DR，Drought in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam。https://www.gdacs.org/report.aspx?eventid=1027462&episodeid=2&eventtype=DR 

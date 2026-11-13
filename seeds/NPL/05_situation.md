@@ -16,9 +16,8 @@
 ## 灾害警报（GDACS，近 14 天）
 
 - 2026-11-11 23:00 UTC：Green 级 EQ，Earthquake in Nepal。https://www.gdacs.org/report.aspx?eventid=1576877&episodeid=1746083&eventtype=EQ 
-- 2026-05-21 00:00 UTC：Green 级 DR，Drought in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam。https://www.gdacs.org/report.aspx?eventid=1027462&episodeid=2&eventtype=DR 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-13 00:08 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-13 07:09 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -36,12 +35,10 @@
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
 - 2026-11-12 10:21 UTC：Nepal-China Railway feasibility study completed, but high costs and flood risks raise concerns - The Farsight Nepal。https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXlUdmtZck5qOFkxV0ZvMHRjWnUtd1ZGUDZiTjJ2WmVnSldMN3dzaUlYcEl1OTRfbVR3YWZEcHZyTGFYdEhqUURtdjZpSm51cENaZ1hJNHZUSVljSGRlSWZPOVFBUjVNTWYyZWRWQ2xsZklBejBzREJmOWNYUjFsc01zYUZPd1hUeUJqN3pMZWZWek96cXdmMjB3OVZCd0V0N3lVZWNQbThZSUlwUFdnbDNjQzFKb1phRTFaZWIzOWJCV2c?oc=5
 - 2026-11-09 13:09 UTC：Death toll rises to 162 in Nepal flash floods - DD News。https://news.google.com/rss/articles/CBMie0FVX3lxTFBfdEdFbWhLR2pOczRrMDZVVVhCNEhKeFZmdlhRRTdiSDdhWC1HRlVtYVo4ZVZrZHh4Y2JWZVhuTDRBaE9MbFFpTkJKVmxMVWZNQmc5MzZCaVFUX2g1Qm5QSlN5dFhRbm5wS0o2ZkxtNllFOHg4TkVhcnpNbw?oc=5
-- 2026-11-06 06:41 UTC：Bailey bridges in flood-prone areas could be dangerous, says Department of Roads chief - OnlineKhabar English News。https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNmxycTdXRmdKRm1lNGdlS3o4WDhBMFpzYk9Fd21PV1VoMnJBTEl0b2xJaTlTXzN6U2pKWGJnNnNlSEs0S0hKVkN0VzR3Ul9wbjBuT2RwcWhXRWJFelJvX1NnZWJ2TmZDeGNHcUxEOVJvd1ZSc2U1T1VZY2JJdm42QV91eGxkeF9jcUpIUDVTSnVaOU1NajI2aTJQX2RrVHlGd2NWWDlXSW9nakVBdV93TFhoc1lMTTBXYXEzVms3eUU?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-12 04:43 UTC：Transboundary data asymmetry and Himalayan resilience at COP31 | Hindustan Times - Hindustan Times
 - 2026-11-06 11:54 UTC：Preparations for Janakpurdham–Ayodhyadham railway service gather pace - OnlineKhabar English News
-- 2026-11-06 01:08 UTC：The mountain gave us weeks of warning: Nepal needs a system that can read them - myRepublica
 
 ## 热索瓦加迪（Timure）口岸边检站
 
@@ -59,7 +56,6 @@
 - 2026-11-08 07:03 UTC：Leo Declared Best Dog for Search and Rescue Efforts - Ratopati
 - 2026-11-06 11:54 UTC：Preparations for Janakpurdham–Ayodhyadham railway service gather pace - OnlineKhabar English News
 - 2026-11-06 08:28 UTC：16 shortlisted for Nepal Tourism Board CEO - OnlineKhabar English News
-- 2026-11-06 01:08 UTC：The mountain gave us weeks of warning: Nepal needs a system that can read them - myRepublica
 
 ## 上特里苏利 3A 水电站（60 MW）
 

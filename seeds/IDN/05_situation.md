@@ -11,6 +11,7 @@
 
 ## 地震（USGS，M4.5+，近 7 天）
 
+- 2026-11-13 04:49 UTC：M4.7，27 km NNE of Labuan Lombok, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txy5 
 - 2026-11-11 12:10 UTC：M4.6，130 km E of Masohi, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txiv 
 - 2026-11-10 22:09 UTC：M4.5，61 km ENE of Blangpidie, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txf8 
 - 2026-11-10 14:31 UTC：M4.7，Java, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txb6 
@@ -24,8 +25,8 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
+- 2026-11-13 04:49 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1577107&episodeid=1746335&eventtype=EQ 
 - 2026-11-12 14:58 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1576996&episodeid=1746256&eventtype=EQ 
 - 2026-11-11 12:17 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1576797&episodeid=1746171&eventtype=EQ 
 - 2026-11-11 11:32 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1576792&episodeid=1745984&eventtype=EQ 
 - 2026-10-24 01:00 UTC：Green 级 FL，Flood in Indonesia。https://www.gdacs.org/report.aspx?eventid=1104253&episodeid=22&eventtype=FL 
-- 2026-03-21 00:00 UTC：Green 级 DR，Drought in Brunei, Indonesia, Cambodia, Malaysia, Papua New Guinea, Philippines。https://www.gdacs.org/report.aspx?eventid=1018545&episodeid=20&eventtype=DR 

@@ -26,4 +26,3 @@
 
 - 2026-11-12 01:18 UTC：Green 级 EQ，Earthquake in Russia。https://www.gdacs.org/report.aspx?eventid=1576886&episodeid=1746094&eventtype=EQ 
 - 2026-11-11 05:26 UTC：Green 级 EQ，Earthquake in Russia。https://www.gdacs.org/report.aspx?eventid=1576747&episodeid=1745933&eventtype=EQ 
-- 2026-06-21 00:00 UTC：Green 级 DR，Drought in China, Kazakhstan, Mongolia, Russia。https://www.gdacs.org/report.aspx?eventid=1027491&episodeid=12&eventtype=DR 

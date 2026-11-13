@@ -15,4 +15,3 @@
 
 - 2026-11-12 22:04 UTC：Green 级 EQ，Earthquake in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1577060&episodeid=1746280&eventtype=EQ 
 - 2026-11-11 17:38 UTC：Green 级 EQ，Earthquake in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1576837&episodeid=1746037&eventtype=EQ 
-- 2026-03-21 00:00 UTC：Green 级 DR，Drought in Brunei, Indonesia, Cambodia, Malaysia, Papua New Guinea, Philippines。https://www.gdacs.org/report.aspx?eventid=1018545&episodeid=20&eventtype=DR 

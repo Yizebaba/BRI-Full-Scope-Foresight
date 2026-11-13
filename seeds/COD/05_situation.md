@@ -15,8 +15,11 @@
 - 2026-08-04 04:00 UTC：CDC Travel Notices Level 4 - Ebola Bundibugyo Virus Disease in Ituri and Nord-Kivu Provinces of the Democratic Republic of the Congo。https://wwwnc.cdc.gov/travel/notices/level4/ebola-drc-provinces 
 - 2026-08-04 04:00 UTC：CDC Travel Notices Level 3 - Ebola Bundibugyo Virus Disease in Haut-Uélé and Tshopo Provinces of the Democratic Republic of the Congo。https://wwwnc.cdc.gov/travel/notices/level3/ebola-democratic-republic-of-the-congo 
 
+## 地震（USGS，M4.5+，近 7 天）
+
+- 2026-11-13 01:12 UTC：M5，85 km W of Mwene-Ditu, Democratic Republic of the Congo。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxl 
+
 ## 灾害警报（GDACS，近 14 天）
 
+- 2026-11-13 01:12 UTC：Green 级 EQ，Earthquake in Democratic Republic of the Congo。https://www.gdacs.org/report.aspx?eventid=1577075&episodeid=1746300&eventtype=EQ 
 - 2026-11-01 01:00 UTC：Green 级 FL，Flood in Democratic Republic of Congo。https://www.gdacs.org/report.aspx?eventid=1104269&episodeid=3&eventtype=FL 
-- 2026-05-21 00:00 UTC：Orange 级 DR，Drought in Burundi, Democratic Republic of Congo, Central African Republic, Eritrea, Ethiopia, Kenya, Niger, Nigeria, Rwanda, Sudan, South Sudan, Chad, Tanzania, Uganda。https://www.gdacs.org/report.aspx?eventid=1027450&episodeid=13&eventtype=DR 
-- 2025-12-21 00:00 UTC：Green 级 DR，Drought in Angola, Democratic Republic of Congo, Republic of Congo, Cameroon, Gabon, Equatorial Guinea。https://www.gdacs.org/report.aspx?eventid=1018344&episodeid=28&eventtype=DR 

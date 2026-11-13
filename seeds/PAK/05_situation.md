@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-13 00:08 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-13 07:09 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -50,15 +50,15 @@
 
 周边自然事件：扫描期间没有记录。
 
-近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-06 08:00 UTC：Karakoram Highway | Facts, Completion Date, & Khunjerab Pass - Britannica
-
 ## 喀喇昆仑公路二期（塔科特—哈维连）
 
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
 - 2026-11-12 01:49 UTC：Heavy snowfall suspends traffic between KP and GB - Dawn。https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KZEdwc1laLWJocG1idE9uQUtQZ2ZhcmtXVmhBRURCVjNyNlVaZ0ZjcWNxUU5zTnlwUi1RRl9oaVhodzgtUXNEeg?oc=5
+
+近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-13 02:01 UTC：Mercury drops in KP after snowfall, rain - Dawn
 
 ## 卡洛特水电站（720 MW）
 
@@ -69,17 +69,18 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-11-12 12:34 UTC：Pakistan’s Gwadar Port Dream Collapses: From Dubai Promise To Ghost Port - DD News。https://news.google.com/rss/articles/CBMinAFBVV95cUxOeG1JUUtzbGhHa2NfQ2ZVa2JsRFVwUWRrRUtZVVFCWkRSRnF6NWxhZ0VCeE5RanpKVXRNUTdMWjlEYmpZdU1WRFpJbGpjLUFDS1NMSlAxeXQ3WlpydkRxTjJ4QVhPdUY1LU1WQ1ZEMDlOanZpaEZSSDVkclQ1Rnp1X1VXWWJXZWY3X1lqZDQ0c3BEaGxrSmFaQ2dBTUo?oc=5
 - 2026-11-07 09:01 UTC：Pakistan forces under fire after missing Baloch youth found dead in Gwadar amid enforced disappearances - ANI News。https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbmV5MTFWZENnSEVraW9yVVBJbkpGOF9HR3c5blMwN1RpLV94ZFMyY0F3N3lJcDdxUU5qY2FTN3k4UjlzWThXLUZULWpyamxvS2hhYkFjR1dWOXdFc3Z2N2RhaE14cE42TXhaczZybml6STFpMkxwLVE3ZlRBWXE4RGRYZm9WNDRxSHFTVGlUMUwtMzVpTEMwT1VJWEtOa0s1cEJTcnhnaHJZUEZiWE42Y1lIbGNkclM2TDFJNTlfZGxEYnUtLWJpRC1ZeFNhS2t6WnN5U2o3WWwyMVFubUQ3dEZGRWZENlcwTHh0Wg?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-13 06:31 UTC：Pakistan Seeks to Fast-Track Nokundi-Gwadar Road Corridor - The Daily CPEC
+- 2026-11-13 05:24 UTC：Ahsan Iqbal pushes Nokundi-Gwadar corridor with Barrick Mining - Investify
+- 2026-11-13 05:04 UTC：Ahsan Iqbal pushes Nokundi-Gwadar corridor with Barrick Mining - Mettis Global
+- 2026-11-13 00:48 UTC：Naval Blockade Fuels Mass Micro-Smuggling into Pakistan - The Maritime Executive
 - 2026-11-12 20:40 UTC：vAhsan Iqbal Calls for Fast-Tracking Nokundi–Gwadar Corridor to Boost Mineral Exports - Daily Independent
 - 2026-11-12 20:08 UTC：Kantani Border Reopens for Trade After Six Months, Bringing Relief to Gwadar’s Business Community - Daily Independent
 - 2026-11-12 11:20 UTC：Pak-China Friendship hospital completes 4 years Breaking - Independent News Pakistan
 - 2026-11-12 10:43 UTC：Gwadar Pak-China Friendship Hospital Marks Four Years - The Daily CPEC
-- 2026-11-12 08:32 UTC：Pakistan Delegation Discusses Gwadar Port and CPEC in China - The Daily CPEC
-- 2026-11-11 19:19 UTC：Free Veterinary Camps Bring Animal Healthcare to Remote Gwadar Areas - Daily Independent
-- 2026-11-11 17:52 UTC：Gwadar Deputy Commissioner Hears Complaints of 43 Candidates in SST Recruitment Process - Daily Independent
-- 2026-11-11 10:23 UTC：Swat, Chinese universities sign MoU targeting horticultural exports - Gwadar Pro
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 
