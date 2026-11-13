@@ -13,11 +13,7 @@
 
 - 2026-11-11 23:00 UTC：M4.6，73 km NNW of Gyalshing, India。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txpk 
 
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-11-11 23:00 UTC：Green 级 EQ，Earthquake in Nepal。https://www.gdacs.org/report.aspx?eventid=1576877&episodeid=1746083&eventtype=EQ 
-
-# 尼泊尔项目周边近期态势（截至 2026-11-13 07:09 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-13 15:39 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -29,8 +25,7 @@
 
 ## 沙布鲁贝西—热索瓦加迪公路
 
-周边自然事件（地震 150 km、灾害警报 300 km、NASA 自然事件 150 km 以内）：
-- 2026-11-11 23:00 UTC，GDACS：Green 级 · Earthquake in Nepal，距项目 250.1 km。https://www.gdacs.org/report.aspx?eventid=1576877&episodeid=1746083&eventtype=EQ
+周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
 - 2026-11-12 10:21 UTC：Nepal-China Railway feasibility study completed, but high costs and flood risks raise concerns - The Farsight Nepal。https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXlUdmtZck5qOFkxV0ZvMHRjWnUtd1ZGUDZiTjJ2WmVnSldMN3dzaUlYcEl1OTRfbVR3YWZEcHZyTGFYdEhqUURtdjZpSm51cENaZ1hJNHZUSVljSGRlSWZPOVFBUjVNTWYyZWRWQ2xsZklBejBzREJmOWNYUjFsc01zYUZPd1hUeUJqN3pMZWZWek96cXdmMjB3OVZCd0V0N3lVZWNQbThZSUlwUFdnbDNjQzFKb1phRTFaZWIzOWJCV2c?oc=5
@@ -38,34 +33,27 @@
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-12 04:43 UTC：Transboundary data asymmetry and Himalayan resilience at COP31 | Hindustan Times - Hindustan Times
-- 2026-11-06 11:54 UTC：Preparations for Janakpurdham–Ayodhyadham railway service gather pace - OnlineKhabar English News
 
 ## 热索瓦加迪（Timure）口岸边检站
 
-周边自然事件（地震 150 km、灾害警报 300 km、NASA 自然事件 150 km 以内）：
-- 2026-11-11 23:00 UTC，GDACS：Green 级 · Earthquake in Nepal，距项目 250.9 km。https://www.gdacs.org/report.aspx?eventid=1576877&episodeid=1746083&eventtype=EQ
+周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
 - 2026-11-12 12:02 UTC：Nearly 100 killed, over 750 missing in Nepal flash floods - DD News。https://news.google.com/rss/articles/CBMiigFBVV95cUxQdklDc3I4dEdCRVc3VWVzZDhvQXZ1dTAzMnVhSTBaT3p2WDUwZHBaWkJxYVphZHhzeGhpUmRCdVNfYldSV0UxQzNES3FDeFk5WkRGeV8xaUpUOVNsRmRkZVBGTkppb0dGNFZ3Z3FLWGp4RXBkUF9OcHJtNjNqUFRIRHd2RzA2VnhoM2c?oc=5
 - 2026-11-12 10:21 UTC：Nepal-China Railway feasibility study completed, but high costs and flood risks raise concerns - The Farsight Nepal。https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXlUdmtZck5qOFkxV0ZvMHRjWnUtd1ZGUDZiTjJ2WmVnSldMN3dzaUlYcEl1OTRfbVR3YWZEcHZyTGFYdEhqUURtdjZpSm51cENaZ1hJNHZUSVljSGRlSWZPOVFBUjVNTWYyZWRWQ2xsZklBejBzREJmOWNYUjFsc01zYUZPd1hUeUJqN3pMZWZWek96cXdmMjB3OVZCd0V0N3lVZWNQbThZSUlwUFdnbDNjQzFKb1phRTFaZWIzOWJCV2c?oc=5
-- 2026-11-09 13:09 UTC：Death toll rises to 162 in Nepal flash floods - DD News。https://news.google.com/rss/articles/CBMie0FVX3lxTFBfdEdFbWhLR2pOczRrMDZVVVhCNEhKeFZmdlhRRTdiSDdhWC1HRlVtYVo4ZVZrZHh4Y2JWZVhuTDRBaE9MbFFpTkJKVmxMVWZNQmc5MzZCaVFUX2g1Qm5QSlN5dFhRbm5wS0o2ZkxtNllFOHg4TkVhcnpNbw?oc=5
 - 2026-11-07 10:45 UTC：Flood Victims Leave Mustang Gumba Shelter - Ratopati。https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTVjdVdXOTlzVXN0TEljWEVsaXhhMloxcEVadFQ3NW9XOEN1Mnh2TWlmanJiV3dUckk5RU5rN2JWR0pESW1EWk1hbnMwcGJrRHhPWG9EX2lpU2lOcEUtSjFXSE4wWUgxMWl6SnMzMERrdWdKUVh4Nk5EbHR0eUZPNEJveXh3ZUlmckpfQlBLaTdESVZZU0VXU25wVTdzTWkwbXdsMDdNQ1lBNzdQeDV4UUNXZXNSVi1CbGxmSnBTR3BOMkk?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-12 04:43 UTC：Transboundary data asymmetry and Himalayan resilience at COP31 | Hindustan Times - Hindustan Times
 - 2026-11-08 07:03 UTC：Leo Declared Best Dog for Search and Rescue Efforts - Ratopati
-- 2026-11-06 11:54 UTC：Preparations for Janakpurdham–Ayodhyadham railway service gather pace - OnlineKhabar English News
-- 2026-11-06 08:28 UTC：16 shortlisted for Nepal Tourism Board CEO - OnlineKhabar English News
 
 ## 上特里苏利 3A 水电站（60 MW）
 
-周边自然事件（地震 150 km、灾害警报 300 km、NASA 自然事件 150 km 以内）：
-- 2026-11-11 23:00 UTC，GDACS：Green 级 · Earthquake in Nepal，距项目 264.0 km。https://www.gdacs.org/report.aspx?eventid=1576877&episodeid=1746083&eventtype=EQ
+周边自然事件：扫描期间没有记录。
 
 ## 上特里苏利 3A—加德满都 220 kV 输电线
 
-周边自然事件（地震 150 km、灾害警报 300 km、NASA 自然事件 150 km 以内）：
-- 2026-11-11 23:00 UTC，GDACS：Green 级 · Earthquake in Nepal，距项目 257.2 km。https://www.gdacs.org/report.aspx?eventid=1576877&episodeid=1746083&eventtype=EQ
+周边自然事件：扫描期间没有记录。
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-12 13:27 UTC：Climate Adaptation Infrastructure: Building for Tomorrow - World Economic Forum
@@ -73,8 +61,7 @@
 
 ## 吉隆—加德满都跨境铁路（规划）
 
-周边自然事件（地震 150 km、灾害警报 300 km、NASA 自然事件 150 km 以内）：
-- 2026-11-11 23:00 UTC，GDACS：Green 级 · Earthquake in Nepal，距项目 222.1 km。https://www.gdacs.org/report.aspx?eventid=1576877&episodeid=1746083&eventtype=EQ
+周边自然事件：扫描期间没有记录。
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

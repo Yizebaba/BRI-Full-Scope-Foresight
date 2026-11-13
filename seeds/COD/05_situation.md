@@ -22,4 +22,3 @@
 ## 灾害警报（GDACS，近 14 天）
 
 - 2026-11-13 01:12 UTC：Green 级 EQ，Earthquake in Democratic Republic of the Congo。https://www.gdacs.org/report.aspx?eventid=1577075&episodeid=1746300&eventtype=EQ 
-- 2026-11-01 01:00 UTC：Green 级 FL，Flood in Democratic Republic of Congo。https://www.gdacs.org/report.aspx?eventid=1104269&episodeid=3&eventtype=FL 

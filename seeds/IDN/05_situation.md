@@ -26,7 +26,4 @@
 ## 灾害警报（GDACS，近 14 天）
 
 - 2026-11-13 04:49 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1577107&episodeid=1746335&eventtype=EQ 
-- 2026-11-12 14:58 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1576996&episodeid=1746256&eventtype=EQ 
-- 2026-11-11 12:17 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1576797&episodeid=1746171&eventtype=EQ 
-- 2026-11-11 11:32 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1576792&episodeid=1745984&eventtype=EQ 
-- 2026-10-24 01:00 UTC：Green 级 FL，Flood in Indonesia。https://www.gdacs.org/report.aspx?eventid=1104253&episodeid=22&eventtype=FL 
+- 2026-10-29 00:00 UTC：Green 级 WF，Forest fires in Indonesia。https://www.gdacs.org/report.aspx?eventid=1033458&episodeid=11&eventtype=WF 

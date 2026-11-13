@@ -17,7 +17,3 @@
 - 2025-03-29 09:46 UTC：US Embassy Myanmar Alert – U. S. Embassy in Yangon, Burma (Myanmar), March 29, 2025。https://mm.usembassy.gov/alert-u-s-embassy-in-yangon-burma-myanmar-march-29-2025/ 
 - 2025-03-28 10:59 UTC：US Embassy Myanmar Alert – U. S. Embassy Yangon, Burma (Myanmar), March 28, 2025。https://mm.usembassy.gov/alert-u-s-embassy-yangon-burma-myanmar-march-28-2025/ 
 - 2025-02-11 10:48 UTC：US Embassy Myanmar ACS message for Union Day 2025。https://mm.usembassy.gov/acs-message-for-union-day-2025/ 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-11-10 01:00 UTC：Green 级 FL，Flood in Myanmar。https://www.gdacs.org/report.aspx?eventid=1104280&episodeid=1&eventtype=FL 
