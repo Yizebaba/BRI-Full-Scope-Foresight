@@ -15,3 +15,11 @@
 - 2026-04-30 13:01 UTC：US Embassy Dominican Republic Weather Alert: U.S. Embassy Santo Domingo, Dominican Republic (April 30, 2026)。https://do.usembassy.gov/weather-alert-u-s-embassy-santo-domingo-dominican-republic-april-30-2026/ 
 - 2026-04-23 03:05 UTC：US Embassy Dominican Republic Weather Alert: U.S. Embassy Santo Domingo, Dominican Republic (April 22, 2026)。https://do.usembassy.gov/weather-alert-u-s-embassy-santo-domingo-dominican-republic-april-22-2026-2/ 
 - 2026-04-13 22:02 UTC：US Embassy Dominican Republic Weather Alert: U.S. Embassy Santo Domingo, Dominican Republic (April 13, 2026)。https://do.usembassy.gov/weather-alert-u-s-embassy-santo-domingo-dominican-republic-april-11-2026/ 
+
+## 地震（USGS，M4.5+，近 7 天）
+
+- 2026-11-13 16:35 UTC：M4.8，10 km SW of Guaymate, Dominican Republic。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty16 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-11-13 16:35 UTC：Green 级 EQ，Earthquake in Dominican Republic。https://www.gdacs.org/report.aspx?eventid=1577194&episodeid=1746434&eventtype=EQ 

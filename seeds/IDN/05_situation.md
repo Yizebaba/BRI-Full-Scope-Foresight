@@ -21,9 +21,7 @@
 - 2026-11-09 09:53 UTC：M4.8，183 km E of Masohi, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx34 
 - 2026-11-09 09:48 UTC：M5.4，160 km E of Masohi, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx32 
 - 2026-11-08 16:45 UTC：M4.6，117 km NE of Tobelo, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000twyd 
-- 2026-11-06 19:07 UTC：M4.8，36 km WNW of Poso, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000twmr 
 
 ## 灾害警报（GDACS，近 14 天）
 
 - 2026-11-13 04:49 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1577107&episodeid=1746335&eventtype=EQ 
-- 2026-10-29 00:00 UTC：Green 级 WF，Forest fires in Indonesia。https://www.gdacs.org/report.aspx?eventid=1033458&episodeid=11&eventtype=WF 

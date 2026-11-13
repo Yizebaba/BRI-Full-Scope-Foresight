@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-13 15:39 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-13 21:55 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -73,14 +73,14 @@
 - 2026-11-07 09:01 UTC：Pakistan forces under fire after missing Baloch youth found dead in Gwadar amid enforced disappearances - ANI News。https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbmV5MTFWZENnSEVraW9yVVBJbkpGOF9HR3c5blMwN1RpLV94ZFMyY0F3N3lJcDdxUU5qY2FTN3k4UjlzWThXLUZULWpyamxvS2hhYkFjR1dWOXdFc3Z2N2RhaE14cE42TXhaczZybml6STFpMkxwLVE3ZlRBWXE4RGRYZm9WNDRxSHFTVGlUMUwtMzVpTEMwT1VJWEtOa0s1cEJTcnhnaHJZUEZiWE42Y1lIbGNkclM2TDFJNTlfZGxEYnUtLWJpRC1ZeFNhS2t6WnN5U2o3WWwyMVFubUQ3dEZGRWZENlcwTHh0Wg?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-13 17:46 UTC：Barrick eyes mineral processing investment in Karachi, Gwadar - Profit by Pakistan Today
+- 2026-11-13 16:52 UTC：Balochistan: From Untapped Potential To Pakistan’s Next Economic Frontier – OpEd - Eurasia Review
+- 2026-11-13 15:49 UTC：Gwadar Expands Solar-Powered Street Lighting to Improve Urban Facilities - Daily Independent
+- 2026-11-13 15:39 UTC：Gwadar Launches Doorstep NADRA Registration Service for Persons with Disabilities - Daily Independent
 - 2026-11-13 15:24 UTC：Barrick eyes mineral processing investments in Karachi, Gwadar - Aaj English TV
 - 2026-11-13 13:44 UTC：Barrick Mining expresses interest in mineral processing industries in Karachi, Gwadar - Investify
 - 2026-11-13 13:42 UTC：Barrick Mining expresses interest in mineral processing industries in Karachi, Gwadar - Dawn
 - 2026-11-13 08:02 UTC：Iqbal calls for faster work on Nokundi-Gwadar road - Gwadar Pro
-- 2026-11-13 08:02 UTC：Islamabad exhibition showcases Chinese porcelain and contemporary art - Gwadar Pro
-- 2026-11-13 07:11 UTC：Pakistan Seeks to Fast-Track Nokundi-Gwadar Road Corridor - The Daily CPEC
-- 2026-11-13 05:24 UTC：Ahsan Iqbal pushes Nokundi-Gwadar corridor with Barrick Mining - Investify
-- 2026-11-13 05:04 UTC：Ahsan Iqbal pushes Nokundi-Gwadar corridor with Barrick Mining - Mettis Global
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 
