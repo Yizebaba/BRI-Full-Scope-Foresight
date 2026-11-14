@@ -7,4 +7,5 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
+- 2026-11-14 07:02 UTC：Green 级 EQ，Earthquake in Tonga。https://www.gdacs.org/report.aspx?eventid=1577307&episodeid=1746565&eventtype=EQ 
 - 2026-11-13 11:18 UTC：Green 级 EQ，Earthquake in Tonga。https://www.gdacs.org/report.aspx?eventid=1577147&episodeid=1746381&eventtype=EQ 
