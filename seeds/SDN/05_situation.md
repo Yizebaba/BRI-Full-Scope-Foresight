@@ -22,5 +22,3 @@
 - 2026-11-06 00:00 UTC：Green 级 WF，Forest fires in Central African Republic, South Sudan, Sudan。https://www.gdacs.org/report.aspx?eventid=1033756&episodeid=3&eventtype=WF 
 - 2026-11-05 00:00 UTC：Green 级 WF，Forest fires in South Sudan, Sudan。https://www.gdacs.org/report.aspx?eventid=1033782&episodeid=2&eventtype=WF 
 - 2026-11-05 00:00 UTC：Green 级 WF，Forest fires in Sudan。https://www.gdacs.org/report.aspx?eventid=1033758&episodeid=4&eventtype=WF 
-- 2026-11-04 00:00 UTC：Green 级 WF，Forest fires in Sudan, South Sudan。https://www.gdacs.org/report.aspx?eventid=1033718&episodeid=4&eventtype=WF 
-- 2026-11-04 00:00 UTC：Green 级 WF，Forest fires in Sudan。https://www.gdacs.org/report.aspx?eventid=1033717&episodeid=3&eventtype=WF 
