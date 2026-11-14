@@ -19,7 +19,3 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-13 16:35 UTC：M4.8，10 km SW of Guaymate, Dominican Republic。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty16 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-11-13 16:35 UTC：Green 级 EQ，Earthquake in Dominican Republic。https://www.gdacs.org/report.aspx?eventid=1577194&episodeid=1746434&eventtype=EQ 

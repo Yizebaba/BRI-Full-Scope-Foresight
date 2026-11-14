@@ -13,7 +13,7 @@
 
 - 2026-11-11 23:00 UTC：M4.6，73 km NNW of Gyalshing, India。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txpk 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-14 09:20 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-14 16:02 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -28,10 +28,15 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-11-14 15:08 UTC：Climate COP31 Nepal Flooding - chronicleonline.com。https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWmRZdVZ4bUNzelNwMGV5VXlKWlVrVURjLTJpU3pxcUN6S29TTlVvNDVOQm5yMUg4RkVHY0phUVhqOU9saUVtRXpvOHowVmI4eHNsdUY2TThCWjJSQ2t3MFlWQnRmeVNTQjVmdTRIbzZ5X2V3TmhKa1VRaVUwTVRlVWZtWkR6cXVLUEpTWGhRYVItSzNOblpuamFPUm1XQTZ5UmI4RU55dU0zVVZlNjZHeWo5LUFWel93MFVj?oc=5
+- 2026-11-14 15:08 UTC：Climate COP31 Nepal Flooding - WV News。https://news.google.com/rss/articles/CBMitAFBVV95cUxOSnJ1QXY1QVlQaTNTN0g2MWN4YUZubFpvV3Jjbk43OGV4WGRNeFJ2dUplYkhRekxLWEgwUnByc2NUR0JGRGxLaWxSTERQajV6NVE5eFBWckpCOWR6LXlhTjZveEgzTUV3WlhLMG5Kc0hkblhiVHlkTFdndGdpNFlGUmo4MHdqV0lTYzhhQ2dwekVwRGhfRmd6Vi1Hby1Fc1o0YXZqMkQ5U01FeHh1ZlplN2NQQW4?oc=5
+- 2026-11-14 15:04 UTC：Climate COP31 Nepal Flooding - Daily News-Record。https://news.google.com/rss/articles/CBMizgFBVV95cUxQN3B4d0FpcFN5UTE5WVV0UDg1cnZwc3hscFNFUnVzYnFHTFVpLWFYZFQwb242SFFab2NoWEFGQ2RYSUhOZXBHandVbkFvX1AyQzlnN2VraGw5Rzd5SjNONTNHSUc5UFc3aUZoc1lVY1NiWUVUd2pkVzRwXzdaOUtTYVdKbXRCVy14RG1lNnRUU3gxUktCdUhxd0RvcDlUUmxpN3dtRHl4b010ZU1ha2Jud1AtcklHV2lpTmU5MHZuQ3RRTi1zaDQydlh4MkZYZw?oc=5
+- 2026-11-14 15:04 UTC：Climate COP31 Nepal Flooding - The Batesville Daily Guard。https://news.google.com/rss/articles/CBMitgFBVV95cUxOeVdvOE9GTTRDSVFRMzdCaUwyY2JJUDEwUkQ4WTVDZkZmQzQ1SHJ3NEZHTWtXOVFpSkJ2UUxqWjBnYWt4NWdZQnJmTTUwV1BkVlcxNGxrMGlHMi01d21NNW15WWhNY09aU2FnQ0sxUzQ1YzlTREJRVlktaGRnLWZkRkhMQ3pLZjBzakh6U2RNa0w1enlqOV9Ea01HcW5YeG5NNWVGVllYa0VpRGVPbUt4bmI0ZzhOdw?oc=5
 - 2026-11-13 18:10 UTC：Aid Has Begun Reaching Flood-Hit Areas, Says MoS Kirti Vardhan Singh as India Steps Up Nepal Relief Efforts - DD News。https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFFxMFMwN0c5WmVkWS1udmF6dFdmZ2lwYU5hbGtkT0l0VjduMjBiczlNaHBRX0laMjFXc3lzWk9WUGFVMFhfLS00X0ZNZS1LOGZNM1ctbW03c1lxUWJYM0QzSERpQW9GVS1yeXd5WWRTMlRsVjI3eWRzUGFSb2w3U1ItVWpXWGFUVzZ0b3RfYTd2NUc4Z3BDU0VKYmdsemNObVdValdteWwwTUtrdVJFeVJZWWlpYWF1cmowUkZRMmJRM0F6d2w2U3l1bTE?oc=5
 - 2026-11-12 10:21 UTC：Nepal-China Railway feasibility study completed, but high costs and flood risks raise concerns - The Farsight Nepal。https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXlUdmtZck5qOFkxV0ZvMHRjWnUtd1ZGUDZiTjJ2WmVnSldMN3dzaUlYcEl1OTRfbVR3YWZEcHZyTGFYdEhqUURtdjZpSm51cENaZ1hJNHZUSVljSGRlSWZPOVFBUjVNTWYyZWRWQ2xsZklBejBzREJmOWNYUjFsc01zYUZPd1hUeUJqN3pMZWZWek96cXdmMjB3OVZCd0V0N3lVZWNQbThZSUlwUFdnbDNjQzFKb1phRTFaZWIzOWJCV2c?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-14 13:47 UTC：Rasuwagadhi Border Crossing Reopening Efforts Intensify with Bailey Bridge Construction - Ratopati
 - 2026-11-12 04:43 UTC：Transboundary data asymmetry and Himalayan resilience at COP31 | Hindustan Times - Hindustan Times
 
 ## 热索瓦加迪（Timure）口岸边检站
@@ -42,9 +47,9 @@
 - 2026-11-13 18:10 UTC：Aid Has Begun Reaching Flood-Hit Areas, Says MoS Kirti Vardhan Singh as India Steps Up Nepal Relief Efforts - DD News。https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFFxMFMwN0c5WmVkWS1udmF6dFdmZ2lwYU5hbGtkT0l0VjduMjBiczlNaHBRX0laMjFXc3lzWk9WUGFVMFhfLS00X0ZNZS1LOGZNM1ctbW03c1lxUWJYM0QzSERpQW9GVS1yeXd5WWRTMlRsVjI3eWRzUGFSb2w3U1ItVWpXWGFUVzZ0b3RfYTd2NUc4Z3BDU0VKYmdsemNObVdValdteWwwTUtrdVJFeVJZWWlpYWF1cmowUkZRMmJRM0F6d2w2U3l1bTE?oc=5
 - 2026-11-12 12:02 UTC：Nearly 100 killed, over 750 missing in Nepal flash floods - DD News。https://news.google.com/rss/articles/CBMiigFBVV95cUxQdklDc3I4dEdCRVc3VWVzZDhvQXZ1dTAzMnVhSTBaT3p2WDUwZHBaWkJxYVphZHhzeGhpUmRCdVNfYldSV0UxQzNES3FDeFk5WkRGeV8xaUpUOVNsRmRkZVBGTkppb0dGNFZ3Z3FLWGp4RXBkUF9OcHJtNjNqUFRIRHd2RzA2VnhoM2c?oc=5
 - 2026-11-12 10:21 UTC：Nepal-China Railway feasibility study completed, but high costs and flood risks raise concerns - The Farsight Nepal。https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXlUdmtZck5qOFkxV0ZvMHRjWnUtd1ZGUDZiTjJ2WmVnSldMN3dzaUlYcEl1OTRfbVR3YWZEcHZyTGFYdEhqUURtdjZpSm51cENaZ1hJNHZUSVljSGRlSWZPOVFBUjVNTWYyZWRWQ2xsZklBejBzREJmOWNYUjFsc01zYUZPd1hUeUJqN3pMZWZWek96cXdmMjB3OVZCd0V0N3lVZWNQbThZSUlwUFdnbDNjQzFKb1phRTFaZWIzOWJCV2c?oc=5
-- 2026-11-07 10:45 UTC：Flood Victims Leave Mustang Gumba Shelter - Ratopati。https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTVjdVdXOTlzVXN0TEljWEVsaXhhMloxcEVadFQ3NW9XOEN1Mnh2TWlmanJiV3dUckk5RU5rN2JWR0pESW1EWk1hbnMwcGJrRHhPWG9EX2lpU2lOcEUtSjFXSE4wWUgxMWl6SnMzMERrdWdKUVh4Nk5EbHR0eUZPNEJveXh3ZUlmckpfQlBLaTdESVZZU0VXU25wVTdzTWkwbXdsMDdNQ1lBNzdQeDV4UUNXZXNSVi1CbGxmSnBTR3BOMkk?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-14 13:47 UTC：Rasuwagadhi Border Crossing Reopening Efforts Intensify with Bailey Bridge Construction - Ratopati
 - 2026-11-12 04:43 UTC：Transboundary data asymmetry and Himalayan resilience at COP31 | Hindustan Times - Hindustan Times
 - 2026-11-08 07:03 UTC：Leo Declared Best Dog for Search and Rescue Efforts - Ratopati
 

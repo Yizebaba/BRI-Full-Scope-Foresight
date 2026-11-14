@@ -18,7 +18,3 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-13 01:12 UTC：M5，85 km W of Mwene-Ditu, Democratic Republic of the Congo。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxl 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-11-13 01:12 UTC：Green 级 EQ，Earthquake in Democratic Republic of the Congo。https://www.gdacs.org/report.aspx?eventid=1577075&episodeid=1746300&eventtype=EQ 

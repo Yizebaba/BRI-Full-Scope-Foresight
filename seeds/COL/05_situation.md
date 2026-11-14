@@ -29,7 +29,3 @@ cucuta metropolitan police
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-13 19:43 UTC：M4.5，9 km WSW of Chaparral, Colombia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty3x 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-11-13 19:43 UTC：Green 级 EQ，Earthquake in Colombia。https://www.gdacs.org/report.aspx?eventid=1577227&episodeid=1746470&eventtype=EQ 
