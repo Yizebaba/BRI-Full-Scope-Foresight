@@ -4,3 +4,11 @@
 
 - 美国国务院旅行建议：Philippines - Level 2: Exercise Increased Caution（Tue, 01 Sep 2026）。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.phl.html 
 - World Monitor 汇总的旅行建议级别：caution
+
+## 地震（USGS，M4.5+，近 7 天）
+
+- 2026-11-14 16:04 UTC：M4.9，7 km SE of Tagbina, Philippines。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9l 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-11-14 16:04 UTC：Green 级 EQ，Earthquake in Philippines。https://www.gdacs.org/report.aspx?eventid=1577356&episodeid=1746618&eventtype=EQ 
