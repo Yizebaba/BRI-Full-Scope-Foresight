@@ -10,3 +10,11 @@
 
 - 2026-08-31：Government of Afghanistan 与 Civilians，死亡 1 人。UCDP 引用来源：The Afghan Digest
 - 2026-08-31：Government of Afghanistan 与 AUF，死亡 0 人。UCDP 引用来源：The Afghan Digest
+
+## 地震（USGS，M4.5+，近 7 天）
+
+- 2026-11-15 17:48 UTC：M5，74 km N of Pārūn, Afghanistan。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyfh 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-11-15 17:48 UTC：Green 级 EQ，Earthquake in Afghanistan。https://www.gdacs.org/report.aspx?eventid=1577520&episodeid=1746799&eventtype=EQ 
