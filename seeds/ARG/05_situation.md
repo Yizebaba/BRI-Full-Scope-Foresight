@@ -18,4 +18,3 @@
 - 2026-11-14 18:04 UTC：Green 级 EQ，Earthquake in Argentina。https://www.gdacs.org/report.aspx?eventid=1577363&episodeid=1746628&eventtype=EQ 
 - 2026-11-14 16:36 UTC：Green 级 EQ，Earthquake in Argentina。https://www.gdacs.org/report.aspx?eventid=1577357&episodeid=1746625&eventtype=EQ 
 - 2026-11-14 03:18 UTC：Green 级 EQ，Earthquake in Argentina。https://www.gdacs.org/report.aspx?eventid=1577277&episodeid=1746532&eventtype=EQ 
-- 2026-11-10 00:00 UTC：Green 级 WF，Forest fires in Argentina。https://www.gdacs.org/report.aspx?eventid=1033788&episodeid=5&eventtype=WF 

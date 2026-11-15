@@ -13,7 +13,7 @@
 
 - 2026-11-11 23:00 UTC：M4.6，73 km NNW of Gyalshing, India。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txpk 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-15 07:45 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-15 15:35 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -28,11 +28,10 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-11-14 18:59 UTC：APTOPIX Climate COP31 Nepal Flooding - The Batesville Daily Guard。https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTBZWi1PVGZhM21vSElJa2lzMVg3ZUw0NkJyakJlNFUyVXFEUkkyV1VITVdTTEFMMmxpU1YxbXZVYndTUURDSnFaV3o4ckRhZEFKclFhWUVrUFNXbUVUa2tUUkROckI4X0VFLV9FU2dJbm9jXzBIRW5UaHpRaEFvVDR3XzU0MFNqNWZtUjhYQ01jRzVCTWZFVlA1NVVVX2dKUHdqNXlRTjBHdDlzTmh0QkZlSk42TnNFVDY4NjJXVlE?oc=5
+- 2026-11-14 19:52 UTC：APTOPIX Climate COP31 Nepal Flooding - Goshen News。https://news.google.com/rss/articles/CBMiygFBVV95cUxNMzhPMWRxQXk3UHpOSHQ3bGF6WG1fQkxGalJULVlBVkR1QkY1aktPR1FnSjJINGF1bEFhVE0zMHlUZ2cwZlE1RF93SGRDcnMxdlBoazdZczF4OGNwQXEtMUh5R2N3UkJXMmRGLWwxNktBLUNqRFBoZ2Q4V2Y0NkZuUlFsVG5MTDM2bGpOX2dpMll1QUItRENHNHhBTDlkZ3Z0UWhUcWtiY3hjSFYxanlTdlcxZC1OUW83NzJqLVBPUkVobGI0ZktuUXJR?oc=5
 - 2026-11-14 15:08 UTC：Climate COP31 Nepal Flooding - chronicleonline.com。https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWmRZdVZ4bUNzelNwMGV5VXlKWlVrVURjLTJpU3pxcUN6S29TTlVvNDVOQm5yMUg4RkVHY0phUVhqOU9saUVtRXpvOHowVmI4eHNsdUY2TThCWjJSQ2t3MFlWQnRmeVNTQjVmdTRIbzZ5X2V3TmhKa1VRaVUwTVRlVWZtWkR6cXVLUEpTWGhRYVItSzNOblpuamFPUm1XQTZ5UmI4RU55dU0zVVZlNjZHeWo5LUFWel93MFVj?oc=5
 - 2026-11-14 15:04 UTC：Climate COP31 Nepal Flooding - Daily News-Record。https://news.google.com/rss/articles/CBMizgFBVV95cUxQN3B4d0FpcFN5UTE5WVV0UDg1cnZwc3hscFNFUnVzYnFHTFVpLWFYZFQwb242SFFab2NoWEFGQ2RYSUhOZXBHandVbkFvX1AyQzlnN2VraGw5Rzd5SjNONTNHSUc5UFc3aUZoc1lVY1NiWUVUd2pkVzRwXzdaOUtTYVdKbXRCVy14RG1lNnRUU3gxUktCdUhxd0RvcDlUUmxpN3dtRHl4b010ZU1ha2Jud1AtcklHV2lpTmU5MHZuQ3RRTi1zaDQydlh4MkZYZw?oc=5
 - 2026-11-14 15:04 UTC：Climate COP31 Nepal Flooding - The Batesville Daily Guard。https://news.google.com/rss/articles/CBMitgFBVV95cUxOeVdvOE9GTTRDSVFRMzdCaUwyY2JJUDEwUkQ4WTVDZkZmQzQ1SHJ3NEZHTWtXOVFpSkJ2UUxqWjBnYWt4NWdZQnJmTTUwV1BkVlcxNGxrMGlHMi01d21NNW15WWhNY09aU2FnQ0sxUzQ1YzlTREJRVlktaGRnLWZkRkhMQ3pLZjBzakh6U2RNa0w1enlqOV9Ea01HcW5YeG5NNWVGVllYa0VpRGVPbUt4bmI0ZzhOdw?oc=5
-- 2026-11-14 12:06 UTC：Hundreds missing, including 47 Americans, in deadly Nepal floods, local officials say - ABC News - Breaking News, Latest News and Videos。https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFFKbWhSWTR5S25UT01SQnE4V1Jua044M19rZmJiYzRwRHphTU1GdFBIUi1ORXl2UUF1Y0NzNG00cDVuNzZuZzFjQ0doUTF5VUg1elRPdE02V0UxNFB1U1dub1ZrMnpjR190bnJIV2VWN0ZPbTRucURXYTlkQWlHS2d0XzR4dzgxaGdCWk92OE9paV92VWIzdTlYNE5xQThPNWRzR2N3R0hjUdIBrwFBVV95cUxNYjM2dnl3U1htTjMxc1ctcjBITTVMMXlXQlFCTjNPV2cxOXF6U3BmU2xSZHZRdHI1QTJRYTB6T1kyVVJ0Y2s3UlZQUm1ZS210UUozM0F3M09Sbk1QWU9pTXVwdjBNT3lGRkhnM0NGZU5ha1BuVDJ1R1hKbVR1M0REMkVMdFpZYnhDb2RUdlNSMVpQbHEwUXV5WGxSMFp1ci16M2dzVGhnQlNpTlVHZ3Qw?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-14 13:47 UTC：Rasuwagadhi Border Crossing Reopening Efforts Intensify with Bailey Bridge Construction - Ratopati
@@ -43,7 +42,6 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-11-14 12:06 UTC：Hundreds missing, including 47 Americans, in deadly Nepal floods, local officials say - ABC News - Breaking News, Latest News and Videos。https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFFKbWhSWTR5S25UT01SQnE4V1Jua044M19rZmJiYzRwRHphTU1GdFBIUi1ORXl2UUF1Y0NzNG00cDVuNzZuZzFjQ0doUTF5VUg1elRPdE02V0UxNFB1U1dub1ZrMnpjR190bnJIV2VWN0ZPbTRucURXYTlkQWlHS2d0XzR4dzgxaGdCWk92OE9paV92VWIzdTlYNE5xQThPNWRzR2N3R0hjUdIBrwFBVV95cUxNYjM2dnl3U1htTjMxc1ctcjBITTVMMXlXQlFCTjNPV2cxOXF6U3BmU2xSZHZRdHI1QTJRYTB6T1kyVVJ0Y2s3UlZQUm1ZS210UUozM0F3M09Sbk1QWU9pTXVwdjBNT3lGRkhnM0NGZU5ha1BuVDJ1R1hKbVR1M0REMkVMdFpZYnhDb2RUdlNSMVpQbHEwUXV5WGxSMFp1ci16M2dzVGhnQlNpTlVHZ3Qw?oc=5
 - 2026-11-13 18:10 UTC：Aid Has Begun Reaching Flood-Hit Areas, Says MoS Kirti Vardhan Singh as India Steps Up Nepal Relief Efforts - DD News。https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFFxMFMwN0c5WmVkWS1udmF6dFdmZ2lwYU5hbGtkT0l0VjduMjBiczlNaHBRX0laMjFXc3lzWk9WUGFVMFhfLS00X0ZNZS1LOGZNM1ctbW03c1lxUWJYM0QzSERpQW9GVS1yeXd5WWRTMlRsVjI3eWRzUGFSb2w3U1ItVWpXWGFUVzZ0b3RfYTd2NUc4Z3BDU0VKYmdsemNObVdValdteWwwTUtrdVJFeVJZWWlpYWF1cmowUkZRMmJRM0F6d2w2U3l1bTE?oc=5
 - 2026-11-12 12:02 UTC：Nearly 100 killed, over 750 missing in Nepal flash floods - DD News。https://news.google.com/rss/articles/CBMiigFBVV95cUxQdklDc3I4dEdCRVc3VWVzZDhvQXZ1dTAzMnVhSTBaT3p2WDUwZHBaWkJxYVphZHhzeGhpUmRCdVNfYldSV0UxQzNES3FDeFk5WkRGeV8xaUpUOVNsRmRkZVBGTkppb0dGNFZ3Z3FLWGp4RXBkUF9OcHJtNjNqUFRIRHd2RzA2VnhoM2c?oc=5
 - 2026-11-12 10:21 UTC：Nepal-China Railway feasibility study completed, but high costs and flood risks raise concerns - The Farsight Nepal。https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXlUdmtZck5qOFkxV0ZvMHRjWnUtd1ZGUDZiTjJ2WmVnSldMN3dzaUlYcEl1OTRfbVR3YWZEcHZyTGFYdEhqUURtdjZpSm51cENaZ1hJNHZUSVljSGRlSWZPOVFBUjVNTWYyZWRWQ2xsZklBejBzREJmOWNYUjFsc01zYUZPd1hUeUJqN3pMZWZWek96cXdmMjB3OVZCd0V0N3lVZWNQbThZSUlwUFdnbDNjQzFKb1phRTFaZWIzOWJCV2c?oc=5
@@ -55,6 +53,9 @@
 ## 上特里苏利 3A 水电站（60 MW）
 
 周边自然事件：扫描期间没有记录。
+
+近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-11-15 02:27 UTC：Nepal: Two pulled alive from tunnel nine days after floods - DW.com。https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkpnY1dtSFdKcnN3RERtaEZlemJSekRuaEY1ZW9DWFkyNndac0xHR2V1ck5seHV3RUZoWmlUQWU3ckpvenB5dUhQYmV5a3JLOWRvdnVUc1BtdmNVR2NRNFpleGFmSVJWOGJYRFl3RFFpZWVBbXJENENRam9BZU5sQnJXdF9NT243VGhBSVI1ck9NMkVs0gGUAUFVX3lxTE9nNTMwTWRlQk5JaUc4YmJGUnljNVJoT0dVVDhIaDl2ZXA3MFRqVnRVTXItVndDR3cxUTBEUDhUSDVrdHhGTy1BWktNSWFYNmNHaGlXazhCOXR5TkdmN2ZHYVE2Nnpqa1dVV0lxeUYzaHBKOVM5TW9Wb2dTaVhncGpkNHhPNnRibmVpR21nSXJiNzlxVW4?oc=5
 
 ## 上特里苏利 3A—加德满都 220 kV 输电线
 
