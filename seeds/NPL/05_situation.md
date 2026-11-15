@@ -13,7 +13,7 @@
 
 - 2026-11-11 23:00 UTC：M4.6，73 km NNW of Gyalshing, India。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txpk 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-15 00:58 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-15 07:45 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -29,8 +29,8 @@
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
 - 2026-11-14 18:59 UTC：APTOPIX Climate COP31 Nepal Flooding - The Batesville Daily Guard。https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTBZWi1PVGZhM21vSElJa2lzMVg3ZUw0NkJyakJlNFUyVXFEUkkyV1VITVdTTEFMMmxpU1YxbXZVYndTUURDSnFaV3o4ckRhZEFKclFhWUVrUFNXbUVUa2tUUkROckI4X0VFLV9FU2dJbm9jXzBIRW5UaHpRaEFvVDR3XzU0MFNqNWZtUjhYQ01jRzVCTWZFVlA1NVVVX2dKUHdqNXlRTjBHdDlzTmh0QkZlSk42TnNFVDY4NjJXVlE?oc=5
+- 2026-11-14 15:08 UTC：Climate COP31 Nepal Flooding - chronicleonline.com。https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWmRZdVZ4bUNzelNwMGV5VXlKWlVrVURjLTJpU3pxcUN6S29TTlVvNDVOQm5yMUg4RkVHY0phUVhqOU9saUVtRXpvOHowVmI4eHNsdUY2TThCWjJSQ2t3MFlWQnRmeVNTQjVmdTRIbzZ5X2V3TmhKa1VRaVUwTVRlVWZtWkR6cXVLUEpTWGhRYVItSzNOblpuamFPUm1XQTZ5UmI4RU55dU0zVVZlNjZHeWo5LUFWel93MFVj?oc=5
 - 2026-11-14 15:04 UTC：Climate COP31 Nepal Flooding - Daily News-Record。https://news.google.com/rss/articles/CBMizgFBVV95cUxQN3B4d0FpcFN5UTE5WVV0UDg1cnZwc3hscFNFUnVzYnFHTFVpLWFYZFQwb242SFFab2NoWEFGQ2RYSUhOZXBHandVbkFvX1AyQzlnN2VraGw5Rzd5SjNONTNHSUc5UFc3aUZoc1lVY1NiWUVUd2pkVzRwXzdaOUtTYVdKbXRCVy14RG1lNnRUU3gxUktCdUhxd0RvcDlUUmxpN3dtRHl4b010ZU1ha2Jud1AtcklHV2lpTmU5MHZuQ3RRTi1zaDQydlh4MkZYZw?oc=5
-- 2026-11-14 15:04 UTC：Climate COP31 Nepal Flooding - dailyrecordnews.com。https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGw2MVhvVG02bVdQZEZxdGJ5NVdnekxNUmNUMUZFbFI5VVRvQU42dlUwUU93YlhzOUsydG9lc0Y4cGd2anVVTG5aWTRvWmRZNzlsRXhQRFpkd2lCWldCai1qbndFTkVhNDBQZHVHbnkzbjBRTDRQMkNmcHNtbEZZN3RnaXNWVm9WeW41RGxqUWhQbXRManlkZ1BQaVlNTnpybk95Z0d3MlRJaUxMLVFxNWFqODVPQXFuSWhpTHhEZVp3UGtQTl94Vlpn?oc=5
 - 2026-11-14 15:04 UTC：Climate COP31 Nepal Flooding - The Batesville Daily Guard。https://news.google.com/rss/articles/CBMitgFBVV95cUxOeVdvOE9GTTRDSVFRMzdCaUwyY2JJUDEwUkQ4WTVDZkZmQzQ1SHJ3NEZHTWtXOVFpSkJ2UUxqWjBnYWt4NWdZQnJmTTUwV1BkVlcxNGxrMGlHMi01d21NNW15WWhNY09aU2FnQ0sxUzQ1YzlTREJRVlktaGRnLWZkRkhMQ3pLZjBzakh6U2RNa0w1enlqOV9Ea01HcW5YeG5NNWVGVllYa0VpRGVPbUt4bmI0ZzhOdw?oc=5
 - 2026-11-14 12:06 UTC：Hundreds missing, including 47 Americans, in deadly Nepal floods, local officials say - ABC News - Breaking News, Latest News and Videos。https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFFKbWhSWTR5S25UT01SQnE4V1Jua044M19rZmJiYzRwRHphTU1GdFBIUi1ORXl2UUF1Y0NzNG00cDVuNzZuZzFjQ0doUTF5VUg1elRPdE02V0UxNFB1U1dub1ZrMnpjR190bnJIV2VWN0ZPbTRucURXYTlkQWlHS2d0XzR4dzgxaGdCWk92OE9paV92VWIzdTlYNE5xQThPNWRzR2N3R0hjUdIBrwFBVV95cUxNYjM2dnl3U1htTjMxc1ctcjBITTVMMXlXQlFCTjNPV2cxOXF6U3BmU2xSZHZRdHI1QTJRYTB6T1kyVVJ0Y2s3UlZQUm1ZS210UUozM0F3M09Sbk1QWU9pTXVwdjBNT3lGRkhnM0NGZU5ha1BuVDJ1R1hKbVR1M0REMkVMdFpZYnhDb2RUdlNSMVpQbHEwUXV5WGxSMFp1ci16M2dzVGhnQlNpTlVHZ3Qw?oc=5
 
@@ -51,7 +51,6 @@
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-14 13:47 UTC：Rasuwagadhi Border Crossing Reopening Efforts Intensify with Bailey Bridge Construction - Ratopati
 - 2026-11-12 04:43 UTC：Transboundary data asymmetry and Himalayan resilience at COP31 | Hindustan Times - Hindustan Times
-- 2026-11-08 07:03 UTC：Leo Declared Best Dog for Search and Rescue Efforts - Ratopati
 
 ## 上特里苏利 3A 水电站（60 MW）
 
@@ -62,6 +61,7 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-14 00:00 UTC：Bhotekoshi Tragedy: World owes Nepal climate justice, not sympathy - Nepal Khabar
 - 2026-11-12 13:27 UTC：Climate Adaptation Infrastructure: Building for Tomorrow - World Economic Forum
 - 2026-11-12 08:51 UTC：Darkness on the horizon: Why Nepal’s winter power supply hangs in balance - Nepalnews.com
 
