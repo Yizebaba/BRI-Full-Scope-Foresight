@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-14 16:02 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-15 00:58 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -76,14 +76,14 @@
 - 2026-11-12 12:34 UTC：Pakistan’s Gwadar Port Dream Collapses: From Dubai Promise To Ghost Port - DD News。https://news.google.com/rss/articles/CBMinAFBVV95cUxOeG1JUUtzbGhHa2NfQ2ZVa2JsRFVwUWRrRUtZVVFCWkRSRnF6NWxhZ0VCeE5RanpKVXRNUTdMWjlEYmpZdU1WRFpJbGpjLUFDS1NMSlAxeXQ3WlpydkRxTjJ4QVhPdUY1LU1WQ1ZEMDlOanZpaEZSSDVkclQ1Rnp1X1VXWWJXZWY3X1lqZDQ0c3BEaGxrSmFaQ2dBTUo?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-14 22:11 UTC：Govt defers ML-3 for third time - The Express Tribune
 - 2026-11-14 08:34 UTC：Barrick Eyes Investment in Mineral Processing Industries in Karachi and Gwadar - Energy Update
 - 2026-11-14 07:16 UTC：Barrick Mining Eyes Mineral Processing Investments in Karachi and Gwadar - Balochistan Pulse
 - 2026-11-13 17:46 UTC：Barrick eyes mineral processing investment in Karachi, Gwadar - Profit by Pakistan Today
 - 2026-11-13 16:52 UTC：Balochistan: From Untapped Potential To Pakistan’s Next Economic Frontier – OpEd - Eurasia Review
+- 2026-11-13 15:39 UTC：Gwadar Launches Doorstep NADRA Registration Service for Persons with Disabilities - Daily Independent
 - 2026-11-13 15:24 UTC：Barrick eyes mineral processing investments in Karachi, Gwadar - Aaj English TV
 - 2026-11-13 13:44 UTC：Barrick Mining expresses interest in mineral processing industries in Karachi, Gwadar - Investify
-- 2026-11-13 13:42 UTC：Barrick Mining expresses interest in mineral processing industries in Karachi, Gwadar - Dawn
-- 2026-11-13 08:02 UTC：Iqbal calls for faster work on Nokundi-Gwadar road - Gwadar Pro
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 
