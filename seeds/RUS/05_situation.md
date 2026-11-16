@@ -17,10 +17,6 @@
 - 2026-10-20 15:04 UTC：Trump "should apply his creativity" to end Russia's war, Ukrainian parliament member says（CBS News）。https://www.cbsnews.com/video/trump-should-apply-his-creativity-to-end-russias-war-ukrainian-parliament-member-says/ 
 - 2026-10-20 12:52 UTC：Europe is preparing for direct talks with Putin, FT reports. One possible proposal: Russia gets Donbas, Ukraine gets NATO membership.（Meduza）。https://meduza.io/en/feature/2026/10/20/europe-is-preparing-for-direct-talks-with-putin-ft-reports-one-possible-proposal-russia-gets-donbas-ukraine-gets-nato-membership 
 
-## 地震（USGS，M4.5+，近 7 天）
-
-- 2026-11-09 07:04 UTC：M4.6，54 km S of Klyuchi, Russia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx2g 
-
 ## 灾害警报（GDACS，近 14 天）
 
 - 2026-11-15 22:38 UTC：Green 级 EQ，Earthquake in Russia。https://www.gdacs.org/report.aspx?eventid=1577554&episodeid=1746839&eventtype=EQ 
