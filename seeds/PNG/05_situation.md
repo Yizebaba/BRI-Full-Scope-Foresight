@@ -9,4 +9,3 @@
 
 - 2026-11-12 22:04 UTC：M5.8，148 km NW of Kavieng, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txwp 
 - 2026-11-10 17:36 UTC：M5.2，21 km WNW of Popondetta, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txc0 
-- 2026-11-08 22:30 UTC：M4.7，119 km SW of Kokopo, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us7000twzn 

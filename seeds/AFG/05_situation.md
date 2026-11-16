@@ -13,8 +13,10 @@
 
 ## 地震（USGS，M4.5+，近 7 天）
 
+- 2026-11-15 21:37 UTC：M4.9，44 km S of Jurm, Afghanistan。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyga 
 - 2026-11-15 17:48 UTC：M5，74 km N of Pārūn, Afghanistan。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyfh 
 
 ## 灾害警报（GDACS，近 14 天）
 
+- 2026-11-15 21:37 UTC：Green 级 EQ，Earthquake in Afghanistan。https://www.gdacs.org/report.aspx?eventid=1577548&episodeid=1746835&eventtype=EQ 
 - 2026-11-15 17:48 UTC：Green 级 EQ，Earthquake in Afghanistan。https://www.gdacs.org/report.aspx?eventid=1577520&episodeid=1746799&eventtype=EQ 

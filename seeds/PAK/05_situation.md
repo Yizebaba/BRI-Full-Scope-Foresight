@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-15 20:31 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-16 00:19 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -60,7 +60,7 @@
 ## 喀喇昆仑公路二期（塔科特—哈维连）
 
 周边自然事件（地震 150 km、灾害警报 300 km、NASA 自然事件 150 km 以内）：
-- 2026-11-15 17:48 UTC，GDACS：Green 级 · Earthquake in Afghanistan，距项目 231.3 km。https://www.gdacs.org/report.aspx?eventid=1577520&episodeid=1746799&eventtype=EQ
+- 2026-11-15 21:37 UTC，GDACS：Green 级 · Earthquake in Afghanistan，距项目 260.9 km。https://www.gdacs.org/report.aspx?eventid=1577548&episodeid=1746835&eventtype=EQ
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
 - 2026-11-12 01:49 UTC：Heavy snowfall suspends traffic between KP and GB - Dawn。https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KZEdwc1laLWJocG1idE9uQUtQZ2ZhcmtXVmhBRURCVjNyNlVaZ0ZjcWNxUU5zTnlwUi1RRl9oaVhodzgtUXNEeg?oc=5
