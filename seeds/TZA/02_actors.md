@@ -28,6 +28,21 @@
 - 国家开发银行（China Development Bank）：在坦桑尼亚出现在 1 个项目中。例：2008 年 China Development Bank disburses unknown amount to China Sonangol International Holding Ltd. to acquire 49% st
 - 中国援外医疗队：在坦桑尼亚出现在 1 个项目中。例：2018 年 Chinese medical team donates medicines and equipment to Tanzanian Hospital (Linked to Project ID#60961)
 
+## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
+
+- 中国：坦桑尼亚对其出口 5.13 亿美元，自其进口 57.67 亿美元
+- 南非：坦桑尼亚对其出口 29.08 亿美元，自其进口 5.28 亿美元
+- 印度：坦桑尼亚对其出口 9.38 亿美元，自其进口 20.57 亿美元
+- 阿联酋：坦桑尼亚对其出口 13.24 亿美元，自其进口 16.62 亿美元
+- 肯尼亚：坦桑尼亚对其出口 4.19 亿美元，自其进口 4.38 亿美元
+- 日本：坦桑尼亚对其出口 1.11 亿美元，自其进口 6.93 亿美元
+- 瑞士：坦桑尼亚对其出口 4.33 亿美元，自其进口 8982 万美元
+- 美国：坦桑尼亚对其出口 1.27 亿美元，自其进口 3.43 亿美元
+- 比利时：坦桑尼亚对其出口 3.56 亿美元，自其进口 9841 万美元
+- 沙特阿拉伯：坦桑尼亚对其出口 2198 万美元，自其进口 4.17 亿美元
+- 新加坡：坦桑尼亚对其出口 3.28 亿美元，自其进口 6079 万美元
+- 德国：坦桑尼亚对其出口 6045 万美元，自其进口 3.15 亿美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Tanzania - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tza.html

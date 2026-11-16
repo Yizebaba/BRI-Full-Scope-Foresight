@@ -23,21 +23,6 @@
 - Chinese Ministry of Culture：在约旦出现在 1 个项目中。例：2015 年 Chinese Ministry of Culture provides RMB 300,000 grant for provision of audio and lighting equipment to Irbid 
 - SEPCO3：在约旦出现在 1 个项目中。例：2017 年 SEPCO3 donates water dispensers, wheel chairs, food packages to poor residents of Hashemiya City
 
-## 主要贸易伙伴（UN Comtrade，2024 年，本国申报）
-
-- 沙特阿拉伯：约旦对其出口 16.35 亿美元，自其进口 41.02 亿美元
-- 中国：约旦对其出口 3.22 亿美元，自其进口 51.58 亿美元
-- 美国：约旦对其出口 32.80 亿美元，自其进口 18.54 亿美元
-- 印度：约旦对其出口 13.97 亿美元，自其进口 9.30 亿美元
-- 阿联酋：约旦对其出口 5.71 亿美元，自其进口 12.39 亿美元
-- 伊拉克：约旦对其出口 13.59 亿美元，自其进口 2.62 亿美元
-- 自由区：约旦对其出口 7.68 亿美元，自其进口 5.62 亿美元
-- 埃及：约旦对其出口 2.82 亿美元，自其进口 9.21 亿美元
-- 德国：约旦对其出口 5289 万美元，自其进口 9.54 亿美元
-- 土耳其：约旦对其出口 1.33 亿美元，自其进口 8.14 亿美元
-- 印度尼西亚：约旦对其出口 1.55 亿美元，自其进口 7.42 亿美元
-- Israel：约旦对其出口 1.72 亿美元，自其进口 6.78 亿美元
-
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Jordan - Level 3: Reconsider Travel。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.jor.html

@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：3.9（2025 年）
 - 失业率（%，ILO 估算）：12.1（2025 年）
 - 外国直接投资净流入：16.55 亿美元（2025 年）
-- 外债总额：251.63 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：26.6（2024 年）
+- 外债总额：253.90 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：17.6（2025 年）
 - 中央政府债务占 GDP（%）：40.1（2024 年）
 - 货物和服务出口占 GDP（%）：47.4（2025 年）
 - 货物和服务进口占 GDP（%）：53.2（2025 年）
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：95.00（2024 年）
 - 高技术出口占制成品出口（%）：3.80（2024 年）
 - 高技术出口（现价美元）：3819 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 6,737 篇（OpenAlex），主要学科：Agricultural and Biological Sciences（1,546）、Medicine（1,074）、Social Sciences（1,048）、Arts and Humanities（635）、Physics and Astronomy（339）、Business, Management and Accounting（299）、Engineering（274）、Economics, Econometrics and Finance（207）
+- 2025 年有本国作者参与的论文约 6,779 篇（OpenAlex），主要学科：Agricultural and Biological Sciences（1,584）、Medicine（1,073）、Social Sciences（1,048）、Arts and Humanities（636）、Physics and Astronomy（338）、Business, Management and Accounting（300）、Engineering（274）、Economics, Econometrics and Finance（207）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/GEO ；Wikidata https://www.wikidata.org/ （CC0）。

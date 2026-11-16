@@ -22,8 +22,8 @@
 - 服务业增加值占 GDP（%）：64.9（2025 年）
 - 通货膨胀率（CPI，%）：0.6（2025 年）
 - 外国直接投资净流入：1.71 亿美元（2025 年）
-- 外债总额：8.63 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：4.9（2024 年）
+- 外债总额：9.06 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：5.5（2025 年）
 - 经常账户余额占 GDP（%）：-23.1（2025 年）
 - 外汇储备（含黄金，美元）：4.08 亿美元（2025 年）
 - 燃料出口占商品出口（%）：0.0（2024 年）
@@ -55,7 +55,7 @@
 - 非居民专利申请（件）：17.00（2022 年）
 - 高技术出口占制成品出口（%）：6.44（2024 年）
 - 高技术出口（现价美元）：66 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 631 篇（OpenAlex），主要学科：Medicine（436）、Social Sciences（32）、Immunology and Microbiology（30）、Biochemistry, Genetics and Molecular Biology（20）、Environmental Science（18）、Psychology（16）、Neuroscience（11）、Dentistry（10）
+- 2025 年有本国作者参与的论文约 629 篇（OpenAlex），主要学科：Medicine（437）、Social Sciences（32）、Immunology and Microbiology（30）、Biochemistry, Genetics and Molecular Biology（20）、Environmental Science（18）、Psychology（17）、Neuroscience（11）、Dentistry（10）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/GRD ；Wikidata https://www.wikidata.org/ （CC0）。

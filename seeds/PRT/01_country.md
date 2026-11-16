@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：53.00（2024 年）
 - 高技术出口占制成品出口（%）：6.80（2024 年）
 - 高技术出口（现价美元）：41.35 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 52,504 篇（OpenAlex），主要学科：Medicine（11,903）、Social Sciences（6,487）、Engineering（5,304）、Computer Science（3,202）、Environmental Science（3,190）、Arts and Humanities（2,790）、Agricultural and Biological Sciences（2,692）、Business, Management and Accounting（2,203）
+- 2025 年有本国作者参与的论文约 52,439 篇（OpenAlex），主要学科：Medicine（11,942）、Social Sciences（6,543）、Engineering（5,320）、Computer Science（3,204）、Environmental Science（3,128）、Arts and Humanities（2,822）、Agricultural and Biological Sciences（2,644）、Business, Management and Accounting（2,215）
 - 若泽·萨拉马戈（José Saramago）：诺贝尔文学奖，1998 年
 - 安东尼奥·埃加斯·莫尼斯（António Egas Moniz）：诺贝尔生理学或医学奖，1949 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。

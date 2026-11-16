@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：5.2（2025 年）
 - 失业率（%，ILO 估算）：15.1（2025 年）
 - 外国直接投资净流入：11.41 亿美元（2025 年）
-- 外债总额：404.60 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：26.2（2024 年）
+- 外债总额：415.08 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：19.9（2025 年）
 - 中央政府债务占 GDP（%）：42.5（2012 年）
 - 货物和服务出口占 GDP（%）：46.7（2025 年）
 - 货物和服务进口占 GDP（%）：54.8（2025 年）
@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：215（2024 年）
 - 高技术出口占制成品出口（%）：7.70（2023 年）
 - 高技术出口（现价美元）：11.99 亿美元（2023 年）
-- 2025 年有本国作者参与的论文约 16,193 篇（OpenAlex），主要学科：Medicine（4,169）、Engineering（2,212）、Computer Science（1,341）、Agricultural and Biological Sciences（1,010）、Materials Science（776）、Social Sciences（728）、Environmental Science（721）、Economics, Econometrics and Finance（711）
+- 2025 年有本国作者参与的论文约 16,237 篇（OpenAlex），主要学科：Medicine（4,182）、Engineering（2,216）、Computer Science（1,344）、Agricultural and Biological Sciences（1,024）、Materials Science（774）、Social Sciences（741）、Environmental Science（725）、Economics, Econometrics and Finance（709）
 - 蒙吉·巴文迪（Moungi Bawendi）：诺贝尔化学奖，2023 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

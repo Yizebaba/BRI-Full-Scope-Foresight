@@ -22,8 +22,8 @@
 - 通货膨胀率（CPI，%）：8.1（2014 年）
 - 失业率（%，ILO 估算）：17.3（2025 年）
 - 外国直接投资净流入：-500 万美元（2025 年）
-- 外债总额：70.87 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：14.6（2016 年）
+- 外债总额：74.81 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：11.0（2025 年）
 - 货物和服务出口占 GDP（%）：8.8（2018 年）
 - 货物和服务进口占 GDP（%）：47.3（2018 年）
 - 经常账户余额占 GDP（%）：-7.7（2016 年）
@@ -73,7 +73,7 @@
 - 非居民专利申请（件）：6.00（2023 年）
 - 高技术出口占制成品出口（%）：4.83（2015 年）
 - 高技术出口（现价美元）：303 万美元（2015 年）
-- 2025 年有本国作者参与的论文约 4,152 篇（OpenAlex），主要学科：Medicine（738）、Social Sciences（521）、Arts and Humanities（400）、Business, Management and Accounting（339）、Computer Science（294）、Engineering（261）、Mathematics（235）、Dentistry（191）
+- 2025 年有本国作者参与的论文约 4,155 篇（OpenAlex），主要学科：Medicine（739）、Social Sciences（521）、Arts and Humanities（399）、Business, Management and Accounting（338）、Computer Science（295）、Engineering（262）、Mathematics（236）、Dentistry（191）
 - 塔瓦库·卡曼（Tawakkol Karman）：诺贝尔和平奖，2011 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

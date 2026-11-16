@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：8.2（2025 年）
 - 失业率（%，ILO 估算）：3.5（2025 年）
 - 外国直接投资净流入：6.42 亿美元（2025 年）
-- 外债总额：116.90 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：14.0（2024 年）
+- 外债总额：125.26 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：27.8（2025 年）
 - 中央政府债务占 GDP（%）：38.7（2024 年）
 - 货物和服务出口占 GDP（%）：26.8（2025 年）
 - 货物和服务进口占 GDP（%）：65.6（2025 年）
@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：7.00（2024 年）
 - 高技术出口占制成品出口（%）：10.67（2024 年）
 - 高技术出口（现价美元）：1.33 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 4,311 篇（OpenAlex），主要学科：Social Sciences（1,356）、Medicine（783）、Arts and Humanities（377）、Computer Science（217）、Business, Management and Accounting（207）、Agricultural and Biological Sciences（198）、Engineering（178）、Economics, Econometrics and Finance（170）
+- 2025 年有本国作者参与的论文约 4,353 篇（OpenAlex），主要学科：Social Sciences（1,363）、Medicine（795）、Arts and Humanities（376）、Computer Science（217）、Business, Management and Accounting（207）、Agricultural and Biological Sciences（202）、Engineering（178）、Economics, Econometrics and Finance（174）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/KGZ ；Wikidata https://www.wikidata.org/ （CC0）。

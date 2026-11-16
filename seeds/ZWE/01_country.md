@@ -8,7 +8,7 @@
 - 政府首脑：埃默森·姆南加古瓦（Emmerson Mnangagwa）；职位：辛巴威總統（President of Zimbabwe）
 - 立法机构：辛巴威議會（Parliament of Zimbabwe）
 - 中央银行：辛巴威儲備銀行（Reserve Bank of Zimbabwe）
-- 首都：哈拉雷（Harare）；货币：印度盧比（Indian rupee）、南非兰特（rand）、津巴布韦元（Zimbabwean dollar）、欧元（euro）、美元（United States dollar）、澳大利亚元（Australian dollar）、日元（yen）、英镑（pound sterling）、津巴布韦金（Zimbabwe ZiG）、人民币（renminbi）；官方语言：英语（English）、恩道方言（Ndau）、南比亞語（Nambya）、切瓦语（Chewa）、Zimbabwe Sign Language、Barwe、文达语（Venda）、科萨语（Xhosa）、卡蘭加語（Kalanga）、科伊桑语系（Khoisan）、汤加语（Tonga）、北恩德贝莱语（Northern Ndebele）、索托语（Sesotho）、茨瓦纳语（Tswana）、修納語（Shona）、聪加语（Tsonga）
+- 首都：哈拉雷（Harare）；货币：印度盧比（Indian rupee）、欧元（euro）、南非兰特（rand）、津巴布韦元（Zimbabwean dollar）、美元（United States dollar）、澳大利亚元（Australian dollar）、日元（yen）、英镑（pound sterling）、人民币（renminbi）、津巴布韦金（Zimbabwe ZiG）；官方语言：英语（English）、科萨语（Xhosa）、恩道方言（Ndau）、南比亞語（Nambya）、Zimbabwe Sign Language、Barwe、文达语（Venda）、切瓦语（Chewa）、修納語（Shona）、卡蘭加語（Kalanga）、科伊桑语系（Khoisan）、索托语（Sesotho）、汤加语（Tonga）、茨瓦纳语（Tswana）、聪加语（Tsonga）、北恩德贝莱语（Northern Ndebele）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：104.7（2022 年）
 - 失业率（%，ILO 估算）：9.3（2025 年）
 - 外国直接投资净流入：9.65 亿美元（2025 年）
-- 外债总额：144.04 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：19.5（2023 年）
+- 外债总额：159.90 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：18.9（2025 年）
 - 货物和服务出口占 GDP（%）：18.1（2024 年）
 - 货物和服务进口占 GDP（%）：23.4（2024 年）
 - 经常账户余额占 GDP（%）：1.2（2024 年）
@@ -75,7 +75,7 @@
 - 非居民专利申请（件）：13.00（2024 年）
 - 高技术出口占制成品出口（%）：2.80（2024 年）
 - 高技术出口（现价美元）：1389 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 3,384 篇（OpenAlex），主要学科：Social Sciences（825）、Medicine（684）、Agricultural and Biological Sciences（366）、Business, Management and Accounting（233）、Environmental Science（217）、Engineering（151）、Computer Science（133）、Arts and Humanities（129）
+- 2025 年有本国作者参与的论文约 3,387 篇（OpenAlex），主要学科：Social Sciences（822）、Medicine（683）、Agricultural and Biological Sciences（365）、Business, Management and Accounting（244）、Environmental Science（217）、Engineering（151）、Computer Science（133）、Arts and Humanities（128）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/ZWE ；Wikidata https://www.wikidata.org/ （CC0）。

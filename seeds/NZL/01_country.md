@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：5,684（2024 年）
 - 高技术出口占制成品出口（%）：12.97（2024 年）
 - 高技术出口（现价美元）：8.40 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 22,339 篇（OpenAlex），主要学科：Medicine（4,693）、Social Sciences（3,282）、Engineering（1,777）、Agricultural and Biological Sciences（1,609）、Environmental Science（1,573）、Computer Science（1,452）、Business, Management and Accounting（855）、Psychology（844）
+- 2025 年有本国作者参与的论文约 22,204 篇（OpenAlex），主要学科：Medicine（4,684）、Social Sciences（3,253）、Engineering（1,773）、Agricultural and Biological Sciences（1,602）、Environmental Science（1,564）、Computer Science（1,448）、Business, Management and Accounting（849）、Psychology（837）
 - 艾伦·麦克德尔米德（Alan MacDiarmid）：诺贝尔化学奖，2000 年
 - 沃恩·弗雷德里克·蘭德爾·瓊斯（Vaughan Jones）：菲尔兹奖，1990 年
 - 莫里斯·威尔金斯（Maurice Wilkins）：诺贝尔生理学或医学奖，1962 年

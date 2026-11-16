@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：7.7（2025 年）
 - 失业率（%，ILO 估算）：1.2（2025 年）
 - 外国直接投资净流入：14.05 亿美元（2025 年）
-- 外债总额：178.37 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：19.0（2024 年）
+- 外债总额：194.10 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：14.7（2025 年）
 - 货物和服务出口占 GDP（%）：33.2（2016 年）
 - 货物和服务进口占 GDP（%）：41.9（2016 年）
 - 经常账户余额占 GDP（%）：11.1（2025 年）
@@ -75,7 +75,7 @@
 - 非居民专利申请（件）：48.00（2024 年）
 - 高技术出口占制成品出口（%）：7.42（2023 年）
 - 高技术出口（现价美元）：1.47 亿美元（2023 年）
-- 2025 年有本国作者参与的论文约 804 篇（OpenAlex），主要学科：Agricultural and Biological Sciences（165）、Social Sciences（148）、Medicine（140）、Environmental Science（81）、Business, Management and Accounting（53）、Computer Science（36）、Engineering（34）、Immunology and Microbiology（26）
+- 2025 年有本国作者参与的论文约 825 篇（OpenAlex），主要学科：Agricultural and Biological Sciences（181）、Social Sciences（149）、Medicine（140）、Environmental Science（84）、Business, Management and Accounting（53）、Computer Science（36）、Engineering（34）、Immunology and Microbiology（24）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/LAO ；Wikidata https://www.wikidata.org/ （CC0）。

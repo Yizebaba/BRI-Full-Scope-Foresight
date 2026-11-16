@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：3.3（2025 年）
 - 失业率（%，ILO 估算）：12.9（2025 年）
 - 外国直接投资净流入：7.08 亿美元（2025 年）
-- 外债总额：163.96 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：9.2（2024 年）
+- 外债总额：187.33 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：21.0（2025 年）
 - 中央政府债务占 GDP（%）：47.9（2024 年）
 - 货物和服务出口占 GDP（%）：48.1（2025 年）
 - 货物和服务进口占 GDP（%）：53.6（2025 年）
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：6.00（2024 年）
 - 高技术出口占制成品出口（%）：23.64（2024 年）
 - 高技术出口（现价美元）：8.93 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 4,787 篇（OpenAlex），主要学科：Social Sciences（888）、Physics and Astronomy（502）、Medicine（474）、Arts and Humanities（449）、Agricultural and Biological Sciences（411）、Engineering（319）、Economics, Econometrics and Finance（211）、Business, Management and Accounting（189）
+- 2025 年有本国作者参与的论文约 4,821 篇（OpenAlex），主要学科：Social Sciences（891）、Physics and Astronomy（503）、Medicine（483）、Arts and Humanities（454）、Agricultural and Biological Sciences（424）、Engineering（322）、Economics, Econometrics and Finance（212）、Computer Science（190）
 - 阿德姆·帕塔普蒂安（Ardem Patapoutian）：诺贝尔生理学或医学奖，2021 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

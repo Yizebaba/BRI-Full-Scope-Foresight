@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：0.1（2025 年）
 - 失业率（%，ILO 估算）：4.6（2025 年）
 - 外国直接投资净流入：799.80 亿美元（2025 年）
-- 外债总额：24198.35 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：8.6（2024 年）
+- 外债总额：22775.98 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：9.4（2025 年）
 - 货物和服务出口占 GDP（%）：21.1（2025 年）
 - 货物和服务进口占 GDP（%）：16.9（2025 年）
 - 经常账户余额占 GDP（%）：3.8（2025 年）
@@ -77,7 +77,7 @@
 - 非居民专利申请（件）：156,053（2024 年）
 - 高技术出口占制成品出口（%）：26.28（2024 年）
 - 高技术出口（现价美元）：8567.65 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 1,419,091 篇（OpenAlex），主要学科：Engineering（333,490）、Medicine（208,821）、Computer Science（161,816）、Materials Science（92,541）、Biochemistry, Genetics and Molecular Biology（75,464）、Environmental Science（74,102）、Agricultural and Biological Sciences（71,846）、Social Sciences（56,144）
+- 2025 年有本国作者参与的论文约 1,423,835 篇（OpenAlex），主要学科：Engineering（333,855）、Medicine（208,430）、Computer Science（161,909）、Materials Science（92,506）、Biochemistry, Genetics and Molecular Biology（75,241）、Agricultural and Biological Sciences（74,661）、Environmental Science（74,096）、Social Sciences（56,334）
 - 王虹（Hong Wang）：菲尔兹奖，2026 年
 - 邓煜（Yu Deng）：菲尔兹奖，2026 年
 - 屠呦呦（Tu Youyou）：诺贝尔生理学或医学奖，2015 年

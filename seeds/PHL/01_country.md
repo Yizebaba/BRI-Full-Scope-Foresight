@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：1.7（2025 年）
 - 失业率（%，ILO 估算）：2.2（2025 年）
 - 外国直接投资净流入：81.22 亿美元（2025 年）
-- 外债总额：1370.18 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：14.4（2024 年）
+- 外债总额：1471.75 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：11.1（2025 年）
 - 中央政府债务占 GDP（%）：43.4（2014 年）
 - 货物和服务出口占 GDP（%）：26.6（2025 年）
 - 货物和服务进口占 GDP（%）：40.2（2025 年）
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：3,698（2024 年）
 - 高技术出口占制成品出口（%）：60.40（2024 年）
 - 高技术出口（现价美元）：343.60 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 30,216 篇（OpenAlex），主要学科：Social Sciences（10,199）、Medicine（3,251）、Business, Management and Accounting（2,381）、Agricultural and Biological Sciences（2,359）、Psychology（2,231）、Computer Science（1,825）、Environmental Science（1,404）、Engineering（1,400）
+- 2025 年有本国作者参与的论文约 30,276 篇（OpenAlex），主要学科：Social Sciences（10,185）、Medicine（3,262）、Agricultural and Biological Sciences（2,419）、Business, Management and Accounting（2,380）、Psychology（2,234）、Computer Science（1,830）、Environmental Science（1,409）、Engineering（1,400）
 - 玛丽亚·雷沙（Maria Ressa）：诺贝尔和平奖，2021 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

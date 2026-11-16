@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：2.1（2025 年）
 - 失业率（%，ILO 估算）：10.9（2025 年）
 - 外国直接投资净流入：18.52 亿美元（2025 年）
-- 外债总额：107.13 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：8.0（2024 年）
+- 外债总额：121.64 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：12.6（2025 年）
 - 中央政府债务占 GDP（%）：50.0（2024 年）
 - 货物和服务出口占 GDP（%）：37.0（2025 年）
 - 货物和服务进口占 GDP（%）：42.5（2025 年）
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：1.00（2023 年）
 - 高技术出口占制成品出口（%）：1.53（2024 年）
 - 高技术出口（现价美元）：3308 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 3,026 篇（OpenAlex），主要学科：Social Sciences（667）、Medicine（538）、Business, Management and Accounting（242）、Computer Science（193）、Environmental Science（183）、Economics, Econometrics and Finance（162）、Engineering（146）、Agricultural and Biological Sciences（143）
+- 2025 年有本国作者参与的论文约 3,046 篇（OpenAlex），主要学科：Social Sciences（671）、Medicine（544）、Business, Management and Accounting（241）、Computer Science（194）、Environmental Science（176）、Economics, Econometrics and Finance（164）、Engineering（151）、Agricultural and Biological Sciences（148）
 - 加爾各答德肋撒修女（Mother Teresa）：诺贝尔和平奖，1979 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

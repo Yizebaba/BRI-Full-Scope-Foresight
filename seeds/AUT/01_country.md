@@ -75,7 +75,7 @@
 - 非居民专利申请（件）：159（2024 年）
 - 高技术出口占制成品出口（%）：18.45（2024 年）
 - 高技术出口（现价美元）：300.90 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 48,337 篇（OpenAlex），主要学科：Medicine（10,483）、Social Sciences（5,307）、Engineering（4,306）、Computer Science（3,748）、Environmental Science（2,575）、Agricultural and Biological Sciences（2,574）、Physics and Astronomy（2,446）、Biochemistry, Genetics and Molecular Biology（2,367）
+- 2025 年有本国作者参与的论文约 47,833 篇（OpenAlex），主要学科：Medicine（10,491）、Social Sciences（5,291）、Engineering（4,309）、Computer Science（3,740）、Environmental Science（2,588）、Physics and Astronomy（2,443）、Biochemistry, Genetics and Molecular Biology（2,360）、Arts and Humanities（2,242）
 - 费伦茨·克劳斯（Ferenc Krausz）：诺贝尔物理学奖，2023 年
 - 安东·蔡林格（Anton Zeilinger）：诺贝尔物理学奖，2022 年
 - 彼得·汉德克（Peter Handke）：诺贝尔文学奖，2019 年

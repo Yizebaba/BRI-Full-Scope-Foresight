@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：5.1（2025 年）
 - 失业率（%，ILO 估算）：8.3（2025 年）
 - 外国直接投资净流入：115.71 亿美元（2025 年）
-- 外债总额：2017.64 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：43.0（2024 年）
+- 外债总额：2559.56 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：45.4（2025 年）
 - 中央政府债务占 GDP（%）：71.2（2024 年）
 - 货物和服务出口占 GDP（%）：15.0（2025 年）
 - 货物和服务进口占 GDP（%）：20.4（2025 年）
@@ -79,7 +79,7 @@
 - 非居民专利申请（件）：1,661（2024 年）
 - 高技术出口占制成品出口（%）：9.03（2024 年）
 - 高技术出口（现价美元）：9.56 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 36,978 篇（OpenAlex），主要学科：Social Sciences（8,092）、Medicine（7,897）、Agricultural and Biological Sciences（3,037）、Environmental Science（2,795）、Engineering（2,099）、Arts and Humanities（1,960）、Business, Management and Accounting（1,606）、Psychology（1,303）
+- 2025 年有本国作者参与的论文约 36,391 篇（OpenAlex），主要学科：Social Sciences（8,105）、Medicine（7,909）、Agricultural and Biological Sciences（3,127）、Environmental Science（2,142）、Engineering（2,098）、Arts and Humanities（1,956）、Business, Management and Accounting（1,606）、Psychology（1,297）
 - 胡安·曼努埃尔·桑托斯（Juan Manuel Santos）：诺贝尔和平奖，2016 年
 - 加夫列尔·加西亚·马尔克斯（Gabriel García Márquez）：诺贝尔文学奖，1982 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。

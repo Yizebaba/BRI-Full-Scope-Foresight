@@ -8,7 +8,7 @@
 - 政府首脑：阿卜杜拉·汉姆多克（Abdalla Hamdok）；职位：苏丹总理（Prime Minister of Sudan）
 - 立法机构：苏丹国会（National Legislature）
 - 中央银行：苏丹银行（Bank of Sudan）
-- 首都：喀土穆（Khartoum）；货币：苏丹镑（Sudanese pound）；官方语言：阿拉伯语（Arabic）、英语（English）
+- 首都：喀土穆（Khartoum）；货币：苏丹镑（Sudanese pound）；官方语言：英语（English）、阿拉伯语（Arabic）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：138.8（2022 年）
 - 失业率（%，ILO 估算）：7.5（2022 年）
 - 外国直接投资净流入：1900 美元（2025 年）
-- 外债总额：220.21 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：3.0（2022 年）
+- 外债总额：241.83 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：3.6（2025 年）
 - 中央政府债务占 GDP（%）：865.9（1999 年）
 - 货物和服务出口占 GDP（%）：1.1（2025 年）
 - 货物和服务进口占 GDP（%）：1.3（2025 年）
@@ -77,7 +77,7 @@
 - 非居民专利申请（件）：7.00（2020 年）
 - 高技术出口占制成品出口（%）：2.20（2018 年）
 - 高技术出口（现价美元）：87 万美元（2018 年）
-- 2025 年有本国作者参与的论文约 4,244 篇（OpenAlex），主要学科：Medicine（1,540）、Social Sciences（379）、Agricultural and Biological Sciences（363）、Engineering（232）、Environmental Science（160）、Health Professions（138）、Biochemistry, Genetics and Molecular Biology（133）、Computer Science（131）
+- 2025 年有本国作者参与的论文约 4,243 篇（OpenAlex），主要学科：Medicine（1,539）、Social Sciences（380）、Agricultural and Biological Sciences（365）、Engineering（232）、Environmental Science（161）、Health Professions（136）、Biochemistry, Genetics and Molecular Biology（134）、Computer Science（132）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/SDN ；Wikidata https://www.wikidata.org/ （CC0）。

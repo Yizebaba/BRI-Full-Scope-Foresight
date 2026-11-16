@@ -8,7 +8,7 @@
 - 政府首脑：Abdoulaye Maïga；职位：马里总理（Prime Minister of Mali）
 - 立法机构：国民议会（National Assembly）
 - 中央银行：西非国家中央银行（Central Bank of West African States）
-- 首都：巴马科（Bamako）；货币：西非非洲金融共同体法郎（West African CFA franc）；官方语言：廷巴克語（Tamasheq）、桑海語族（Songhay）、Bobo、多貢諸語言（Dogon）、塞努福语支（Senufo）、博佐語（Bozo）、班巴拉语（Bambara）、哈桑语（Hassaniya Arabic）、马宁卡语（Maninka）、富拉语（Fula）、明揚卡語（Minyanka）、索宁克语（Soninke）、哈松凯语（Kassonke）
+- 首都：巴马科（Bamako）；货币：西非非洲金融共同体法郎（West African CFA franc）；官方语言：廷巴克語（Tamasheq）、桑海語族（Songhay）、Bobo、多貢諸語言（Dogon）、马宁卡语（Maninka）、明揚卡語（Minyanka）、班巴拉语（Bambara）、富拉语（Fula）、索宁克语（Soninke）、哈松凯语（Kassonke）、塞努福语支（Senufo）、博佐語（Bozo）、哈桑语（Hassaniya Arabic）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：3.3（2025 年）
 - 失业率（%，ILO 估算）：2.8（2025 年）
 - 外国直接投资净流入：8.44 亿美元（2025 年）
-- 外债总额：64.40 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：6.2（2024 年）
+- 外债总额：73.32 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：5.9（2025 年）
 - 货物和服务出口占 GDP（%）：22.1（2025 年）
 - 货物和服务进口占 GDP（%）：26.7（2025 年）
 - 经常账户余额占 GDP（%）：-4.3（2024 年）
@@ -75,7 +75,7 @@
 - 非居民专利申请（件）：7.00（1981 年）
 - 高技术出口占制成品出口（%）：5.36（2023 年）
 - 高技术出口（现价美元）：1386 万美元（2023 年）
-- 2025 年有本国作者参与的论文约 924 篇（OpenAlex），主要学科：Medicine（361）、Agricultural and Biological Sciences（228）、Social Sciences（61）、Environmental Science（49）、Biochemistry, Genetics and Molecular Biology（33）、Immunology and Microbiology（31）、Economics, Econometrics and Finance（23）、Health Professions（20）
+- 2025 年有本国作者参与的论文约 934 篇（OpenAlex），主要学科：Medicine（361）、Agricultural and Biological Sciences（234）、Social Sciences（62）、Environmental Science（50）、Biochemistry, Genetics and Molecular Biology（33）、Immunology and Microbiology（31）、Economics, Econometrics and Finance（23）、Health Professions（20）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/MLI ；Wikidata https://www.wikidata.org/ （CC0）。

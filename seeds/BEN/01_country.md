@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：1.1（2025 年）
 - 失业率（%，ILO 估算）：1.6（2025 年）
 - 外国直接投资净流入：4.82 亿美元（2025 年）
-- 外债总额：141.63 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：26.8（2024 年）
+- 外债总额：168.89 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：29.2（2025 年）
 - 货物和服务出口占 GDP（%）：17.1（2025 年）
 - 货物和服务进口占 GDP（%）：20.1（2025 年）
 - 经常账户余额占 GDP（%）：-8.2（2023 年）
@@ -66,7 +66,7 @@
 - 科技期刊论文（篇）：437（2023 年）
 - 高技术出口占制成品出口（%）：30.54（2024 年）
 - 高技术出口（现价美元）：2246 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 2,386 篇（OpenAlex），主要学科：Agricultural and Biological Sciences（764）、Medicine（433）、Environmental Science（362）、Social Sciences（153）、Engineering（99）、Physics and Astronomy（66）、Biochemistry, Genetics and Molecular Biology（57）、Economics, Econometrics and Finance（54）
+- 2025 年有本国作者参与的论文约 2,240 篇（OpenAlex），主要学科：Agricultural and Biological Sciences（614）、Medicine（433）、Environmental Science（364）、Social Sciences（153）、Engineering（99）、Physics and Astronomy（66）、Biochemistry, Genetics and Molecular Biology（58）、Economics, Econometrics and Finance（54）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/BEN ；Wikidata https://www.wikidata.org/ （CC0）。

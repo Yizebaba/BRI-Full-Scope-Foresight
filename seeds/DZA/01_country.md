@@ -23,7 +23,7 @@
 - 通货膨胀率（CPI，%）：1.4（2025 年）
 - 失业率（%，ILO 估算）：11.6（2025 年）
 - 外国直接投资净流入：15.42 亿美元（2025 年）
-- 外债总额：68.98 亿美元（2024 年）
+- 外债总额：77.24 亿美元（2025 年）
 - 外债还本付息占出口收入（%）：0.8（2024 年）
 - 货物和服务出口占 GDP（%）：16.8（2025 年）
 - 货物和服务进口占 GDP（%）：22.1（2025 年）
@@ -77,7 +77,7 @@
 - 非居民专利申请（件）：329（2024 年）
 - 高技术出口占制成品出口（%）：0.96（2017 年）
 - 高技术出口（现价美元）：903 万美元（2017 年）
-- 2025 年有本国作者参与的论文约 20,647 篇（OpenAlex），主要学科：Engineering（3,962）、Social Sciences（2,242）、Computer Science（1,786）、Medicine（1,522）、Agricultural and Biological Sciences（1,405）、Environmental Science（1,269）、Materials Science（1,176）、Arts and Humanities（1,100）
+- 2025 年有本国作者参与的论文约 20,672 篇（OpenAlex），主要学科：Engineering（3,967）、Social Sciences（2,258）、Computer Science（1,792）、Medicine（1,518）、Agricultural and Biological Sciences（1,414）、Environmental Science（1,276）、Materials Science（1,178）、Arts and Humanities（1,105）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/DZA ；Wikidata https://www.wikidata.org/ （CC0）。

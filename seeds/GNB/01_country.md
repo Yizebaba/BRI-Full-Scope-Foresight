@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：0.9（2025 年）
 - 失业率（%，ILO 估算）：2.7（2025 年）
 - 外国直接投资净流入：3357 万美元（2025 年）
-- 外债总额：14.33 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：13.3（2024 年）
+- 外债总额：15.31 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：13.7（2025 年）
 - 货物和服务出口占 GDP（%）：13.9（2025 年）
 - 货物和服务进口占 GDP（%）：27.0（2025 年）
 - 经常账户余额占 GDP（%）：-7.4（2024 年）
@@ -66,7 +66,7 @@
 - 科技期刊论文（篇）：13.70（2023 年）
 - 高技术出口占制成品出口（%）：5.81（2015 年）
 - 高技术出口（现价美元）：18 美元（2015 年）
-- 2025 年有本国作者参与的论文约 64 篇（OpenAlex），主要学科：Medicine（27）、Environmental Science（10）、Social Sciences（9）、Immunology and Microbiology（6）、Agricultural and Biological Sciences（4）、Health Professions（3）、Business, Management and Accounting（2）、Arts and Humanities（1）
+- 2025 年有本国作者参与的论文约 62 篇（OpenAlex），主要学科：Medicine（27）、Environmental Science（10）、Social Sciences（9）、Immunology and Microbiology（6）、Agricultural and Biological Sciences（3）、Health Professions（3）、Business, Management and Accounting（2）、Arts and Humanities（1）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/GNB ；Wikidata https://www.wikidata.org/ （CC0）。

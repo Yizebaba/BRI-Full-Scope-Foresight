@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：14.1（2025 年）
 - 失业率（%，ILO 估算）：6.8（2025 年）
 - 外国直接投资净流入：154.53 亿美元（2025 年）
-- 外债总额：1559.73 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：49.2（2024 年）
+- 外债总额：1642.66 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：29.8（2025 年）
 - 中央政府债务占 GDP（%）：85.8（2007 年）
 - 货物和服务出口占 GDP（%）：19.8（2025 年）
 - 货物和服务进口占 GDP（%）：31.5（2025 年）
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：1,272（2024 年）
 - 高技术出口占制成品出口（%）：3.81（2024 年）
 - 高技术出口（现价美元）：8.88 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 75,111 篇（OpenAlex），主要学科：Medicine（18,734）、Engineering（6,901）、Social Sciences（6,559）、Agricultural and Biological Sciences（6,381）、Materials Science（3,580）、Arts and Humanities（3,565）、Computer Science（3,309）、Environmental Science（3,082）
+- 2025 年有本国作者参与的论文约 74,851 篇（OpenAlex），主要学科：Medicine（18,650）、Engineering（6,913）、Social Sciences（6,555）、Agricultural and Biological Sciences（6,360）、Materials Science（3,577）、Arts and Humanities（3,571）、Computer Science（3,333）、Environmental Science（3,081）
 - 穆罕默德·巴拉迪（Mohamed ElBaradei）：诺贝尔和平奖，2005 年
 - 艾哈迈德·泽维尔（Ahmed Zewail）：诺贝尔化学奖，1999 年
 - 纳吉布·马哈福兹（Naguib Mahfouz）：诺贝尔文学奖，1988 年

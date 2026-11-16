@@ -71,7 +71,7 @@
 - 非居民专利申请（件）：23.00（1996 年）
 - 高技术出口占制成品出口（%）：0.60（2019 年）
 - 高技术出口（现价美元）：113 万美元（2019 年）
-- 2025 年有本国作者参与的论文约 7,781 篇（OpenAlex），主要学科：Medicine（1,404）、Social Sciences（1,388）、Arts and Humanities（776）、Engineering（595）、Business, Management and Accounting（493）、Agricultural and Biological Sciences（486）、Environmental Science（396）、Computer Science（352）
+- 2025 年有本国作者参与的论文约 7,787 篇（OpenAlex），主要学科：Medicine（1,408）、Social Sciences（1,385）、Arts and Humanities（777）、Engineering（595）、Business, Management and Accounting（492）、Agricultural and Biological Sciences（485）、Environmental Science（399）、Computer Science（352）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/LBY ；Wikidata https://www.wikidata.org/ （CC0）。

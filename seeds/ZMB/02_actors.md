@@ -21,8 +21,8 @@
 - Poly Technologies, Inc.：在赞比亚出现在 1 个项目中，涉及金额约 4924 万美元。例：2011 年 Poly Technologies, Inc. provides RMB 258.8 million supplier's credit for Rehabilitation of Roads in Lusaka Cit
 - 中国电建 / 水电建设集团（PowerChina / Sinohydro）：在赞比亚出现在 4 个项目中，涉及金额约 4715 万美元。例：2016 年 Sinohydro provides $29 million supplier's credit for Musonda Falls Hydroelectric Power Plant Upgrading Project；2015 年 Sinohydro provides $10 million USD supplier's credit to ZESCO Ltd. for Musonda Falls Hydroelectric Power Plant；2017 年 PowerChina builds and donates Sinohydro Training Institute in Chikankata
 - CJIC：在赞比亚出现在 1 个项目中，涉及金额约 1846 万美元。例：2018 年 CJIC provides $16.94 million bridge loan for 330kV Kabwe-Pensulo Second Transmission Line Project (Linked to P
-- 中信集团（CITIC）：在赞比亚出现在 1 个项目中，涉及金额约 1736 万美元。例：2005 年 China CITIC Bank provides $8 million loan for Phase I of Fiber Optic Cable Project (Linked to Project ID#57579
 - China CITIC Bank：在赞比亚出现在 1 个项目中，涉及金额约 1736 万美元。例：2005 年 China CITIC Bank provides $8 million loan for Phase I of Fiber Optic Cable Project (Linked to Project ID#57579
+- 中信集团（CITIC）：在赞比亚出现在 1 个项目中，涉及金额约 1736 万美元。例：2005 年 China CITIC Bank provides $8 million loan for Phase I of Fiber Optic Cable Project (Linked to Project ID#57579
 - 中国机械设备工程（CMEC）：在赞比亚出现在 1 个项目中，涉及金额约 1635 万美元。例：2018 年 CMEC provides $15 million bridge loan for 15MW Lusiwasi Upper Hydropower Project
 - Sinoma International Engineering Co., Ltd Subsidiary：在赞比亚出现在 1 个项目中，涉及金额约 94 万美元。例：2016 年 Sinoma International Engineering Co., Ltd Subsidiary grants $800,000 USD for the Nachitete Hospital Constructi
 - Sinoma International Engineering Co., Ltd subsidiary：在赞比亚出现在 1 个项目中，涉及金额约 48 万美元。例：2016 年 Sinoma International Engineering Co., Ltd subsidiary grants $410,000 USD for the Nachitete Primary School Cons
@@ -32,6 +32,21 @@
 - AVIC International：在赞比亚出现在 2 个项目中，涉及金额约 1 万美元。例：2018 年 AVIC International donates 100,000 Kwacha to combat Zambia's Cholera Outbreak (linked to #66623)；2018 年 AVIC International donates sporting equipment, learning equipment, and stadium to Zambia State Lodge Primary S
 - Jiangxi China Coal Construction Group Co., Ltd.：在赞比亚出现在 1 个项目中。例：2019 年 Jiangxi China Coal Construction Group Co., Ltd. donates sports equipment and cornmeal to Kaunda Square Seconda
 - Chinese State-Owned Enterprise：在赞比亚出现在 1 个项目中。例：2017 年 Chinese State-Owned Enterprise donates basketball courts to Kaunda Square Secondary School (Linked to #57406, 
+
+## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
+
+- 中国：赞比亚对其出口 11.72 亿美元，自其进口 26.79 亿美元
+- 南非：赞比亚对其出口 4.63 亿美元，自其进口 31.84 亿美元
+- 加拿大：赞比亚对其出口 34.38 亿美元，自其进口 3807 万美元
+- 瑞士：赞比亚对其出口 21.98 亿美元，自其进口 8183 万美元
+- 新加坡：赞比亚对其出口 18.27 亿美元，自其进口 2.91 亿美元
+- 刚果（金）：赞比亚对其出口 15.93 亿美元，自其进口 4.18 亿美元
+- 阿联酋：赞比亚对其出口 7.35 亿美元，自其进口 10.48 亿美元
+- 坦桑尼亚：赞比亚对其出口 2.92 亿美元，自其进口 5.27 亿美元
+- 印度：赞比亚对其出口 8479 万美元，自其进口 5.95 亿美元
+- 日本：赞比亚对其出口 34 万美元，自其进口 5.26 亿美元
+- 津巴布韦：赞比亚对其出口 3.54 亿美元，自其进口 1.69 亿美元
+- 纳米比亚：赞比亚对其出口 2.40 亿美元，自其进口 2.52 亿美元
 
 ## 发布旅行建议的外国政府
 

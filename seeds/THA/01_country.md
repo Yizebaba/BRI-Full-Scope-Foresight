@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：-0.1（2025 年）
 - 失业率（%，ILO 估算）：0.8（2025 年）
 - 外国直接投资净流入：185.25 亿美元（2025 年）
-- 外债总额：1918.27 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：4.7（2024 年）
+- 外债总额：2088.78 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：2.7（2025 年）
 - 中央政府债务占 GDP（%）：61.9（2024 年）
 - 货物和服务出口占 GDP（%）：71.1（2025 年）
 - 货物和服务进口占 GDP（%）：67.3（2025 年）
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：7,797（2024 年）
 - 高技术出口占制成品出口（%）：28.33（2024 年）
 - 高技术出口（现价美元）：613.47 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 69,992 篇（OpenAlex），主要学科：Social Sciences（14,088）、Medicine（12,459）、Business, Management and Accounting（6,885）、Agricultural and Biological Sciences（4,818）、Engineering（4,577）、Arts and Humanities（4,464）、Computer Science（3,227）、Psychology（2,592）
+- 2025 年有本国作者参与的论文约 70,449 篇（OpenAlex），主要学科：Social Sciences（14,089）、Medicine（12,449）、Business, Management and Accounting（6,890）、Agricultural and Biological Sciences（5,234）、Engineering（4,584）、Arts and Humanities（4,465）、Computer Science（3,232）、Psychology（2,594）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/THA ；Wikidata https://www.wikidata.org/ （CC0）。

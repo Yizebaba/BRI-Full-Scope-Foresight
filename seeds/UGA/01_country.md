@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：3.6（2025 年）
 - 失业率（%，ILO 估算）：2.7（2025 年）
 - 外国直接投资净流入：33.58 亿美元（2025 年）
-- 外债总额：205.34 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：13.9（2024 年）
+- 外债总额：238.99 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：13.1（2025 年）
 - 中央政府债务占 GDP（%）：54.4（2024 年）
 - 货物和服务出口占 GDP（%）：21.4（2025 年）
 - 货物和服务进口占 GDP（%）：28.8（2025 年）
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：1.00（2024 年）
 - 高技术出口占制成品出口（%）：1.92（2024 年）
 - 高技术出口（现价美元）：2200 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 9,520 篇（OpenAlex），主要学科：Medicine（3,336）、Social Sciences（1,581）、Agricultural and Biological Sciences（982）、Environmental Science（505）、Business, Management and Accounting（461）、Engineering（330）、Economics, Econometrics and Finance（279）、Computer Science（270）
+- 2025 年有本国作者参与的论文约 9,492 篇（OpenAlex），主要学科：Medicine（3,337）、Social Sciences（1,583）、Agricultural and Biological Sciences（970）、Environmental Science（505）、Business, Management and Accounting（461）、Engineering（330）、Economics, Econometrics and Finance（280）、Computer Science（269）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/UGA ；Wikidata https://www.wikidata.org/ （CC0）。

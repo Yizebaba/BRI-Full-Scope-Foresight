@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：3.9（2025 年）
 - 失业率（%，ILO 估算）：5.1（2025 年）
 - 外国直接投资净流入：49.19 亿美元（2025 年）
-- 外债总额：532.94 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：22.0（2024 年）
+- 外债总额：562.84 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：23.5（2025 年）
 - 中央政府债务占 GDP（%）：16.4（1999 年）
 - 货物和服务出口占 GDP（%）：23.6（2025 年）
 - 货物和服务进口占 GDP（%）：27.9（2025 年）
@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：202（2024 年）
 - 高技术出口占制成品出口（%）：7.69（2024 年）
 - 高技术出口（现价美元）：5.76 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 1,148 篇（OpenAlex），主要学科：Social Sciences（359）、Medicine（291）、Agricultural and Biological Sciences（66）、Psychology（63）、Computer Science（46）、Engineering（46）、Environmental Science（43）、Arts and Humanities（36）
+- 2025 年有本国作者参与的论文约 1,170 篇（OpenAlex），主要学科：Social Sciences（365）、Medicine（293）、Agricultural and Biological Sciences（76）、Psychology（63）、Engineering（48）、Computer Science（46）、Environmental Science（43）、Arts and Humanities（37）
 - 马里奥·巴尔加斯·略萨（Mario Vargas Llosa）：诺贝尔文学奖，2010 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

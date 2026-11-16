@@ -8,7 +8,7 @@
 - 政府首脑：夏巴兹·谢里夫（Shehbaz Sharif）；职位：巴基斯坦总理（Prime Minister of Pakistan）
 - 立法机构：巴基斯坦议会（Parliament of Pakistan）
 - 中央银行：巴基斯坦国家银行（State Bank of Pakistan）
-- 首都：伊斯兰堡（Islamabad）；货币：巴基斯坦卢比（Pakistani rupee）；官方语言：英语（English）、乌尔都语（Urdu）
+- 首都：伊斯兰堡（Islamabad）；货币：巴基斯坦卢比（Pakistani rupee）；官方语言：乌尔都语（Urdu）、英语（English）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：3.5（2025 年）
 - 失业率（%，ILO 估算）：5.4（2025 年）
 - 外国直接投资净流入：18.52 亿美元（2025 年）
-- 外债总额：1297.18 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：39.5（2024 年）
+- 外债总额：1351.07 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：32.8（2025 年）
 - 中央政府债务占 GDP（%）：55.0（2000 年）
 - 货物和服务出口占 GDP（%）：10.0（2025 年）
 - 货物和服务进口占 GDP（%）：17.2（2025 年）
@@ -79,7 +79,7 @@
 - 非居民专利申请（件）：499（2024 年）
 - 高技术出口占制成品出口（%）：2.44（2024 年）
 - 高技术出口（现价美元）：5.35 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 92,249 篇（OpenAlex），主要学科：Medicine（22,530）、Social Sciences（12,133）、Agricultural and Biological Sciences（6,943）、Engineering（5,617）、Computer Science（5,140）、Business, Management and Accounting（4,623）、Arts and Humanities（4,590）、Materials Science（3,718）
+- 2025 年有本国作者参与的论文约 92,423 篇（OpenAlex），主要学科：Medicine（22,546）、Social Sciences（12,199）、Agricultural and Biological Sciences（6,993）、Engineering（5,617）、Computer Science（5,156）、Arts and Humanities（4,687）、Business, Management and Accounting（4,641）、Materials Science（3,718）
 - 玛拉拉·优素福扎伊（Malala Yousafzai）：诺贝尔和平奖，2014 年
 - 阿卜杜勒·萨拉姆（Abdus Salam）：诺贝尔物理学奖，1979 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。

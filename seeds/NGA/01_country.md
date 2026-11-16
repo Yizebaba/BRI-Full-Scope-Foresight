@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：23.0（2025 年）
 - 失业率（%，ILO 估算）：3.1（2025 年）
 - 外国直接投资净流入：40.05 亿美元（2025 年）
-- 外债总额：1087.58 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：21.9（2024 年）
+- 外债总额：1450.15 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：19.3（2025 年）
 - 货物和服务出口占 GDP（%）：9.2（1960 年）
 - 货物和服务进口占 GDP（%）：16.9（1960 年）
 - 经常账户余额占 GDP（%）：4.8（2025 年）
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：598（2020 年）
 - 高技术出口占制成品出口（%）：2.71（2024 年）
 - 高技术出口（现价美元）：5008 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 70,827 篇（OpenAlex），主要学科：Social Sciences（13,069）、Medicine（11,367）、Agricultural and Biological Sciences（8,435）、Environmental Science（5,448）、Engineering（4,595）、Business, Management and Accounting（4,490）、Economics, Econometrics and Finance（3,627）、Computer Science（2,905）
+- 2025 年有本国作者参与的论文约 70,734 篇（OpenAlex），主要学科：Social Sciences（13,116）、Medicine（11,392）、Agricultural and Biological Sciences（8,301）、Environmental Science（5,450）、Engineering（4,594）、Business, Management and Accounting（4,504）、Economics, Econometrics and Finance（3,631）、Computer Science（2,909）
 - 沃莱·索因卡（Wole Soyinka）：诺贝尔文学奖，1986 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

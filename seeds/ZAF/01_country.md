@@ -8,7 +8,7 @@
 - 政府首脑：西里尔·拉马福萨（Cyril Ramaphosa）；职位：南非总统（President of South Africa）
 - 立法机构：南非议会（Parliament of South Africa）
 - 中央银行：南非储备银行（South African Reserve Bank）
-- 首都：开普敦（Cape Town）、比勒陀利亚（Pretoria）、布隆方丹（Bloemfontein）；货币：南非兰特（rand）；官方语言：英语（English）、南非手语（South African Sign Language）、祖鲁语（Zulu）、阿非利卡语（Afrikaans）、文达语（Venda）、科萨语（Xhosa）、北索托语（Northern Sotho）、斯瓦蒂语（Swazi）、南恩德贝莱语（Southern Ndebele）、索托语（Sesotho）、茨瓦纳语（Tswana）、聪加语（Tsonga）
+- 首都：开普敦（Cape Town）、比勒陀利亚（Pretoria）、布隆方丹（Bloemfontein）；货币：南非兰特（rand）；官方语言：英语（English）、祖鲁语（Zulu）、科萨语（Xhosa）、南非手语（South African Sign Language）、文达语（Venda）、北索托语（Northern Sotho）、阿非利卡语（Afrikaans）、索托语（Sesotho）、南恩德贝莱语（Southern Ndebele）、斯瓦蒂语（Swazi）、茨瓦纳语（Tswana）、聪加语（Tsonga）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：3.2（2025 年）
 - 失业率（%，ILO 估算）：32.4（2025 年）
 - 外国直接投资净流入：-21.61 亿美元（2025 年）
-- 外债总额：1758.96 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：16.3（2024 年）
+- 外债总额：2063.43 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：17.0（2025 年）
 - 中央政府债务占 GDP（%）：82.8（2024 年）
 - 货物和服务出口占 GDP（%）：31.4（2025 年）
 - 货物和服务进口占 GDP（%）：29.5（2025 年）
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：8,549（2024 年）
 - 高技术出口占制成品出口（%）：5.71（2024 年）
 - 高技术出口（现价美元）：24.54 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 51,698 篇（OpenAlex），主要学科：Social Sciences（10,541）、Medicine（8,495）、Environmental Science（3,805）、Agricultural and Biological Sciences（3,783）、Engineering（3,502）、Business, Management and Accounting（2,782）、Arts and Humanities（2,246）、Computer Science（2,103）
+- 2025 年有本国作者参与的论文约 51,581 篇（OpenAlex），主要学科：Social Sciences（10,511）、Medicine（8,476）、Agricultural and Biological Sciences（3,958）、Environmental Science（3,720）、Engineering（3,498）、Business, Management and Accounting（2,788）、Arts and Humanities（2,240）、Computer Science（2,102）
 - 纳维·皮莱（Navanethem Pillay）：诺贝尔和平奖，2026 年
 - 迈克尔·莱维特（Michael Levitt）：诺贝尔化学奖，2013 年
 - 约翰·马克斯维尔·库切（J. M. Coetzee）：诺贝尔文学奖，2003 年

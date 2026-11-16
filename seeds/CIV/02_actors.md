@@ -22,6 +22,21 @@
 - China Road & Bridge Company：在科特迪瓦出现在 1 个项目中。例：2018 年 China Road & Bridge Company donates primary school building and school supplies in Cote d'Ivoire
 - China-Foreign Language Exchange：在科特迪瓦出现在 1 个项目中。例：2021 年 China-Foreign Language Exchange and Cooperation Center signs agreement to dispatch team of Chinese teachers to
 
+## 主要贸易伙伴（UN Comtrade，2024 年，本国申报）
+
+- 中国：科特迪瓦对其出口 7.29 亿美元，自其进口 27.37 亿美元
+- 荷兰：科特迪瓦对其出口 25.13 亿美元，自其进口 3.17 亿美元
+- 瑞士：科特迪瓦对其出口 27.52 亿美元，自其进口 5994 万美元
+- 尼日利亚：科特迪瓦对其出口 1.64 亿美元，自其进口 23.12 亿美元
+- 法国：科特迪瓦对其出口 8.47 亿美元，自其进口 11.12 亿美元
+- 美国：科特迪瓦对其出口 9.22 亿美元，自其进口 8.51 亿美元
+- 比利时：科特迪瓦对其出口 8.25 亿美元，自其进口 8.63 亿美元
+- 马里：科特迪瓦对其出口 16.21 亿美元，自其进口 1272 万美元
+- 印度：科特迪瓦对其出口 4.37 亿美元，自其进口 8.17 亿美元
+- 德国：科特迪瓦对其出口 8.71 亿美元，自其进口 3.73 亿美元
+- 越南：科特迪瓦对其出口 8.31 亿美元，自其进口 4.13 亿美元
+- 西班牙：科特迪瓦对其出口 7.17 亿美元，自其进口 3.17 亿美元
+
 ## 国际与多边机构
 
 - 世界银行、国际货币基金组织（IMF）、亚洲基础设施投资银行（AIIB）、联合国相关机构：本组文档引用的数据来自世界银行、IMF PortWatch、UN Comtrade；具体贷款关系以各机构公开记录为准。

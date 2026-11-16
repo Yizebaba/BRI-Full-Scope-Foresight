@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：13.2（2025 年）
 - 失业率（%，ILO 估算）：3.3（2025 年）
 - 外国直接投资净流入：37.96 亿美元（2025 年）
-- 外债总额：365.48 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：11.5（2024 年）
+- 外债总额：399.73 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：7.3（2025 年）
 - 中央政府债务占 GDP（%）：31.4（2019 年）
 - 货物和服务出口占 GDP（%）：13.3（2025 年）
 - 货物和服务进口占 GDP（%）：20.2（2025 年）
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：34.00（2024 年）
 - 高技术出口占制成品出口（%）：3.75（2023 年）
 - 高技术出口（现价美元）：986 万美元（2023 年）
-- 2025 年有本国作者参与的论文约 18,303 篇（OpenAlex），主要学科：Medicine（5,008）、Agricultural and Biological Sciences（3,260）、Social Sciences（1,688）、Environmental Science（1,598）、Engineering（1,275）、Materials Science（522）、Computer Science（494）、Business, Management and Accounting（491）
+- 2025 年有本国作者参与的论文约 18,280 篇（OpenAlex），主要学科：Medicine（5,000）、Agricultural and Biological Sciences（3,255）、Social Sciences（1,686）、Environmental Science（1,603）、Engineering（1,274）、Materials Science（520）、Computer Science（493）、Business, Management and Accounting（492）
 - 阿比·艾哈迈德·阿里（Abiy Ahmed）：诺贝尔和平奖，2019 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

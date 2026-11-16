@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：8.3（2025 年）
 - 失业率（%，ILO 估算）：2.9（2025 年）
 - 外国直接投资净流入：5.00 亿美元（2025 年）
-- 外债总额：22.35 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：9.1（2024 年）
+- 外债总额：24.69 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：8.2（2025 年）
 - 经常账户余额占 GDP（%）：2.5（2024 年）
 - 外汇储备（含黄金，美元）：3.39 亿美元（2025 年）
 - 燃料出口占商品出口（%）：1.8（2023 年）
@@ -68,7 +68,7 @@
 - 非居民专利申请（件）：158（2023 年）
 - 高技术出口占制成品出口（%）：0.64（2023 年）
 - 高技术出口（现价美元）：10 万美元（2023 年）
-- 2025 年有本国作者参与的论文约 224 篇（OpenAlex），主要学科：Medicine（49）、Social Sciences（33）、Agricultural and Biological Sciences（24）、Engineering（21）、Computer Science（16）、Environmental Science（16）、Materials Science（9）、Energy（8）
+- 2025 年有本国作者参与的论文约 225 篇（OpenAlex），主要学科：Medicine（50）、Social Sciences（33）、Agricultural and Biological Sciences（25）、Engineering（21）、Computer Science（16）、Environmental Science（16）、Materials Science（9）、Energy（8）
 - 莱伊曼·古博薇（Leymah Gbowee）：诺贝尔和平奖，2011 年
 - 埃伦·约翰逊-瑟利夫（Ellen Johnson Sirleaf）：诺贝尔和平奖，2011 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。

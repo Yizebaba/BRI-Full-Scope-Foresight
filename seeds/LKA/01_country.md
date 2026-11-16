@@ -8,7 +8,7 @@
 - 政府首脑：哈里妮·阿马拉苏里亚（Harini Amarasuriya）；职位：斯里兰卡总统（President of Sri Lanka）
 - 立法机构：斯里蘭卡國會（Parliament of Sri Lanka）
 - 中央银行：斯里蘭卡中央銀行（Central Bank of Sri Lanka）
-- 首都：斯里贾亚瓦德纳普拉科特（Sri Jayawardenepura Kotte）、科伦坡（Colombo）；货币：斯里兰卡卢比（Sri Lankan rupee）；官方语言：泰米尔语（Tamil）、僧伽罗语（Sinhala）
+- 首都：科伦坡（Colombo）、斯里贾亚瓦德纳普拉科特（Sri Jayawardenepura Kotte）；货币：斯里兰卡卢比（Sri Lankan rupee）；官方语言：泰米尔语（Tamil）、僧伽罗语（Sinhala）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：-4.8（2025 年）
 - 失业率（%，ILO 估算）：4.0（2025 年）
 - 外国直接投资净流入：10.44 亿美元（2025 年）
-- 外债总额：568.28 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：23.7（2024 年）
+- 外债总额：576.58 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：26.3（2025 年）
 - 中央政府债务占 GDP（%）：73.5（2015 年）
 - 货物和服务出口占 GDP（%）：19.0（2025 年）
 - 货物和服务进口占 GDP（%）：22.8（2025 年）
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：181（2024 年）
 - 高技术出口占制成品出口（%）：1.54（2024 年）
 - 高技术出口（现价美元）：1.21 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 9,118 篇（OpenAlex），主要学科：Medicine（1,693）、Social Sciences（1,116）、Agricultural and Biological Sciences（915）、Computer Science（891）、Engineering（811）、Environmental Science（726）、Business, Management and Accounting（636）、Arts and Humanities（280）
+- 2025 年有本国作者参与的论文约 9,113 篇（OpenAlex），主要学科：Medicine（1,690）、Social Sciences（1,108）、Agricultural and Biological Sciences（943）、Computer Science（891）、Engineering（810）、Environmental Science（726）、Business, Management and Accounting（633）、Arts and Humanities（279）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/LKA ；Wikidata https://www.wikidata.org/ （CC0）。

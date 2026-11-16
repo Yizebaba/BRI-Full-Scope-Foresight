@@ -13,7 +13,7 @@
 
 - 2026-11-11 23:00 UTC：M4.6，73 km NNW of Gyalshing, India。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txpk 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-15 20:31 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-16 17:22 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -29,14 +29,14 @@
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
 - 2026-11-15 13:48 UTC：Flood-hit Rasuwagadhi Hydropower’s cumulative loss reaches Rs 2.87 billion - myRepublica。https://news.google.com/rss/articles/CBMixgFBVV95cUxOM1dCWkxHNEY3QklJV202LW5XR3QxYVRaZnpmd01tRWJlX2MwWTljT3VtQ2xjSkRzR1Zyc3BoOU5XbUZDb2VXUHJZRDF0N1dObHlhM0wzcFdfbm81UzFpQTV1Q0pKa3lTWXJuWVZjWTZYby03S0o4Uk9SOWlNblFSOGNDM3lGYnZrdVJveUYzUVg2MDJ4ZkNaUElBZlA3VTJkN0hVLS12bXdWS1VEX1RMVHdJc3VpY2lMSGhXZDl5UVVrZXJqbVE?oc=5
-- 2026-11-14 18:59 UTC：APTOPIX Climate COP31 Nepal Flooding - The Batesville Daily Guard。https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTBZWi1PVGZhM21vSElJa2lzMVg3ZUw0NkJyakJlNFUyVXFEUkkyV1VITVdTTEFMMmxpU1YxbXZVYndTUURDSnFaV3o4ckRhZEFKclFhWUVrUFNXbUVUa2tUUkROckI4X0VFLV9FU2dJbm9jXzBIRW5UaHpRaEFvVDR3XzU0MFNqNWZtUjhYQ01jRzVCTWZFVlA1NVVVX2dKUHdqNXlRTjBHdDlzTmh0QkZlSk42TnNFVDY4NjJXVlE?oc=5
-- 2026-11-14 15:08 UTC：Climate COP31 Nepal Flooding - chronicleonline.com。https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWmRZdVZ4bUNzelNwMGV5VXlKWlVrVURjLTJpU3pxcUN6S29TTlVvNDVOQm5yMUg4RkVHY0phUVhqOU9saUVtRXpvOHowVmI4eHNsdUY2TThCWjJSQ2t3MFlWQnRmeVNTQjVmdTRIbzZ5X2V3TmhKa1VRaVUwTVRlVWZtWkR6cXVLUEpTWGhRYVItSzNOblpuamFPUm1XQTZ5UmI4RU55dU0zVVZlNjZHeWo5LUFWel93MFVj?oc=5
 - 2026-11-14 15:04 UTC：Climate COP31 Nepal Flooding - Daily News-Record。https://news.google.com/rss/articles/CBMizgFBVV95cUxQN3B4d0FpcFN5UTE5WVV0UDg1cnZwc3hscFNFUnVzYnFHTFVpLWFYZFQwb242SFFab2NoWEFGQ2RYSUhOZXBHandVbkFvX1AyQzlnN2VraGw5Rzd5SjNONTNHSUc5UFc3aUZoc1lVY1NiWUVUd2pkVzRwXzdaOUtTYVdKbXRCVy14RG1lNnRUU3gxUktCdUhxd0RvcDlUUmxpN3dtRHl4b010ZU1ha2Jud1AtcklHV2lpTmU5MHZuQ3RRTi1zaDQydlh4MkZYZw?oc=5
+- 2026-11-14 15:04 UTC：Climate COP31 Nepal Flooding - dailyrecordnews.com。https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGw2MVhvVG02bVdQZEZxdGJ5NVdnekxNUmNUMUZFbFI5VVRvQU42dlUwUU93YlhzOUsydG9lc0Y4cGd2anVVTG5aWTRvWmRZNzlsRXhQRFpkd2lCWldCai1qbndFTkVhNDBQZHVHbnkzbjBRTDRQMkNmcHNtbEZZN3RnaXNWVm9WeW41RGxqUWhQbXRManlkZ1BQaVlNTnpybk95Z0d3MlRJaUxMLVFxNWFqODVPQXFuSWhpTHhEZVp3UGtQTl94Vlpn?oc=5
 - 2026-11-14 15:04 UTC：Climate COP31 Nepal Flooding - The Batesville Daily Guard。https://news.google.com/rss/articles/CBMitgFBVV95cUxOeVdvOE9GTTRDSVFRMzdCaUwyY2JJUDEwUkQ4WTVDZkZmQzQ1SHJ3NEZHTWtXOVFpSkJ2UUxqWjBnYWt4NWdZQnJmTTUwV1BkVlcxNGxrMGlHMi01d21NNW15WWhNY09aU2FnQ0sxUzQ1YzlTREJRVlktaGRnLWZkRkhMQ3pLZjBzakh6U2RNa0w1enlqOV9Ea01HcW5YeG5NNWVGVllYa0VpRGVPbUt4bmI0ZzhOdw?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-16 13:35 UTC：Closure of Tatopani and Rasuwagadhi border points pushes up Nepal-China trade costs - OnlineKhabar English News
+- 2026-11-16 08:17 UTC：Newly appointed ambassadors to India, China and Israel take oath - OnlineKhabar English News
 - 2026-11-14 13:47 UTC：Rasuwagadhi Border Crossing Reopening Efforts Intensify with Bailey Bridge Construction - Ratopati
-- 2026-11-12 04:43 UTC：Transboundary data asymmetry and Himalayan resilience at COP31 | Hindustan Times - Hindustan Times
 
 ## 热索瓦加迪（Timure）口岸边检站
 
@@ -44,11 +44,11 @@
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
 - 2026-11-15 13:48 UTC：Flood-hit Rasuwagadhi Hydropower’s cumulative loss reaches Rs 2.87 billion - myRepublica。https://news.google.com/rss/articles/CBMixgFBVV95cUxOM1dCWkxHNEY3QklJV202LW5XR3QxYVRaZnpmd01tRWJlX2MwWTljT3VtQ2xjSkRzR1Zyc3BoOU5XbUZDb2VXUHJZRDF0N1dObHlhM0wzcFdfbm81UzFpQTV1Q0pKa3lTWXJuWVZjWTZYby03S0o4Uk9SOWlNblFSOGNDM3lGYnZrdVJveUYzUVg2MDJ4ZkNaUElBZlA3VTJkN0hVLS12bXdWS1VEX1RMVHdJc3VpY2lMSGhXZDl5UVVrZXJqbVE?oc=5
-- 2026-11-13 18:10 UTC：Aid Has Begun Reaching Flood-Hit Areas, Says MoS Kirti Vardhan Singh as India Steps Up Nepal Relief Efforts - DD News。https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFFxMFMwN0c5WmVkWS1udmF6dFdmZ2lwYU5hbGtkT0l0VjduMjBiczlNaHBRX0laMjFXc3lzWk9WUGFVMFhfLS00X0ZNZS1LOGZNM1ctbW03c1lxUWJYM0QzSERpQW9GVS1yeXd5WWRTMlRsVjI3eWRzUGFSb2w3U1ItVWpXWGFUVzZ0b3RfYTd2NUc4Z3BDU0VKYmdsemNObVdValdteWwwTUtrdVJFeVJZWWlpYWF1cmowUkZRMmJRM0F6d2w2U3l1bTE?oc=5
 - 2026-11-12 12:02 UTC：Nearly 100 killed, over 750 missing in Nepal flash floods - DD News。https://news.google.com/rss/articles/CBMiigFBVV95cUxQdklDc3I4dEdCRVc3VWVzZDhvQXZ1dTAzMnVhSTBaT3p2WDUwZHBaWkJxYVphZHhzeGhpUmRCdVNfYldSV0UxQzNES3FDeFk5WkRGeV8xaUpUOVNsRmRkZVBGTkppb0dGNFZ3Z3FLWGp4RXBkUF9OcHJtNjNqUFRIRHd2RzA2VnhoM2c?oc=5
-- 2026-11-12 10:21 UTC：Nepal-China Railway feasibility study completed, but high costs and flood risks raise concerns - The Farsight Nepal。https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXlUdmtZck5qOFkxV0ZvMHRjWnUtd1ZGUDZiTjJ2WmVnSldMN3dzaUlYcEl1OTRfbVR3YWZEcHZyTGFYdEhqUURtdjZpSm51cENaZ1hJNHZUSVljSGRlSWZPOVFBUjVNTWYyZWRWQ2xsZklBejBzREJmOWNYUjFsc01zYUZPd1hUeUJqN3pMZWZWek96cXdmMjB3OVZCd0V0N3lVZWNQbThZSUlwUFdnbDNjQzFKb1phRTFaZWIzOWJCV2c?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-16 13:35 UTC：Closure of Tatopani and Rasuwagadhi border points pushes up Nepal-China trade costs - OnlineKhabar English News
+- 2026-11-16 08:17 UTC：Newly appointed ambassadors to India, China and Israel take oath - OnlineKhabar English News
 - 2026-11-14 13:47 UTC：Rasuwagadhi Border Crossing Reopening Efforts Intensify with Bailey Bridge Construction - Ratopati
 - 2026-11-12 04:43 UTC：Transboundary data asymmetry and Himalayan resilience at COP31 | Hindustan Times - Hindustan Times
 

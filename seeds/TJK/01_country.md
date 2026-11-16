@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：3.4（2025 年）
 - 失业率（%，ILO 估算）：6.9（2025 年）
 - 外国直接投资净流入：8585 万美元（2025 年）
-- 外债总额：69.77 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：8.8（2024 年）
+- 外债总额：71.52 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：8.5（2025 年）
 - 中央政府债务占 GDP（%）：79.8（2001 年）
 - 货物和服务出口占 GDP（%）：11.2（2024 年）
 - 货物和服务进口占 GDP（%）：47.9（2024 年）
@@ -74,7 +74,7 @@
 - 非居民专利申请（件）：3.00（2022 年）
 - 高技术出口占制成品出口（%）：15.21（2023 年）
 - 高技术出口（现价美元）：3414 万美元（2023 年）
-- 2025 年有本国作者参与的论文约 684 篇（OpenAlex），主要学科：Medicine（145）、Engineering（71）、Social Sciences（70）、Agricultural and Biological Sciences（60）、Environmental Science（47）、Earth and Planetary Sciences（44）、Materials Science（44）、Mathematics（30）
+- 2025 年有本国作者参与的论文约 705 篇（OpenAlex），主要学科：Medicine（146）、Social Sciences（81）、Engineering（71）、Agricultural and Biological Sciences（60）、Environmental Science（47）、Earth and Planetary Sciences（44）、Materials Science（44）、Arts and Humanities（37）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/TJK ；Wikidata https://www.wikidata.org/ （CC0）。

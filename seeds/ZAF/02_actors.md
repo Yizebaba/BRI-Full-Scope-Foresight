@@ -29,6 +29,21 @@
 - Mamba Cement Company：在南非出现在 1 个项目中。例：2018 年 Mamba Cement Company donates money to repair local primary school and provide teaching equipment and support t
 - Fujian Police College：在南非出现在 1 个项目中。例：2019 年 Fujian Police College provides anti-crime training to 28 South African officers from the Johannesburg Metropol
 
+## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
+
+- 中国：南非对其出口 123.93 亿美元，自其进口 235.94 亿美元
+- 德国：南非对其出口 88.68 亿美元，自其进口 72.37 亿美元
+- 美国：南非对其出口 82.59 亿美元，自其进口 72.22 亿美元
+- 印度：南非对其出口 44.67 亿美元，自其进口 76.41 亿美元
+- 未列明地区：南非对其出口 97.75 亿美元，自其进口 2.55 亿美元
+- 日本：南非对其出口 54.65 亿美元，自其进口 24.26 亿美元
+- 英国：南非对其出口 53.51 亿美元，自其进口 15.51 亿美元
+- 莫桑比克：南非对其出口 52.51 亿美元，自其进口 9.22 亿美元
+- 纳米比亚：南非对其出口 41.55 亿美元，自其进口 15.38 亿美元
+- 阿联酋：南非对其出口 30.03 亿美元，自其进口 25.96 亿美元
+- 荷兰：南非对其出口 43.28 亿美元，自其进口 11.47 亿美元
+- 比利时：南非对其出口 41.38 亿美元，自其进口 10.61 亿美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：South Africa - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.zaf.html

@@ -19,6 +19,21 @@
 - 中国驻当地使领馆：在阿尔及利亚出现在 5 个项目中，涉及金额约 16 万美元。例：2018 年 Chinese Embassy donates 10m DZD to the Sahrawi Red Crescent to aid refugees in the camps of Tindouf；2018 年 Chinese Embassy grants 7m DZD to Algerian Red Crescent for purchase of a school bus；2010 年 Chinese Embassy in Algeria and 22 Chinese state-owned enterprises provide funding and in-kind donations for Ch
 - 中国进出口银行（China Eximbank）：在阿尔及利亚出现在 2 个项目中。例：2012 年 China Eximbank provides a loan in support of the 10,000 Housing Units Project；2015 年 China Eximbank provides loan to Anhui Construction Engineering Group for University Housing Construction Proje
 
+## 主要贸易伙伴（UN Comtrade，2024 年，本国申报）
+
+- Italy：阿尔及利亚对其出口 124.36 亿美元，自其进口 31.72 亿美元
+- 中国：阿尔及利亚对其出口 19.87 亿美元，自其进口 105.79 亿美元
+- 法国：阿尔及利亚对其出口 75.65 亿美元，自其进口 31.11 亿美元
+- 西班牙：阿尔及利亚对其出口 63.99 亿美元，自其进口 6.07 亿美元
+- 土耳其：阿尔及利亚对其出口 34.55 亿美元，自其进口 25.69 亿美元
+- 巴西：阿尔及利亚对其出口 13.19 亿美元，自其进口 30.25 亿美元
+- 美国：阿尔及利亚对其出口 25.94 亿美元，自其进口 13.83 亿美元
+- 荷兰：阿尔及利亚对其出口 24.10 亿美元，自其进口 6.04 亿美元
+- 德国：阿尔及利亚对其出口 2.29 亿美元，自其进口 22.94 亿美元
+- 突尼斯：阿尔及利亚对其出口 18.92 亿美元，自其进口 4.21 亿美元
+- 印度：阿尔及利亚对其出口 10.19 亿美元，自其进口 11.60 亿美元
+- 刚果（布）：阿尔及利亚对其出口 21.73 亿美元，自其进口 137 万美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Algeria - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.dza.html

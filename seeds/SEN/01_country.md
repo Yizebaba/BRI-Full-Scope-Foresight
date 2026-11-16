@@ -8,7 +8,7 @@
 - 政府首脑：巴西鲁·迪奥马耶·法耶（Bassirou Diomaye Faye）；职位：塞内加尔总统（President of Senegal）
 - 立法机构：塞内加尔国民议会（National Assembly）
 - 中央银行：西非国家中央银行（Central Bank of West African States）
-- 首都：达喀尔（Dakar）；货币：西非非洲金融共同体法郎（West African CFA franc）；官方语言：法语（French）、沃洛夫語（Wolof）、巴蘭塔語（Balanta）、Badyara
+- 首都：达喀尔（Dakar）；货币：西非非洲金融共同体法郎（West African CFA franc）；官方语言：法语（French）、巴蘭塔語（Balanta）、沃洛夫語（Wolof）、Badyara
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：1.5（2025 年）
 - 失业率（%，ILO 估算）：2.7（2025 年）
 - 外国直接投资净流入：3658 万美元（2025 年）
-- 外债总额：471.46 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：41.8（2024 年）
+- 外债总额：453.99 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：34.1（2025 年）
 - 货物和服务出口占 GDP（%）：32.5（2025 年）
 - 货物和服务进口占 GDP（%）：38.6（2025 年）
 - 经常账户余额占 GDP（%）：-19.8（2023 年）
@@ -72,7 +72,7 @@
 - 科技期刊论文（篇）：490（2023 年）
 - 高技术出口占制成品出口（%）：3.04（2024 年）
 - 高技术出口（现价美元）：4278 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 3,240 篇（OpenAlex），主要学科：Medicine（808）、Agricultural and Biological Sciences（533）、Social Sciences（330）、Environmental Science（318）、Engineering（191）、Computer Science（152）、Arts and Humanities（113）、Mathematics（101）
+- 2025 年有本国作者参与的论文约 3,111 篇（OpenAlex），主要学科：Medicine（808）、Agricultural and Biological Sciences（395）、Social Sciences（328）、Environmental Science（320）、Engineering（192）、Computer Science（151）、Arts and Humanities（114）、Mathematics（101）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/SEN ；Wikidata https://www.wikidata.org/ （CC0）。

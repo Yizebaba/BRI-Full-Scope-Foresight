@@ -26,6 +26,21 @@
 - China's fifth medical：在南苏丹出现在 1 个项目中。例：2018 年 China's fifth medical offers free consultations and donates medicine in Rumbek, South Sudan (link to #59017)
 - PetroChina：在南苏丹出现在 1 个项目中。例：2021 年 PetroChina provides flood relief materials to the South Sudanese government in November 2021
 
+## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
+
+- 马来西亚：南苏丹对其出口 12.05 亿美元，自其进口 6 万美元
+- 阿联酋：南苏丹对其出口 6.30 亿美元，自其进口 610 万美元
+- 新加坡：南苏丹对其出口 5.70 亿美元，自其进口 无数据
+- 乌干达：南苏丹对其出口 2151 万美元，自其进口 5.24 亿美元
+- Italy：南苏丹对其出口 3.83 亿美元，自其进口 4 万美元
+- 中国：南苏丹对其出口 3.58 亿美元，自其进口 177 万美元
+- 肯尼亚：南苏丹对其出口 151 万美元，自其进口 1.67 亿美元
+- 荷兰：南苏丹对其出口 无数据，自其进口 6551 万美元
+- 印度：南苏丹对其出口 3226 万美元，自其进口 1152 万美元
+- 阿曼：南苏丹对其出口 4083 万美元，自其进口 6 万美元
+- 泰国：南苏丹对其出口 3696 万美元，自其进口 2 万美元
+- 日本：南苏丹对其出口 2 万美元，自其进口 3567 万美元
+
 ## 发布旅行建议的外国政府
 
 - 美国国务院：South Sudan - Level 4: Do Not Travel。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ssd.html

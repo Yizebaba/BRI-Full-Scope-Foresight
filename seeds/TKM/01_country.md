@@ -22,7 +22,7 @@
 - 服务业增加值占 GDP（%）：48.9（2025 年）
 - 失业率（%，ILO 估算）：4.3（2025 年）
 - 外国直接投资净流入：7.01 亿美元（2025 年）
-- 外债总额：33.20 亿美元（2024 年）
+- 外债总额：28.51 亿美元（2025 年）
 - 外债还本付息占出口收入（%）：22.1（1997 年）
 - 货物和服务出口占 GDP（%）：14.5（2025 年）
 - 货物和服务进口占 GDP（%）：13.7（2025 年）
@@ -67,7 +67,7 @@
 - 科技期刊论文（篇）：31.31（2023 年）
 - 本国居民专利申请（件）：44.00（1999 年）
 - 非居民专利申请（件）：5.00（1999 年）
-- 2025 年有本国作者参与的论文约 102 篇（OpenAlex），主要学科：Energy（16）、Engineering（16）、Social Sciences（14）、Arts and Humanities（12）、Agricultural and Biological Sciences（7）、Computer Science（7）、Psychology（5）、Environmental Science（4）
+- 2025 年有本国作者参与的论文约 238 篇（OpenAlex），主要学科：Arts and Humanities（45）、Social Sciences（43）、Medicine（31）、Engineering（23）、Agricultural and Biological Sciences（17）、Energy（16）、Psychology（12）、Computer Science（11）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/TKM ；Wikidata https://www.wikidata.org/ （CC0）。

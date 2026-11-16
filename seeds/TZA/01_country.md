@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：3.3（2025 年）
 - 失业率（%，ILO 估算）：1.6（2025 年）
 - 外国直接投资净流入：17.18 亿美元（2025 年）
-- 外债总额：363.43 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：12.1（2024 年）
+- 外债总额：387.09 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：15.2（2025 年）
 - 货物和服务出口占 GDP（%）：19.0（2025 年）
 - 货物和服务进口占 GDP（%）：20.0（2025 年）
 - 经常账户余额占 GDP（%）：-3.0（2024 年）
@@ -75,7 +75,7 @@
 - 非居民专利申请（件）：1.00（2015 年）
 - 高技术出口占制成品出口（%）：3.01（2024 年）
 - 高技术出口（现价美元）：2743 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 8,605 篇（OpenAlex），主要学科：Medicine（2,197）、Social Sciences（1,612）、Agricultural and Biological Sciences（1,126）、Environmental Science（726）、Business, Management and Accounting（459）、Economics, Econometrics and Finance（365）、Engineering（343）、Computer Science（198）
+- 2025 年有本国作者参与的论文约 8,578 篇（OpenAlex），主要学科：Medicine（2,193）、Social Sciences（1,609）、Agricultural and Biological Sciences（1,117）、Environmental Science（725）、Business, Management and Accounting（458）、Economics, Econometrics and Finance（365）、Engineering（343）、Computer Science（198）
 - 阿卜杜勒-拉扎克·古尔纳（Abdulrazak Gurnah）：诺贝尔文学奖，2021 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

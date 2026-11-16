@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：42.2（2025 年）
 - 失业率（%，ILO 估算）：8.3（2025 年）
 - 外国直接投资净流入：16.47 亿美元（2025 年）
-- 外债总额：96.54 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：0.3（2024 年）
+- 外债总额：99.67 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：0.2（2025 年）
 - 货物和服务出口占 GDP（%）：25.8（2025 年）
 - 货物和服务进口占 GDP（%）：34.5（2025 年）
 - 经常账户余额占 GDP（%）：11.4（2000 年）
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：343（2024 年）
 - 高技术出口占制成品出口（%）：0.81（2022 年）
 - 高技术出口（现价美元）：2.06 亿美元（2022 年）
-- 2025 年有本国作者参与的论文约 96,695 篇（OpenAlex），主要学科：Medicine（20,669）、Engineering（13,598）、Social Sciences（6,733）、Agricultural and Biological Sciences（5,958）、Materials Science（5,133）、Environmental Science（4,894）、Computer Science（4,362）、Biochemistry, Genetics and Molecular Biology（3,979）
+- 2025 年有本国作者参与的论文约 96,795 篇（OpenAlex），主要学科：Medicine（20,652）、Engineering（13,627）、Social Sciences（6,754）、Agricultural and Biological Sciences（6,083）、Materials Science（5,125）、Environmental Science（4,916）、Computer Science（4,367）、Biochemistry, Genetics and Molecular Biology（3,982）
 - 纳尔吉斯·穆罕默迪（Narges Mohammadi）：诺贝尔和平奖，2023 年
 - 考切尔·比尔卡尔（Caucher Birkar）：菲尔兹奖，2018 年
 - 玛丽亚姆·米尔扎哈尼（Maryam Mirzakhani）：菲尔兹奖，2014 年

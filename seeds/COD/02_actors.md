@@ -19,8 +19,8 @@
 - 中国银行（Bank of China）：在刚果（金）出现在 1 个项目中，涉及金额约 5.31 亿美元。例：2016 年 Bank of China contributes $450 million — via Tranche A — to $1.59 billion syndicated loan for acquisition of 5
 - 中国政府：在刚果（金）出现在 65 个项目中，涉及金额约 4.26 亿美元。例：2011 年 Chinese Government provides $97.5 million for SNCC for acquisition of construction materials for track works (；2017 年 Chinese Government provides RMB 519 million grant for Central African Culture and Art Center Construction Proj；2015 年 Chinese Government provides $34.1 million interest-free loan for Comprehensive Government Office Building Cons
 - 中兴通讯（ZTE）：在刚果（金）出现在 1 个项目中，涉及金额约 2.11 亿美元。例：2011 年 CDB provides loan to Orange RDC to pay for ZTE’s services in 2011 (Linked to Project ID#382 and #60113)
-- 中信集团（CITIC）：在刚果（金）出现在 1 个项目中，涉及金额约 2.07 亿美元。例：2016 年 China CITIC Bank contributes — via Tranche B — to $1.59 billion syndicated loan for acquisition of 56% ownersh
 - China CITIC Bank：在刚果（金）出现在 1 个项目中，涉及金额约 2.07 亿美元。例：2016 年 China CITIC Bank contributes — via Tranche B — to $1.59 billion syndicated loan for acquisition of 56% ownersh
+- 中信集团（CITIC）：在刚果（金）出现在 1 个项目中，涉及金额约 2.07 亿美元。例：2016 年 China CITIC Bank contributes — via Tranche B — to $1.59 billion syndicated loan for acquisition of 56% ownersh
 - COVEC：在刚果（金）出现在 1 个项目中，涉及金额约 1.22 亿美元。例：2006 年 COVEC provides $60 million supplier’s credit to Gécamines
 - 招商局集团（China Merchants）：在刚果（金）出现在 1 个项目中，涉及金额约 1.15 亿美元。例：2017 年 China Merchants Bank contributes $100 million to syndicated loan for acquisition of 30% ownership stake in the
 - Sicomines：在刚果（金）出现在 1 个项目中，涉及金额约 7623 万美元。例：2008 年 Sicomines provides $50 million loan to Gécamines for workshop rehabilitation activities
@@ -32,6 +32,21 @@
 - Chinese Government, Congolese Overseas China Women’s Federation,：在刚果（金）出现在 1 个项目中。例：2016 年 Chinese Government, Congolese Overseas China Women’s Federation, and Chinese companies donate food, stationery
 - 中国商务部（MOFCOM）：在刚果（金）出现在 1 个项目中。例：2011 年 China’s Ministry of Commerce donates office equipment to University of Kinshasa
 - 国家国际发展合作署（CIDCA）：在刚果（金）出现在 1 个项目中。例：2019 年 CIDCA provides Democratic Republic of the Congo with three air shipment worth of supplies to fight Ebola outbr
+
+## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
+
+- 中国：刚果（金）对其出口 232.82 亿美元，自其进口 47.76 亿美元
+- 南非：刚果（金）对其出口 40.05 亿美元，自其进口 8.62 亿美元
+- 阿联酋：刚果（金）对其出口 14.63 亿美元，自其进口 16.80 亿美元
+- 中国香港：刚果（金）对其出口 23.18 亿美元，自其进口 2973 万美元
+- 坦桑尼亚：刚果（金）对其出口 18.47 亿美元，自其进口 2.42 亿美元
+- 新加坡：刚果（金）对其出口 17.81 亿美元，自其进口 3503 万美元
+- 越南：刚果（金）对其出口 9.76 亿美元，自其进口 4074 万美元
+- 莫桑比克：刚果（金）对其出口 9.78 亿美元，自其进口 2624 万美元
+- 印度：刚果（金）对其出口 1.05 亿美元，自其进口 6.74 亿美元
+- 印度尼西亚：刚果（金）对其出口 6.86 亿美元，自其进口 3177 万美元
+- 瑞士：刚果（金）对其出口 5.66 亿美元，自其进口 1.01 亿美元
+- 赞比亚：刚果（金）对其出口 1.12 亿美元，自其进口 5.16 亿美元
 
 ## 发布旅行建议的外国政府
 

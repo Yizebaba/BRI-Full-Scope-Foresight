@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：-1.4（2025 年）
 - 失业率（%，ILO 估算）：5.3（2025 年）
 - 外国直接投资净流入：2.63 亿美元（2025 年）
-- 外债总额：38.69 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：9.5（2024 年）
+- 外债总额：39.72 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：21.3（2025 年）
 - 中央政府债务占 GDP（%）：36.6（1994 年）
 - 货物和服务出口占 GDP（%）：54.4（2024 年）
 - 货物和服务进口占 GDP（%）：64.6（2024 年）
@@ -74,7 +74,7 @@
 - 非居民专利申请（件）：17.00（1986 年）
 - 高技术出口占制成品出口（%）：3.21（2024 年）
 - 高技术出口（现价美元）：285 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 673 篇（OpenAlex），主要学科：Social Sciences（164）、Medicine（88）、Environmental Science（86）、Engineering（63）、Agricultural and Biological Sciences（59）、Business, Management and Accounting（42）、Computer Science（40）、Arts and Humanities（22）
+- 2025 年有本国作者参与的论文约 670 篇（OpenAlex），主要学科：Social Sciences（164）、Medicine（88）、Environmental Science（86）、Engineering（63）、Agricultural and Biological Sciences（60）、Business, Management and Accounting（42）、Computer Science（40）、Arts and Humanities（22）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/FJI ；Wikidata https://www.wikidata.org/ （CC0）。

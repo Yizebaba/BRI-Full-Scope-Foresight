@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：9.2（2025 年）
 - 失业率（%，ILO 估算）：7.8（2025 年）
 - 外国直接投资净流入：20.52 亿美元（2025 年）
-- 外债总额：40.48 亿美元（2023 年）
-- 外债还本付息占出口收入（%）：25.1（2023 年）
+- 外债总额：95.77 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：44.1（2025 年）
 - 货物和服务出口占 GDP（%）：52.5（2010 年）
 - 货物和服务进口占 GDP（%）：38.4（2010 年）
 - 经常账户余额占 GDP（%）：-55.3（2025 年）
@@ -61,7 +61,7 @@
 - 科技期刊论文（篇）：26.34（2023 年）
 - 高技术出口占制成品出口（%）：10.37（2024 年）
 - 高技术出口（现价美元）：1329 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 81 篇（OpenAlex），主要学科：Medicine（30）、Earth and Planetary Sciences（15）、Social Sciences（9）、Environmental Science（7）、Agricultural and Biological Sciences（5）、Psychology（5）、Biochemistry, Genetics and Molecular Biology（2）、Engineering（2）
+- 2025 年有本国作者参与的论文约 81 篇（OpenAlex），主要学科：Medicine（30）、Earth and Planetary Sciences（15）、Social Sciences（9）、Environmental Science（7）、Agricultural and Biological Sciences（6）、Psychology（5）、Biochemistry, Genetics and Molecular Biology（2）、Engineering（2）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/SUR ；Wikidata https://www.wikidata.org/ （CC0）。

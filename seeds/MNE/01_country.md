@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：3.9（2025 年）
 - 失业率（%，ILO 估算）：13.6（2025 年）
 - 外国直接投资净流入：6.76 亿美元（2025 年）
-- 外债总额：87.41 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：29.8（2024 年）
+- 外债总额：109.35 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：30.4（2025 年）
 - 货物和服务出口占 GDP（%）：40.1（2025 年）
 - 货物和服务进口占 GDP（%）：65.7（2025 年）
 - 经常账户余额占 GDP（%）：-20.4（2025 年）
@@ -77,7 +77,7 @@
 - 非居民专利申请（件）：1.00（2024 年）
 - 高技术出口占制成品出口（%）：14.46（2024 年）
 - 高技术出口（现价美元）：3352 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 1,048 篇（OpenAlex），主要学科：Medicine（179）、Agricultural and Biological Sciences（131）、Engineering（110）、Social Sciences（110）、Physics and Astronomy（99）、Business, Management and Accounting（55）、Environmental Science（55）、Arts and Humanities（54）
+- 2025 年有本国作者参与的论文约 1,035 篇（OpenAlex），主要学科：Medicine（178）、Agricultural and Biological Sciences（127）、Engineering（110）、Social Sciences（108）、Physics and Astronomy（99）、Environmental Science（55）、Business, Management and Accounting（54）、Computer Science（54）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/MNE ；Wikidata https://www.wikidata.org/ （CC0）。

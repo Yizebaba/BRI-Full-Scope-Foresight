@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：8.8（2025 年）
 - 失业率（%，ILO 估算）：4.6（2025 年）
 - 外国直接投资净流入：44.73 亿美元（2025 年）
-- 外债总额：702.56 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：36.0（2024 年）
+- 外债总额：880.34 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：29.2（2025 年）
 - 货物和服务出口占 GDP（%）：22.0（2025 年）
 - 货物和服务进口占 GDP（%）：35.4（2025 年）
 - 经常账户余额占 GDP（%）：-3.9（2025 年）
@@ -77,7 +77,7 @@
 - 非居民专利申请（件）：251（2024 年）
 - 高技术出口占制成品出口（%）：1.73（2024 年）
 - 高技术出口（现价美元）：9632 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 58,522 篇（OpenAlex），主要学科：Social Sciences（15,446）、Arts and Humanities（10,108）、Medicine（5,325）、Business, Management and Accounting（3,976）、Engineering（3,694）、Economics, Econometrics and Finance（3,572）、Psychology（2,480）、Computer Science（2,420）
+- 2025 年有本国作者参与的论文约 58,858 篇（OpenAlex），主要学科：Social Sciences（15,513）、Arts and Humanities（10,188）、Medicine（5,344）、Business, Management and Accounting（4,002）、Engineering（3,707）、Economics, Econometrics and Finance（3,597）、Psychology（2,494）、Agricultural and Biological Sciences（2,451）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/UZB ；Wikidata https://www.wikidata.org/ （CC0）。

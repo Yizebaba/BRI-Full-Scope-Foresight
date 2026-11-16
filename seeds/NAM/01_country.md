@@ -8,7 +8,7 @@
 - 政府首脑：Elijah Ngurare；职位：纳米比亚总理（Prime Minister of the Republic of Namibia）
 - 立法机构：纳米比亚议会（Parliament of Namibia）
 - 中央银行：纳米比亚银行（Bank of Namibia）
-- 首都：温得和克（Windhoek）；货币：南非兰特（rand）、纳米比亚元（Namibian dollar）；官方语言：英语（English）
+- 首都：温得和克（Windhoek）；货币：纳米比亚元（Namibian dollar）、南非兰特（rand）；官方语言：英语（English）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -74,7 +74,7 @@
 - 非居民专利申请（件）：8.00（2024 年）
 - 高技术出口占制成品出口（%）：0.12（2024 年）
 - 高技术出口（现价美元）：94 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 1,180 篇（OpenAlex），主要学科：Social Sciences（221）、Environmental Science（145）、Medicine（144）、Agricultural and Biological Sciences（134）、Business, Management and Accounting（82）、Computer Science（73）、Engineering（67）、Psychology（43）
+- 2025 年有本国作者参与的论文约 1,173 篇（OpenAlex），主要学科：Social Sciences（222）、Environmental Science（145）、Medicine（142）、Agricultural and Biological Sciences（129）、Business, Management and Accounting（83）、Computer Science（73）、Engineering（67）、Psychology（43）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/NAM ；Wikidata https://www.wikidata.org/ （CC0）。

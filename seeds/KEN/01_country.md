@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：4.1（2025 年）
 - 失业率（%，ILO 估算）：5.4（2025 年）
 - 外国直接投资净流入：11.11 亿美元（2025 年）
-- 外债总额：428.86 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：27.2（2024 年）
+- 外债总额：463.13 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：22.6（2025 年）
 - 货物和服务出口占 GDP（%）：15.8（2025 年）
 - 货物和服务进口占 GDP（%）：21.8（2025 年）
 - 经常账户余额占 GDP（%）：-2.1（2025 年）
@@ -77,7 +77,7 @@
 - 非居民专利申请（件）：38.00（2024 年）
 - 高技术出口占制成品出口（%）：3.15（2024 年）
 - 高技术出口（现价美元）：6698 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 15,149 篇（OpenAlex），主要学科：Medicine（3,156）、Social Sciences（2,694）、Agricultural and Biological Sciences（2,200）、Environmental Science（1,234）、Business, Management and Accounting（1,200）、Economics, Econometrics and Finance（749）、Arts and Humanities（486）、Engineering（471）
+- 2025 年有本国作者参与的论文约 15,140 篇（OpenAlex），主要学科：Medicine（3,130）、Social Sciences（2,682）、Agricultural and Biological Sciences（2,252）、Environmental Science（1,233）、Business, Management and Accounting（1,197）、Economics, Econometrics and Finance（751）、Arts and Humanities（485）、Engineering（472）
 - 旺加里·马塔伊（Wangari Muta Maathai）：诺贝尔和平奖，2004 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

@@ -22,8 +22,8 @@
 - 通货膨胀率（CPI，%）：13.4（2019 年）
 - 失业率（%，ILO 估算）：13.6（2025 年）
 - 外国直接投资净流入：8.04 亿美元（2011 年）
-- 外债总额：47.57 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：3.1（2010 年）
+- 外债总额：59.50 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：3.2（2010 年）
 - 货物和服务出口占 GDP（%）：6.8（2022 年）
 - 货物和服务进口占 GDP（%）：28.7（2022 年）
 - 经常账户余额占 GDP（%）：-0.6（2010 年）
@@ -77,7 +77,7 @@
 - 非居民专利申请（件）：23.00（2023 年）
 - 高技术出口占制成品出口（%）：1.38（2010 年）
 - 高技术出口（现价美元）：3881 万美元（2010 年）
-- 2025 年有本国作者参与的论文约 2,836 篇（OpenAlex），主要学科：Medicine（902）、Social Sciences（276）、Agricultural and Biological Sciences（237）、Dentistry（200）、Engineering（188）、Computer Science（162）、Environmental Science（114）、Biochemistry, Genetics and Molecular Biology（91）
+- 2025 年有本国作者参与的论文约 2,860 篇（OpenAlex），主要学科：Medicine（899）、Social Sciences（279）、Agricultural and Biological Sciences（239）、Engineering（200）、Dentistry（200）、Computer Science（163）、Environmental Science（116）、Biochemistry, Genetics and Molecular Biology（91）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/SYR ；Wikidata https://www.wikidata.org/ （CC0）。

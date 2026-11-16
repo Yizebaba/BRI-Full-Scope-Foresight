@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：14.2（2025 年）
 - 失业率（%，ILO 估算）：3.0（2025 年）
 - 外国直接投资净流入：19.08 亿美元（2025 年）
-- 外债总额：374.15 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：9.4（2024 年）
+- 外债总额：388.37 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：4.8（2025 年）
 - 货物和服务出口占 GDP（%）：35.1（2024 年）
 - 货物和服务进口占 GDP（%）：33.9（2024 年）
 - 经常账户余额占 GDP（%）：8.2（2025 年）
@@ -77,7 +77,7 @@
 - 非居民专利申请（件）：14.00（2023 年）
 - 高技术出口占制成品出口（%）：1.58（2023 年）
 - 高技术出口（现价美元）：2081 万美元（2023 年）
-- 2025 年有本国作者参与的论文约 13,297 篇（OpenAlex），主要学科：Medicine（2,977）、Social Sciences（2,406）、Agricultural and Biological Sciences（1,302）、Environmental Science（1,097）、Business, Management and Accounting（998）、Engineering（647）、Economics, Econometrics and Finance（643）、Computer Science（460）
+- 2025 年有本国作者参与的论文约 13,255 篇（OpenAlex），主要学科：Medicine（2,957）、Social Sciences（2,406）、Agricultural and Biological Sciences（1,303）、Environmental Science（1,093）、Business, Management and Accounting（1,003）、Engineering（647）、Economics, Econometrics and Finance（644）、Computer Science（463）
 - 科菲·安南（Kofi Annan）：诺贝尔和平奖，2001 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

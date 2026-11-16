@@ -9,7 +9,3 @@
 ## 各国政府旅行建议更新（经 World Monitor）
 
 - 2026-10-19 15:55 UTC：UK FCDO Turkey。https://www.gov.uk/foreign-travel-advice/turkey 
-
-## 地震（USGS，M4.5+，近 7 天）
-
-- 2026-11-09 12:28 UTC：M4.7，17 km NW of İmamoğlu, Turkey。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx3n 

@@ -4,7 +4,7 @@
 
 ## 国家机构与领导人（Wikidata，现任）
 
-- 国家元首：拉扎勒斯·查克沃拉（Lazarus Chakwera）、彼得·穆塔里卡（Peter Mutharika）；职位：马拉维总统（President of Malawi）
+- 国家元首：彼得·穆塔里卡（Peter Mutharika）、拉扎勒斯·查克沃拉（Lazarus Chakwera）；职位：马拉维总统（President of Malawi）
 - 政府首脑：拉扎勒斯·查克沃拉（Lazarus Chakwera）；职位：马拉维总统（President of Malawi）
 - 立法机构：国民议会（National Assembly）
 - 中央银行：马拉维储备银行（Reserve Bank of Malawi）
@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：28.4（2025 年）
 - 失业率（%，ILO 估算）：5.1（2025 年）
 - 外国直接投资净流入：5.30 亿美元（2025 年）
-- 外债总额：37.44 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：10.6（2024 年）
+- 外债总额：40.48 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：11.3（2025 年）
 - 中央政府债务占 GDP（%）：61.8（2023 年）
 - 货物和服务出口占 GDP（%）：10.6（2025 年）
 - 货物和服务进口占 GDP（%）：28.8（2025 年）
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：1.00（2016 年）
 - 高技术出口占制成品出口（%）：1.65（2024 年）
 - 高技术出口（现价美元）：124 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 1,692 篇（OpenAlex），主要学科：Medicine（668）、Social Sciences（202）、Agricultural and Biological Sciences（179）、Environmental Science（117）、Health Professions（75）、Economics, Econometrics and Finance（55）、Immunology and Microbiology（54）、Nursing（54）
+- 2025 年有本国作者参与的论文约 1,693 篇（OpenAlex），主要学科：Medicine（669）、Social Sciences（202）、Agricultural and Biological Sciences（179）、Environmental Science（117）、Health Professions（75）、Economics, Econometrics and Finance（55）、Immunology and Microbiology（54）、Nursing（54）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/MWI ；Wikidata https://www.wikidata.org/ （CC0）。

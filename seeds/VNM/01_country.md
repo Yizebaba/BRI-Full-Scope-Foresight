@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：3.3（2025 年）
 - 失业率（%，ILO 估算）：1.5（2025 年）
 - 外国直接投资净流入：219.90 亿美元（2025 年）
-- 外债总额：1329.07 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：7.7（2024 年）
+- 外债总额：1317.77 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：5.5（2025 年）
 - 货物和服务出口占 GDP（%）：98.2（2025 年）
 - 货物和服务进口占 GDP（%）：92.1（2025 年）
 - 经常账户余额占 GDP（%）：6.4（2025 年）
@@ -77,7 +77,7 @@
 - 非居民专利申请（件）：8,678（2024 年）
 - 高技术出口占制成品出口（%）：44.26（2023 年）
 - 高技术出口（现价美元）：1327.77 亿美元（2023 年）
-- 2025 年有本国作者参与的论文约 43,118 篇（OpenAlex），主要学科：Medicine（8,267）、Engineering（6,253）、Social Sciences（4,424）、Computer Science（3,856）、Agricultural and Biological Sciences（3,373）、Business, Management and Accounting（3,225）、Environmental Science（2,045）、Economics, Econometrics and Finance（1,614）
+- 2025 年有本国作者参与的论文约 43,354 篇（OpenAlex），主要学科：Medicine（8,262）、Engineering（6,257）、Social Sciences（4,423）、Computer Science（3,861）、Agricultural and Biological Sciences（3,589）、Business, Management and Accounting（3,229）、Environmental Science（2,059）、Economics, Econometrics and Finance（1,614）
 - 吴宝珠（Ngô Bảo Châu）：菲尔兹奖，2010 年
 - 黎德寿（Le Duc Tho）：诺贝尔和平奖，1973 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。

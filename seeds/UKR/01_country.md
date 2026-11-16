@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：12.7（2025 年）
 - 失业率（%，ILO 估算）：9.8（2021 年）
 - 外国直接投资净流入：16.23 亿美元（2025 年）
-- 外债总额：1934.92 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：15.8（2024 年）
+- 外债总额：2502.57 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：16.5（2025 年）
 - 中央政府债务占 GDP（%）：58.7（2020 年）
 - 货物和服务出口占 GDP（%）：25.3（2025 年）
 - 货物和服务进口占 GDP（%）：51.8（2025 年）
@@ -79,7 +79,7 @@
 - 非居民专利申请（件）：1,590（2024 年）
 - 高技术出口占制成品出口（%）：6.37（2024 年）
 - 高技术出口（现价美元）：8.10 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 108,946 篇（OpenAlex），主要学科：Social Sciences（27,760）、Engineering（12,231）、Business, Management and Accounting（9,591）、Arts and Humanities（9,388）、Medicine（8,767）、Economics, Econometrics and Finance（7,536）、Computer Science（6,587）、Agricultural and Biological Sciences（5,735）
+- 2025 年有本国作者参与的论文约 108,186 篇（OpenAlex），主要学科：Social Sciences（27,788）、Engineering（12,243）、Business, Management and Accounting（9,620）、Arts and Humanities（9,399）、Medicine（8,784）、Economics, Econometrics and Finance（7,549）、Computer Science（6,587）、Agricultural and Biological Sciences（4,866）
 - 马林娜·维亚佐夫斯卡（Maryna Viazovska）：菲尔兹奖，2022 年
 - 弗拉基米尔·德林费尔德（Vladimir Drinfeld）：菲尔兹奖，1990 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。

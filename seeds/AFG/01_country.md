@@ -8,7 +8,7 @@
 - 政府首脑：穆罕默德·哈桑·阿洪德（Mohammad Hasan Akhund）；职位：阿富汗总理（Prime Minister of Afghanistan）
 - 立法机构：无数据
 - 中央银行：阿富汗中央银行（Da Afghanistan Bank）
-- 首都：喀布尔（Kabul）；货币：阿富汗尼（afghani）；官方语言：努里斯坦语支（Nuristani）、达里语（Dari）、土库曼语（Turkmen）、乌孜别克语（Uzbek）、帕米尔诸语言（Pamir）、阿拉伯语（Arabic）、帕沙伊语（Pashayi）、俾路支语（Balochi）、普什图语（Pashto）
+- 首都：喀布尔（Kabul）；货币：阿富汗尼（afghani）；官方语言：努里斯坦语支（Nuristani）、达里语（Dari）、乌孜别克语（Uzbek）、土库曼语（Turkmen）、帕米尔诸语言（Pamir）、阿拉伯语（Arabic）、俾路支语（Balochi）、帕沙伊语（Pashayi）、普什图语（Pashto）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -23,7 +23,7 @@
 - 通货膨胀率（CPI，%）：-6.6（2024 年）
 - 失业率（%，ILO 估算）：13.4（2025 年）
 - 外国直接投资净流入：2060 万美元（2021 年）
-- 外债总额：33.44 亿美元（2024 年）
+- 外债总额：34.19 亿美元（2025 年）
 - 外债还本付息占出口收入（%）：2.7（2020 年）
 - 货物和服务出口占 GDP（%）：15.7（2024 年）
 - 货物和服务进口占 GDP（%）：68.1（2024 年）
@@ -69,7 +69,7 @@
 - 科技期刊论文（篇）：169（2023 年）
 - 高技术出口占制成品出口（%）：0.00（2019 年）
 - 高技术出口（现价美元）：0 美元（2019 年）
-- 2025 年有本国作者参与的论文约 3,258 篇（OpenAlex），主要学科：Social Sciences（663）、Medicine（536）、Agricultural and Biological Sciences（307）、Arts and Humanities（299）、Business, Management and Accounting（191）、Environmental Science（161）、Engineering（137）、Computer Science（135）
+- 2025 年有本国作者参与的论文约 3,272 篇（OpenAlex），主要学科：Social Sciences（664）、Medicine（543）、Agricultural and Biological Sciences（310）、Arts and Humanities（298）、Business, Management and Accounting（191）、Environmental Science（163）、Engineering（137）、Computer Science（135）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/AFG ；Wikidata https://www.wikidata.org/ （CC0）。

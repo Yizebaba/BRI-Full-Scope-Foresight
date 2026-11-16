@@ -8,7 +8,7 @@
 - 政府首脑：曼努埃尔·奥萨·恩苏埃·恩苏阿（Manuel Osa Nsue Nsua）；职位：赤道几内亚总理（Prime Minister of Equatorial Guinea）
 - 立法机构：议会（Parliament of Equatorial Guinea）
 - 中央银行：中非国家银行（Bank of Central African States）
-- 首都：拉巴斯城（Ciudad de la Paz）；货币：中非非洲金融共同体法郎（Central African CFA franc）；官方语言：法语（French）、葡萄牙语（Portuguese）、西班牙语（Spanish）
+- 首都：拉巴斯城（Ciudad de la Paz）；货币：中非非洲金融共同体法郎（Central African CFA franc）；官方语言：西班牙语（Spanish）、法语（French）、葡萄牙语（Portuguese）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -23,6 +23,8 @@
 - 通货膨胀率（CPI，%）：2.9（2024 年）
 - 失业率（%，ILO 估算）：8.3（2025 年）
 - 外国直接投资净流入：2.94 亿美元（2025 年）
+- 外债总额：11.03 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：5.0（2023 年）
 - 货物和服务出口占 GDP（%）：46.5（2025 年）
 - 货物和服务进口占 GDP（%）：28.4（2025 年）
 - 经常账户余额占 GDP（%）：-148.0（1996 年）

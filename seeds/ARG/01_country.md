@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：219.9（2024 年）
 - 失业率（%，ILO 估算）：7.1（2025 年）
 - 外国直接投资净流入：43.62 亿美元（2025 年）
-- 外债总额：2423.57 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：38.3（2024 年）
+- 外债总额：2616.53 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：29.6（2025 年）
 - 货物和服务出口占 GDP（%）：15.6（2025 年）
 - 货物和服务进口占 GDP（%）：14.8（2025 年）
 - 经常账户余额占 GDP（%）：-1.1（2025 年）
@@ -77,7 +77,7 @@
 - 非居民专利申请（件）：3,146（2024 年）
 - 高技术出口占制成品出口（%）：3.85（2024 年）
 - 高技术出口（现价美元）：4.09 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 36,130 篇（OpenAlex），主要学科：Social Sciences（8,241）、Medicine（6,076）、Agricultural and Biological Sciences（4,273）、Arts and Humanities（3,916）、Environmental Science（1,986）、Engineering（1,446）、Earth and Planetary Sciences（1,154）、Physics and Astronomy（1,082）
+- 2025 年有本国作者参与的论文约 36,263 篇（OpenAlex），主要学科：Social Sciences（8,292）、Medicine（6,078）、Agricultural and Biological Sciences（4,289）、Arts and Humanities（3,916）、Environmental Science（2,006）、Engineering（1,442）、Earth and Planetary Sciences（1,194）、Physics and Astronomy（1,086）
 - 塞萨尔·米尔斯坦（César Milstein）：诺贝尔生理学或医学奖，1984 年
 - 阿道弗·佩雷斯·埃斯基维尔（Adolfo Pérez Esquivel）：诺贝尔和平奖，1980 年
 - 卢伊斯·弗德里科·莱洛伊尔（Luis Federico Leloir）：诺贝尔化学奖，1970 年

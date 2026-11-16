@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：5.6（2025 年）
 - 失业率（%，ILO 估算）：5.5（2025 年）
 - 外国直接投资净流入：3.74 亿美元（2025 年）
-- 外债总额：121.99 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：11.4（2024 年）
+- 外债总额：123.27 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：7.5（2025 年）
 - 中央政府债务占 GDP（%）：6.4（2010 年）
 - 货物和服务出口占 GDP（%）：43.0（2025 年）
 - 货物和服务进口占 GDP（%）：36.8（2025 年）
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：49.00（2024 年）
 - 高技术出口占制成品出口（%）：2.91（2024 年）
 - 高技术出口（现价美元）：3707 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 12,525 篇（OpenAlex），主要学科：Social Sciences（1,736）、Agricultural and Biological Sciences（1,350）、Arts and Humanities（1,031）、Engineering（992）、Physics and Astronomy（954）、Medicine（794）、Materials Science（748）、Economics, Econometrics and Finance（746）
+- 2025 年有本国作者参与的论文约 12,246 篇（OpenAlex），主要学科：Social Sciences（1,741）、Agricultural and Biological Sciences（1,042）、Arts and Humanities（1,029）、Engineering（992）、Physics and Astronomy（955）、Medicine（795）、Materials Science（749）、Economics, Econometrics and Finance（747）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/AZE ；Wikidata https://www.wikidata.org/ （CC0）。

@@ -8,7 +8,7 @@
 - 政府首脑：无数据；职位：秘鲁总统（President of Peru）
 - 立法机构：共和国国会（Congress of the Republic of Peru）
 - 中央银行：秘鲁中央储备银行（Central Reserve Bank of Peru）
-- 首都：利马（Lima）；货币：秘鲁新索尔（Nuevo sol）；官方语言：艾马拉语（Aymara）、西班牙语（Spanish）、克丘亚语（Quechua）
+- 首都：利马（Lima）；货币：秘鲁新索尔（Nuevo sol）；官方语言：克丘亚语（Quechua）、艾马拉语（Aymara）、西班牙语（Spanish）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：1.5（2025 年）
 - 失业率（%，ILO 估算）：5.1（2025 年）
 - 外国直接投资净流入：103.53 亿美元（2025 年）
-- 外债总额：932.69 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：17.1（2024 年）
+- 外债总额：942.70 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：17.7（2025 年）
 - 中央政府债务占 GDP（%）：35.2（2021 年）
 - 货物和服务出口占 GDP（%）：30.0（2025 年）
 - 货物和服务进口占 GDP（%）：21.8（2025 年）
@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：1,081（2024 年）
 - 高技术出口占制成品出口（%）：5.21（2024 年）
 - 高技术出口（现价美元）：2.86 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 21,095 篇（OpenAlex），主要学科：Social Sciences（4,969）、Medicine（3,534）、Agricultural and Biological Sciences（1,845）、Business, Management and Accounting（1,651）、Environmental Science（1,297）、Engineering（1,225）、Psychology（1,057）、Arts and Humanities（993）
+- 2025 年有本国作者参与的论文约 21,120 篇（OpenAlex），主要学科：Social Sciences（4,968）、Medicine（3,538）、Agricultural and Biological Sciences（1,858）、Business, Management and Accounting（1,651）、Environmental Science（1,296）、Engineering（1,230）、Psychology（1,059）、Arts and Humanities（993）
 - 马里奥·巴尔加斯·略萨（Mario Vargas Llosa）：诺贝尔文学奖，2010 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

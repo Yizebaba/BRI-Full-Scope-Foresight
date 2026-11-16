@@ -23,7 +23,7 @@
 - 通货膨胀率（CPI，%）：3.6（2025 年）
 - 失业率（%，ILO 估算）：5.2（2025 年）
 - 外国直接投资净流入：77.63 亿美元（2025 年）
-- 外债总额：53.88 亿美元（2024 年）
+- 外债总额：65.40 亿美元（2025 年）
 - 外债还本付息占出口收入（%）：3.7（2024 年）
 - 货物和服务出口占 GDP（%）：41.4（2025 年）
 - 货物和服务进口占 GDP（%）：62.3（2025 年）
@@ -67,7 +67,7 @@
 - 科技期刊论文（篇）：54.90（2023 年）
 - 高技术出口占制成品出口（%）：0.90（2016 年）
 - 高技术出口（现价美元）：80 万美元（2016 年）
-- 2025 年有本国作者参与的论文约 653 篇（OpenAlex），主要学科：Medicine（367）、Agricultural and Biological Sciences（60）、Environmental Science（40）、Social Sciences（28）、Engineering（26）、Economics, Econometrics and Finance（20）、Mathematics（14）、Immunology and Microbiology（13）
+- 2025 年有本国作者参与的论文约 661 篇（OpenAlex），主要学科：Medicine（370）、Agricultural and Biological Sciences（62）、Environmental Science（40）、Social Sciences（29）、Engineering（26）、Economics, Econometrics and Finance（20）、Mathematics（14）、Immunology and Microbiology（13）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/GIN ；Wikidata https://www.wikidata.org/ （CC0）。

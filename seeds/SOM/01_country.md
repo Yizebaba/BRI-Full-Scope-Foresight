@@ -21,8 +21,8 @@
 - 制造业增加值占 GDP（%）：3.9（1990 年）
 - 失业率（%，ILO 估算）：18.9（2025 年）
 - 外国直接投资净流入：8.34 亿美元（2025 年）
-- 外债总额：17.99 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：0.7（2024 年）
+- 外债总额：17.87 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：0.5（2025 年）
 - 中央政府债务占 GDP（%）：12.7（2024 年）
 - 货物和服务出口占 GDP（%）：29.2（2025 年）
 - 货物和服务进口占 GDP（%）：98.8（2025 年）
@@ -63,7 +63,7 @@
 - 科技期刊论文（篇）：152（2023 年）
 - 本国居民专利申请（件）：1.00（1984 年）
 - 非居民专利申请（件）：7.00（1985 年）
-- 2025 年有本国作者参与的论文约 1,199 篇（OpenAlex），主要学科：Medicine（419）、Social Sciences（217）、Economics, Econometrics and Finance（78）、Business, Management and Accounting（66）、Agricultural and Biological Sciences（63）、Computer Science（42）、Health Professions（41）、Environmental Science（40）
+- 2025 年有本国作者参与的论文约 1,205 篇（OpenAlex），主要学科：Medicine（422）、Social Sciences（215）、Economics, Econometrics and Finance（78）、Agricultural and Biological Sciences（68）、Business, Management and Accounting（66）、Computer Science（42）、Health Professions（41）、Environmental Science（40）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/SOM ；Wikidata https://www.wikidata.org/ （CC0）。

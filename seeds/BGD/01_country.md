@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：8.8（2025 年）
 - 失业率（%，ILO 估算）：3.8（2025 年）
 - 外国直接投资净流入：17.85 亿美元（2025 年）
-- 外债总额：1044.87 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：15.8（2024 年）
+- 外债总额：1134.38 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：15.7（2025 年）
 - 中央政府债务占 GDP（%）：31.2（2003 年）
 - 货物和服务出口占 GDP（%）：11.1（2025 年）
 - 货物和服务进口占 GDP（%）：16.8（2025 年）
@@ -74,7 +74,7 @@
 - 非居民专利申请（件）：302（2024 年）
 - 高技术出口占制成品出口（%）：0.54（2018 年）
 - 高技术出口（现价美元）：2.04 亿美元（2018 年）
-- 2025 年有本国作者参与的论文约 37,738 篇（OpenAlex），主要学科：Medicine（7,214）、Engineering（4,546）、Computer Science（4,279）、Agricultural and Biological Sciences（3,736）、Social Sciences（3,532）、Environmental Science（2,425）、Business, Management and Accounting（1,673）、Materials Science（1,527）
+- 2025 年有本国作者参与的论文约 37,819 篇（OpenAlex），主要学科：Medicine（7,207）、Engineering（4,543）、Computer Science（4,282）、Agricultural and Biological Sciences（3,745）、Social Sciences（3,518）、Environmental Science（2,429）、Business, Management and Accounting（1,678）、Materials Science（1,527）
 - 穆罕默德·尤努斯（Muhammad Yunus）：诺贝尔和平奖，2006 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

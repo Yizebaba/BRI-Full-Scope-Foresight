@@ -23,7 +23,7 @@
 - 通货膨胀率（CPI，%）：1.8（2025 年）
 - 失业率（%，ILO 估算）：20.2（2025 年）
 - 外国直接投资净流入：3.79 亿美元（2025 年）
-- 外债总额：68.17 亿美元（2024 年）
+- 外债总额：78.89 亿美元（2025 年）
 - 外债还本付息占出口收入（%）：15.4（2021 年）
 - 货物和服务出口占 GDP（%）：55.5（2025 年）
 - 货物和服务进口占 GDP（%）：29.4（2025 年）
@@ -71,7 +71,7 @@
 - 科技期刊论文（篇）：90.57（2023 年）
 - 高技术出口占制成品出口（%）：1.77（2023 年）
 - 高技术出口（现价美元）：4004 万美元（2023 年）
-- 2025 年有本国作者参与的论文约 523 篇（OpenAlex），主要学科：Medicine（295）、Environmental Science（36）、Immunology and Microbiology（31）、Social Sciences（25）、Agricultural and Biological Sciences（23）、Economics, Econometrics and Finance（16）、Biochemistry, Genetics and Molecular Biology（15）、Mathematics（13）
+- 2025 年有本国作者参与的论文约 511 篇（OpenAlex），主要学科：Medicine（284）、Environmental Science（36）、Immunology and Microbiology（29）、Agricultural and Biological Sciences（25）、Social Sciences（25）、Economics, Econometrics and Finance（16）、Biochemistry, Genetics and Molecular Biology（15）、Mathematics（12）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/GAB ；Wikidata https://www.wikidata.org/ （CC0）。

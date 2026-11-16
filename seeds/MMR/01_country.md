@@ -23,8 +23,8 @@
 - 通货膨胀率（CPI，%）：8.8（2019 年）
 - 失业率（%，ILO 估算）：3.0（2025 年）
 - 外国直接投资净流入：10.67 亿美元（2025 年）
-- 外债总额：111.75 亿美元（2024 年）
-- 外债还本付息占出口收入（%）：7.4（2024 年）
+- 外债总额：108.42 亿美元（2025 年）
+- 外债还本付息占出口收入（%）：7.6（2025 年）
 - 经常账户余额占 GDP（%）：0.1（2019 年）
 - 外汇储备（含黄金，美元）：93.38 亿美元（2023 年）
 - 燃料出口占商品出口（%）：21.5（2025 年）
@@ -69,7 +69,7 @@
 - 科技期刊论文（篇）：234（2023 年）
 - 高技术出口占制成品出口（%）：5.20（2024 年）
 - 高技术出口（现价美元）：2.77 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 690 篇（OpenAlex），主要学科：Medicine（166）、Computer Science（100）、Agricultural and Biological Sciences（96）、Social Sciences（70）、Engineering（69）、Environmental Science（38）、Business, Management and Accounting（27）、Earth and Planetary Sciences（20）
+- 2025 年有本国作者参与的论文约 714 篇（OpenAlex），主要学科：Medicine（166）、Agricultural and Biological Sciences（116）、Computer Science（100）、Engineering（69）、Social Sciences（69）、Environmental Science（38）、Business, Management and Accounting（27）、Earth and Planetary Sciences（23）
 - 昂山素季（Aung San Suu Kyi）：诺贝尔和平奖，1991 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
