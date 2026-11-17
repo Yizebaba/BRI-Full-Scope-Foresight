@@ -5,7 +5,12 @@
 - 美国国务院旅行建议：Laos - Level 2: Exercise Increased Caution（Tue, 28 Jul 2026）。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lao.html 
 - World Monitor 汇总的旅行建议级别：caution
 
-# 老挝项目周边近期态势（截至 2026-11-17 09:03 UTC）
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-05-21 00:00 UTC：Green 级 DR，Drought in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam。https://www.gdacs.org/report.aspx?eventid=1027462&episodeid=3&eventtype=DR 
+- 2026-03-21 00:00 UTC：Green 级 DR，Drought in Brunei, Indonesia, Cambodia, Laos, Malaysia, Papua New Guinea, Philippines, Singapore, Vietnam。https://www.gdacs.org/report.aspx?eventid=1018545&episodeid=21&eventtype=DR 
+
+# 老挝项目周边近期态势（截至 2026-11-17 18:28 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -20,14 +25,14 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-17 13:18 UTC：China-Laos Railway cross-border passenger trips top 300,000 for first time in 2026 - Global Times
+- 2026-11-17 11:05 UTC：China-Laos Railway handles over 300,000 cross-border passenger trips in 2026 - 巴士的報
 - 2026-11-16 19:38 UTC：China-ASEAN trade tops $1 trillion - Daily Tribune
 - 2026-11-16 05:15 UTC：China's premier calls cooperation with ASEAN 'mature and resilient' despite geopolitical turbulence - ABS-CBN
 - 2026-11-16 04:03 UTC：China Mentions $7.3 Billion Indonesian Train in ASEAN Talks - Jakarta Globe
 - 2026-11-15 06:40 UTC：400 Crore Chinese Travel In Train During 1st 10 Months Of 2026 - Trak.in
 - 2026-11-14 22:47 UTC：Investment and market access key in China links - Bangkok Post
-- 2026-11-14 10:14 UTC：From trade ties to deeper integration: China-ASEAN cooperation continues to gain momentum - CGTN
 - 2026-11-14 07:04 UTC：Yunnan town boosts China's connectivity with APEC economies - chinadailyhk
-- 2026-11-12 03:52 UTC：Belt and Road links deepen as freight trains run loaded both ways_InKunming - 昆明信息港
 
 ## 南欧江梯级水电站（一期）
 

@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-17 09:03 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-17 18:28 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -73,15 +73,18 @@
 
 周边自然事件：扫描期间没有记录。
 
+近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-11-17 08:10 UTC：Pakistan’s Gwadar Port Dream Collapses: From Dubai Promise To Ghost Port - DD News。https://news.google.com/rss/articles/CBMinAFBVV95cUxOeG1JUUtzbGhHa2NfQ2ZVa2JsRFVwUWRrRUtZVVFCWkRSRnF6NWxhZ0VCeE5RanpKVXRNUTdMWjlEYmpZdU1WRFpJbGpjLUFDS1NMSlAxeXQ3WlpydkRxTjJ4QVhPdUY1LU1WQ1ZEMDlOanZpaEZSSDVkclQ1Rnp1X1VXWWJXZWY3X1lqZDQ0c3BEaGxrSmFaQ2dBTUo?oc=5
+
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-17 16:06 UTC：Delta Energy, ISGS to study $30-B Pakistan gas pipeline program - Pipeline and Gas Journal
+- 2026-11-17 12:14 UTC：49 development projects completed in Gwadar District Under BSDI Breaking - Independent News Pakistan
+- 2026-11-17 11:49 UTC：49 Development Projects Worth Rs836 Million Completed in Gwadar Under BSDI - Daily Independent
+- 2026-11-17 11:32 UTC：DG Health Reviews Medical Facilities at Gwadar Teaching Hospital - Daily Independent
+- 2026-11-17 11:17 UTC：Delta Energy Saudi signs deal to explore $30 billion investment in Pakistan - The Arab Weekly
 - 2026-11-17 05:23 UTC：Pakistan Puts Karachi, Gwadar Ports at Centre of ECO Trade Push - The Daily CPEC
 - 2026-11-16 19:49 UTC：Women Attend Mental Health Awareness Session in Gwadar - Daily Independent
 - 2026-11-16 19:47 UTC：Gwadar Uses Treated Wastewater to Expand Urban Green Spaces - Daily Independent
-- 2026-11-16 16:59 UTC：Pakistan Puts Karachi, Port Qasim and Gwadar at Heart of ECO Trade Push - Pakistan Observer
-- 2026-11-16 16:42 UTC：Pakistan proposes Turkmenistan's inclusion in CASA-1000 as talks advance on TAP power project - Profit by Pakistan Today
-- 2026-11-16 14:41 UTC：Pakistan to link landlocked ECO states to Karachi, Port Qasim, Gwadar ports, says PM - Daily Pakistan
-- 2026-11-16 10:13 UTC：Top-performing Pakistani judges to visit China for judicial training and exchange - Gwadar Pro
-- 2026-11-15 15:38 UTC：Pakistan Delays $1 Billion ML-3 Project Yet Again - ProPakistani
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

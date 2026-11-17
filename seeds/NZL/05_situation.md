@@ -4,3 +4,12 @@
 
 - 美国国务院旅行建议：New Zealand - Level 1: Exercise Normal Precautions（Wed, 29 Apr 2026）。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.nzl.html 
 - World Monitor 汇总的旅行建议级别：normal
+
+## 地震（USGS，M4.5+，近 7 天）
+
+- 2026-11-17 10:30 UTC：M4.9，43 km NW of Oxford, New Zealand。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyrv 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-11-17 10:30 UTC：Green 级 EQ，Earthquake in New Zealand。https://www.gdacs.org/report.aspx?eventid=1577770&episodeid=1747070&eventtype=EQ 
+- 2026-07-21 00:00 UTC：Green 级 DR，Drought in New Zealand。https://www.gdacs.org/report.aspx?eventid=1027737&episodeid=2&eventtype=DR 

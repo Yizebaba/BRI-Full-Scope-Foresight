@@ -29,3 +29,7 @@ cucuta metropolitan police
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-13 19:43 UTC：M4.5，9 km WSW of Chaparral, Colombia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty3x 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2022-09-21 00:00 UTC：Orange 级 DR，Drought in Aruba, , Brazil, Colombia, Costa Rica, , French Guiana, Guyana, Panama, Suriname, Venezuela。https://www.gdacs.org/report.aspx?eventid=1023877&episodeid=15&eventtype=DR 
