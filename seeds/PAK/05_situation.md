@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-17 01:01 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-17 09:03 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -57,6 +57,14 @@
 
 周边自然事件：扫描期间没有记录。
 
+近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-11-12 01:49 UTC：Heavy snowfall suspends traffic between KP and GB - Dawn。https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KZEdwc1laLWJocG1idE9uQUtQZ2ZhcmtXVmhBRURCVjNyNlVaZ0ZjcWNxUU5zTnlwUi1RRl9oaVhodzgtUXNEeg?oc=5
+
+近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-15 19:00 UTC：Thandiani Road project faces uncertainty over funding shortfall - The News Pakistan
+- 2026-11-14 08:47 UTC：Mansehra Substation Positions All Seven 765kV Transformers - The Daily CPEC
+- 2026-11-13 02:01 UTC：Mercury drops in KP after snowfall, rain - Dawn
+
 ## 卡洛特水电站（720 MW）
 
 周边自然事件：扫描期间没有记录。
@@ -64,6 +72,16 @@
 ## 瓜达尔港
 
 周边自然事件：扫描期间没有记录。
+
+近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-17 05:23 UTC：Pakistan Puts Karachi, Gwadar Ports at Centre of ECO Trade Push - The Daily CPEC
+- 2026-11-16 19:49 UTC：Women Attend Mental Health Awareness Session in Gwadar - Daily Independent
+- 2026-11-16 19:47 UTC：Gwadar Uses Treated Wastewater to Expand Urban Green Spaces - Daily Independent
+- 2026-11-16 16:59 UTC：Pakistan Puts Karachi, Port Qasim and Gwadar at Heart of ECO Trade Push - Pakistan Observer
+- 2026-11-16 16:42 UTC：Pakistan proposes Turkmenistan's inclusion in CASA-1000 as talks advance on TAP power project - Profit by Pakistan Today
+- 2026-11-16 14:41 UTC：Pakistan to link landlocked ECO states to Karachi, Port Qasim, Gwadar ports, says PM - Daily Pakistan
+- 2026-11-16 10:13 UTC：Top-performing Pakistani judges to visit China for judicial training and exchange - Gwadar Pro
+- 2026-11-15 15:38 UTC：Pakistan Delays $1 Billion ML-3 Project Yet Again - ProPakistani
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

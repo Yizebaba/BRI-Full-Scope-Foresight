@@ -13,7 +13,7 @@
 
 - 2026-11-11 23:00 UTC：M4.6，73 km NNW of Gyalshing, India。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txpk 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-17 01:01 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-17 09:03 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -21,16 +21,16 @@
 
 - 美国国务院旅行建议：Nepal - Level 2: Exercise Increased Caution（发布 Fri, 04 Sep 2026）。来源：https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 - 英国外交部旅行建议最近更新于 2026-10-01 13:09 UTC，更新说明：Removal of information about the Family Assistance Centre at the British Embassy Kathmandu (‘Warnings and insurance’ page).。来源：https://www.gov.uk/foreign-travel-advice/nepal 
-- IODA 近 7 天记录到全国性网络中断告警 2 条。来源：IODA 互联网中断检测（佐治亚理工），https://ioda.inetintel.cc.gatech.edu/
+- IODA 近 7 天记录到全国性网络中断告警 4 条。来源：IODA 互联网中断检测（佐治亚理工），https://ioda.inetintel.cc.gatech.edu/
 
 ## 沙布鲁贝西—热索瓦加迪公路
 
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-11-16 17:18 UTC：Hundreds missing, including 47 Americans, in deadly Nepal floods, local officials say - ABC News - Breaking News, Latest News and Videos。https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFFKbWhSWTR5S25UT01SQnE4V1Jua044M19rZmJiYzRwRHphTU1GdFBIUi1ORXl2UUF1Y0NzNG00cDVuNzZuZzFjQ0doUTF5VUg1elRPdE02V0UxNFB1U1dub1ZrMnpjR190bnJIV2VWN0ZPbTRucURXYTlkQWlHS2d0XzR4dzgxaGdCWk92OE9paV92VWIzdTlYNE5xQThPNWRzR2N3R0hjUdIBrwFBVV95cUxNYjM2dnl3U1htTjMxc1ctcjBITTVMMXlXQlFCTjNPV2cxOXF6U3BmU2xSZHZRdHI1QTJRYTB6T1kyVVJ0Y2s3UlZQUm1ZS210UUozM0F3M09Sbk1QWU9pTXVwdjBNT3lGRkhnM0NGZU5ha1BuVDJ1R1hKbVR1M0REMkVMdFpZYnhDb2RUdlNSMVpQbHEwUXV5WGxSMFp1ci16M2dzVGhnQlNpTlVHZ3Qw?oc=5
 - 2026-11-15 13:48 UTC：Flood-hit Rasuwagadhi Hydropower’s cumulative loss reaches Rs 2.87 billion - myRepublica。https://news.google.com/rss/articles/CBMixgFBVV95cUxOM1dCWkxHNEY3QklJV202LW5XR3QxYVRaZnpmd01tRWJlX2MwWTljT3VtQ2xjSkRzR1Zyc3BoOU5XbUZDb2VXUHJZRDF0N1dObHlhM0wzcFdfbm81UzFpQTV1Q0pKa3lTWXJuWVZjWTZYby03S0o4Uk9SOWlNblFSOGNDM3lGYnZrdVJveUYzUVg2MDJ4ZkNaUElBZlA3VTJkN0hVLS12bXdWS1VEX1RMVHdJc3VpY2lMSGhXZDl5UVVrZXJqbVE?oc=5
 - 2026-11-14 15:04 UTC：Climate COP31 Nepal Flooding - dailyrecordnews.com。https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGw2MVhvVG02bVdQZEZxdGJ5NVdnekxNUmNUMUZFbFI5VVRvQU42dlUwUU93YlhzOUsydG9lc0Y4cGd2anVVTG5aWTRvWmRZNzlsRXhQRFpkd2lCWldCai1qbndFTkVhNDBQZHVHbnkzbjBRTDRQMkNmcHNtbEZZN3RnaXNWVm9WeW41RGxqUWhQbXRManlkZ1BQaVlNTnpybk95Z0d3MlRJaUxMLVFxNWFqODVPQXFuSWhpTHhEZVp3UGtQTl94Vlpn?oc=5
-- 2026-11-14 15:04 UTC：Climate COP31 Nepal Flooding - The Batesville Daily Guard。https://news.google.com/rss/articles/CBMitgFBVV95cUxOeVdvOE9GTTRDSVFRMzdCaUwyY2JJUDEwUkQ4WTVDZkZmQzQ1SHJ3NEZHTWtXOVFpSkJ2UUxqWjBnYWt4NWdZQnJmTTUwV1BkVlcxNGxrMGlHMi01d21NNW15WWhNY09aU2FnQ0sxUzQ1YzlTREJRVlktaGRnLWZkRkhMQ3pLZjBzakh6U2RNa0w1enlqOV9Ea01HcW5YeG5NNWVGVllYa0VpRGVPbUt4bmI0ZzhOdw?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-16 13:35 UTC：Closure of Tatopani and Rasuwagadhi border points pushes up Nepal-China trade costs - OnlineKhabar English News
@@ -43,6 +43,18 @@
 
 周边自然事件：扫描期间没有记录。
 
+近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-11-16 17:18 UTC：Hundreds missing, including 47 Americans, in deadly Nepal floods, local officials say - ABC News - Breaking News, Latest News and Videos。https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFFKbWhSWTR5S25UT01SQnE4V1Jua044M19rZmJiYzRwRHphTU1GdFBIUi1ORXl2UUF1Y0NzNG00cDVuNzZuZzFjQ0doUTF5VUg1elRPdE02V0UxNFB1U1dub1ZrMnpjR190bnJIV2VWN0ZPbTRucURXYTlkQWlHS2d0XzR4dzgxaGdCWk92OE9paV92VWIzdTlYNE5xQThPNWRzR2N3R0hjUdIBrwFBVV95cUxNYjM2dnl3U1htTjMxc1ctcjBITTVMMXlXQlFCTjNPV2cxOXF6U3BmU2xSZHZRdHI1QTJRYTB6T1kyVVJ0Y2s3UlZQUm1ZS210UUozM0F3M09Sbk1QWU9pTXVwdjBNT3lGRkhnM0NGZU5ha1BuVDJ1R1hKbVR1M0REMkVMdFpZYnhDb2RUdlNSMVpQbHEwUXV5WGxSMFp1ci16M2dzVGhnQlNpTlVHZ3Qw?oc=5
+- 2026-11-15 13:48 UTC：Flood-hit Rasuwagadhi Hydropower’s cumulative loss reaches Rs 2.87 billion - myRepublica。https://news.google.com/rss/articles/CBMixgFBVV95cUxOM1dCWkxHNEY3QklJV202LW5XR3QxYVRaZnpmd01tRWJlX2MwWTljT3VtQ2xjSkRzR1Zyc3BoOU5XbUZDb2VXUHJZRDF0N1dObHlhM0wzcFdfbm81UzFpQTV1Q0pKa3lTWXJuWVZjWTZYby03S0o4Uk9SOWlNblFSOGNDM3lGYnZrdVJveUYzUVg2MDJ4ZkNaUElBZlA3VTJkN0hVLS12bXdWS1VEX1RMVHdJc3VpY2lMSGhXZDl5UVVrZXJqbVE?oc=5
+- 2026-11-12 12:02 UTC：Nearly 100 killed, over 750 missing in Nepal flash floods - DD News。https://news.google.com/rss/articles/CBMiigFBVV95cUxQdklDc3I4dEdCRVc3VWVzZDhvQXZ1dTAzMnVhSTBaT3p2WDUwZHBaWkJxYVphZHhzeGhpUmRCdVNfYldSV0UxQzNES3FDeFk5WkRGeV8xaUpUOVNsRmRkZVBGTkppb0dGNFZ3Z3FLWGp4RXBkUF9OcHJtNjNqUFRIRHd2RzA2VnhoM2c?oc=5
+
+近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-16 13:35 UTC：Closure of Tatopani and Rasuwagadhi border points pushes up Nepal-China trade costs - OnlineKhabar English News
+- 2026-11-16 08:17 UTC：Newly appointed ambassadors to India, China and Israel take oath - OnlineKhabar English News
+- 2026-11-15 00:00 UTC：Korala border collects Rs 1.78 billion in 15 days - Nepal Khabar
+- 2026-11-14 13:47 UTC：Rasuwagadhi Border Crossing Reopening Efforts Intensify with Bailey Bridge Construction - Ratopati
+- 2026-11-12 04:43 UTC：Transboundary data asymmetry and Himalayan resilience at COP31 | Hindustan Times - Hindustan Times
+
 ## 上特里苏利 3A 水电站（60 MW）
 
 周边自然事件：扫描期间没有记录。
@@ -50,6 +62,11 @@
 ## 上特里苏利 3A—加德满都 220 kV 输电线
 
 周边自然事件：扫描期间没有记录。
+
+近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-16 20:29 UTC：At COP31, Nepal pushes for billions to help disaster survivors. So far, $20 million is promised - FOX4KC.com
+- 2026-11-14 00:00 UTC：Bhotekoshi Tragedy: World owes Nepal climate justice, not sympathy - Nepal Khabar
+- 2026-11-12 08:51 UTC：Darkness on the horizon: Why Nepal’s winter power supply hangs in balance - Nepalnews.com
 
 ## 吉隆—加德满都跨境铁路（规划）
 

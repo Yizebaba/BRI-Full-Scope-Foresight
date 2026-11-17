@@ -15,3 +15,4 @@
 - 2026-11-16 19:26 UTC：Green 级 EQ，Earthquake in Peru。https://www.gdacs.org/report.aspx?eventid=1577691&episodeid=1746998&eventtype=EQ 
 - 2026-11-16 16:23 UTC：Green 级 EQ，Earthquake in Peru。https://www.gdacs.org/report.aspx?eventid=1577669&episodeid=1746961&eventtype=EQ 
 - 2026-11-16 16:16 UTC：Green 级 EQ，Earthquake in Peru。https://www.gdacs.org/report.aspx?eventid=1577663&episodeid=1746955&eventtype=EQ 
+- 2026-10-26 01:00 UTC：Green 级 FL，Flood in Peru。https://www.gdacs.org/report.aspx?eventid=1104259&episodeid=9&eventtype=FL 
