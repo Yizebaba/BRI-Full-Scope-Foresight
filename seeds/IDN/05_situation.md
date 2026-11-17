@@ -17,11 +17,9 @@
 - 2026-11-10 22:09 UTC：M4.5，61 km ENE of Blangpidie, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txf8 
 - 2026-11-10 14:31 UTC：M4.7，Java, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txb6 
 - 2026-11-10 08:34 UTC：M5，58 km NE of Fef, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx9z 
-- 2026-11-10 00:11 UTC：M4.5，224 km W of Abepura, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txa7 
 
 ## 灾害警报（GDACS，近 14 天）
 
+- 2026-11-16 21:11 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1577696&episodeid=1746999&eventtype=EQ 
 - 2026-11-16 07:14 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1577597&episodeid=1746886&eventtype=EQ 
-- 2026-11-15 20:51 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1577543&episodeid=1746823&eventtype=EQ 
-- 2026-11-15 15:41 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1577509&episodeid=1746785&eventtype=EQ 
 - 2026-10-24 01:00 UTC：Green 级 FL，Flood in Indonesia。https://www.gdacs.org/report.aspx?eventid=1104253&episodeid=22&eventtype=FL 

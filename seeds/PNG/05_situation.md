@@ -7,5 +7,10 @@
 
 ## 地震（USGS，M4.5+，近 7 天）
 
+- 2026-11-16 19:33 UTC：M4.6，144 km NW of Kavieng, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymc 
 - 2026-11-12 22:04 UTC：M5.8，148 km NW of Kavieng, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txwp 
 - 2026-11-10 17:36 UTC：M5.2，21 km WNW of Popondetta, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txc0 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-11-16 19:33 UTC：Green 级 EQ，Earthquake in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1577706&episodeid=1747003&eventtype=EQ 

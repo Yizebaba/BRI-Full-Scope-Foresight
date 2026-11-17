@@ -9,7 +9,3 @@
 
 - 2026-11-15 13:41 UTC：M5.5，9 km E of Union, Philippines。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyek 
 - 2026-11-14 16:04 UTC：M4.9，7 km SE of Tagbina, Philippines。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9l 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-11-15 14:17 UTC：Green 级 EQ，Earthquake in Philippines。https://www.gdacs.org/report.aspx?eventid=1577504&episodeid=1746811&eventtype=EQ 
