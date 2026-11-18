@@ -14,8 +14,3 @@
 
 - 2026-11-13 16:17 UTC：M5.2，79 km NE of Kuqa, China。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty14 
 - 2026-11-12 20:03 UTC：M4.9，41 km N of Weining, China。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txvw 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-06-21 00:00 UTC：Green 级 DR，Drought in China, Kazakhstan, Mongolia。https://www.gdacs.org/report.aspx?eventid=1027491&episodeid=13&eventtype=DR 
-- 2026-05-21 00:00 UTC：Green 级 DR，Drought in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam。https://www.gdacs.org/report.aspx?eventid=1027462&episodeid=3&eventtype=DR 

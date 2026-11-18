@@ -11,11 +11,17 @@
 
 ## 地震（USGS，M4.5+，近 7 天）
 
+- 2026-11-18 04:41 UTC：M5.8，40 km N of Ruteng, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxi 
+- 2026-11-18 04:21 UTC：M5.2，54 km NNE of Ruteng, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxc 
+- 2026-11-18 03:23 UTC：M4.8，134 km ENE of Nabire, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywx 
 - 2026-11-14 21:24 UTC：M4.5，25 km N of Ruteng, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyan 
 - 2026-11-13 04:49 UTC：M4.7，27 km NNE of Labuan Lombok, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txy5 
 - 2026-11-11 12:10 UTC：M4.6，130 km E of Masohi, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txiv 
 
 ## 灾害警报（GDACS，近 14 天）
 
+- 2026-11-18 05:24 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1577936&episodeid=1747263&eventtype=EQ 
+- 2026-11-18 04:41 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1577920&episodeid=1747238&eventtype=EQ 
+- 2026-11-18 04:21 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1577919&episodeid=1747233&eventtype=EQ 
+- 2026-11-18 03:23 UTC：Green 级 EQ，Earthquake in Indonesia。https://www.gdacs.org/report.aspx?eventid=1577910&episodeid=1747221&eventtype=EQ 
 - 2026-10-24 01:00 UTC：Green 级 FL，Flood in Indonesia。https://www.gdacs.org/report.aspx?eventid=1104253&episodeid=6&eventtype=FL 
-- 2026-03-21 00:00 UTC：Green 级 DR，Drought in Brunei, Indonesia, Cambodia, Laos, Malaysia, Papua New Guinea, Philippines, Singapore, Vietnam。https://www.gdacs.org/report.aspx?eventid=1018545&episodeid=21&eventtype=DR 
