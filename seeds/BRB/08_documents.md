@@ -4,7 +4,7 @@
 
 ## 国家概况（维基百科）
 
-Barbados is an island nation in the Caribbean Sea. It is part of the Lesser Antilles of the West Indies and is the southernmost and easternmost island of the Caribbean region. It lies on the boundary of the South American and Caribbean tectonic plates. Its capital and largest city is Bridgetown.
+Barbados is an island nation in the Atlantic Ocean. It is part of the Lesser Antilles of the West Indies and is the southernmost and easternmost island of the Caribbean region. It lies on the boundary of the South American and Caribbean tectonic plates. Its capital and largest city is Bridgetown.
 Inhabited by Kalinago people since the 13th century, and prior to that by other Indigenous peoples, the island was originally named Ichirouganaim. It was claimed for the Crown of Castile by Spanish navigators in the late 15th century, who named it Barbudos, and it first appeared on a Spanish map in 1511. The Portuguese Empire claimed the island between 1532 and 1536, but abandoned it in 1620; their only traces were the introduction of wild boars intended as a supply of meat whenever the island was visited. The indigenous population had mostly been sold into slavery, killed, or died of disease by that time.
 An English ship, the Olive Blossom, arrived in Barbados on 14 May 1625; its men took possession of the island in the name of King James I. In 1627, the first permanent settlers arrived from England, and Barbados became an English and later British colony. During this period, the colony operated on a plantation economy, relying initially on the labour of Irish indentured servants and subsequently African slaves, who worked on the island's plantations. Slavery continued until it was phased out through most of the British Empire by the Slavery Abolition Act 1833. The descendants of these enslaved Africans now account for over 90% of the island's population.
 On 30 November 1966, Barbados moved toward political independence and assumed the status of a Commonwealth realm, becoming a sovereign state with Elizabeth II as Queen of Barbados. On 30 November 2021, Barbados transitioned to a republic within the Commonwealth, replacing its monarchy with a ceremonial president.
@@ -143,6 +143,8 @@ The permanent headquarters of the CDB is located in Wildey, St. Michael, Barbado
 
 ## 世界银行最新文件（Documents & Reports）
 
+- 2026-10-16 · Program Document · Barbados - Economic Modernization and Integration for Jobs Development Policy Operation（项目：BB-Barbados Economic Modernization and Integration for Jobs Development Policy Operation -- P517007）。http://documents.worldbank.org/curated/en/099102326172027703
+  摘要：The development objective of the Barbados Economic Modernization and Integration for Jobs Development Policy Operation for Barbados is to support the authorities in modernizing key economic infrastructure for growth and expanding employment opportunities through economic integration. The operation works across two pillars. Under Pillar A, it strengthens the legal and supervisory framework for the payment system by amending the National Payments System Act to bring all bank and non-bank payment service providers under the oversight of the Central Bank of Barbados, modernize outsourcing rules, and require annual compliance reporting, and it accelerates digital payments by establishing BiMPay as the requisite platform for routing eligible government revenues and expenditures. It also consolidates the energy sector by transferring the assets, liabilities, and functions of the National Petroleum Corporation to Barbados National Energy Company Limited to enable private capital partnerships and accelerate the transition to renewable energy, including Battery Energy Storage Systems for the Barbados Water Authority. Under Pillar B, it expands labor supply and economic integration by establishing full freedom of movement for nationals of Belize, Dominica, and Saint Vincent and the Grenadines under the Caribbean Community Free Movement of Nationals Act, and it strengthens the integrity of the preferential corporate tax regime by introducing an economic substance framework aligned with i
 - 2026-10-09 · Brief · Barbados Poverty and Equity Brief : October 2026
 。http://documents.worldbank.org/curated/en/099517504212514309
   摘要：In 2016, poverty in Barbados was strikingly high for a high-income country (HIC). About 25.7 percent of Barbadians lived below the national poverty line and about 4.9 percent lived below the food poverty line. A similar finding holds when applying the international poverty measurement approach that allows comparisons with other countries. Around 15.8 percent of Barbadians lived on less than $8.30 (2021 PPP) per person per day in 2016. Only two high-income countries have higher poverty rates at the $8.30 line: Nauru and Panama.
@@ -169,9 +171,6 @@ The permanent headquarters of the CDB is located in Wildey, St. Michael, Barbado
 - 2025-10-07 · Brief · Prosperity Data360 Gender Country Snapshots : Barbados
 。http://documents.worldbank.org/curated/en/099811510102539502
   摘要：This Factsheet provides an overview of the gender sector according to key performance indicators.
-- 2025-10-06 · Brief · Prosperity Data360 Justice Country Snapshots : Barbados
-。http://documents.worldbank.org/curated/en/099630210162513993
-  摘要：This Factsheet provides an overview of the Justice sector according to key performance indicators.
 
 ## 学术论文（OpenAlex）
 
@@ -216,4 +215,4 @@ Abstract “Global value chains” (GVCs) participation brings countless economi
 
 https://doi.org/10.1111/rode.13041
 
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

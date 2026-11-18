@@ -5,9 +5,9 @@
 ## 国家概况（维基百科）
 
 Luxembourg,  officially the Grand Duchy of Luxembourg, is a landlocked country in Western Europe. It is bordered by Belgium to the west and north, Germany to the east, and France to the south. Its capital and most populous city, Luxembourg City, is one of the four institutional seats of the European Union and hosts several EU institutions, notably the Court of Justice of the European Union, the highest judicial authority in the EU.
-As part of the Low Countries, Luxembourg has close historic, political, and cultural ties to Belgium and the Netherlands. Luxembourg's culture, people, and languages are greatly influenced by France and Germany: Luxembourgish, a Germanic language, is the only recognised national language of the Luxembourgish people and of the Grand Duchy of Luxembourg; French is the sole language for legislation; and both languages along with German are used for administrative matters.
+As part of the Low Countries, Luxembourg has close historic, political, and cultural ties to Belgium and the Netherlands. Luxembourg's culture, people, and languages are greatly influenced by France and Germany: Luxembourgish, a Germanic language, is the only recognised national language of the Luxembourgish people and of the Grand Duchy of Luxembourg; French is the sole language for legislation; and both languages, along with German, are used for administrative matters.
 With an area of 2,586 square kilometres (998 sq mi), Luxembourg is Europe's seventh-smallest country. In 2026, it had a population of 696,268, which makes it one of the least-populated countries in Europe, albeit with the highest population growth rate; foreign nationals account for almost half the population. Luxembourg is a representative democracy headed by a constitutional monarch, Grand Duke Guillaume V, making it the world's only remaining sovereign grand duchy.
-The County of Luxembourg was established in the 11th century as a state within the Holy Roman Empire. Its ascension culminated in its monarch, Henry VII, becoming the Holy Roman Emperor in the 14th century. Luxembourg came under Habsburg rule in the 15th century, and was annexed by France in the 18th century. Luxembourg was partitioned three times, reducing its size. Having been restored in 1815 after the defeat of Napoleon, it regained independence in 1867 after the Luxembourg Crisis.
+The County of Luxembourg was established in the year 963 as a state within the Holy Roman Empire. Its succession of rulers culminated when Henry VII became the Holy Roman Emperor in 1312. Luxembourg came under Habsburg rule in the 15th century, and was then annexed by France in the 18th century. Luxembourg was partitioned three times, reducing its size. Having been restored in 1815 after the defeat of Napoleon, it regained independence in 1867 after the Luxembourg Crisis.
 Luxembourg is a developed country with an advanced economy and one of the world's highest PPP-adjusted GDPs per capita, per the IMF and World Bank. It also ranks highly in terms of life expectancy, human development, and human rights. The historic city of Luxembourg was declared a UNESCO World Heritage Site in 1994 due to the exceptional preservation of its vast fortifications and historic quarters. Luxembourg is a founding member of the European Union, OECD, the United Nations, NATO, and the Benelux. It served on the United Nations Security Council for the first time in 2013 and 2014.
 
 来源：https://en.wikipedia.org/wiki/Luxembourg（CC BY-SA 4.0）
@@ -97,40 +97,40 @@ Embassy of China in the Luxembourg (in Chinese, German, and French)
 Abstract This article traces the process behind the implementation of the “Air Silk Road,” a cargo flight connection between Luxembourg and Zhengzhou, the capital of Henan province. Its origins lie in economic competition between Henan and its neighbouring provinces, dating back a decade before the official announcement of the Air Silk Road in 2017. Provincial and municipal governments in Henan displayed opportunistic risk-taking behaviour in persistently pushing for the development of Zhengzhou's airport economy, but only timing and coincidence allowed the province to gain a foothold in the Belt and Road Initiative (BRI). With findings drawn from fieldwork in China between 2019 and 2020, we contribute to an understanding of the implementation of the BRI, the underlying rationale and the challenges inland provinces face in integrating into the world economy.
 
 https://doi.org/10.1017/s0305741021001120
-### The Belt and Road Initiative : What is in it for China ?（2018，Asia & the Pacific Policy Studies，被引 169）
+### The Belt and Road Initiative : What is in it for China ?（2018，Asia & the Pacific Policy Studies，被引 209）
 
 Abstract China's outbound investment exceeded inbound investment for the first time in 2015. In years leading up this transition, a maturing demographic transition alongside slowing internal migration and diminishing returns to physical capital investment, all had a role in China's diminished competitiveness in low‐wage manufactured exports and the fading of the related growth model. In that context, the 2013 launch of the Belt and Road Initiative (BRI) took place in two stages in two developing countries, Kazakhstan and Indonesia. These launch choices, and the BRI in general are herein elaborated in terms of economic history, geography, and demography. The BRI in turn is considered to be aiming to foster the ongoing development of China, and in doing so also seeks to instigate new era development opportunity for other developing countries. One facilitation channel for the latter is China's concept of “patient capital,” essentially concessional capital, or foreign aid. For China that offers a means via which to internationalise the financial sector and also the Renminbi. Lessons from China's own use of foreign aid and economic development hence serve as an important reference for ongoing scoping of the shape and trajectory of the BRI. To that end, this article sheds light on what is in the BRI for China.
 
 https://doi.org/10.1002/app5.265
-### “One Belt, One Road”: China's New Global Strategy（2016，Journal of Contemporary East Asia Studies，被引 176）
+### “One Belt, One Road”: China's New Global Strategy（2016，Journal of Contemporary East Asia Studies，被引 206）
 
 The “One Belt, One Road” (OBOR) initiative has been a topic of hot debate among Sinologists and pundits in recent years. What is the nature of this foreign policy and how is it implemented under the Xi Jinping administration? By examining China's OBOR initiative, this article argues that OBOR is not only a regional policy but a grand global strategy for achieving the “Chinese Dream”. While there is little chance that China will be able to create a large area of influence around the world, the potential impact on global politics cannot be overlooked.
 
 https://doi.org/10.1080/24761028.2016.11869094
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 209）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 226）
 
 （无摘要）
 
 https://doi.org/10.1016/j.ememar.2019.100629
-### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 107）
+### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 140）
 
 China's Belt and Road Initiative aims to improve connectivity between China and more than 70 countries through infrastructure investment and regional cooperation. The initiative has the potential to accelerate significantly the rate of economic integration and development in the region, as trade costs decline. The goals of this paper are to (i) study the impacts of infrastructure improvements on Belt and Road Initiative and non?Belt and Road Initiative countries'trade flows, growth, and poverty; and (ii) suggest policies that would help maximize gains from the Belt and Road Initiative?induced trade cost declines. The analysis captures the trade costs reductions as a result of infrastructure improvements. The findings indicate that the Belt and Road Initiative would be largely beneficial. First, global income increases by 0.7 percent (in 2030 relative to the baseline). This translates into almost half a trillion dollars in 2014 prices and market exchange rates. The Belt and Road Initiative area captures 82 percent of the gain, with the largest percent gains in East Asia. Second, globally, the Belt and Road Initiative could contribute to lifting 7.6 million people from extreme poverty and 32 million from moderate poverty. Third, the initiative would lead to a modest increase in global carbon dioxide emissions, with a complex set of positive and negative outcomes at the national level for other types of emissions.
 
 https://doi.org/10.1596/1813-9450-8814
-### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 170）
+### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 181）
 
 （无摘要）
 
 https://doi.org/10.1016/j.jdeveco.2019.102415
-### Does the Belt and Road Initiative Increase the Carbon Emission Intensity of Participating Countries?（2021，China & World Economy，被引 96）
+### Growth effects of economic integration: New evidence from the Belt and Road Initiative（2022，Economic Analysis and Policy，被引 115）
 
-Abstract The impact that the Belt and Road Initiative (BRI) has had on carbon emissions is a hotly debated issue. Using a panel dataset of 178 countries from 2002 to 2017, and applying the quantile difference‐in‐difference method in different industries, this study finds that, first, the BRI overall tends to reduce the carbon emission intensity of BRI countries. Second, the impact of BRI on reducing the carbon emission intensity is significant for BRI countries at higher (0.8 and 0.9) and lower (0.2 and 0.3) carbon emission intensity quantiles but it is insignificant for those at medium levels. Third, the BRI has significant impacts on reducing carbon emission intensity in the energy‐intensive industries, and this effect is the highest at the quantile level of 0.9 for all three industries considered here: transportation, electric and heating, and manufacturing and construction. These results indicate that establishing BRI cooperation with China will improve the environment and enhance the sustainable development ability of BRI countries.
+This paper uses the Belt and Road Initiative (B&R), an exogenous innovative model of economic integration proposed by China, to examine the growth effects of economic integration on local economies. From 2013 to 2019, more than 120 countries successively participated in the B&R, which intensified the regional integration and interdependence of B&R countries. Employing a difference-in-differences estimation methodology that exploits the cross-country, cross-time variation in the timing of participation in the Belt and Road Initiative, the author finds that the Belt and Road Initiative materially improved the economic performance of local economies, with particularly strong effects for lower-income countries. This paper also provides suggestive evidence that the growth effects can be interpreted in terms of foreign trade and foreign direct investment inwards.
 
-https://doi.org/10.1111/cwe.12374
-### The roles of cultural and institutional distance in international trade: Evidence from China's trade with the Belt and Road countries（2018，China Economic Review，被引 168）
+https://doi.org/10.1016/j.eap.2022.01.004
+### The roles of cultural and institutional distance in international trade: Evidence from China's trade with the Belt and Road countries（2018，China Economic Review，被引 185）
 
 （无摘要）
 
 https://doi.org/10.1016/j.chieco.2018.10.001
 
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

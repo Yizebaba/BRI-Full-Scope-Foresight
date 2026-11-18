@@ -4,7 +4,7 @@
 
 ## 国家概况（维基百科）
 
-Portugal, officially the Portuguese Republic, is a country in  Southern and Western Europe. Mainland Portugal is located on the southwestern portion of the Iberian Peninsula, and bordered by Spain to the north and east. Portugal also includes the archipelagos of Madeira and the Azores in the Atlantic Ocean. The country has a population of 11.4 million, and Lisbon, its capital, is the largest city. Portugal's internal waters and territorial sea together account for two-fifths of its territory, and its exclusive economic zone is one of Europe's largest. The country's terrain contains a diverse range of landscapes and regional climates.
+Portugal, officially the Portuguese Republic, is a country in Southwestern Europe. Mainland Portugal is located on the southwestern portion of the Iberian Peninsula, and bordered by Spain to the north and east. Portugal also includes the archipelagos of Madeira and the Azores in the Atlantic Ocean. The country has a population of 11.4 million, and Lisbon, its capital, is the largest city. Portugal's internal waters and territorial sea together account for two-fifths of its territory, and its exclusive economic zone is one of Europe's largest. The country's terrain contains a diverse range of landscapes and regional climates.
 The western Iberian Peninsula has been inhabited since prehistory, with the earliest signs of permanent settlement dating to between 5500 BC and 5300 BC. Muslims had occupied the Iberian Peninsula since 711. As a result of the Reconquista against them, Portugal was established as a county of the Kingdom of León in 868 and formally as a kingdom in 1179. During the Age of Discovery, the kingdom made several advancements in nautical science and maritime exploration to discover new territories and sea routes, which led to the establishment of the Portuguese Empire. The kingdom became a republic in 1910, before becoming a dictatorship in 1926, whose 1974 overthrow enabled democracy to be established in 1976.
 Portugal is a unitary republic and multi-party representative democracy with four separate sovereignty organs: president, government, parliament, and judiciary. It has a unicameral national legislature known as the Assembly of the Republic (Assembleia da República). Portugal is divided into seven mainland regions and two autonomous overseas regions, though it remains a highly centralised country.
 A developed country, Portugal has an advanced economy that chiefly relies upon services, industry, and tourism. Shaped by the various civilisations that have inhabited its territory, such as the Carthaginians and the Romans, Portugal developed a culture with a worldwide influence. This allowed Portuguese to become the world's fifth-most spoken native language, with more than 250 million native speakers. With a stable foreign policy shaped by its colonial and diplomatic history and location, Portugal is a member of multiple international organisations and forums.
@@ -114,12 +114,12 @@ Embassy of the People's Republic of China in the Republic of Portugal (in Chines
 
 ## 学术论文（OpenAlex）
 
-### The Ultimate European Border: The Belt and Road Initiative Discovers Portugal（2020，Springer eBooks，被引 5）
+### The Ultimate European Border: The Belt and Road Initiative Discovers Portugal（2020，Springer eBooks，被引 7）
 
 （无摘要）
 
 https://doi.org/10.1007/978-981-15-2564-3_15
-### Prospects for Science and Technology Cooperation between the Guangdong-Hong Kong-Macao Greater Bay Area and Portugal under the Belt and Road Initiative（2021，Proceedings of Business and Economic Studies，被引 1）
+### Prospects for Science and Technology Cooperation between the Guangdong-Hong Kong-Macao Greater Bay Area and Portugal under the Belt and Road Initiative（2021，Proceedings of Business and Economic Studies，被引 2）
 
 President Xi, focusing on building a new pattern of all-round opening up to the outside world and promoting the common prosperity and progress of all countries, put forward a major proposal for the construction of the Silk Road Economic Belt and the maritime Silk Road in twenty-first Century. The bay area economy, as an important coastal economic form, is the highlight of the current international economic map, and is a significant symbol of the world's first-class coastal city. The international first-class bay areas, such as New York Bay area, San Francisco Bay area and Tokyo Bay area, are characterized by openness, innovation, livability and internationalization. The Guangdong-Hong Kong-Macao Greater Bay Area has four world-class cities, name Guangzhou, Shenzhen, Hong Kong and Macao, and the Pearl River Delta city cluster. It has an open economic structure, efficient resource allocation ability, strong agglomeration and spillover function and development international communication network plays a core function of leading innovation and gathering radiation. It is an important growth pole for promoting the economic development of the maritime Silk Road and a leader in technological change. With the help of Portugal's geographical position on the maritime Silk Road and market access advantages within the EU system, the Greater Bay Area should further deepen scientific and technological cooperation, improve the ability of scientific and technological innovation of both sides, let the scientific research subjects of the bay area help Portugal's scientific and technological development, and enhance Portugal's scientific and technological position in the EU. From the perspective of the Belt and Road Initiative, combined with the basic situation and cooperation of China, especially Guangdong, Hong Kong and Macau, and the development of science and technology in Portugal, this article explores the technological fields, policy measures that are suitable for scientific and
 
@@ -129,30 +129,30 @@ https://doi.org/10.26689/pbes.v3i6.1716
 （无摘要）
 
 https://doi.org/10.1007/978-981-97-5640-7_9
-### Connecting Connectivities（2021，BRILL eBooks，被引 1）
-
-Launched in 2013, the Belt and Road Initiative (BRI) has been presented as China’s grand strategy that could reshape the twenty-first century. Since its inception, two of its core objectives are common development and connectivity. Energy interconnectivity, in particular, is one of the pillars supporting this ambitious project. This chapter seeks to shed light specifically on the potential of BRI’s environmental dimension. It discusses the role that BRI – and China - may play in promoting more sustainable solutions in the African power sector. Environmental leadership is, according to this chapter, the way China can demonstrate that BRI is not only viable but advantageous. Using the Portuguese-speaking African countries as an example, and highlighting the role that Portugal may play in China’s strategy, the chapter argues that investing in renewables in this region would have an amplified result – economically, socially, in terms of sustainability, and, ultimately, politically. By connecting connectivities, China can create strategic complementarities. China has great potential for influencing Africa’s development objectives and needs. In doing so, it will also improve BRI’s potential.
-
-https://doi.org/10.1163/9789004473195_011
-### Understanding China’s Belt and Road Initiative（2024，Asia in transition，被引 95）
+### Understanding China’s Belt and Road Initiative（2024，Asia in transition，被引 112）
 
 This open access book provokes critical thinking regarding the most ambitious Chinese project since the founding of the People’s Republic of China
 
 https://doi.org/10.1007/978-981-99-9633-9
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 209）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 226）
 
 （无摘要）
 
 https://doi.org/10.1016/j.ememar.2019.100629
-### China and the Belt and Road Initiative in Europe: The case of Portugal（2021，Routledge eBooks，被引 9）
+### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 140）
+
+China's Belt and Road Initiative aims to improve connectivity between China and more than 70 countries through infrastructure investment and regional cooperation. The initiative has the potential to accelerate significantly the rate of economic integration and development in the region, as trade costs decline. The goals of this paper are to (i) study the impacts of infrastructure improvements on Belt and Road Initiative and non?Belt and Road Initiative countries'trade flows, growth, and poverty; and (ii) suggest policies that would help maximize gains from the Belt and Road Initiative?induced trade cost declines. The analysis captures the trade costs reductions as a result of infrastructure improvements. The findings indicate that the Belt and Road Initiative would be largely beneficial. First, global income increases by 0.7 percent (in 2030 relative to the baseline). This translates into almost half a trillion dollars in 2014 prices and market exchange rates. The Belt and Road Initiative area captures 82 percent of the gain, with the largest percent gains in East Asia. Second, globally, the Belt and Road Initiative could contribute to lifting 7.6 million people from extreme poverty and 32 million from moderate poverty. Third, the initiative would lead to a modest increase in global carbon dioxide emissions, with a complex set of positive and negative outcomes at the national level for other types of emissions.
+
+https://doi.org/10.1596/1813-9450-8814
+### China and the Belt and Road Initiative in Europe: The case of Portugal（2021，Routledge eBooks，被引 10）
 
 The growing presence of China in Europe aiming at the incremental implementation of the Belt and Road Initiative (BRI) has created not only general concern and controversy within the EU, but also heterogeneous reactions amongst its member states. This study will focus on Portugal, which is a very illustrative case study to understand the medium- to long-term interests of Beijing within the framework of BRI. It also represents an intriguing case given the collaborative approach exhibited by national authorities vis-à-vis Chinese bilateral initiatives. This chapter aims at examining the rise of Chinese interests in Portugal under the aegis of the BRI and Portugal’s growing realization of the opportunities resulting from an ever-closer relationship with China. It argues that the traumatic experience generated by post-2008 economic hardship, which eventually ignited China’s pull on Portugal, moved national policymakers to adopt an open stance towards the BRI-related projects and investments. Such an open posture, particularly driven by the goal of restoring economic growth, has enabled a Luso-Chinese collaboration in various critical areas encompassing energy, 5G networks and the issuing of Portuguese sovereign debt in Chinese currency. Such cooperative dynamics are not without consequences for Portugal’s foreign policy. The latter’s continued overstretching may well prove problematic given Lisbon’s traditional record of unqualified support for US strategic interests.
 
 https://doi.org/10.4324/9780367853235-14-18
-### Renewable energy investment risk assessment in belt and road initiative countries under uncertainty conditions（2020，Energy，被引 136）
+### Renewable energy investment risk assessment in belt and road initiative countries under uncertainty conditions（2020，Energy，被引 140）
 
 （无摘要）
 
 https://doi.org/10.1016/j.energy.2020.118923
 
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

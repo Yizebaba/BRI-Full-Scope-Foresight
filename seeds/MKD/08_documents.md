@@ -98,45 +98,45 @@ Cooperation between China and Central and Eastern European Countries (China-CEE,
 
 ## 学术论文（OpenAlex）
 
-### “One Belt, One Road”: China's New Global Strategy（2016，Journal of Contemporary East Asia Studies，被引 176）
+### China's Trade and Investment in the Western Balkans Under the Belt and Road Initiative: Focus on North Macedonia（2022，Advances in finance, accounting, and economics book series，被引 3）
+
+The China Belt and Road Initiative (BRI) and the 17+1 cooperation platform, as an integral part of it, is the key framework for China's foreign policy towards most parts of the world, including the Western Balkans (WB). Through its global initiative and cooperation platform, China creates a range of opportunities for facilitating trade and increasing export, financial integration and greater Chinese investment, major infrastructure projects, as well as their funding. This chapter analyzes the real situation regarding these aspects in the WB countries, especially focused on North Macedonia. The analysis indicates that there has been some progress in co-operation, but the WB countries (excluding Serbia) have failed to maximize their interests either in bilateral co-operation or in the framework of the BRI initiative and the 17+1 platform. Conclusively, despite all the great expectations, the trade exchange, Chinese investments, and the realized infrastructure projects do not reach a significant level.
+
+https://doi.org/10.4018/978-1-7998-8021-9.ch011
+### “One Belt, One Road”: China's New Global Strategy（2016，Journal of Contemporary East Asia Studies，被引 206）
 
 The “One Belt, One Road” (OBOR) initiative has been a topic of hot debate among Sinologists and pundits in recent years. What is the nature of this foreign policy and how is it implemented under the Xi Jinping administration? By examining China's OBOR initiative, this article argues that OBOR is not only a regional policy but a grand global strategy for achieving the “Chinese Dream”. While there is little chance that China will be able to create a large area of influence around the world, the potential impact on global politics cannot be overlooked.
 
 https://doi.org/10.1080/24761028.2016.11869094
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 209）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 226）
 
 （无摘要）
 
 https://doi.org/10.1016/j.ememar.2019.100629
-### The place of the Republic of North Macedonia in the geopolitical interests of China after the renaming period（2021，HORIZONS A，被引 0）
+### THE PLACE OF THE REPUBLIC OF NORTH MACEDONIA IN THE GEOPOLITICAL INTERESTS OF CHINA AFTER THE RENAMING PERIOD（2021，Horizons - International Scientific Journal，被引 0）
 
 The political and economic situation in the Republic of Nort Macedonia and the declarative commitments of the EU for the European future of the country, are a serious geopolitical challenge for the EU and an opportunity for the penetration of China's interests in the region. In fact, China's strategy is present in all Western Balkan countries and we can perceive it primarily through the One Belt One Road Initiative (OBOR) or known as the Belt and Road Initiative (BRI) and the 17+1 cooperation platform as a framework, for the implementation of Chinese projects.The above two serious projects contribute and have contributed to the change in the perception of China's foreign policy capacity. The Covid pandemic has only further strengthened China's influence globally, in the context of the global struggle for dominance in the production of vaccines against Covid 19. This paper aims to show how North Macedonia, as a small country, is positioned within the geostrategic interests of China expressed through the initiative known as the Belt and Road Initiative (BRI) and the 17+1 cooperation platform, but also in the context of the current Covid situation.
 
 https://doi.org/10.20544/horizons.a.29.2.21.p13
-### Energy and Ecological Sustainability: Challenges and Panoramas in Belt and Road Initiative Countries（2018，Sustainability，被引 125）
+### Energy and Ecological Sustainability: Challenges and Panoramas in Belt and Road Initiative Countries（2018，Sustainability，被引 130）
 
 Innovation and globalization fosters a tendency towards multiparty collaboration and strategic contacts among nations. A similar path was followed by the Chinese administration in 2013, with its “Belt and Road Initiative” (BRI). The most important objective of the present fact-finding study was to demonstrate the links between economic growth, energy consumption, urbanization, gross fixed capital formation, trade openness, financial development and carbon emissions (ecological degradation) from a panel of 47 BRI economies, over a time span of 1980 to 2016. Dynamic panel estimations (dynamic ordinary least square (DOLS) and fully modified ordinary least square (FMOLS)) were engaged to examine the long-run links between the subjected variables. Synchronized outcomes for the full panel show that energy consumption, gross fixed capital formation, economic growth, financial development, and urbanization unfavorably led to environmental degradation (CO2 emissions). However, trade openness is negatively correlated with emissions. Furthermore, pairwise panel Granger causative estimations justified bi-directional links from all regressors towards CO2 emissions, except for trade openness, which had unidirectional ties with environmental quality. In cross-country, long-run assessments, different results were found, with CO2 emissions being greatly increased by economic growth in all countries and energy consumption in 30 countries; other predictors testified to some mixed interactions with CO2 emissions in the country-level examination. The reported investigation provides some noteworthy guiding principles and policy inferences aimed at governments and ecological supervisory administrations, suggesting assertive moves towards truncated used of carbon fossil fuels and dependency on renewable energy, establishing waste and water treatment plants, familiarizing themselves with the concept of a green economy, and making the general public aware of eco-friendly investments in BRI e
 
 https://doi.org/10.3390/su10082743
-### Trade Openness and CO2 Emissions: The Heterogeneous and Mediating Effects for the Belt and Road Countries（2021，Sustainability，被引 139）
+### Trade Openness and CO2 Emissions: The Heterogeneous and Mediating Effects for the Belt and Road Countries（2021，Sustainability，被引 152）
 
 To investigate whether increasing trade openness results in more severe environmental problems, this study investigates the impact of trade openness on carbon dioxide (CO2) emissions using panel data from 64 countries along the Belt and Road from 2001–2019. Fully considering the potential heterogeneity, the panel quantile regression approach is utilized. Moreover, this study explores the three major mediating effects of the process, namely the energy-substitution effect, economic effect, and technology effect. The empirical results indicate that the improvement in trade openness has a significantly positive effect on CO2 emissions, and it also shows that the impact varies with different levels of CO2 emissions. Furthermore, the indirect effect of trade openness on CO2 emissions via the economic effect is positive, while the indirect effect via the energy-substitution and the technology effect is negative. Therefore, it is necessary to improve renewable energy consumption, decrease energy intensity, and formulate related policies to reduce carbon emissions policies in terms of local conditions.
 
 https://doi.org/10.3390/su13041958
-### Foreign Investment across the Belt and Road: Patterns, Determinants, and Effects（2018，World Bank, Washington, DC eBooks，被引 87）
+### Foreign Investment across the Belt and Road: Patterns, Determinants, and Effects（2018，World Bank, Washington, DC eBooks，被引 100）
 
 This paper examines the patterns and economic effects of foreign direct investment across the Belt and Road Initiative countries and assesses the potential role of the initiative in shaping the patterns and effects. Exploring cross-country bilateral transportation cost and foreign investment data, the analysis shows that, by reducing overall travel times and transportation costs, the proposed Belt and Road Initiative transportation network can pave the way for additional investments and increased growth in gross domestic product. But the magnitude of the effect varies significantly across source and destination countries. Aggregate foreign direct investment in Belt and Road Initiative countries is predicted to increase by around 5 percent, with regions such as Sub-Saharan Africa and East Asia and Pacific seeing greater potential gains. The increase in foreign direct investment can exert a positive effect on GDP, trade, and employment growth, especially for lower-income countries.
 
 https://doi.org/10.1596/1813-9450-8607
-### The Belt and Road Initiative depicted in Hungary and Slovakia（2018，Journal of Contemporary East Asia Studies，被引 49）
+### The Belt and Road Initiative depicted in Hungary and Slovakia（2018，Journal of Contemporary East Asia Studies，被引 54）
 
 Central and Eastern European countries, like Hungary and Slovakia, are located along the Western section of the Belt and Road Initiative (BRI) and serve as a gateway to the European Union. Thus, the participation of the CEE region is inevitable in the BRI, and the attitude of national governments and the public opinion may have an impact on the future of EU-China relations in the framework of the new “Silk Road” connecting the East to the West. The following paper offers an introduction to the so-called 16 + 1 cooperation of China and its 16 partners in the CEE region, and analyzes the political environment, public support, and media discourse of the BRI in two selected countries of Central and Eastern Europe.
 
 https://doi.org/10.1080/24761028.2018.1537091
-### The impact of China’s one belt one road initiative on international trade in the ASEAN region（2019，The North American Journal of Economics and Finance，被引 147）
 
-（无摘要）
-
-https://doi.org/10.1016/j.najef.2019.101089
-
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

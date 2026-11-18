@@ -9,8 +9,6 @@
 
 - 2026-11-14 00:00 UTC：Green 级 WF，Forest fires in Benin, Burkina Faso。https://www.gdacs.org/report.aspx?eventid=1033940&episodeid=1&eventtype=WF 
 - 2026-11-14 00:00 UTC：Green 级 WF，Forest fires in Togo, Benin, Burkina Faso。https://www.gdacs.org/report.aspx?eventid=1033923&episodeid=2&eventtype=WF 
-- 2026-11-14 00:00 UTC：Green 级 WF，Forest fires in Benin。https://www.gdacs.org/report.aspx?eventid=1033925&episodeid=1&eventtype=WF 
 - 2026-11-13 00:00 UTC：Green 级 WF，Forest fires in Benin, Niger, Burkina Faso。https://www.gdacs.org/report.aspx?eventid=1033927&episodeid=2&eventtype=WF 
-- 2026-11-13 00:00 UTC：Green 级 WF，Forest fires in Benin, Burkina Faso。https://www.gdacs.org/report.aspx?eventid=1033930&episodeid=1&eventtype=WF 
 - 2026-11-12 00:00 UTC：Green 级 WF，Forest fires in Benin, Niger, Burkina Faso。https://www.gdacs.org/report.aspx?eventid=1033895&episodeid=5&eventtype=WF 
 - 2026-11-12 00:00 UTC：Green 级 WF，Forest fires in Benin, Burkina Faso。https://www.gdacs.org/report.aspx?eventid=1033896&episodeid=5&eventtype=WF 

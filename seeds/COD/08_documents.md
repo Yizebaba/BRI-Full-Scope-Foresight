@@ -90,7 +90,6 @@ The Kenya Standard Gauge Railway (SGR) is a partially finished railway system co
 
 The mining industry of the Democratic Republic of the Congo (French: Industrie minière de la République Démocratique du Congo) is a major global supplier of minerals including cobalt, copper, diamonds, gold, tantalum, and tin. The DRC supplies over 60% of global cobalt, and mineral exports account for more than 95% of the country's export revenues. According to a 2011 report, the total value of the major mineral reserves in the DRC amounts to a total of over 300 billion US dollars.
 Mining includes large-scale industrial projects, semi-industrial ventures, and widespread artisanal and small-scale mining (ASM), often under dangerous and exploitative conditions.
-The Democratic Republic of the Congo frequently exports some varieties of minerals to Australia, Canada, Japan, Mexico and the United States. In other words, Australia, Canada, Japan, Mexico and the United States frequently import some varieties of minerals from the Democratic Republic of the Congo.
 
 来源：https://en.wikipedia.org/wiki/Mining_industry_of_the_Democratic_Republic_of_the_Congo
 
@@ -111,17 +110,17 @@ The Democratic Republic of the Congo frequently exports some varieties of minera
 
 ## 学术论文（OpenAlex）
 
+### Understanding China’s Belt and Road Initiative（2024，Asia in transition，被引 112）
+
+This open access book provokes critical thinking regarding the most ambitious Chinese project since the founding of the People’s Republic of China
+
+https://doi.org/10.1007/978-981-99-9633-9
 ### The Challenges of Peace in China’s Belt and Road Initiative in The Great-Lakes Region: The Case of The Democratic Republic of The Congo（2024，Hong Kong Review of Belt and Road Studies，被引 0）
 
 For more than two decades, the Grand Lac region has been a theater of armed conflicts whose dramatic effects are concentrated in the east of the Democratic Republic of the Congo (DRC). The DRC is installed in a chaos programmed by predators of natural resources, intervening on ground veiled by the front agents in their services in particular: Rwanda, Burundi, and Uganda, which are themselves under the influence of geographical extremism, the latter struggling with the imperative of power and covetousness land, raw materials are eager to control the space within the borders of the DRC, benefiting from the alliance with the great powers to establish their strategies of mineral possessions. It is in this conflictual climate that this article undertakes to examine the challenges and impact of China’s Belt and Road initiative (BRI) for the establishment of peace and stability in the Great Lakes region with a particular focus on the conflict in the East of the DRC. Through an in-depth analysis of Chinese projects in the DRC and their influence on the security situation, we assess the specific challenges encountered in promoting peace. By highlighting the potential destabilizing factors associated with this initiative, we seek to understand how to reconcile Chinese economic interests with the imperatives of peace and regional stability. Drawing on empirical data and case studies, this article offers recommendations for strengthening regional and international cooperation for peace in the Great Lakes region. These contributions aim to inform policymakers and actors involved in conflict management on the crucial issues linked to the intersection between economic development and peacebuilding. From the above, regarding the conflict situation in the eastern Democratic Republic of the Congo, the involvement of the BRI could potentially address several underlying factors that influence the conflict, such as the development of infrastructure, job creation, economic stimulation, a
 
 https://doi.org/10.63596/oborjournal.1.2024.52-65
-### Understanding China’s Belt and Road Initiative（2024，Asia in transition，被引 95）
-
-This open access book provokes critical thinking regarding the most ambitious Chinese project since the founding of the People’s Republic of China
-
-https://doi.org/10.1007/978-981-99-9633-9
-### Examining the debt implications of the Belt and Road Initiative from a policy perspective（2019，Journal of Infrastructure Policy and Development，被引 490）
+### Examining the debt implications of the Belt and Road Initiative from a policy perspective（2019，Journal of Infrastructure Policy and Development，被引 544）
 
 China’s Belt and Road Initiative (BRI) hopes to deliver trillions of dollars in infrastructure financing to Asia, Europe, and Africa. If the initiative follows Chinese practices to date for infrastructure financing, which often entail lending to sovereign borrowers, then BRI raises the risk of debt distress in some borrower countries. This paper assesses the likelihood of debt problems in the 68 countries identified as potential BRI borrowers. We conclude that eight countries are at particular risk of debt distress based on an identified pipeline of project lending associated with BRI.Because this indebtedness also suggests a higher concentration in debt owed to official and quasi-official Chinese creditors, we examine Chinese policies and practices related to sustainable financing and the management of debt problems in borrower countries. Based on this evidence, we offer recommendations to improve Chinese policy in these areas. The recommendations are offered to Chinese policymakers directly, as well as to BRI’s bilateral and multilateral partners, including the IMF and World Bank.
 
@@ -152,4 +151,4 @@ China’s Belt and Road Initiative is the subject of considerable debate. Howeve
 
 https://doi.org/10.1080/00472336.2026.2686201
 
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

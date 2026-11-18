@@ -96,7 +96,7 @@ les Compétences pour Créer Davantage d’Emplois de Meilleure Qualité pour un
 
 ## 学术论文（OpenAlex）
 
-### How China’s Debt-Trap Diplomacy Works in African Countries: Evidence from Zimbabwe, Cameroon, and Djibouti（2022，Journal of Asian and African Studies，被引 46）
+### How China’s Debt-Trap Diplomacy Works in African Countries: Evidence from Zimbabwe, Cameroon, and Djibouti（2022，Journal of Asian and African Studies，被引 53）
 
 Since the Belt and Road Initiative (BRI) was initiated in 2013, China under Xi Jinping has continued to expand its capital to various countries. This expansion is part of China’s strategy to shore up its position as a major global economic and political power vis-à-vis the United States. As nearly 70 countries have joined the BRI network, this economic cooperation scheme contributes to economic growth and helps close the infrastructure gap. Nevertheless, the case of China’s capital expansion in Africa has shown mixed results, where some economies are becoming more dependent and even facing a debt trap. This article addresses why such economic cooperation has turned into a debt trap for countries in the African region. Applying the concept of Structural Power in examining China’s investment in Zimbabwe, Cameroon, and Djibouti, this article argues that the debt trap has been caused by the structural disparity between China as an investor and African countries as investment recipients. China, in this case, has a more dominant “good” aspect, while African countries are more in “need.” This article also contends that the debt trap is a strategy carried out by the Chinese government to dominate the African economies in the long run. The three case studies are valuable as they represented different geographical locations in the region and portray a border of lower middle-income countries in general.
 
@@ -126,15 +126,15 @@ https://doi.org/10.1007/978-3-031-80400-7_12
 L’article explore la pensée du Président Xi Jinping sur les Nouvelles Routes de la Soie (BRI) en Afrique, fondée sur les principes de coopération mutuellement bénéfique, de développement commun et pacifique. La Chine investit massivement dans les infrastructures africaines pour créer une communauté d’avenir partagé. C’est le cas dans deux pays d’Afrique centrale : le Cameroun et la République Démocratique du Congo. Malgré les défis et les menaces des puissances atlantistes, les Nouvelles Routes de la Soie doivent répondre avec pragmatisme et détermination pour garantir la croissance économique africaine et promouvoir un modèle de coopération gagnant-gagnant entre la Chine et l’Afrique.
 
 https://doi.org/10.56377/jsas.v4n1.1430
+### Examining the debt implications of the Belt and Road Initiative from a policy perspective（2019，Journal of Infrastructure Policy and Development，被引 544）
+
+China’s Belt and Road Initiative (BRI) hopes to deliver trillions of dollars in infrastructure financing to Asia, Europe, and Africa. If the initiative follows Chinese practices to date for infrastructure financing, which often entail lending to sovereign borrowers, then BRI raises the risk of debt distress in some borrower countries. This paper assesses the likelihood of debt problems in the 68 countries identified as potential BRI borrowers. We conclude that eight countries are at particular risk of debt distress based on an identified pipeline of project lending associated with BRI.Because this indebtedness also suggests a higher concentration in debt owed to official and quasi-official Chinese creditors, we examine Chinese policies and practices related to sustainable financing and the management of debt problems in borrower countries. Based on this evidence, we offer recommendations to improve Chinese policy in these areas. The recommendations are offered to Chinese policymakers directly, as well as to BRI’s bilateral and multilateral partners, including the IMF and World Bank.
+
+https://doi.org/10.24294/jipd.v3i1.1123
 ### Navigating Geopolitical Change in Pursuit of Innovation; Positing Knowledge-Driven Economic Growth and Productivity（2020，SSRN Electronic Journal，被引 0）
 
 （无摘要）
 
 https://doi.org/10.2139/ssrn.3676357
-### Examining the debt implications of the Belt and Road Initiative from a policy perspective（2019，Journal of Infrastructure Policy and Development，被引 490）
 
-China’s Belt and Road Initiative (BRI) hopes to deliver trillions of dollars in infrastructure financing to Asia, Europe, and Africa. If the initiative follows Chinese practices to date for infrastructure financing, which often entail lending to sovereign borrowers, then BRI raises the risk of debt distress in some borrower countries. This paper assesses the likelihood of debt problems in the 68 countries identified as potential BRI borrowers. We conclude that eight countries are at particular risk of debt distress based on an identified pipeline of project lending associated with BRI.Because this indebtedness also suggests a higher concentration in debt owed to official and quasi-official Chinese creditors, we examine Chinese policies and practices related to sustainable financing and the management of debt problems in borrower countries. Based on this evidence, we offer recommendations to improve Chinese policy in these areas. The recommendations are offered to Chinese policymakers directly, as well as to BRI’s bilateral and multilateral partners, including the IMF and World Bank.
-
-https://doi.org/10.24294/jipd.v3i1.1123
-
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

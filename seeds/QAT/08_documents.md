@@ -119,11 +119,6 @@ Embassy of the State of Qatar in Beijing
 （无摘要）
 
 https://doi.org/10.1007/978-3-031-90502-5_4
-### Qatar’s Role in China’s Belt and Road Initiative（2025，Springer eBooks，被引 2）
-
-（无摘要）
-
-https://doi.org/10.1007/978-3-031-90502-5
 ### From Qatar to Xinjiang: Security in China's Belt and Road Initiative（2018，Middle East Policy，被引 5）
 
 （无摘要）
@@ -144,7 +139,12 @@ https://doi.org/10.1007/978-3-031-90502-5_5
 （无摘要）
 
 https://doi.org/10.1007/978-3-031-90502-5_6
-### The Gulf monarchies in the Belt and Road Initiative（2020，Routledge eBooks，被引 2）
+### Qatar’s Role in China’s Belt and Road Initiative: Bridging Two Economic Titans（2025，Springer eBooks，被引 2）
+
+（无摘要）
+
+https://doi.org/10.1007/978-3-031-90502-5
+### The Gulf monarchies in the Belt and Road Initiative（2020，Routledge eBooks，被引 3）
 
 The six monarchies of the Persian Gulf – Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates – present a useful case study to examine the implications of the Belt and Road Initiative (BRI) on regions. This chapter uses a level of analysis approach to understand the opportunities and challenges inherent in the BRI when approached from the perspective of the Gulf monarchies. The analysis of the impact of the BRI on the Gulf monarchies is presented at three levels: the domestic, regional, and international. The Gulf monarchies are actively involved in BRI projects to support their own development agendas, making the initiative a useful means of addressing domestic pressures for economic diversification. At the regional level, the BRI has the potential to be more problematic for the Gulf monarchies. At the international level, the GCC states must try to maintain equilibrium between cooperation with China and India.
 
@@ -155,4 +155,4 @@ Review of: Qatar’s Role in China’s Belt and Road Initiative: Bridging Two Ec
 
 https://doi.org/10.1386/jgs_00020_5
 
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

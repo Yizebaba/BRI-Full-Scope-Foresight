@@ -5,7 +5,7 @@
 ## 国家概况（维基百科）
 
 Trinidad and Tobago, officially the Republic of Trinidad and Tobago, is the southernmost archipelagic country in the Caribbean, comprising the main islands of Trinidad and Tobago, along with several smaller islets. The capital city is Port of Spain, while its largest and most populous municipality is Chaguanas. Trinidad and Tobago comprises the southernmost islands of the Caribbean eastern islands chain, and it is close to the continent of South America, being north to northeast of Venezuela and northwest of Guyana.   
-Trinidad and Tobago is located six nautical miles (11 km; 6.9 mi) north to northeast off the coast of Venezuela, 70 nautical miles (130 km; 81 mi) south of Grenada, and 155 nautical miles (287 km; 178 mi) southwest of Barbados. Indigenous peoples inhabited Trinidad for centuries prior to Spanish colonisation, following the arrival of Christopher Columbus in 1498. Spanish governor José María Chacón surrendered the island to a British fleet under Sir Ralph Abercromby's command in 1797. Trinidad and Tobago were ceded to Britain in 1802 under the Treaty of Amiens as separate states and unified in 1889. Trinidad and Tobago obtained independence in 1962, and became a republic in 1976.
+Trinidad and Tobago is located six nautical miles (11 km; 6.9 mi) north to northeast off the coast of Venezuela, 70 nautical miles (130 km; 81 mi) south of Grenada, and 155 nautical miles (287 km; 178 mi) southwest of Barbados. Indigenous peoples inhabited Trinidad for centuries prior to Spanish colonisation, following the arrival of Christopher Columbus in 1498. Spanish governor José María Chacón surrendered the island to a British fleet under Ralph Abercromby's command in 1797. Trinidad and Tobago were ceded to Britain in 1802 under the Treaty of Amiens as separate states and unified in 1889. Trinidad and Tobago obtained independence in 1962, and became a republic in 1976.
 Unlike most Caribbean countries and territories, which rely heavily on tourism, the economy is primarily industrial, based on large reserves of oil and gas. The country sees fewer hurricanes than most of the Caribbean because it is farther south.
 Trinidad and Tobago is well known for its African and Indian  cultures, reflected in its large and famous Carnival, Diwali, and Hosay celebrations, as well as being the birthplace of the steelpan, the limbo, and musical styles such as calypso, soca, rapso, chutney, and chutney soca.
 
@@ -91,4 +91,4 @@ Several capital-works or infrastructural projects across the Caribbean region ha
 - 2024-12-17 · Brief · Prosperity Data360 Justice Country Snapshots : Trinidad and Tobago。http://documents.worldbank.org/curated/en/099757312242421725
   摘要：This Factsheet provides an overview of the justice sector in Trinidad and Tobago according to key performance indicators.
 
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

@@ -77,17 +77,17 @@ Cooperation between China and Central and Eastern European Countries (China-CEE,
 
 ## 学术论文（OpenAlex）
 
-### Examining the debt implications of the Belt and Road Initiative from a policy perspective（2019，Journal of Infrastructure Policy and Development，被引 490）
+### Examining the debt implications of the Belt and Road Initiative from a policy perspective（2019，Journal of Infrastructure Policy and Development，被引 544）
 
 China’s Belt and Road Initiative (BRI) hopes to deliver trillions of dollars in infrastructure financing to Asia, Europe, and Africa. If the initiative follows Chinese practices to date for infrastructure financing, which often entail lending to sovereign borrowers, then BRI raises the risk of debt distress in some borrower countries. This paper assesses the likelihood of debt problems in the 68 countries identified as potential BRI borrowers. We conclude that eight countries are at particular risk of debt distress based on an identified pipeline of project lending associated with BRI.Because this indebtedness also suggests a higher concentration in debt owed to official and quasi-official Chinese creditors, we examine Chinese policies and practices related to sustainable financing and the management of debt problems in borrower countries. Based on this evidence, we offer recommendations to improve Chinese policy in these areas. The recommendations are offered to Chinese policymakers directly, as well as to BRI’s bilateral and multilateral partners, including the IMF and World Bank.
 
 https://doi.org/10.24294/jipd.v3i1.1123
-### “One Belt, One Road”: China's New Global Strategy（2016，Journal of Contemporary East Asia Studies，被引 176）
+### “One Belt, One Road”: China's New Global Strategy（2016，Journal of Contemporary East Asia Studies，被引 206）
 
 The “One Belt, One Road” (OBOR) initiative has been a topic of hot debate among Sinologists and pundits in recent years. What is the nature of this foreign policy and how is it implemented under the Xi Jinping administration? By examining China's OBOR initiative, this article argues that OBOR is not only a regional policy but a grand global strategy for achieving the “Chinese Dream”. While there is little chance that China will be able to create a large area of influence around the world, the potential impact on global politics cannot be overlooked.
 
 https://doi.org/10.1080/24761028.2016.11869094
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 209）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 226）
 
 （无摘要）
 
@@ -107,15 +107,15 @@ https://doi.org/10.11648/j.her.20220702.13
 In the Western Balkan area, Serbia is most active in the Belt and Road Initiative and makes the greatest achievements with China. In order to promote its member states in organising and coordinating the infrastructure construction, the Western Balkan 6 Summit was held by the South-East Europe Transport Observatory. The Western Balkan Summit was at a larger scale. At these 2 summits, a series of connectivity agendas had been proposed by the Western Balkan, which was generally called the “Western Balkan 6 Connectivity Agenda”. In November 2015, under the smooth alignment of cooperation, development and strategy, an intergovernmental memorandum of understanding was formally signed by both sides to jointly boost the Belt and Road construction, indicating that the China–Serbia cooperation had entered a new stage. In 2017, the Centre for Constructing and Promoting the Belt and Road was even established by Bosnia–Herzegovina.
 
 https://doi.org/10.4324/9780429203039-96
-### Does the Belt and Road Initiative Promote Sustainable Development? Evidence from Countries along the Belt and Road（2018，Sustainability，被引 48）
+### Does the Belt and Road Initiative Promote Sustainable Development? Evidence from Countries along the Belt and Road（2018，Sustainability，被引 51）
 
 The “Belt and Road (B&R) Initiative” is an innovative idea proposed by China aimed at promoting common prosperity in the world. Although it has gained more and more recognition and response, there is also some one-sided understanding or distortion. Taking the 60 countries along the Belt and Road from 2010 to 2015 as samples, this paper mainly answers three questions from the perspective of sustainable development: (1) What is the current status of sustainable development in all countries along the “B&R”? (2) Is the “B&R Initiative” conducive to promoting the sustainable development of all countries along the “B&R”? (3) How could the “B&R” be better promoted? The study found that, first, various countries along the “B&R” have manifested an imbalanced characteristic in terms of the sustainable development, and there is much room for improvement in general. Second, the “B&R Initiative” has a positive impact on the sustainable development of all countries. However, due to the relatively short period of time, this impact is not significant at present. Third, to promote “B&R” construction, we must take sustainable development as the fundamental goal to jointly promote the connectivity of facilities, integrate the UN 2030 sustainable development goals, and strengthen the cross-border cooperation between non-governmental and non-profit organizations.
 
 https://doi.org/10.3390/su10124370
-### Western Balkan 6 Connectivity Agenda with the Belt and Road Initiative（2022，Routledge eBooks，被引 0）
+### Trade Openness and CO2 Emissions: The Heterogeneous and Mediating Effects for the Belt and Road Countries（2021，Sustainability，被引 152）
 
-In order to promote its member states in organising and coordinating infrastructure construction, the Western Balkan 6 Summit was held by the South-East Europe Transport Observatory (SEETO). In addition, the Western Balkan Summit was at a larger scale. At these two summits, a series of connectivity agendas had been proposed by the Western Balkan, which was generally called the “Western Balkan 6 Connectivity Agenda” (hereinafter referred to as “the Agenda”). “6 Western Balkan countries” means the Western Balkan countries without EU accession: Albania, Serbia, Montenegro, Bosnia–Herzegovina, Macedonia, and Kosovo. The Steering Committee of SEETO is composed of representatives of these six countries. The enlarged Western Balkan Summit was also attended by EU member states in the Western Balkan area and other relevant countries, including Croatia and Slovenia inside the Western Balkan area; and Germany, Italy, Austria, and France outside this area.
+To investigate whether increasing trade openness results in more severe environmental problems, this study investigates the impact of trade openness on carbon dioxide (CO2) emissions using panel data from 64 countries along the Belt and Road from 2001–2019. Fully considering the potential heterogeneity, the panel quantile regression approach is utilized. Moreover, this study explores the three major mediating effects of the process, namely the energy-substitution effect, economic effect, and technology effect. The empirical results indicate that the improvement in trade openness has a significantly positive effect on CO2 emissions, and it also shows that the impact varies with different levels of CO2 emissions. Furthermore, the indirect effect of trade openness on CO2 emissions via the economic effect is positive, while the indirect effect via the energy-substitution and the technology effect is negative. Therefore, it is necessary to improve renewable energy consumption, decrease energy intensity, and formulate related policies to reduce carbon emissions policies in terms of local conditions.
 
-https://doi.org/10.4324/9781003286202-117
+https://doi.org/10.3390/su13041958
 
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

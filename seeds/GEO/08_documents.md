@@ -29,7 +29,8 @@ The two countries maintained communication and coordination at the United Nation
 
 
 == Economic relations ==
-Bilateral economic ties have gradually expanded since 1992 and witnessed further growth beginning in 2010 as Georgia's economy recovered from the 2008 war. China views Georgia as part of the One Belt One Road Initiative, a project it launched in 2013 to "shorten the distance between China and Europe" through improved infrastructure connections. By 2014, China had accounted for $217.94 million in foreign direct investment in Georgia, putting it in fourth place after Azerbaijan, the Netherlands, and the United States. 
+Bilateral economic ties have gradually expanded since 1992 and witnessed further growth beginning in 2010 as Georgia's economy recovered from the 2008 war. In 2014, Georgia joined the Belt and Road Initiative, a project China launched in 2013 to "shorten the distance between China and Europe" through improved infrastructure connections. 
+By 2014, China had accounted for $217.94 million in foreign direct investment in Georgia, putting it in fourth place after Azerbaijan, the Netherlands, and the United States. 
 A number of Chinese companies have launched major operations in Georgia. China's Hualing Group, mainly focused on construction and management of hotels and trade centers, was Georgia's single largest foreign investor as of 2017. Some of the company's projects in Georgia include the Hualinge Hualing Free Industrial Zone in Kutaisi, Georgia's second largest city. The Hualinge Hualing Free Industrial zone is an important hub for Chinese manufacturers to access the European market. Hualing Group has also built a large residential and commercial complex in a suburb of the capital city of Tbilisi. 
 In January 2017, the CEFC China Energy agreed to purchase 75% of shares in the Free Industrial Zone at Poti on Georgia's Black Sea coastline. Georgia's main export product to China is wine, which amounted to 5,299,820 bottles in 2016, nearly double the amount exported in the previous year. In addition to wine, other significant exports from Georgia to China include copper ore and copper products. Significant Chinese exports to Georgia include mechanical products, electrical products, and steel. 
 On 13 May 2017, China and Georgia signed a free trade agreement.
@@ -73,45 +74,45 @@ Georgia–Hong Kong relations
 
 ## 学术论文（OpenAlex）
 
-### Belt and Road Initiative: Implications for Georgia and China-Georgia Economic Relations（2017，，被引 9）
+### Belt and Road Initiative: Implications for Georgia and China-Georgia Economic Relations（2017，，被引 13）
 
 （无摘要）
 
 https://openalex.org/W3217106164
-### ONE BELT ONE ROAD INITIATIVE AND GEORGIA（2017，SSRN Electronic Journal，被引 6）
+### ONE BELT ONE ROAD INITIATIVE AND GEORGIA（2017，，被引 6）
 
 The new global projects put forward by China such as the Silk Road Economic Belt and the 21st Century Maritime Silk Road, which combined make up the One Belt - One Road (OBOR) initiative, create new opportunities for developing of Georgia's economy. Georgia finds its place in one of the corridors, the Central Asia-West Asia Economic Corridor of the project which creates principally new ways for the development of its economy. Georgia can play the role of an economic hub in the OBOR project as it already has free trade agreements in place with both the EU as well as China.
 
 https://doi.org/10.13140/rg.2.2.29950.48964
-### China’s Belt and Road Initiative: Opportunities and Challenges for Georgia（2021，Lex Portus，被引 6）
+### China’s Belt and Road Initiative: Opportunities and Challenges for Georgia（2021，Lex Portus，被引 7）
 
 The article explores China’s growing presence and activities in Georgia and its present and potential geopolitical implications. Its aim is to contribute to the better understanding of China’s Belt and Road Initiative and its impact on the socio-political and economic security in Georgia as well as wider Caucasus region more generally. The article highlights Georgia’s role in the BRI as a land and maritime “bridge”. It examines in some depth the role of the Trans-Caspian route – the so-called Middle Corridor and its constituting Baku-Tbilisi-Kars (BTK) railway in the future development of the BRI and Georgia’s involvement in it as a “logistics hub” connecting Asia and Europe. The article also explores the prospects of the Deep-Water Port Project in the Black Sea town of Anaklia in Georgia and why it has not materialised yet. It touches upon the conflicting interests of Russia, Turkey and the US and how geopolitics influences economic calculations of the project. The article is largely based on a desk research conducted in summer and autumn 2020 and utilises both secondary and primary sources in its analysis. Online interviews and author’s communication with the Georgian government officials, Embassy representatives, experts in the field, Georgian exchange students in China and others connected to Chinese companies in Georgia have also been used in the analysis presented in the article. The article shows how despite increased Chinese involvement in Georgia more generally, China’s interest in the development of the economically, and possibly politically strategic for Georgia “Middle Corridor” route remains rather lukewarm. However, as the article tries to demonstrate, this should not prevent Georgia to pursue its ambitious plan of becoming a connecting land and maritime hub in the region. China is undoubtedly an important player in Asia and beyond, but it is not the only player.
 
 https://doi.org/10.26886/2524-101x.7.2.2021.4
-### China’s "Belt and Road” Initiative and the South Caucasus（2019，Apollo (University of Cambridge)，被引 13）
+### China’s "Belt and Road” Initiative and the South Caucasus（2019，Repository for Publications and Research Data (ETH Zurich)，被引 14）
 
 Almost two years after the Belt and Road Forum held in Tbilisi in November 2017, this article provides an overview of the development of transit infrastructure in Georgia and its relevance to the entire region. To challenge mainstream accounts of the Belt and Road Initiative, which are characterised by a bird#s eye view of logistical connectivity and geopolitical arrangements, the author focuses closely on the construction of one infrastructure project: the Georgian section of the Baku-Tbilisi-Kars railway. This project preceded the inception of the BRI, but has nevertheless come to be described as one of the key components of the middle corridor passing through Georgia. By mapping some of the conflicts and frictions that have appeared in and around the infrastructure’s development, what emerges is a much more complex picture of the making of global connections, one characterised by the intertwining of past histories and shaped by the interaction between local events and transnational relations.
 
 https://doi.org/10.3929/ethz-b-000368298
-### Economic Expectations of the Belt and Road Initiative for the South Caucasus, with Emphasis on Georgia（2019，Business and Economic Research，被引 11）
+### Economic Expectations of the Belt and Road Initiative for the South Caucasus, with Emphasis on Georgia（2019，Business and Economic Research，被引 12）
 
 Georgia, a post-soviet country, located in the South Caucasus at a crossroads of Europe and Asia, presents Europe’s natural gateway towards Asia. The Belt and Road Initiative, also known as the One Belt One Road, is 21st century Silk Road encompassing transportation and communication systems connecting China to Europe. Since the Initiative is at its beginning stage, it is essential to study its economic influence on the South Caucasus region it traverses, and particularly, upon Georgia. In this respect, to facilitate sustainable growth in the region, advanced technology, industrial and infrastructural modernization is crucial. Under the Initiative, Baku-Tbilisi-Kars railway is completed, which can significantly shorten the time of shipment from China to Europe, and Georgia's Anaklia Deep Sea Port on the Black Sea with a huge capacity of cargo transportation is under construction. The infrastructure investments under the Initiative can encourage economic development and hence, reduce poverty.
 
 https://doi.org/10.5296/ber.v9i1.14438
-### South Caucasus and Central Asia - The Belt and Road Initiative（2020，World Bank, Washington, DC eBooks，被引 4）
+### CAUCASIAN TANDEM AND THE BELT AND ROAD INITIATIVE（2018，Central Asia and the Caucasus，被引 10）
+
+The paper discusses the issues of the joint role of Azerbaijan and Georgia, or the “Caucasian Tandem,” in Beijing’s Belt and Road Initiative global project. Proceeding from the Caucasian Tandem’s experience in establishing and operating the Silk Road Transport Corridor, the chief challenges of the Silk Road Economic Belt implementation are examined. In the context of the Russian geopolitical theory of Eurasianism and the historical experience of overcoming the Moscow-driven challenges in establishing the Silk Road Transport Corridor, the article analyzes potential hindrances in implementing the segment of the Silk Road Economic Belt that should traverse the Central Caucasus. Special emphasis is placed on the Russian project of the Greater Eurasian Partnership or Community, as a more broad-scale reinterpretation of the Eurasian Economic Union, which Moscow considers an alternative to Beijing’s Belt and Road Initiative project. A comparison of the major characteristics of Russia’s and China’s economic models allowed to determine that the Eurasian Economic Union, and all the more so the Greater Eurasian Partnership or Community, is unable to compete with the Belt and Road Initiative, although it can create certain geopolitical obstacles to its implementation. The paper substantiates that in order to increase the efficiency of functioning of the Central Caucasian segment of the Silk Road Economic Belt, it is essential to transit from the alternative economic corridor paradigm (which is of a confrontational nature) to a paradigm of their mutual complementarity (which is of a healthy competitive nature). The mutual complementarity paradigm aims to harmonize the development of the corridors under consideration. Such an approach to economic corridors was once proposed to weaken the confrontational character of the transport and energy corridors traversing Russia and the Central Caucasus. The Caucasian Tandem successfully plays the role of a transport and energy hub in the S
+
+https://openalex.org/W7220278652
+### South Caucasus and Central Asia - The Belt and Road Initiative（2020，World Bank, Washington, DC eBooks，被引 6）
 
 Georgia is the only country in the CAC region that can access markets around the world through its own seaports and thus less dependent on China’s BRI overland corridors for trade, investment and growth. Nevertheless, the Georgian government is investing in the one BRI corridor China, Europe route that passes through the Caucuses, partly because it provides a faster route to China. The potential for larger volume of Chinese transit cargo on this route may also be attractive given its desire to become a major transit and trading hub in the region. With greater people-to-people contact between China and Georgia, there could also be greater access to China’s outward FDI under the BRI that would bring with it capital, better technology as well as managerial and marketing know-how. Chinese private firms are already investing in Tbilisi, Kutaisi and other areas in the country. Georgia’s liberal investment and trade regime, especially its free trade agreements with the European Union (EU), China, Turkey, and its location, make it eminently suited for such FDI inflows, including participation in China-centric Global Value Chains (GVCs). This note assesses the potential impact of BRI over connectivity and the Georgian economy. It looks at how, if fully implemented globally, the BRI is expected to achieve better transport connections and greater economic integration of participating BRI countries, discusses improvements in Georgia’s cross-border transport, electricity and ICT infrastructure to-date, and the potential impact of the completion of BRI transport projects on lowering Georgia’s shipment time. It further looks at the likely economic impact of BRI reductions in shipment time on exports, FDI and GDP, the within-country regional distribution of that impact and how complementary polices can enhance the positive impact, mitigate risks and reduce regional inequity. Finally, it also examines the fiscal risk of scaling-up investment in BRI projects in the coming years witho
 
 https://doi.org/10.1596/34122
-### Capitalizing on the Logistical Future: Discounting Uncertainty in the Georgian Belt and Road Initiative（2025，Bristol University Press eBooks，被引 0）
-
-（无摘要）
-
-https://doi.org/10.51952/9781529240665.ch011
-### Georgia as a Transit Hub and its Increasing Potential in the Implementation of the Belt and Road Initiative（2017，，被引 3）
+### Georgia as a Transit Hub and its Increasing Potential in the Implementation of the Belt and Road Initiative（2017，，被引 5）
 
 （无摘要）
 
 https://openalex.org/W2997395323
 
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

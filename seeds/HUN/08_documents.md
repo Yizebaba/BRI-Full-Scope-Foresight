@@ -16,12 +16,12 @@ Hungary is a high-income economy with universal health care and tuition-free ter
 ### China–Hungary relations
 
 The People's Republic of China and Hungary (at the time, the Hungarian People's Republic) established diplomatic relations in October 1949.
-The PRC has an embassy in Budapest. Hungary has an embassy in Beijing and consulates-general in Chongqing, Guangzhou, Hong Kong and Shanghai. In addition, Hungary also has an unofficial diplomatic outpost for the Taiwan-related interests in the form of the Hungarian Trade Office in Taipei while the ROC has the Taipei Representative Office in Hungary in Budapest.
-Relations have been generally positive, especially under Hungarian prime minister Viktor Orbán. In 2017, the two countries declared their relationship a comprehensive strategic partnership.
+The PRC has an embassy in Budapest. Hungary has an embassy in Beijing and consulates-general in Chongqing, Guangzhou, Hong Kong and Shanghai. In addition, Hungary also has an unofficial diplomatic outpost for its Taiwan-related interests in the form of the Hungarian Trade Office in Taipei while Taiwan operates a representative office in Budapest.
+Relations between the two countries were strongest during the tenure of Hungarian prime minister Viktor Orbán, with Hungary joining the Belt and Road Initiative in 2015 and the two declaring a comprehensive strategic partnership in 2017.
 
 
 == History ==
-In 1869, Austria-Hungary established diplomatic relations with the Qing dynasty. 
+In 1869, Austria-Hungary established diplomatic relations with the Qing dynasty.
 
 
 === Austro-Hungarian concession of Tianjin ===
@@ -29,13 +29,12 @@ In 1869, Austria-Hungary established diplomatic relations with the Qing dynasty.
 
 === Cold War ===
 On October 3, 1949, the Hungarian People's Republic recognized the People's Republic of China. On October 6, the two countries established diplomatic relations. During the Korean War, the Hungarian People's Republic sent medical teams to Pyongyang to treat wounded North Korean and Chinese People's Volunteer Army troops. At the height of the Hungarian Revolution of 1956, Chinese premier Zhou Enlai encouraged Soviet premier Nikita Khrushchev to intervene against the Hungarian revolutionaries. Starting in 1956, shortly before the Hungarian Revolution, Hungary sent a team of experts to China to prospect for oil in Daqing, which would become China's largest oil field. 
-In 1989, Hungarian government, which was undergoing political reform, reacted strongly to the 1989 Tiananmen Square protests and massacre, condeming the Chinese government's actions. Demonstrations were held outside the Chinese embassy. Hungary was the only country in Europe to have substantially reduced relations with China in the aftermath of the events.
+In 1989, Hungarian government, which was undergoing political reform, reacted strongly to the 1989 Tiananmen Square protests and massacre, condemning the Chinese government's actions. Demonstrations were held outside the Chinese embassy. Hungary was the only country in Europe to have substantially reduced relations with China in the aftermath of the events.
 
 
 === 21st century ===
-During the government of Viktor Orbán, Hungary strengthened its ties with China while other European Union member states considered "de-risking" their relations with China. In 2017, China and Hungary declared their relationship a comprehensive strategic partnership. Since at least 2017, Hungarian police and other governmental institutions have used Chinese surveillance equipment from Dahua Technology and Hikvision.
+During the government of Viktor Orbán, Hungary strengthened its ties with China while other European Union member states considered "de-risking" their relations with China. In 2016, Hungary (along with Greece) attempted to block direct references to China in an EU statement on the South China Sea arbitration ruling. In 2017, China and Hungary declared their relationship a comprehensive strategic partnership. Hungary also blocked the European Union from formally criticizing China's actions in Hong Kong in both 2020 and 2021.
 In 2021, it was revealed that Fudan University was planning a campus in Budapest. This led to pushback in the country and to protests, leading the Hungarian government to delay the plans and promise that it will hold a referendum on the issue. On 22 May 2022, the Constitutional Court ruled the referendum as unconstitutional as it concerns an international agreement. Hungarian officials also promised to resume the project after the victory of the ruling Fidesz during the 2022 parliamentary elections.
-Hungary has formally blocked the European Union from formally criticizing China's actions in Hong Kong in both 2020 and 2021.
 On 20 February 2023, Chinese Communist Party (CCP) Politburo member and top diplomat Wang Yi visited Budapest to meet with prime minister Orbán. During the meeting, Hungarian foreign minister Péter Szijjártó stated that "[w]hen we have faced crises in recent years, Hungary has always come out of them stronger than it went into them, but Hungarian-Chinese cooperation has played an absolutely indispensable role in this". On 27 February 2023, Orbán backed the peace plan released by Wang Yi about ending the Russian invasion of Ukraine.
 CCP general secretary Xi Jinping visited Hungary in May 2024 and met with Orbán. During the visit, the two countries entered into an "all-weather comprehensive strategic partnership for a new era" as well as 18 other agreements and memoranda of understanding.
 In October 2025, it was reported that Chinese state-backed advanced persistent threat group Mustang Panda had targeted Hungarian and other European diplomats as part of a coordinated cyber-espionage campaign.
@@ -43,7 +42,8 @@ In October 2025, it was reported that Chinese state-backed advanced persistent t
 
 == Economic relations ==
 Under Viktor Orbán, Hungary joined the Belt and Road Initiative in 2015. In the same year, it was the largest recipient of Chinese outbound direct investment with around $571 million. As of at least 2024, Hungary is one of the strongest European supporters of the BRI. Between 2022 and 2024, Hungary received nearly a quarter of Chinese foreign direct investment to Europe. Hungarian foreign minister Szijjártó stated in 2023 that Hungarian-Chinese trade was over $10 billion.
-Hungary hosts the largest supply center of Huawei outside of China. In 2022, Chinese battery company CATL agreed to invest $7.5 billion to build a factory in Debrecen. Concerns were raised among locals about environmental and health effects of the factory. Hungary also has several Chinese electric vehicle battery plants. In 2023, Chinese electric vehicle company BYD Auto chose Szeged as its first large factory in Europe. In March 2025, the European Commission opened a probe into whether the BYD Auto plant had received unfair state subsidies from China. In July 2026, Hungarian prime minister Péter Magyar announced that it would investigate the deal with BYD Auto after the former foreign minister Péter Szijjártó accepted a job with BYD shortly after resigning. Magyar's government increased environmental regulatory scrutiny of Chinese companies in Hungary.
+Hungary hosts the largest supply center of Huawei outside of China. Since at least 2017, Hungarian police and other governmental institutions have used Chinese surveillance equipment from Dahua Technology and Hikvision.
+In 2022, Chinese battery company CATL agreed to invest $7.5 billion to build a factory in Debrecen. Concerns were raised among locals about environmental and health effects of the factory. Hungary also has several Chinese electric vehicle battery plants. In 2023, Chinese electric vehicle company BYD Auto chose Szeged as its first large factory in Europe. In March 2025, the European Commission opened a probe into whether the BYD Auto plant had received unfair state subsidies from China. In July 2026, Hungarian prime minister Péter Magyar announced that it would investigate the deal with BYD Auto after the former foreign minister Péter Szijjártó accepted a job with BYD shortly after resigning. Magyar's government increased regulatory oversight, particularly environmental, of Chinese companies operating in Hungary.
 
 
 == Healthcare ==
@@ -124,7 +124,7 @@ Cooperation between China and Central and Eastern European Countries (China-CEE,
 
 ## 学术论文（OpenAlex）
 
-### The Belt and Road Initiative depicted in Hungary and Slovakia（2018，Journal of Contemporary East Asia Studies，被引 49）
+### The Belt and Road Initiative depicted in Hungary and Slovakia（2018，Journal of Contemporary East Asia Studies，被引 54）
 
 Central and Eastern European countries, like Hungary and Slovakia, are located along the Western section of the Belt and Road Initiative (BRI) and serve as a gateway to the European Union. Thus, the participation of the CEE region is inevitable in the BRI, and the attitude of national governments and the public opinion may have an impact on the future of EU-China relations in the framework of the new “Silk Road” connecting the East to the West. The following paper offers an introduction to the so-called 16 + 1 cooperation of China and its 16 partners in the CEE region, and analyzes the political environment, public support, and media discourse of the BRI in two selected countries of Central and Eastern Europe.
 
@@ -134,21 +134,21 @@ https://doi.org/10.1080/24761028.2018.1537091
 It's an interesting topic, Filled of new visions and ideas, The future of trading and logistics, Public opinions and mutual benefits, Mega infrastructures development.
 
 https://openalex.org/W7198594339
-### Global-Local Dynamics in Belt and Road Initiative Projects（2023，Japan focus，被引 4）
+### Global-Local Dynamics in Belt and Road Initiative Projects（2023，Japan focus，被引 6）
 
 Abstract This essay argues that modes of conceptualizing global-local entanglements provide a useful lens for looking at the different ways Belt and Road Initiative (BRI) projects localize in BRI-host countries. The essay draws on recent work on George Ritzer to examine examples of BRI projects where global norms and practices are locally conceived and controlled, in contrast to other cases where the projects barely reflect local culture. Examples of Serbia and Hungary are provided to illuminate these points.
 
 https://doi.org/10.1017/s1557466023028449
+### Member States’ Influence in Shaping the EU as a Global Actor: Hungary, Italy, and the Netherlands in China’s Belt and Road Engagement（2025，Global Europe，被引 4）
+
+Abstract In an era defined by escalating global challenges and increasing geopolitical tensions, the imperative for international cooperation has become more complex, particularly in the context of the EU’s interactions with China. This analysis delves into the dynamics of developing a unified EU foreign policy towards China, focusing on the engagement of Hungary, Italy, and the Netherlands with the Belt and Road Initiative (BRI). These countries exemplify the diverse responses within the EU to China’s expansive strategy, reflecting the broader EU struggle to balance economic interests with values and norms. This chapter aims to explore China’s motivations for engaging with selected EU Member States and these countries’ expectations from the BRI, analysing the implications for the EU’s collective position on China’s global ambitions. Through detailed case studies, the analysis will uncover the factors influencing each Member State’s approach to the BRI and China, contributing to the discourse on the EU’s geopolitical role and coherence in global politics.
+
+https://doi.org/10.1007/978-94-6265-666-6_3
 ### China’s Belt and Road Initiative: an analysis of the European policy response（2018，，被引 0）
 
 This master’s thesis analyses the extent to which EU member states and EU bodies have responded coherently towards China’s Belt and Road Initiative. The master’s thesis uses a mixed method approach: it begins with a comparative study of the Dutch, German, Czech and Hungarian policy responses towards the BRI. These are: an analysis of the national policy stance, the foreign policy stance and an analysis of whether tangible Chinese-backed infrastructure projects are taking place in the respective country. The thesis then analyses the EU policy response by analysing the EU-China Connectivity Platform and a new proposed strategy on China that was proposed by the HR/VP and the European Commission. The thesis is theoretically supported by the concept of coherence in EU actorness, in which I build on the insights of Bretherton & Vogler and Harmut Mayer. This master’s thesis ultimately concludes that EU member states have engaged very differently to China’s BRI, with the Czech and Hungarian governments much more receptive to Chinese finance than the Netherlands and Germany. Moreover, the EU policy response to the BRI is very limited at the time of writing. Therefore, insufficient sorts of coherence diminish the extent to which the EU can act effectively with the BRI. This is problematic, should the EU want to address issues of unfair public procurement, lack of transparency rules and the safeguarding of environmental regulations that are applicable to the BRI. (Less)
 
 https://openalex.org/W2895484000
-### Member States’ Influence in Shaping the EU as a Global Actor: Hungary, Italy, and the Netherlands in China’s Belt and Road Engagement（2025，Global Europe，被引 2）
-
-Abstract In an era defined by escalating global challenges and increasing geopolitical tensions, the imperative for international cooperation has become more complex, particularly in the context of the EU’s interactions with China. This analysis delves into the dynamics of developing a unified EU foreign policy towards China, focusing on the engagement of Hungary, Italy, and the Netherlands with the Belt and Road Initiative (BRI). These countries exemplify the diverse responses within the EU to China’s expansive strategy, reflecting the broader EU struggle to balance economic interests with values and norms. This chapter aims to explore China’s motivations for engaging with selected EU Member States and these countries’ expectations from the BRI, analysing the implications for the EU’s collective position on China’s global ambitions. Through detailed case studies, the analysis will uncover the factors influencing each Member State’s approach to the BRI and China, contributing to the discourse on the EU’s geopolitical role and coherence in global politics.
-
-https://doi.org/10.1007/978-94-6265-666-6_3
 ### The importance of Chinese investments in the One Belt, One Road Initiative（2017，，被引 2）
 
 The 16+1 cooperation initiative, involving the People’s Republic
@@ -186,4 +186,4 @@ This dissertation uses the Belt and Road Initiative as a case study to systemati
 
 https://openalex.org/W7167443829
 
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

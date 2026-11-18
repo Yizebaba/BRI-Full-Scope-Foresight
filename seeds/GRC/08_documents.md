@@ -56,7 +56,7 @@ Andreas Papandreou, who came to power in 1981, aggressively courted China as par
 China and Greece raised their bilateral relations to a strategic partnership in 2006.
 Since 2010, China has strengthened its relationship with Greece, following the increased strain in the European Union-Greece relationship after Greece's bailout.
 In 2014, 78 Chinese citizens were among those evacuated from Libya by the Greek navy frigate Salamis. China thanked Greece for its help.
-In 2017, Greece, under Prime Minister Alexis Tsipras, prevented the European Union from issuing statements condemning Chinese aggression in the South China Sea and its human rights record, moves widely attributed as a response to Chinese investment in the Port of Piraeus.
+In 2016, Greece (along with Hungary) attempted to block direct references to China in an EU statement on the South China Sea arbitration ruling.In 2017, Greek Prime Minister Alexis Tsipras prevented the European Union from issuing statements condemning Chinese aggression in the South China Sea and its human rights record, moves widely attributed as a response to Chinese investment in the Port of Piraeus. This was the first time the EU had failed to make a joint statement at the UN Human Rights Council.
 In August 2018, Greece joined the Belt and Road Initiative.
 On the 12th of April, 2019, Greece officially joined China's 'Cooperation between China and Central and Eastern European Countries', becoming the 17th European Nation to join the initiative, making it 17+1. This move has further developed relations between China and Greece.
 In 2019, the Bank of China opened its first branch in Greece.
@@ -97,6 +97,7 @@ October 2021, a visit of State Councilor and Foreign Minister Wang Yi to Greece
 
 == Public opinion ==
 A survey published in 2026 by the Pew Research Center found that 55% of Greek people had a favorable view of China, while 32% had an unfavorable view.
+Publishing in 2026, academic Philippe Le Corre writes that Greek elites are generally receptive to China's public diplomacy discourse.
 
 
 == Resident diplomatic missions ==
@@ -191,17 +192,17 @@ Primary and Secondary Education - Recommendations for assessing, evaluating and 
 Abstract Why do some European states embrace China’s Belt and Road Initiative (BRI), while others keep it at arm’s length or actively oppose it? States like Greece and Hungary have welcomed BRI investments as a political counterweight to Brussels, while Germany and others have remained skeptical, despite their economic ties to China. To capture the variation in how states respond to the BRI, we draw on theories of incomplete contracts and relational contracting, which foreground recipient states’ agency in negotiating with a more powerful counterpart. Here, what shapes the engagement is the character of the relations between the parties rather than the content of the contracts. We propose four ideal-typical relations of Comrade, Client, Customer, and Critic, each associated with distinct policy behaviors and underlying drivers, to assess how the BRI interacts with domestic politics and historical and existing relations. We argue that the BRI does not necessarily change existing alignments, but rather that it may reinforce or be adapted to them—and that such changes are contingent on domestic and institutional recalibrations. The proposed ideal-typical patterns help us understand the different, specific trajectories that emerge in the four studied cases—Greece, Poland, Hungary, and Germany—and how they are mediated by domestic politics. Further, the ideal-typical relations proposed here can help us assess the political and economic significance of the BRI while also contributing to broader debates about possible changes in China’s global position and the building blocks of an emerging international order.
 
 https://doi.org/10.1093/isagsq/ksag127
-### How think tanks shape discourse: An analysis of China's Belt and Road Initiative in the European Union through a case study of Greece（2022，Digital Repository (National Repository of Grey Literature)，被引 0）
+### How think tanks shape discourse: An analysis of China's Belt and Road Initiative in the European Union through a case study of Greece（2022，Digital Repository (National Repository of Grey Literature)，被引 1）
 
 Following the Belt and Road Initiative's debut in 2013, member states of the European Union have not agreed on a single approach to handling it. Skepticism can be felt throughout Europe on the topic and especially through think tanks, as Greece becomes a pivotal partner in the Chinese venture. The role of these think tanks is somewhat ambiguous in nature when it comes to examining political discourse. It is established that think tanks are important in the policy- making process for research and recommending strategies. As the world becomes increasingly more complex and uncertain, think tanks have the ability to provide well-analyzed solutions. However, how they shape discourse is up for debate and to what extent they do so. Therefore, in this thesis, think tanks are assumed as functional actors under the securitization theory from a framing perspective that influences topics of debate, such as the Belt and Road Initiative. Although their discourse heavily corresponds with Europe's mistrust of China's economic intentions, as seen with the port of Piraeus, think tanks act as facilitators rather than independent actors for policy change. Thus, this paper will be of interest to students, academics, and political science practitioners.
 
 https://openalex.org/W7135484046
-### KEPENTINGAN UNI EROPA DALAM PROJEK KERJASAMA DENGAN CHINA "ONE BELT, ONE ROAD"（2019，UMM Institutional Repository (University of Maine at Machias)，被引 0）
+### KEPENTINGAN UNI EROPA DALAM PROJEK KERJASAMA DENGAN CHINA "ONE BELT, ONE ROAD"（2019，UMM Institutional Repository (Universitas Muhammadiyah Malang)，被引 0）
 
 This research will discuss about European Union’s Interest in the corporation project with China One Belt, One Road (OBOR). OBOR is initiative project that focus on routes integration that will connect Asia, Europe and Africa through overland routes called Silk Road Economic Belt and sea routes called 21st Century Maritime. Researcher uses Institutionalism Liberalism as theory to analyze this matter according to the consideration of international cooperation is based on rational analysis, where in this context is the consideration of European Union in corporation with OBOR. Meanwhile, that considerations include, first is market expansion to the Eurasian Economic Union (EAEU) region through the North Eurasia corridor. Second is the creation of a faster route as an access to Asia through the Central Eurasian corridor that will go through the Black Sea. Third, it provide competitiveness for the Central European region especially Greece.
 
 https://openalex.org/W3106237354
-### Greece between crisis, opportunity and risk as a key BRI node（2021，Routledge eBooks，被引 4）
+### Greece between crisis, opportunity and risk as a key BRI node（2021，Routledge eBooks，被引 5）
 
 This chapter discusses how the Belt and Road Initiative (BRI) and interrelated economic and political objectives of the Chinese government play out in the Greek context. The chapter opens with the background of Sino-Greek relations. It continues with the BRI’s political and economic objectives in the context of Greece and Southeastern Europe, and the Near East, exploring the expectation that Greek policymakers, business people, and ordinary citizens have had from the prospects of economic activities that the BRI seeks to bring to the country. Finally, the chapter sets Sino-Greek relations in their European context, analyzing the impact of the BRI on the European Union as a political and economic bloc.
 
@@ -211,7 +212,7 @@ https://doi.org/10.4324/9780367853235-12-16
 （无摘要）
 
 https://doi.org/10.1007/978-3-030-64081-1_16
-### China’s ‘Silky Involvement’ in the Eastern Mediterranean: A geopolitical upper hand for Greece and Cyprus?（2022，Journal of Balkan and Near Eastern Studies，被引 3）
+### China’s ‘Silky Involvement’ in the Eastern Mediterranean: A geopolitical upper hand for Greece and Cyprus?（2022，Journal of Balkan and Near Eastern Studies，被引 4）
 
 The paper argues that Chinese involvement in the Eastern Mediterranean is primarily motivated by increasing the country’s economic role within the region through Belt and Road Initiative (BRI). The paper uses case study analysis methodology dwelling on the evolution and content of Chinese involvement in Greece and Cyprus. Primarily focusing of the nature of the Chinese investments in strategic sectors of the two cases in question the role that that China plays in Eastern Mediterranean is described as a ‘silky involvement’. China’s policy choices are also perceived to be an opportunity for Greece and Cyprus to combat the negative effects of 2007–2008 economic crises and to increase their geopolitical stronghold in the post-Cold War geopolitical environment of the Eastern Mediterranean.
 
@@ -227,4 +228,4 @@ Subject Chinese investment in Europe’s seaports. Significance Suspicion that C
 
 https://doi.org/10.1108/oxan-db241658
 
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

@@ -7,5 +7,4 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
-- 2026-11-17 00:00 UTC：Green 级 WF，Forest fires in South Africa。https://www.gdacs.org/report.aspx?eventid=1033939&episodeid=1&eventtype=WF 
-- 2026-11-15 01:00 UTC：Green 级 FL，Flood in South Africa。https://www.gdacs.org/report.aspx?eventid=1104286&episodeid=1&eventtype=FL 
+- 2026-11-17 00:00 UTC：Green 级 WF，Forest fires in South Africa。https://www.gdacs.org/report.aspx?eventid=1033939&episodeid=2&eventtype=WF 

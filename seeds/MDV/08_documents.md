@@ -24,7 +24,11 @@ China-Maldives ties improved with the election of Mohamed Muizzu as president in
 The relations between China and the Maldives date back hundreds of years. A record from the Tang dynasty documents a visiting Maldivian delegation bearing gifts from King Baladitiya to Emperor Gaozong in 658 AD, and repeatedly in 662 AD. The Maldives are referred to as "Mo-lai". The Chinese explorer Zheng He visited the islands in 1412 and 1417 AD.
 The Maldives has historically been aligned with India since its independence in 1965 but has increasingly engaged with China, particularly after joining China's Belt and Road Initiative (BRI) in 2014.
 Maldives strongly supported China's 2007 application to join the South Asian Association for Regional Cooperation (SAARC) as an observer. In November 2011, China opened an embassy in Malé.
+In 2013, Maldives and China upgraded their relationship to a strategic partnership.
 In July 2022, the Chinese embassy in the capital city Malé received a bomb threat, sent via the city's website, that also targeted a Russian consulate. Security forces were dispatched to the affected areas and the residence of politician Mohamed Nasheed, and some streets were cordoned off.
+In 2024, China and Maldives signed a memorandum of understanding which incorporated blue economy cooperation. China and the Maldives reached a bilateral military agreement on March 5, 2024. The impact was regarded by analysts, as significantly affecting the geo-security environment of India. 
+On April 21, 2024, the pro-China People's National Congress led by President Muizzu won a landslide victory in the parliamentary election with 71 of the 93 seats in the People's Majlis, the unicameral parliament of the Maldives.
+The Chinese research vessel Xiang Yang Hong 03 arrived at Male seaport on 8/2/2024. The survey ship has the capability to conduct civilian research as well as military surveillance, and is strategically positioned in the Indian Ocean Region (IOR).
 
 
 == High level visits ==
@@ -33,7 +37,7 @@ In May 2011, Wu Bangguo, the Chairman of Chinese National People's Congress and 
 In October 2012, Li Changchun, member of the CCP Politburo Standing Committee, visited the Maldivian President Mohamed Waheed Hassan. Li said "China will continue to provide assistance to its capacity to help promote the Maldivian social and economic growth and support the country's infrastructure and human resource development".
 In December 2012, the Maldives Minister of Defense and National Security visited China. In September 2014, President Abdulla Yameen traveled to China, and during the next month Xi Jinping, President and the General Secretary of the Chinese Communist Party, visited Yameen.
 In August 2017 three Chinese navy warships made a port call to Malé. In December 2017, in China, President Yameen signed a free trade agreement with China; notably this was the Maldives' first free trade agreement.
-The Maldives has significantly strengthened its relationship with China, underscored by President Mohamed Muizzu's inaugural state visit to China in January 2024, where he signed twenty new agreements including financial and military assistance.
+The Maldives has significantly strengthened its relationship with China, underscored by President Mohamed Muizzu's inaugural state visit to China in January 2024, where he signed twenty new agreements including financial and military assistance. Mohamed Muizzu became the first president to visit China on January 10, 2024. During the state visit, the two countries agreed to develop an "Action Plan" for establishing a comprehensive strategic cooperation partnership between China and Maldives from 2024 to 2028. Additionally, the two governments agreed to sign 20 MoUs. Mohamed Muizzu referred to China as a valued ally during the visit.
 
 
 == Economic relations ==
@@ -55,13 +59,6 @@ The Export-Import Bank of China has provided more than $1 billion to the Maldive
 == Tourism ==
 363,000 Chinese tourists visited Maldives in 2014. In 2018 and 2019 there was a gradual decrease in Chinese tourists.
 On February 17, 2023, the Agreement between the Government of the People's Republic of China and the Government of the Republic of Maldives on Mutual Visa Exemption came into effect, allowing holders of valid Chinese ordinary passports and travel documents to enter the Maldives visa-free for 30 days.
-
-
-== Present-day relations ==
-Mohamed Muizzu became the first president to visit China on January 10, 2024. During the state visit, the two countries agreed to develop an "Action Plan" for establishing a comprehensive strategic cooperation partnership between China and Maldives from 2024 to 2028. Additionally, the two governments agreed to sign 20 MoUs. Mohamed Muizzu referred to China as a valued ally during the visit.
-The Chinese research vessel Xiang Yang Hong 03 arrived at Male seaport on 8/2/2024. The survey ship has the capability to conduct civilian research as well as military surveillance, and is strategically positioned in the Indian Ocean Region (IOR).
-China and the Maldives reached a bilateral military agreement on March 5, 2024. The impact was regarded by analysts, as significantly affecting the geo-security environment of India.
-On April 21, 2024, the pro-China People's National Congress led by President Muizzu won a landslide victory in the parliamentary election with 71 of the 93 seats in the People's Majlis, the unicameral parliament of the Maldives.
 
 
 == Triangular relations ==
@@ -140,4 +137,4 @@ The emergence of the String of Pearls is indicative of China's growing geopoliti
   摘要：This briefing showcases the gender landscape in Maldives on key indicators helpful for monitoring gender equality and designing effective policy interventions. Gender equality fosters productivity gains, minimizes losses in wealth, reduces poverty, boosts shared prosperity, and supports green, resilient, and inclusive development.
 - 2026-10-22 · Agreement · Official Documents- Amendment to the Project Agreement Grant E046-MV.pdf（项目：MV-Sustainable and Integrated Labor Services (SAILS) -- P177240）。http://documents.worldbank.org/curated/en/099102226100538541
 
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

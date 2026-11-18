@@ -8,7 +8,7 @@ Peru, officially the Republic of Peru, is a country in western South America. It
 Peruvian territory was home to several cultures during the ancient and medieval periods, and has one of the longest histories of civilization of any country, tracing its heritage back to the 10th millennium BCE Caral–Supe civilization, the earliest civilization in the Americas and considered one of the cradles of civilization. Notable succeeding cultures and civilizations include the Nazca culture, the Moche, Wari and Tiwanaku empires, the Kingdom of Cusco, and the Inca Empire, the largest known state in the pre-Columbian Americas. The Spanish Empire conquered the region in the 16th century and Charles V established a viceroyalty with the official name of the Kingdom of Peru that encompassed most of its South American territories, with its capital in Lima. Higher education started in the Americas with the official establishment of the National University of San Marcos in Lima in 1551.
 Peru formally proclaimed independence from Spain in 1821, and following the military campaigns of Bernardo O'Higgins, José de San Martín, and Simón Bolívar, as well as the decisive battle of Ayacucho, it completed its independence in 1824. In the ensuing years, the country first suffered from political instability until a period of relative economic and political stability began due to the exploitation of guano that ended with the War of the Pacific (1879–1884). Throughout the 20th century, Peru grappled with political and social instability, including the internal conflict between the state and guerrilla groups, interspersed with periods of economic growth. Implementation of Plan Verde shifted Peru towards neoliberal economics under the authoritarian rule of Alberto Fujimori and Vladimiro Montesinos in the 1990s, with the former's political ideology of Fujimorism leaving a lasting imprint on the country's governance that continues to the present day. The 2000s marked economic expansion and poverty reduction, but the subsequent decade revealed long-existing sociopolitical vulnerabilities, exacerbated by a political crisis instigated by Congress and the COVID-19 pandemic, precipitating the period of unrest beginning in 2022.
 The sovereign state of Peru is a representative democratic republic divided into 25 regions. Its main economic activities include mining, manufacturing, agriculture and fishing, along with other growing sectors such as telecommunications and biotechnology. The country forms part of The Pacific Pumas, a political and economic grouping of countries along Latin America's Pacific coast that share common trends of positive growth, stable macroeconomic foundations, improved governance and an openness to global integration. Peru ranks high in social freedom; it is an active member of the Asia-Pacific Economic Cooperation, the Pacific Alliance, the Comprehensive and Progressive Agreement for Trans-Pacific Partnership and the World Trade Organization; it is regarded as a middle power.
-Peru's population includes Mestizos, Amerindians, White people, Afro-descedant people, and Asian people. The main spoken language is Spanish, although a significant number of Peruvians speak Quechuan languages, Aymara, or other Indigenous languages. This mixture of cultural traditions has resulted in a wide diversity of expressions in fields such as art, cuisine, literature, and music. Peru has recently gained international recognition for its vibrant gastronomy, blending Indigenous, Spanish, African, and Asian influences. Lima is now considered a global culinary capital, home to award-winning restaurants like Central and Maido.
+Peru's population includes Mestizos, Amerindians, White people, Afro-descendant people, and Asian people. The main spoken language is Spanish, although a significant number of Peruvians speak Quechuan languages, Aymara, or other Indigenous languages. This mixture of cultural traditions has resulted in a wide diversity of expressions in fields such as art, cuisine, literature, and music. Peru has recently gained international recognition for its vibrant gastronomy, blending Indigenous, Spanish, African, and Asian influences. Lima is now considered a global culinary capital, home to award-winning restaurants like Central and Maido.
 
 来源：https://en.wikipedia.org/wiki/Peru（CC BY-SA 4.0）
 
@@ -70,13 +70,16 @@ Chief Executive of Hong Kong Leung Chun-ying (2014)
 CCP General Secretary and President Xi Jinping (2024)
 High-level visits from Peru to China
 
-President of Congress Víctor Joy Way (1997)
-Prime Minister Alberto Pandolfi (1997)
 Minister Carlos Boloña (1991)
 President Alberto Fujimori (1991 & 1999)
+President of Congress Víctor Joy Way (1997)
+Prime Minister Alberto Pandolfi (1997)
 President Alejandro Toledo (2005)
+President Alan García (2008)
 President Ollanta Humala (2013)
 President Pedro Pablo Kuczynski (2016)
+President Dina Boluarte (2024)
+President Keiko Fujimori (2026)
 
 
 == Resident diplomatic missions ==
@@ -125,6 +128,8 @@ The opening of the port of Chancay decongests the Port of Callao, but it has bee
   摘要：Growth in Peru is expected at 3.2 percent in 2026, driven by post-election business optimism and favorable terms of trade. Risks remain balanced, although a stronger-than-anticipated El Niño event could disproportionately affect vulnerable populations. Subdued productivity growth and weak public service delivery remain binding constraints on growth, job creation and formalization, and poverty reduction.
 - 2026-09-15 · Brief · Perú en PISA 2025。http://documents.worldbank.org/curated/en/099804409142630748
   摘要：Resumen de dos páginas con los resultados de PISA 2025 para Perú. Reúne los puntajes en lectura, matemática y ciencias, la proporción de estudiantes bajo el nivel mínimo de competencia, la evolución del desempeño en el tiempo y las diferencias por nivel socioeconómico y género. Cierra con seis prioridades para la educación secundaria, basadas en el reporte del Banco Mundial Donde los caminos se bifurcan. Fuente: OCDE (2026), PISA 2025 Results (Volume I).
+- 2026-11-17 · Environmental and Social Review Summary · Concept Environmental and Social Review Summary (ESRS) - Program for Resilient Inclusive and Sustainable Forestry in Peru - P510895（项目：PE-Program for Resilient, Inclusive, and Sustainable Forestry in Peru -- P510895）。http://documents.worldbank.org/curated/en/099111726170517557
+- 2026-11-14 · Project Information Document · Concept Project Information Document (PID)（项目：PE-Creation of the last-mile fixed Internet access service in the Huánuco, Huancavelica and Pasco Regions in Peru -- P510979）。http://documents.worldbank.org/curated/en/099111426171028491
 - 2026-10-28 · Project Information Document · Concept Project Information Document (PID)（项目：PE-Program for Resilient, Inclusive, and Sustainable Forestry in Peru -- P510895）。http://documents.worldbank.org/curated/en/099102826191516983
 - 2026-10-27 · Project Information Document · Concept Project Information Document (PID)（项目：PE-Digital Agriculture and Information Project -- P515272）。http://documents.worldbank.org/curated/en/099102726224039560
 - 2026-10-27 · Project Information Document · Concept Project Information Document (PID)（项目：PE-Digital Agriculture and Information Project -- P515272）。http://documents.worldbank.org/curated/en/099102726224017439
@@ -132,4 +137,4 @@ The opening of the port of Chancay decongests the Port of Callao, but it has bee
 - 2026-10-15 · Implementation Completion Report Review · Peru - Modernization of WSS Services（项目：PE-Modernization of Water Supply and Sanitation Services -- P157043）。http://documents.worldbank.org/curated/en/099101526135022283
 - 2026-09-15 · Loan Agreement · Official Documents- Loan Agreement for Loan 9910-PE.pdf（项目：PE-Peru Second Fiscal Policy and Sustainable Growth DPF-DDO -- P506131）。http://documents.worldbank.org/curated/en/099092126120036674
 
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

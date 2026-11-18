@@ -114,20 +114,20 @@ https://doi.org/10.1007/978-3-031-29593-5_5
 （无摘要）
 
 https://doi.org/10.13140/rg.2.2.33611.14881
-### China and New Middle East（2021，Journal of Balkan and Near Eastern Studies，被引 28）
+### China and New Middle East（2021，Journal of Balkan and Near Eastern Studies，被引 31）
 
 A New Middle East is emerging, which is shaped by the result of geo-strategic competitions in the region among key state actors. The power structure of the new Middle East can be summarized as a weakened and divided Arab world facing more powerful non-Arab actors, which has conditioned the emergence of three significant camps in the region. Major regional state actors and some sub-state armed actors are playing an increasing role in the geo-strategic competitions in the focal point countries of Syria, Iraq, Yemen, Lebanon, and Libya. China has important interests in the Middle East, and key elements of its policy are taking shape. Institutional mechanisms of cooperation have been created and a network of partnerships with some regional countries has been established. The Belt and Road Initiative remains the key framework for China’s cooperation with the region.
 
 https://doi.org/10.1080/19448953.2021.1888248
+### China and New Middle East（2023，Routledge eBooks，被引 5）
+
+A New Middle East is emerging, which is shaped by the result of geo-strategic competitions in the region among key state actors. The power structure of the new Middle East can be summarized as a weakened and divided Arab world facing more powerful non-Arab actors, which has conditioned the emergence of three significant camps in the region. Major regional state actors and some sub-state armed actors are playing an increasing role in the geo-strategic competitions in the focal point countries of Syria, Iraq, Yemen, Lebanon, and Libya. China has important interests in the Middle East, and key elements of its policy are taking shape. Institutional mechanisms of cooperation have been created and a network of partnerships with some regional countries has been established. The Belt and Road Initiative remains the key framework for China’s cooperation with the region.
+
+https://doi.org/10.4324/9781003402312-4
 ### Wading in Troubled Waters: China’s Middle East Diplomacy in the New Era（2016，International Relations and Diplomacy，被引 0）
 
 The current Middle East situation is characterized by accelerating multi-polarity, the intertwining sectarian politics and geopolitics, the impending crisis of US alliance system, the escalation of arms race, and the deterioration of terrorism and separatism.Syria, Iran, Yemen and Palestine-Israel peace process will remain the flashpoints.Within such a changed situation, China's Middle East policy is evolving from passiveness to aggressiveness.First, participation in the Middle East governance and protection of its practical interests are the two major pillars of China's diplomacy in the Middle East; second, bilateral and multilateral mechanisms are the major platforms; third, partnership instead of alliance is the unique China-styled coalition policy, and finally the "Belt and Road Initiative" is an important tool of Chinese Middle East diplomacy.
 
 https://doi.org/10.17265/2328-2134/2016.09.003
-### China and New Middle East（2023，Routledge eBooks，被引 2）
 
-A New Middle East is emerging, which is shaped by the result of geo-strategic competitions in the region among key state actors. The power structure of the new Middle East can be summarized as a weakened and divided Arab world facing more powerful non-Arab actors, which has conditioned the emergence of three significant camps in the region. Major regional state actors and some sub-state armed actors are playing an increasing role in the geo-strategic competitions in the focal point countries of Syria, Iraq, Yemen, Lebanon, and Libya. China has important interests in the Middle East, and key elements of its policy are taking shape. Institutional mechanisms of cooperation have been created and a network of partnerships with some regional countries has been established. The Belt and Road Initiative remains the key framework for China’s cooperation with the region.
-
-https://doi.org/10.4324/9781003402312-4
-
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

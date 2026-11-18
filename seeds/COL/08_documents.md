@@ -93,4 +93,4 @@ Immigration to China
 - 2026-10-01 · Brief · Macro Poverty Outlook for Colombia : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099745310152619880
   摘要：Growth is projected at 2.3 percent in 2026, down from 2.6 percent in 2025, as the Chocó earthquake compounds pre-existing fiscal fragility. Growth is expected to recover to 2.6 percent in 2027, supported by reconstruction spending, gradual monetary easing, and a rebound in private investment, with poverty declining to 32.7 percent. Risks, including larger-than-expected reconstruction costs, fiscal slippage, persistent inflation, and geopolitical uncertainty, remain tilted to the downside.
 
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

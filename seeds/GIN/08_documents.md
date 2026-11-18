@@ -51,7 +51,6 @@ Between 1985 and 1996 there were no outstanding developments in relations betwee
 ### China–Papua New Guinea relations
 
 The Independent State of Papua New Guinea and the People's Republic of China (PRC) established official diplomatic relations in 1976, soon after Papua New Guinea became independent. The two countries currently maintain diplomatic, economic and, to a lesser degree, military relations. Relations are cordial; China is a significant provider of both investments and development aid to Papua New Guinea.
-The current ambassador of Papua New Guinea in China is Don Sawong. The current ambassador of China in Papua New Guinea is Zeng Fanhua.
 
 来源：https://en.wikipedia.org/wiki/China%E2%80%93Papua_New_Guinea_relations
 
@@ -65,6 +64,7 @@ The current ambassador of Papua New Guinea in China is Don Sawong. The current a
   摘要：Growth is projected at 8.1 percent in 2026, boosted by mining expansion. Inflation accelerated in the first half of 2026. Following a large deficit in 2025, fiscal consolidation is underway, and the current account deficit is narrowing. Growth is projected to average 9.5 percent in 2027–28, leading to a 4.7 percentage point reduction in the international lower-middle-income-country (LMIC) poverty rate from 31.6 percent, though the conflict in the Middle East and weather shocks remain key downside risks.
 - 2026-09-25 · Project Paper · Guinea - Second Phase of the Electricity Access Scale Up Project : Additional Financing （项目：GN-Guinea Electricity Access Scale Up Project-Phase 2 -- P511453）。http://documents.worldbank.org/curated/en/099092926173583379
   摘要：The development objective of the Guinea Electricity Access Scale Up Project-Phase 2 for Guinea is to increase grid and non-grid access to electricity services in selected areas and to improve the operational performance of the power utility. The proposed additional financing responds to a financing gap identified at appraisal and is needed to ensure timely award and execution of already appraised grid expansion investments in Kindia and Labé without reducing scope or delaying implementation; it does not change the project’s objectives, design, components, results framework, or environmental and social arrangements. The operation will continue to support reinforcement and expansion of distribution networks and last-mile connections in targeted urban and peri-urban areas, off-grid electrification through privately operated hybrid solar-diesel mini-grids in underserved rural localities, and reforms to strengthen sector financial sustainability and governance, including performance-based conditions for adoption and initial operationalization of a sector recovery plan, a performance contract between the Government and Electricite de Guinee (EDG), submission of audited financial statements and corrective actions, and deployment of prepaid meters in non-strategic public institutions; it also provides implementation support, technical assistance, and capacity building for the Ministry of Energy and the Guinea Rural Electrification Agency (AGER). The project intends to provide new acc
+- 2026-11-12 · Implementation Completion Report Review · Guinea - GNEAP（项目：GN-Guinea Electricity Access Scale Up Project -- P164225）。http://documents.worldbank.org/curated/en/099111226122519952
 - 2026-11-05 · Climate Co-Benefits Assessment · Climate Finance Assessment (P511453)（项目：GN-Guinea Electricity Access Scale Up Project-Phase 2 -- P511453）。http://documents.worldbank.org/curated/en/099080225105625586
 - 2026-11-04 · Environmental and Social Management Framework · Revised  Resettlement Process Framework Guinea Kounki Fisheries and Aquaculture Project (P180906)（项目：GN-Guinea Kounki Fisheries and Aquaculture Project -- P180906）。http://documents.worldbank.org/curated/en/099110426111511936
 - 2026-11-04 · Procedure and Checklist · Labor Management Procedures Guinea Kounki Fisheries and Aquaculture Project (P180906)（项目：GN-Guinea Kounki Fisheries and Aquaculture Project -- P180906）。http://documents.worldbank.org/curated/en/099110426111527948
@@ -72,7 +72,6 @@ The current ambassador of Papua New Guinea in China is Don Sawong. The current a
 - 2026-10-14 · Environmental and Social Review Summary · Additional Financing Environmental and Social Review Summary (ESRS) - Guinea Natural Resources Mining and Environmental Management Project - P168613 - AF No: 1（项目：GN-Guinea Natural Resources, Mining and Environmental Management Project -- P168613）。http://documents.worldbank.org/curated/en/099101426063529804
 - 2026-10-05 · Project Agreement · Official Documents- Project Agreement with Electricite de Guinee S.A. for Additional Financing for Credit 8145-GN.pdf（项目：GN-Guinea Electricity Access Scale Up Project-Phase 2 -- P511453）。http://documents.worldbank.org/curated/en/099100526105013429
 - 2026-10-05 · Financing Agreement · Official Documents- Financing Agreement for Additional Financing for Credit 8145-GN.pdf（项目：GN-Guinea Electricity Access Scale Up Project-Phase 2 -- P511453）。http://documents.worldbank.org/curated/en/099100526104528488
-- 2026-10-02 · Environmental and Social Assessment · ESRS Guinea Electricity Access Scale Up Project-Phase 2 (P511453)（项目：GN-Guinea Electricity Access Scale Up Project-Phase 2 -- P511453）。http://documents.worldbank.org/curated/en/099100226100030275
 
 ## 学术论文（OpenAlex）
 
@@ -117,4 +116,4 @@ This paper uses the Belt and Road Initiative (B&R), an exogenous innovative mode
 
 https://doi.org/10.1016/j.eap.2022.01.004
 
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

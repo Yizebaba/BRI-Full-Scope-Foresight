@@ -67,7 +67,7 @@ There are several planned railway lines in Rwanda, including a line to Tanzania.
 
 ## 学术论文（OpenAlex）
 
-### China’s Belt and Road Initiative and Intra-Regional Dynamics in Africa（2020，DOAJ (DOAJ: Directory of Open Access Journals)，被引 0）
+### China’s Belt and Road Initiative and Intra-Regional Dynamics in Africa（2020，DOAJ (DOAJ: Directory of Open Access Journals)，被引 2）
 
 This article examines the influence of China’s Belt and Road Initiative (BRI) on intra-regional dynamics. Given that the BRI traverses many countries, what has not been fully addressed in the literature is how the initiative is likely to influence inter-state relations in specific regions. This article fills this gap by examining the influence of the BRI on intra-regional dynamics, taking East Africa as the case study. The article finds that the implementation of the BRI infrastructure projects—the Lamu Port-South Sudan-Ethiopia Transport [LAPSSET] corridor and the Standard Gauge Railway [SGR]—has pushed Uganda and Rwanda into close partnership with Tanzania on the one hand, and resurrected historical suspicion between Kenya and Tanzania on the other. This regional realignment has produced gains and losses in the short term and is likely to alter the traditional balance of power in the long term. Furthermore, the implementation has provided agency of choice to Uganda and Rwanda to maneuver between Kenya and Tanzania, thereby aligning their choices with respective national interests. However, potential risks could reduce competition and favor cooperation, thereby promoting regionalism.
 
@@ -77,12 +77,12 @@ https://openalex.org/W7115986763
 In the context of the "Belt and Road", the compatibility of policy orientation, internal demands and practical needs provides the possibility for vocational education and training cooperation between China and Rwanda. However, at present, Rwanda's vocational education and training have problems of low school quality, cultural adaptation obstacles and low security, which restricts the development of vocational education and training in Rwanda. In view of this, we can seek the development of vocational education and training from four aspects: top-level design, focusing on the quality of talent training, promoting cross-cultural adaptation, and raising funds.
 
 https://doi.org/10.18063/eir.v3i9.1173
-### Impact of Chinese investment on Rwanda's infrastructure (2000-2020)（2021，，被引 0）
+### Impact of Chinese investment on Rwanda's infrastructure (2000-2020)（2021，，被引 1）
 
 Rwanda is one of the oldest kingdoms in the African Nile valley.Rwanda is also one of the African countries that have suffered from the effects of colonial heritage.Rwandans" unity collapsed during the colonial period.Belgian colonialists introduced ethnic division in 1930 based on phenotypically aspects and the hatred between ethnic groups led the country to genocide against Tutsi.By the time of the 1994 genocide, Rwanda"s economic development and infrastructure have collapsed and returned to the 1970s level.Under the Vision 2020 initiative, which aimed to transform the country from a poor to a middle-income country, Rwanda"s economy has dramatically improved and many planned targets have been reached, although many challenges remain to be faced, notably in: urbanization, water sanitation, energy and industrialization.Chinese investment during Belt and Road initiative has been instrumental in East African development in terms of international trade and regional integration.It was also the solution for geographically isolated countries including Rwanda.Despite some negative effects highlighted by the study, such as accusations of violating labor law and human rights by foreign companies, foreign direct investments, including from China, have played many important roles in Rwanda"s economic reconstruction.The findings of this research show that Chinese investment in Rwanda during BRI reached US$ 1.47 billion between 2013-2020 in several infrastructure areas.Low wages paid by foreign companies to Rwanda"s workforce, however, is still a matter of concern, in comparison to the standard salary provided by the International Labor Organization (ILO).
 
 https://doi.org/10.47749/t/unicamp.2021.1168914
-### The Belt and Road Initiative : What is in it for China ?（2018，Asia & the Pacific Policy Studies，被引 169）
+### The Belt and Road Initiative : What is in it for China ?（2018，Asia & the Pacific Policy Studies，被引 209）
 
 Abstract China's outbound investment exceeded inbound investment for the first time in 2015. In years leading up this transition, a maturing demographic transition alongside slowing internal migration and diminishing returns to physical capital investment, all had a role in China's diminished competitiveness in low‐wage manufactured exports and the fading of the related growth model. In that context, the 2013 launch of the Belt and Road Initiative (BRI) took place in two stages in two developing countries, Kazakhstan and Indonesia. These launch choices, and the BRI in general are herein elaborated in terms of economic history, geography, and demography. The BRI in turn is considered to be aiming to foster the ongoing development of China, and in doing so also seeks to instigate new era development opportunity for other developing countries. One facilitation channel for the latter is China's concept of “patient capital,” essentially concessional capital, or foreign aid. For China that offers a means via which to internationalise the financial sector and also the Renminbi. Lessons from China's own use of foreign aid and economic development hence serve as an important reference for ongoing scoping of the shape and trajectory of the BRI. To that end, this article sheds light on what is in the BRI for China.
 
@@ -92,7 +92,7 @@ https://doi.org/10.1002/app5.265
 （无摘要）
 
 https://doi.org/10.1007/978-3-031-38395-3_11
-### Examining the debt implications of the Belt and Road Initiative from a policy perspective（2019，Journal of Infrastructure Policy and Development，被引 490）
+### Examining the debt implications of the Belt and Road Initiative from a policy perspective（2019，Journal of Infrastructure Policy and Development，被引 544）
 
 China’s Belt and Road Initiative (BRI) hopes to deliver trillions of dollars in infrastructure financing to Asia, Europe, and Africa. If the initiative follows Chinese practices to date for infrastructure financing, which often entail lending to sovereign borrowers, then BRI raises the risk of debt distress in some borrower countries. This paper assesses the likelihood of debt problems in the 68 countries identified as potential BRI borrowers. We conclude that eight countries are at particular risk of debt distress based on an identified pipeline of project lending associated with BRI.Because this indebtedness also suggests a higher concentration in debt owed to official and quasi-official Chinese creditors, we examine Chinese policies and practices related to sustainable financing and the management of debt problems in borrower countries. Based on this evidence, we offer recommendations to improve Chinese policy in these areas. The recommendations are offered to Chinese policymakers directly, as well as to BRI’s bilateral and multilateral partners, including the IMF and World Bank.
 
@@ -108,4 +108,4 @@ https://doi.org/10.4324/9781003799931-10
 
 https://doi.org/10.2139/ssrn.7235246
 
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

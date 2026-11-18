@@ -24,9 +24,11 @@ China supported the Serbia (then part of Federal Republic of Yugoslavia) during 
 
 == Political relations ==
 Serbia follows the one China principle, and recognizes government of the People's Republic of China as the sole legal government representing the whole of China and Taiwan as "an inalienable part" of China. Serbia also supports all efforts by the PRC to "achieve national reunification" and opposes Taiwan independence.
+In 2009, China and Serbia agreed to cooperation on various forms of technological, economic, and infrastructure development.
 Under president Aleksandar Vučić, Serbia has sought closer cooperation with China. After meeting with Chinese Minister of Foreign Affairs Wang Yi, he secured Chinese help in combating the COVID-19 pandemic in Serbia through the delivery of PPE and CoronaVac vaccine doses, which contributed to Serbia leading COVID-19 vaccination rates in Europe. 
 In 2019, UN ambassadors of 37 countries, including Serbia, signed a joint letter to the United Nations Human Rights Council defending China's persecution of Uyghurs. Serbia was one of 16 countries that defended China in 2019 but did not do so in 2020.
-In 2024, on occasion of the 25th anniversary of the United States bombing of the Chinese embassy in Belgrade, Chinese leader Xi Jinping wrote an article in the Serbian newspaper Politika in which he stated, "The friendship between China and Serbia which is soaked in blood that the two peoples spilled together has become a joint memory of the two peoples and will encourage both parties to make together huge steps forward." In September 2025, China ratified an extradition treaty it signed with Serbia in 2024. 
+In 2024, on occasion of the 25th anniversary of the United States bombing of the Chinese embassy in Belgrade, Chinese leader Xi Jinping wrote an article in the Serbian newspaper Politika in which he stated, "The friendship between China and Serbia which is soaked in blood that the two peoples spilled together has become a joint memory of the two peoples and will encourage both parties to make together huge steps forward." Also in May 2024, Xi visited Serbia.
+In September 2025, China ratified an extradition treaty it signed with Serbia in 2024. 
 
 
 === China's stance on Kosovo ===
@@ -41,8 +43,9 @@ Serbian Deputy Prime Minister Božidar Đelić told reporters after an April 200
 == Economic relations ==
 China is Serbia's second biggest trading partner. Trade between the two countries amounted to $6.1 billion in 2022 with Chinese merchandise exports to Serbia standing at almost $5 billion while Serbian exports stood at $1.1 billion. Since 2024, China and Serbia have a free trade agreement. 
 Chinese companies invested $5.6 billion in Serbia in the last decade and employ 38,000 people. Chinese corporations making investments in Serbia include Zijin Mining (owner of Serbia Zijin Bor Copper cooper mining complex in Bor), Hesteel (owner of Hesteel Serbia steel plant in Smederevo), Hisense (electrical appliances factory in Valjevo), Linglong Tire (tire factory in Zrenjanin), and Minth (automotive parts factories in Šabac and Loznica).
-Since early 2010s China has invested US$10 billion in Serbian infrastructure and energy mainly through China's Belt and Road Initiative, of which Serbia was one of major beneficiaries. BRI funded projects including Serbian section of the Budapest–Belgrade railway (built by CCCC), 350 MW B3 unit of Kostolac thermal power-plant (built by CMEC), Belgrade–Ljig and Čačak-Požega segments of A2 motorway (built by Shandong Gaosu Group), Pupin Bridge in Belgrade (built by CRBC). 
-The Serbian flag carrier Air Serbia operates flights between Belgrade and Shanghai and Belgrade and Guangzhou. The Chinese carriers China Southern Airlines and Hainan Airlines operate flights between Belgrade and Guangzhou and Belgrade and Beijing respectively.
+Since early 2010s China has invested US$10 billion in Serbian infrastructure and energy mainly through China's Belt and Road Initiative, of which Serbia was one of major beneficiaries. BRI funded projects including Serbian section of the Budapest–Belgrade railway (built by China Communications Construction Company and China Railway International), 350 MW B3 unit of Kostolac thermal power-plant (built by CMEC), Belgrade–Ljig and Čačak-Požega segments of A2 motorway (built by Shandong Gaosu Group), Pupin Bridge in Belgrade (built by CRBC). 
+The Serbian flag carrier Air Serbia operates flights between Belgrade and Shanghai. The Chinese carriers China Southern Airlines and Hainan Airlines operate flights between Belgrade and Guangzhou and Belgrade and Beijing, respectively.
+In 2021, China became the largest single country investor in Serbia.
 
 
 == Military cooperation ==
@@ -50,12 +53,12 @@ In recent years, Serbia has purchased from China air defense missile systems of 
 
 
 == Cultural cooperation ==
-Confucius Institute, cultural center devoted to the Chinese culture and language has been operating in Belgrade since 2006.
+A Confucius Institute has been operating in Belgrade since 2006.
 
 
 == Immigration from China ==
 
-There is a relatively present Chinese diaspora in Serbia; estimates are that up to 15,000 Chinese people live in Serbia, mainly in Belgrade, Bor, and Zrenjanin. First wave of Chinese immigration to Serbia mainly occurred during the late 1990s and was driven by relaxed visa policies, primarily traders from Zhejiang and Fujian who settled in Belgrade. Second wave is largely tied to economic activities, investments of Chinese companies in mining and manufacturing, and is concentrated in towns of Bor and Zrenjanin.
+Estimates are that up to 15,000 Chinese people live in Serbia, mainly in Belgrade, Bor, and Zrenjanin. The first wave of Chinese immigration to Serbia mainly occurred during the late 1990s and was driven by relaxed visa policies, primarily traders from Zhejiang and Fujian who settled in Belgrade. A second wave was largely tied to economic activities, investments of Chinese companies in mining and manufacturing, and is concentrated in towns of Bor and Zrenjanin.
 
 
 == Travel regime ==
@@ -135,7 +138,7 @@ Cooperation between China and Central and Eastern European Countries (China-CEE,
 In 2013, President of the People's Republic of China, Xi Jinping, launched the One Belt One Road Initiative, later abbreviated as the Belt and Road Initiative.Surprisingly or not, the initiative became widely accepted.The Republic of Serbia was among the countries that warmly welcomed it and decided to join.This article gives an insight into the results that Serbia has achieved participating in this initiative so far.Besides, the author tried to determine if this political decision had influenced the Republic of Serbia's position in international relations and if it did to what extent.Although the BRI was launched in 2013, the time context of this paper starts earlier in order not to neglect Serbia and China's bilateral relations that have been ascending for decades.The quality of their relations was never conditioned by undeniable disproportion in population, territory or economic strength.Their linkage was based on mutual understanding and respect for the international law norms and principles.
 
 https://doi.org/10.18485/iipe_balkans_rssc.2020.ch17
-### Beyond the spatial fix: towards a finance-sensitive reading of the Belt and Road in Serbia（2023，Area Development and Policy，被引 27）
+### Beyond the spatial fix: towards a finance-sensitive reading of the Belt and Road in Serbia（2023，Area Development and Policy，被引 28）
 
 The Belt and Road Initiative (BRI) has been theorised as a spatial fix to China's overaccumulation problem, and as such, an implicitly productivist endeavour. This article opens up conceptual space to consider how historically and geographically mediated forms of financialisation have tempered the unfolding of the BRI in peripheral economies. Drawing on the Serbian post-socialist transition context, financialisation has been characterised by underinvestment and a persistent dependency on foreign, market-based capital inflows which have (1) precipitated state transformations to mobilise Chinese financing for BRI projects, strengthening the role of the state in industrial rejuvenation; and (2) created an institutional palimpsest conducive to non-productive forms of surplus value appropriation that demonstrates the hybridity of accumulation imperatives underlying the BRI.
 
@@ -145,17 +148,17 @@ https://doi.org/10.1080/23792949.2023.2200546
 Belt and Road Initiative' (BRI) is a major global initiative with severe economic impact , geopolitical, environmental and social implications. The Belt and Road Initiative is a very ambitious project started by the Chinese Government with a partnership of 152 countries .Our study is based on a review of existing literature, our own research and GEM data. Also, our research on Serbia showed that impact of China is rather on the recovery of the country than geopolitics. In addition, the impact of the BRI on entrepreneurship in Asia is complex and multifaceted. While the initiative has the potential to create significant opportunities for entrepreneurs, it also poses some challenges and risks that need to be carefully managed. In any case, the Belt and Road Initiative can provide a significant opportunity for entrepreneurs to expand their businesses, promote innovation, and contribute to economic growth in participating countries.
 
 https://doi.org/10.5937/eee24058r
-### “Belt and Road” Initiative as a Development Chance for the Western Balkan Countries（2022，Advances in finance, accounting, and economics book series，被引 8）
+### “Belt and Road” Initiative as a Development Chance for the Western Balkan Countries: The Case of Serbia（2022，Advances in finance, accounting, and economics book series，被引 8）
 
 Foreign direct investment (FDI) is a very important element of economic integration because it creates an opportunity for accelerated development, technological innovation, and corporate restructuring. Western Balkan countries mainly focused their activities on attracting investments from EU countries. However, as investments from these countries have been reduced recently, the countries of the Western Balkans have opened their markets to incoming Chinese investments. Serbia is currently the first country in the Western Balkans. Based on the inflow of Chinese investments, and in the coming period, we can expect a trend of intensive growth of Chinese investments related to the “Belt and Road” Initiative, which will lead to additional development of the Serbian economy. The main subject of this research focuses on the distribution of Chinese investments on a global scale, as well as the importance of the “Belt and Road” Initiative for both multinational companies and recipient countries of Western Balkans, with special reference to Serbia.
 
 https://doi.org/10.4018/978-1-7998-8021-9.ch008
-### Global-Local Dynamics in Belt and Road Initiative Projects（2023，Japan focus，被引 4）
+### Global-Local Dynamics in Belt and Road Initiative Projects（2023，Japan focus，被引 6）
 
 Abstract This essay argues that modes of conceptualizing global-local entanglements provide a useful lens for looking at the different ways Belt and Road Initiative (BRI) projects localize in BRI-host countries. The essay draws on recent work on George Ritzer to examine examples of BRI projects where global norms and practices are locally conceived and controlled, in contrast to other cases where the projects barely reflect local culture. Examples of Serbia and Hungary are provided to illuminate these points.
 
 https://doi.org/10.1017/s1557466023028449
-### Understanding the Impact of the Normative Power of the European Union on the Belt and Road Initiative: The Case of Italy, Serbia, and Latvia（2020，Gothenburg University Publications Electronic Archive (Gothenburg University)，被引 0）
+### Understanding the Impact of the Normative Power of the European Union on the Belt and Road Initiative: The Case of Italy, Serbia, and Latvia（2020，Gothenburg University Publications Electronic Archive (Gothenburg University)，被引 2）
 
 The Belt and Road Initiative (BRI) was announced in 2013 and has attracted much attention from many countries. Promising significant investments all over the world, including in Europe, the BRI has prompted vibrant discussion regarding how it will shape international politics. While many studies have been published on how the BRI is influencing trends in different countries and regions, there has not been any research on how those countries try to socialize the BRI during their interaction with China. This dissertation aims to contribute to the by looking at if the level of a country’s affiliation with the EU, which is usually considered as being a normative power, equals the level of EU norms present in China’s BRI interactions with that country. The dissertation used a qualitative content analysis of official agreements and other documents related to China’s BRI interactions with our three case countries (Italy, Latvia, Serbia) to study the topic. The dissertation also studied what norms were present in the BRI when the BRI was first defined in 2015 to be better able to see what norms originate from the EU. To complement our data and give our data more context, we have also conducted expert interviews with country experts as well as EU-China experts while also utilizing second hand or tertiary sources if it is needed. The dissertation concludes that the EU’s internal norms are affecting the BRI and the level of affiliation to the EU matters. The more a country is affiliated\n4\nwith the EU, the more EU norms are present in China’s BRI interactions with said country. Affiliation levels and EU norms present in China’s interactions can change over time and be affected by the case country's attitude towards, and dependency of, the EU.
 
@@ -192,4 +195,4 @@ a stronghold in those countries in which they were absent until now.
 
 https://openalex.org/W3154958098
 
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

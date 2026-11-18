@@ -15,8 +15,8 @@ Russia is generally considered a great power and a regional power, possessing th
 
 ### China–Russia relations
 
-China and Russia share one of the world's most important foreign relationships. Both nations share interest in energy cooperation, military ties, and geopolitical alignment in challenging the collective West at large, including the United States.
-Relations between China and Russia go back to the 16th century. Though initially allies during the Cold War, China and the Soviet Union were rivals after the Sino-Soviet split in 1961. After the dissolution of the Soviet Union in 1991, China and Russia established diplomatic relations, with the relationship strengthening significantly afterwards. The two countries share a land border which was demarcated in 1991, and they signed the Treaty of Good-Neighborliness and Friendly Cooperation in 2001. Ties grew closer following international sanctions against Russia for its 2014 annexation of Crimea, which led Russia to pursue a pivot to China; in that year, China and Russia signed a 30-year gas deal worth $400 billion. In 2019, the two countries defined their relationship as a "comprehensive strategic partnership of coordination for a new era." Ties have continued to deepen since the start of the Russo-Ukrainian war in 2022, with Russia increasingly becoming dependent on China while it is under large-scale international sanctions. China and Russia have significant economic ties, and Russia is an important source of natural energy and oil for China, while China is a critical source of consumer and industrial goods for Russia. China is by far Russia's largest trading partner. The annual trade between China and Russia was US$234 billion as of 2025.
+China and Russia share one of the world's most important foreign relationships. The two nations share interest in energy cooperation, military ties, and geopolitical alignment in challenging the collective West at large, including the United States.
+Relations between China and Russia go back to the 16th century. Though initially allies during the Cold War, China and the Soviet Union were rivals after the Sino-Soviet split in 1961. After the dissolution of the Soviet Union in 1991, China and Russia established diplomatic relations, with the relationship strengthening significantly afterwards. The two countries share a land border which was demarcated in 1991, and they signed the Treaty of Good-Neighborliness and Friendly Cooperation in 2001. Ties grew closer following international sanctions against Russia for its 2014 annexation of Crimea, which led Russia to pursue a pivot to China; in that year, China and Russia signed a 30-year gas deal worth $400 billion. In 2019, the two countries defined their relationship as a "comprehensive strategic partnership of coordination for a new era". Ties have continued to deepen since the start of the Russo-Ukrainian war in 2022, with Russia increasingly becoming dependent on China while it is under large-scale international sanctions. China and Russia have significant economic ties, and Russia is an important source of natural energy and oil for China, while China is a critical source of consumer and industrial goods for Russia. China is by far Russia's largest trading partner. The annual trade between China and Russia was US$234 billion as of 2025.
 China and Russia have enjoyed close relations militarily, economically, and politically, while supporting each other on various global issues. Commentators have debated whether the bilateral strategic partnership constitutes an alliance. China and Russia officially declared their relations "Not allies, but better than allies". The two countries cooperate through multilateral organizations and project such as the Shanghai Cooperation Organisation, BRICS and the Belt and Road Initiative. Russia recognizes Taiwan as an integral part of China, and supports Chinese unification. Russia also supports China's policies in Hong Kong, Tibet and Xinjiang. In turn, China has called for Russia's security concerns to be accounted for and has opposed the enlargement of NATO and sanctions against Russia.
 
 
@@ -91,9 +91,9 @@ The influence of Russia's regional energy trade has led to a sense of local unea
 
 
 === Oil and natural gas ===
-In 1997 the China National Petroleum Corporation (CNPC) signed three contracts with the Russian oil firm Yukos where Yukos would s sell 1.5 million tons of oil to China in 1999 along the existing railway routes. Additionally, discussions were launched regarding the possibility of building a pipeline from the Yukos oilfield to Northeast China. In June 1997, CNPC reached an agreement with Sidanko, where Sidanko would export 3 to 3.5 billion cubic meters of natural gas from the Kovykta field over the next 36 years, with an eventual 20 billion cubic meters going to China and other Asian countries once the proposed pipeline was completed. Sidanko went bankrupt by 2000, however, and the Russian State Duma closed the Kovykta field to foreign investors as a "strategic asset". 
+In 1997 the China National Petroleum Corporation (CNPC) signed three contracts with the Russian oil firm Yukos where Yukos would sell 1.5 million tons of oil to China in 1999 along the existing railway routes. Additionally, discussions were launched regarding the possibility of building a pipeline from the Yukos oilfield to Northeast China. In June 1997, CNPC reached an agreement with Sidanko, where Sidanko would export 3 to 3.5 billion cubic meters of natural gas from the Kovykta field over the next 36 years, with an eventual 20 billion cubic meters going to China and other Asian countries once the proposed pipeline was completed. Sidanko went bankrupt by 2000, however, and the Russian State Duma closed the Kovykta field to foreign investors as a "strategic asset". 
 In 2001, Yukos proposed the Eastern Siberia–Pacific Ocean oil pipeline, which would link its oil refinery in Angarsk to Daqing, in northern China. At the time, rail routes were the only means of transporting oil into the growing Chinese market. In January 2003, however Japan became willing to finance a pipeline ranging the whole Russian Far East to Nakhodka. Putin expressed greater interest in the Japanese project, and the Chinese project stalled in October 2003 when Yukos chief executive Mikhail Khodorkovsky was arrested, and the Russian government launched an immediate investigation into the company. A week after Khodorkovsky's arrest, China Foreign Ministry spokeswoman Zhang Qiyue publicly announced that the Kremlin investigation would not impact the proposed China-Russia oil pipeline project. in 2003, China and Russia agreed that the new Daqing pipeline would include a spur in Skovorodino. In September 2004, Chinese premier Wen Jiabao met with Russian Prime Minister Mikhail Fradkov in Moscow, where the two heads of government signed agreements affirming Russia's promise to set the route of the pipeline from Eastern Siberia to the Pacific, with priority given to laying a pipeline spur to China, as well as increasing rail oil exports to China to 10 million tons (200,000 b/d) in 2005 and 15 million tons (300,000 b/d) in 2006.
-Four days before Wen's visit, Yukos publicly announced that rail shipments of crude oil to the CNPC would end beginning on 28 September 2004. The Kremlin had begun auctioning off the troubled company's operating assets a month prior in August. In September 2005 Putin announced that the pipeline to Daqing would be built before the main pipeline was extended to the Pacific coast. Negotiations with Japan were also hindered by their insistence on regaining the Kuril Islands. In February 2009 China signed a "loans for oil" agreement under which China would pay the Russian side $25 million for the construction of the pipeline in return for Russia delivering 300 million tons of oil over the next 20 years. 10 September 2010 marked the completion of the 1,000-kilometre (620 mi) Russia-China Crude Pipeline, the first pipeline ever built between China and Russia, which started pumping to China in 2011. Upon the pipeline's completion in 2010, CNPC also signed a general agreement with Transneft over the operation of the pipeline, a framework agreement with Gazprom to import natural gas to China from 2015 onwards, an agreement with Rosneft on exten
+Four days before Wen's visit, Yukos publicly announced that rail shipments of crude oil to the CNPC would end beginning on 28 September 2004. The Kremlin had begun auctioning off the troubled company's operating assets a month prior in August. In September 2005 Putin announced that the pipeline to Daqing would be built before the main pipeline was extended to the Pacific coast. Negotiations with Japan were also hindered by their insistence on regaining the Kuril Islands. In February 2009 China signed a "loans for oil" agreement under which China would pay the Russian side $25 million for the construction of the pipeline in return for Russia delivering 300 million tons of oil over the next 20 years. 10 September 2010 marked the completion of the 1,000-kilometre (620 mi) Russia-China Crude Pipeline, the first pipeline ever built between China and Russia, which started pumping to China in 2011. Upon the pipeline's completion in 2010, CNPC also signed a general agreement with Transneft over the operation of the pipeline, a framework agreement with Gazprom to import natural gas to China from 2015 onwards, an agreement with Rosneft on exte
 
 来源：https://en.wikipedia.org/wiki/China%E2%80%93Russia_relations（CC BY-SA 4.0）
 
@@ -144,45 +144,45 @@ The Russia–China Investment Fund (Russian: Российско-Китайски
 
 ## 学术论文（OpenAlex）
 
-### Does One Belt One Road initiative promote Chinese overseas direct investment?（2017，China Economic Review，被引 588）
+### Does One Belt One Road initiative promote Chinese overseas direct investment?（2017，China Economic Review，被引 638）
 
 （无摘要）
 
 https://doi.org/10.1016/j.chieco.2017.05.010
-### Does the Connectivity of the Belt and Road Initiative Contribute to the Economic Growth of the Belt and Road Countries?（2019，Emerging Markets Finance and Trade，被引 52）
+### Does the Connectivity of the Belt and Road Initiative Contribute to the Economic Growth of the Belt and Road Countries?（2019，Emerging Markets Finance and Trade，被引 56）
 
 Since the Belt and Road Initiative (BRI) has been implemented for five years, it is time to ask whether the BRI contributes to Belt and Road (BR) countries’ economic growth, and how are the five elements of connectivity implemented between China and its partner countries since the BRI was proposed. This study focuses on the development of the five elements of connectivity between China and the BR countries from 2008 to 2017 using a comprehensive connectivity index extracted from principle component analysis, and then investigating if the connectivity has contributed to the economic growth of the BR countries with quantitative analysis of the fixed effect econometrical model. It is found that Russia, South Korea, and Singapore presented the top three levels of connectivity with China with regard to the overall connectivity index, varying from 1.4 to 2.4. Madagascar and Panama have the lowest level of connectivity with China, with values of −0.8 to −1.1. The result of the fixed effect model shows that the connectivity of the BR countries with China contributes to their economic growth. This provides quantitative evidence that the connectivity between BR countries and China has a significant influence on the economic growth of those countries.
 
 https://doi.org/10.1080/1540496x.2019.1643315
-### Energy relations between China and the countries along the Belt and Road: An analysis of the distribution of energy resources and interdependence relationships（2019，Renewable and Sustainable Energy Reviews，被引 145）
+### Energy relations between China and the countries along the Belt and Road: An analysis of the distribution of energy resources and interdependence relationships（2019，Renewable and Sustainable Energy Reviews，被引 151）
 
 （无摘要）
 
 https://doi.org/10.1016/j.rser.2019.03.007
-### Virtual water trade of agricultural products: A new perspective to explore the Belt and Road（2017，The Science of The Total Environment，被引 113）
-
-（无摘要）
-
-https://doi.org/10.1016/j.scitotenv.2017.11.351
-### The structure and evolution of trade relations between countries along the Belt and Road（2018，Journal of Geographical Sciences，被引 76）
+### The structure and evolution of trade relations between countries along the Belt and Road（2018，Journal of Geographical Sciences，被引 81）
 
 （无摘要）
 
 https://doi.org/10.1007/s11442-018-1522-9
-### Two Ways of Influence-building: The Eurasian Economic Union and the One Belt, One Road Initiative（2017，Europe Asia Studies，被引 76）
+### Virtual water trade of agricultural products: A new perspective to explore the Belt and Road（2017，The Science of The Total Environment，被引 117）
+
+（无摘要）
+
+https://doi.org/10.1016/j.scitotenv.2017.11.351
+### Two Ways of Influence-building: The Eurasian Economic Union and the One Belt, One Road Initiative（2017，Europe Asia Studies，被引 86）
 
 Russia and China have been pursuing the Eurasian Economic Union and the One Belt, One Road initiative since the early 2010s, employing two distinct sets of practices in their respective influence-building endeavours. Russia is interested in creating an exclusive sphere of influence in the post-Soviet space, in order to bolster its great power status and secure regional primacy. China, in turn, is expanding its economic influence over a vast geographical area disguising economic expansion behind multilateralism. These differences make Sino–Russian competition in Central Asia less plausible.
 
 https://doi.org/10.1080/09668136.2017.1373270
-### The Belt and Road Initiative and the Eurasian Economic Union: Exploring the “Greater Eurasian Partnership”（2020，Journal of Current Chinese Affairs，被引 50）
+### The Belt and Road Initiative and the Eurasian Economic Union: Exploring the “Greater Eurasian Partnership”（2020，Journal of Current Chinese Affairs，被引 65）
 
 The Russian-led Eurasian Economic Union (EAEU) is a key partner in China’s Belt, and Road Initiative (BRI), since it comprises the majority of territories which the BRI’s overland route, the Silk Road Economic Belt, needs to traverse as it crosses Central Asia on the way to Europe. The goal of this article is to explore the BRI in the context of BRI–EAEU coordination. The first part of the analysis focusses on the ways the Eurasian Economic Commission delineates the “Greater Eurasian Partnership” and counterposes it against China and the BRI. Then, the article compares two sets of interpretations of the BRI and “Greater Eurasian Partnership” obtained from interviews with elites in Kazakhstan and Russia. The interviews indicate that the BRI has had a much more forceful impact on local elites than Russia’s idea of “Greater Eurasian Partnership.”
 
 https://doi.org/10.1177/1868102620911666
-### The Silk Road goes north: Russia’s role within China’s Belt and Road Initiative（2016，Area Development and Policy，被引 36）
+### The Silk Road goes north: Russia’s role within China’s Belt and Road Initiative（2016，Area Development and Policy，被引 43）
 
 Russia, the world’s largest country, forms a key part of China’s Belt and Road Initiative (BRI). Underfunded infrastructure and vast energy resources into which Western investment is now largely prohibited by US and European Union sanctions also make Russia a logical site for BRI projects. Two are currently under way: the Moscow–Kazan high-speed railway and the Yamal liquefied natural gas plant. These BRI endeavours build on recent Sino-Russia energy cooperation and a longer history of transportation infrastructure partnership in which China is now the investor. However, longstanding mutual suspicions that peaked during the Cold War may challenge implementation.
 
 https://doi.org/10.1080/23792949.2016.1239508
 
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

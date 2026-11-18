@@ -8,4 +8,3 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-11 20:45 UTC：M4.5，41 km SSE of Camiña, Chile。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txni 
-- 2026-11-11 11:36 UTC：M5.1，27 km WSW of Calama, Chile。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txis 

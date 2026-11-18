@@ -96,11 +96,11 @@ Currently, China and Italy participate in high-level political exchanges. Chines
 - 2024-11-07 · Brief · Prosperity Data360 Tourism Country Snapshots : Austria
 。http://documents.worldbank.org/curated/en/099810211152438076
   摘要：This Factsheet provides an overview of the tourism sector in Austria according to key performance indicators.
+- 2024-09-26 · Announcement · Announcement of IFC Anchors Voestalpine’s First Green Bond Issuance to Propel Steel Sector Decarbonization on September 26, 2024。http://documents.worldbank.org/curated/en/099535211122687297
+  摘要：This press release announces IFC’s 75 Euro million anchor investment in the first green bond issued by voestalpine AG, a global steel processing and production company headquartered in Austria.
 - 2023-09-01 · Brief · IFC and Austria - Partners in Private Sector Development
 。http://documents.worldbank.org/curated/en/099606303082413490
   摘要：Austria is a strong partner of IFC Advisory Services, especially in Europe and Central Asia (ECA). With the support of the Austrian Ministry of Finance, IFC has implemented successful projects to promote renewable energy generation and distribution, strengthen cleaner production, expand green finance and increase productivity in agribusiness. Austria has also supported programs aimed at improving the investment climate for private sector development. In FY19-23, Austria provided cumulative funding in support of IFC Advisory Services, most recently for the Austria-IFC Europe Climate Finance Program and the ECA Sustainable Upstream Infrastructure Platform.
-- 2022-05-31 · Brief · Austria - Learning Poverty Brief - 2022。http://documents.worldbank.org/curated/en/099934007182223775
-  摘要：All children should be able to read by age 10. Reading is a gateway for learning as the child progresses through school - and conversely, an inability to read constrains opportunities for further learning. Reading proficiency is also critical for foundational learning in other subjects. In low- and middle-income countries, more than half the children cannot read and understand a simple story by the end of primary school. This learning crisis threatens countries’ efforts to build human capital and achieve the sustainable development goals (SDGs), undermining sustainable growth and poverty reduction. Tackling the learning crisis in the foreseeable future requires rapid progress at a scale that has not been seen yet. To galvanize action on this crisis, the authors introduced the concept of learning poverty (LP), a measure constructed jointly by the World Bank and the UNESCO Institute for Statistics (UIS).
 
 ## 学术论文（OpenAlex）
 
@@ -124,25 +124,25 @@ https://doi.org/10.2478/vjeas-2018-0002
 Speaking at the 17th Annual Conference of the Chinese Institute of Food Science and Technology in Xian in October 2020, China’s top oenologist pronounced that natural wine is the future of the wine industry. While natural wine became “trendy” in the past decade, it is how wine was made in ancient times. What is natural wine, then? This tradition will be revisited, and we will explore the differences between natural, organic, and conventional wines in the vineyard and wine-making process. Perhaps, as a grape-variety-driven new world wine country, China should best look at some of its Belt and Road partners, which are old world wine countries and terroir-driven. This case study explores three countries along the Belt and Road to see how China can relate to their developments. Austria is the center of natural wine for Central Europe with a strong industry support. Its leadership in organic viticulture dates back to the Austrian philosopher, Rudolf Steiner (1861–1925), who is the founder of the biodynamic approach to agriculture. Another approach to natural wine is its neighboring Croatia with its old vines and traditional wine-making techniques but adopts a new form of marketing. Contrary to these two countries, with natural winemakers on the rise, is Slovakia, where the government has been trying to ban “unfiltered” wines along the way. In each case study, we will focus on the development of grape varietals, farming, terroir, marketing strategies, government and industry support, and challenges going forward. These countries are starting to import into China and have been well received. We will compare and contrast these elements with the China market and see how China can learn from them.
 
 https://doi.org/10.1201/9781003198147-8
-### New Silk Road—A Geo-economic Assessment with a Focus on the European Region（2020，Springer eBooks，被引 3）
+### New Silk Road—A Geo-economic Assessment with a Focus on the European Region（2020，Springer eBooks，被引 4）
 
 （无摘要）
 
 https://doi.org/10.1007/978-3-030-43399-4_5
-### “One Belt, One Road”: China's New Global Strategy（2016，Journal of Contemporary East Asia Studies，被引 176）
+### “One Belt, One Road”: China's New Global Strategy（2016，Journal of Contemporary East Asia Studies，被引 206）
 
 The “One Belt, One Road” (OBOR) initiative has been a topic of hot debate among Sinologists and pundits in recent years. What is the nature of this foreign policy and how is it implemented under the Xi Jinping administration? By examining China's OBOR initiative, this article argues that OBOR is not only a regional policy but a grand global strategy for achieving the “Chinese Dream”. While there is little chance that China will be able to create a large area of influence around the world, the potential impact on global politics cannot be overlooked.
 
 https://doi.org/10.1080/24761028.2016.11869094
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 209）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 226）
 
 （无摘要）
 
 https://doi.org/10.1016/j.ememar.2019.100629
-### Chances and Challenges for Kazakhstan, the EU and Austria in Chinese project “New Silk Road”（2019，BULLETIN of the L N GUMILYOV EURASIAN NATIONAL UNIVERSITY POLITICAL SCIENCE REGIONAL STUDIES ORIENTAL STUDIES TURKOLOGY Series，被引 0）
+### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 140）
 
-（无摘要）
+China's Belt and Road Initiative aims to improve connectivity between China and more than 70 countries through infrastructure investment and regional cooperation. The initiative has the potential to accelerate significantly the rate of economic integration and development in the region, as trade costs decline. The goals of this paper are to (i) study the impacts of infrastructure improvements on Belt and Road Initiative and non?Belt and Road Initiative countries'trade flows, growth, and poverty; and (ii) suggest policies that would help maximize gains from the Belt and Road Initiative?induced trade cost declines. The analysis captures the trade costs reductions as a result of infrastructure improvements. The findings indicate that the Belt and Road Initiative would be largely beneficial. First, global income increases by 0.7 percent (in 2030 relative to the baseline). This translates into almost half a trillion dollars in 2014 prices and market exchange rates. The Belt and Road Initiative area captures 82 percent of the gain, with the largest percent gains in East Asia. Second, globally, the Belt and Road Initiative could contribute to lifting 7.6 million people from extreme poverty and 32 million from moderate poverty. Third, the initiative would lead to a modest increase in global carbon dioxide emissions, with a complex set of positive and negative outcomes at the national level for other types of emissions.
 
-https://doi.org/10.32523/26-16-6887/2019-129-4-96-105
+https://doi.org/10.1596/1813-9450-8814
 
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

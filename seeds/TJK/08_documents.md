@@ -111,26 +111,26 @@ The corridor is a part of the Belt and Road Initiative and among the corridors a
 Belt and Road Initiative (BRI) projects in Tajikistan are significant due to Tajikistan's geostrategic importance in the region. Tajikistan has channeled its geo-strategic values and established diplomatic and economic relations with regional and extra-regional states. China and Tajikistan's diplomatic relations were started in 1997, which marked another milestone when countries resolved their border disputes bilaterally in 2021. Since China introduced its BRI, its existing diplomatic relations with Tajikistan have changed to close economic ties. Hence, it uplifted the pace of existing economic projects between China and Tajikistan, with the introduction of new projects, some branded as BRI projects, and others are complementing it. In this scenario, China through the BRI provides an opportunity for Pakistan and Tajikistan to enhance and strengthen their economic and diplomatic ties. Both Pakistan and Tajikistan need a great deal of cooperation for further progress of both states in contemporary times. It is important to identify the ongoing process in the region to pinpoint the future policy options for further development. This article analyzes the geostrategic importance of Tajikistan and its relations with regional and extra-regional states. It also focusses on the concluded, ongoing, and planned projects regarding enhancing the geostrategy of the states that are in line with the BRI. Further, it explores the existing Pakistan–Tajikistan relations and new prospects, along with the challenges in future prospects.
 
 https://doi.org/10.1177/20578911211064670
-### Politics or profits along the “Silk Road”: what drives Chinese farms in Tajikistan and helps them thrive?（2016，Eurasian Geography and Economics，被引 70）
+### Politics or profits along the “Silk Road”: what drives Chinese farms in Tajikistan and helps them thrive?（2016，Eurasian Geography and Economics，被引 74）
 
 China’s influence in neighboring Central Asian states is growing at a fast pace. Since the launch of the One Belt, One Road (OBOR) initiative to accelerate China’s engagement in Central Asia and beyond, nearly all Chinese activity in this region has been gathered under OBOR. OBOR now seems to cover a plethora of spatially and temporally expanding state and privately driven projects. In this paper, I discuss large- and small-scale Chinese farm enterprises in Tajikistan, in which discussions around China’s “global land investments” and OBOR intersect. Beneath abstract conceptualizations of OBOR and the Chinese presence in Central Asia, my analysis shows that Chinese land investments in Tajikistan are shaped by Chinese dynamics of agrarian change and are contingent upon country-specific conditions. Rather than state-led endeavors as is often assumed, the main Chinese actors in Tajik agriculture are capitalist yet partially state-embedded enterprises driven by profit-oriented goals. Chinese farm enterprises tap into specific market demands that are either unanswered or underdeveloped in Tajikistan, or which have emerged due to the growing number of Chinese consumers in Tajikistan. The nature and drivers of Chinese land acquisitions in Tajikistan shed light on the various, sometimes competing, factors driving China’s broader foreign “land rush,” in Central Asia (and beyond).
 
 https://doi.org/10.1080/15387216.2016.1238313
-### The Economic Implications of the Belt and Road Initiative through Case Studies of Tajikistan and Italy（2021，，被引 1）
+### The Economic Implications of the Belt and Road Initiative through Case Studies of Tajikistan and Italy（2021，，被引 3）
 
 （无摘要）
 
 https://openalex.org/W3201137780
-### China-Tajikistan Economic Cooperation Plan a Geoeconomic Closed Door on the Belt and Road（2026，SSRN Electronic Journal，被引 0）
-
-（无摘要）
-
-https://doi.org/10.2139/ssrn.5873002
 ### Place of the Republic of Tajikistan within the framework of the «Belt and Road» initiative and «Global gate»（2024，В центре экономики，被引 0）
 
 В статье анализируется место Таджикистана в рамках инициативы Китая «Пояс и Путь» и «Глобальные Ворота» Европейского Союза. Отмечено, что сотрудничество с Китаем и Евросоюзом в развитии экономической и социальной сферы страны является своевременным и важным, а также имеет взаимовыгодную выгоду. Автор отмечает, что на фоне развивающейся большой игры оба проекта подчеркивают стратегически выгодное положение Центральной Азии, открывающее новые перспективы и возможности. Так как, основной частью и ключевой территорией проекта «Пояс и путь» является регион Центральной Азии.
 
 https://openalex.org/W7214830439
+### China-Tajikistan Economic Cooperation Plan a Geoeconomic Closed Door on the Belt and Road（2026，SSRN Electronic Journal，被引 0）
+
+（无摘要）
+
+https://doi.org/10.2139/ssrn.5873002
 ### South Caucasus and Central Asia - The Belt and Road Initiative（2020，World Bank, Washington, DC eBooks，被引 0）
 
 Tajikistan is the poorest country in the region despite strong growth for nearly two decades; sustaining growth in future will need substantially higher growth in private investment and exports. Its per capita income (GNI) is close to US$1,000 but nearly a third of its population, of around 9 million, live in poverty. Its growth of 6-7 percent per year since 2000 was fueled by growth in consumption and public investment, the latter driven mainly by rising remittances and export receipts from aluminum and cotton. Private investment and growth of other exports remained weak, and the fiscal situation, fragile for most of that period. Accordingly, the National Development Strategy 2030 (NDS) seeks to address those weaknesses. This note attempts to highlight the potential economic impact of BRI on the Tajik economy. It looks at how, if fully implemented globally, the BRI is expected to achieve better transport connections and greater economic integration of participating BRI countries, discusses improvements in Tajikistan’s cross-border transport, electricity and ICT infrastructure to-date, and assesses the potential impact of the completion of all BRI transport projects on Tajik shipment time. It further looks at the likely economic impact of BRI reductions in shipment time on exports, FDI and GDP, and the spatial distribution of benefits within the country and at how complementary polices can enhance the positive impact and mitigate risks. Finally, it examines the fiscal risk of Tajikistan’s scaling-up of investment in BRI transport projects in the coming years without undermining medium-term debt sustainability.
@@ -147,4 +147,4 @@ This chapter discusses the rationale from Beijing behind the Silk Road Economic 
 
 https://doi.org/10.4324/9781351024945-5
 
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

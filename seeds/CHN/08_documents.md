@@ -5,7 +5,7 @@
 ## 国家概况（维基百科）
 
 China, officially the People's Republic of China (PRC), is a country in East Asia. It is divided into 33 province-level divisions, including two special administrative regions. Beijing is the capital, while Shanghai is the most populous city by urban area. Its geography features the Central Plain, major rivers such as the Yangtze and Yellow River, deserts, subtropical and temperate forests, plateaus, and mountain ranges such as the Himalayas. It is the world's second-most populous country after India, with a population exceeding 1.4 billion (17% of the world's population). Covering 9.6 million square kilometers (3,700,000 sq mi), it is the third largest country by area.
-Humans first arrived in China during the Paleolithic. During the 2nd millennium BCE, dynastic states emerged. In 221 BCE, China was unified under the Qin, followed by the Han dynasty, ushering in two millennia of imperial rule across periods of unity and division. The imperial era saw the expansion of the Silk Road and the invention of gunpowder, paper, printing, and the compass. After increased Western political, economic, and philosophical influence, the empire was succeeded by the Republic of China (ROC) after the 1911 Revolution. The Warlord Era and Chinese Civil War followed, interrupted by the Second Sino-Japanese War, which ended in a Chinese victory. In 1949, the Chinese Communist Party (CCP) proclaimed the PRC and the ROC retreated to Taiwan. Both sides still claim political legitimacy. Attempts by the CCP to advance its political program faltered through famine and political turmoil. The reform and opening-up that began in 1978 moved China towards a socialist market economy, spurring economic growth.
+Humans first arrived in China during the Paleolithic Age. During the 2nd millennium BCE, dynastic states emerged. In 221 BCE, China was unified under the Qin, followed by the Han dynasty, ushering in two millennia of imperial rule across periods of unity and division. The imperial era saw the expansion of the Silk Road and the invention of gunpowder, paper, printing, and the compass. After increased Western political, economic, and philosophical influence, the empire was succeeded by the Republic of China (ROC) after the 1911 Revolution. The Warlord Era and Chinese Civil War followed, interrupted by the Second Sino-Japanese War, which ended in a Chinese victory. In 1949, the Chinese Communist Party (CCP) proclaimed the PRC and the ROC retreated to Taiwan. Both sides still claim political legitimacy. Attempts by the CCP to advance its political program faltered through famine and political turmoil. The reform and opening-up that began in 1978 moved China towards a socialist market economy, spurring economic growth.
 China is a unitary state with the CCP as its sole ruling party. It is one of the five permanent members of the UN Security Council and a member of many multilateral organizations. China is the world's largest manufacturer and has the second-largest economy by nominal GDP. International organizations have criticized China, alleging authoritarianism and human rights abuses. Possessing a large military, space program, and nuclear stockpile, China has been described as a superpower due to its influence in geopolitics, science and technology, manufacturing, economics, and culture.
 Chinese art and culture have influenced much of Asia, with a literary tradition dating back millennia to the Chinese classics. China is the birthplace of Confucianism and Daoism, which form the traditional three teachings of Chinese philosophy and folk religion alongside Buddhism. Chinese cuisine is diverse and highly regional, with rice as a staple in the south and wheat in the north. It has 60 World Heritage Sites, including the Great Wall and Grand Canal. The Han, speakers of Sinitic languages, are China's dominant ethnicity, although it is home to 55 recognized minorities, including the Hui, Mongols, Tibetans, Uyghurs, and Zhuang.
 
@@ -115,17 +115,16 @@ The proposed corridor will cover 1.65 million square kilometres, encompassing an
 The Belt and Road construction leadership group (Chinese: 国家推进“一带一路”建设工作领导小组) (also called Leading Group for Promoting the Belt and Road Initiative) is the deliberative and coordinating body of the State Council to promote the Belt and Road Initiative. State Council leader Han Zheng is the core and the China National Development and Reform Commission is the main body.
 
 来源：https://en.wikipedia.org/wiki/Belt_and_Road_Construction_Leadership_Group
-### China–Kyrgyzstan–Uzbekistan International Highway
-
-The China–Kyrgyzstan–Uzbekistan International Highway (CKU) is a transport corridor centered on Kyrgyzstan. It is envisioned to "interlink Pakistan, China and Kyrgyzstan, with strategic nodes extending to Uzbekistan, Tajikistan and Kazakhstan." 
-The corridor is a part of the Belt and Road Initiative and among the corridors and projects listed in a joint communiqué of state leaders attending the 2nd Belt and Road Initiative Forum in April 2019.
-
-来源：https://en.wikipedia.org/wiki/China%E2%80%93Kyrgyzstan%E2%80%93Uzbekistan_International_Highway
 ### Green finance and the Belt and Road Initiative
 
 Green finance is officially promoted as an important feature of the Belt and Road Initiative, China's signature global economic development initiative. The official vision for the BRI calls for an environmentally friendly "Green Belt and Road".
 
 来源：https://en.wikipedia.org/wiki/Green_finance_and_the_Belt_and_Road_Initiative
+### Silk Road Fund
+
+The Silk Road Fund (Chinese: 丝路基金) is a China Government Guidance Fund to foster increased investment in countries along the Belt and Road Initiative (formerly One Belt, One Road), an economic development initiative primarily covering Eurasia. The Chinese government pledged US$40 billion for the creation of the investment fund, established on 29 December 2014.
+
+来源：https://en.wikipedia.org/wiki/Silk_Road_Fund
 
 ## 世界银行最新文件（Documents & Reports）
 
@@ -156,4 +155,4 @@ Green finance is officially promoted as an important feature of the Belt and Roa
 - 2026-08-31 · Working Paper · China - Renewable Energy and Battery Storage Promotion Project : Project Progress Report（项目：CN-China Renewable Energy and Battery Storage Promotion Project -- P163679）。http://documents.worldbank.org/curated/en/099103026010528855
   摘要：The China Renewable Energy and Battery Storage Promotion Project supports the development and deployment of renewable energy and battery storage solutions in China. Approved by the World Bank in June 2019 and effective since March 2020, the project achieved a 100 percent disbursement rate by the end of 2025, with all Project Development Objective indicators exceeding their targets by two to four times. The project supported 23 subprojects, providing total financing equivalent to approximately EUR 379.55 million. Supported activities cover behind-the-meter and front-of-the-meter storage, generation-load integration, distributed renewable energy with storage, and heat storage.
 
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

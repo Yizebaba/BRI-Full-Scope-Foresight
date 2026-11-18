@@ -36,28 +36,26 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-18 09:02 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-18 17:57 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
 ## 国家层面
 
 - 美国国务院旅行建议：Pakistan - Level 3: Reconsider Travel（发布 Tue, 16 Jun 2026）。来源：https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.pak.html 
-- 英国外交部旅行建议最近更新于 2026-10-27 16:05 UTC，更新说明：Updated information about regional tensions (‘Warnings and insurance’ page)。来源：https://www.gov.uk/foreign-travel-advice/pakistan 
+- 英国外交部旅行建议最近更新于 2026-11-18 16:36 UTC，更新说明：Updated information about regional tensions (See ‘Warnings and insurance’ page).。来源：https://www.gov.uk/foreign-travel-advice/pakistan 
 - IODA 近 7 天记录到全国性网络中断告警 0 条。来源：IODA 互联网中断检测（佐治亚理工），https://ioda.inetintel.cc.gatech.edu/
 
 ## 喀喇昆仑公路改扩建（雷科特—红其拉甫）
 
 周边自然事件：扫描期间没有记录。
 
-近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-11-14 07:33 UTC：Khunjerab Snowfall Halts Traffic on Karakoram Highway - https://www.thetraveler.org/。https://news.google.com/rss/articles/CBMiigFBVV95cUxOSERfdS1WU0tHZGVBX2xNNmt1SnJLRUlmdjFtUHZ1dDh1d3V0b1dRX1dPQWFFU09LUFlaMEZGVDdJVFRkNFlxQmdkaWRJZUhJd3dlMF95SEVOdF9tbGlFUlh0aVRfY3JIcFVZYWFKTk5wVTIxcGEyZ3FhT1dkZE80cHBfRjVOc3g4VVE?oc=5
-
 ## 喀喇昆仑公路二期（塔科特—哈维连）
 
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-11-13 10:38 UTC：Babusar Pass Closed After Heavy Snowfall - Pakwheels。https://news.google.com/rss/articles/CBMidEFVX3lxTE1oWHV0WHlBTnNvaS1jNENxV1E4SzgtZXc2SHI1ZzFLQ0lLRnFWSFJDamVray0xVFc1c1RoYXd3NXctWFRRdV9URGg4ZEprNVlyVzZqbG0wQzZpeGJicXJzYmVaTXlHVTVnelFBVkVMMjVrTTJK?oc=5
 - 2026-11-12 01:49 UTC：Heavy snowfall suspends traffic between KP and GB - Dawn。https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KZEdwc1laLWJocG1idE9uQUtQZ2ZhcmtXVmhBRURCVjNyNlVaZ0ZjcWNxUU5zTnlwUi1RRl9oaVhodzgtUXNEeg?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
@@ -77,10 +75,10 @@
 - 2026-11-17 08:10 UTC：Pakistan’s Gwadar Port Dream Collapses: From Dubai Promise To Ghost Port - DD News。https://news.google.com/rss/articles/CBMinAFBVV95cUxOeG1JUUtzbGhHa2NfQ2ZVa2JsRFVwUWRrRUtZVVFCWkRSRnF6NWxhZ0VCeE5RanpKVXRNUTdMWjlEYmpZdU1WRFpJbGpjLUFDS1NMSlAxeXQ3WlpydkRxTjJ4QVhPdUY1LU1WQ1ZEMDlOanZpaEZSSDVkclQ1Rnp1X1VXWWJXZWY3X1lqZDQ0c3BEaGxrSmFaQ2dBTUo?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-18 12:37 UTC：Pakistan Saudi Gas Pipeline: $30bn Chaman-Gwadar Network Under Study - Construction Review
 - 2026-11-18 06:44 UTC：Pakistan, Saudi Arabia Sign MoU to Explore $30 Billion Gas Pipeline Project to Gwadar - Energy Update
 - 2026-11-18 05:04 UTC：49 uplift projects completed in Gwadar district under BSDI - Daily Times
 - 2026-11-17 22:41 UTC：Pakistan, Saudi firm sign MoU for $30 billion Turkmenistan-Gwadar gas pipeline - Pkrevenue.com
-- 2026-11-17 16:06 UTC：Delta Energy, ISGS to study $30-B Pakistan gas pipeline program - Pipeline and Gas Journal
 - 2026-11-17 11:49 UTC：49 Development Projects Worth Rs836 Million Completed in Gwadar Under BSDI - Daily Independent
 - 2026-11-17 11:32 UTC：DG Health Reviews Medical Facilities at Gwadar Teaching Hospital - Daily Independent
 - 2026-11-17 11:17 UTC：Delta Energy Saudi signs deal to explore $30 billion investment in Pakistan - The Arab Weekly

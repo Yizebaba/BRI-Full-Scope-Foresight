@@ -8,7 +8,7 @@ Turkey, officially the Republic of Türkiye, is a country mainly located in Anat
 First inhabited by modern humans during the Late Paleolithic, present-day Turkey was home to various ancient peoples. The Hattians were assimilated by the Hittites and other Anatolian peoples. Classical Anatolia underwent cultural Hellenization after Alexander the Great's conquests, and later Romanization during the Roman and Byzantine eras. The Seljuk Turks began migrating into Anatolia in the 11th century, starting the Turkification process. The Seljuk Sultanate of Rum ruled Anatolia until the Mongol invasion in 1243, when it disintegrated into Turkish principalities. Beginning in 1299, the Ottomans united the principalities and expanded. Constantinople (modern-day Istanbul) was conquered in 1453 by Mehmed II. During the reigns of Selim I and Suleiman the Magnificent, the Ottoman Empire became a global power. From 1789 onwards, the empire saw major changes, reforms, centralization, and rising nationalism while its territory declined.
 In the 19th and early 20th centuries, the persecution of Muslims during the Ottoman contraction and in the Russian Empire resulted in large-scale loss of life and mass migration into modern-day Turkey from the Balkans, Caucasus, and Crimea. Under the control of the Three Pashas, the Ottoman Empire entered World War I in 1914, during which the Ottoman government committed genocides against its Armenian, Greek, and Assyrian subjects. Following Ottoman defeat, the Turkish War of Independence resulted in the abolition of the sultanate and the signing of the Treaty of Lausanne, and Turkey emerged as a more homogenous nation state. The Republic was proclaimed on 29 October 1923, modelled on the reforms initiated by its founder and first president, Mustafa Kemal Atatürk. Turkey remained neutral during most of World War II, but was involved in the Korean War, and more significantly, in the Cyprus conflict. Several military interventions interfered with the transition to a multi-party system.
 Turkey is an upper-middle-income and emerging country; its economy is the world's 16th-largest by nominal and 11th-largest by PPP-adjusted GDP. As the 15th-largest electricity producer in the world, Turkey aims to become a hub for regional energy transportation. It is a unitary presidential republic. Turkey is a founding member of the OECD, G20, and Organization of Turkic States. With a geopolitically significant location, Turkey is a NATO member and has its second-largest military personnel. It may be recognized as an emerging, a middle, and a regional power. As an EU candidate, Turkey is part of the EU Customs Union.
-Turkey has coastal plains, a high central plateau, and various mountain ranges with rising elevation eastwards. Turkey's climate is diverse, ranging from Mediterranean and other temperate climates to semi-arid and continental types. Home to three biodiversity hotspots, Turkey is prone to frequent earthquakes and is highly vulnerable to climate change. Turkey has a universal healthcare system, growing access to education, and increasing levels of innovativeness. It is a leading TV content exporter. With numerous UNESCO World Heritage sites and intangible cultural heritage inscriptions, and a rich and diverse cuisine, Turkey is the fourth most visited country in the world.
+Turkey has coastal plains, a high central plateau, and various mountain ranges with rising elevation eastwards. Turkey's climate is diverse, ranging from Mediterranean and other temperate climates to semi-arid and continental types. Home to three biodiversity hotspots, Turkey is prone to frequent earthquakes and is highly vulnerable to climate change. Turkey has a universal healthcare system, growing access to education, and increasing levels of innovativeness. It is a leading TV content exporter. With numerous UNESCO World Heritage sites and intangible cultural heritage inscriptions, and a rich and diverse cuisine, Turkey attracts tourists from around the world.
 
 来源：https://en.wikipedia.org/wiki/Turkey（CC BY-SA 4.0）
 
@@ -157,27 +157,27 @@ Emba Hunutlu power station is a 1320 MW coal fired power station in Turkey in Ad
 （无摘要）
 
 https://doi.org/10.2307/j.ctv1rcf2bf.16
-### Belt and Road Initiative: Challenges and Prospects for Turkey（2020，AYBU AVESIS，被引 0）
-
-（无摘要）
-
-https://openalex.org/W7132749439
 ### TURKEY AND ONE BELT ONE ROAD INITIATIVE（2018，AYBU AVESIS，被引 0）
 
 （无摘要）
 
 https://openalex.org/W7132171435
-### Belt and Road Project and Turkey’s Central Asian goals（2019，DergiPark (Istanbul University)，被引 0）
+### Belt and Road Initiative: Challenges and Prospects for Turkey（2020，AYBU AVESIS，被引 0）
 
 （无摘要）
 
-https://openalex.org/W7128456743
-### CHINESE BELT AND ROAD INITIATIVE AND TURKEY’S MIDDLE CORRIDOR（2020，CyberLeninK (CyberLeninka)，被引 0）
+https://openalex.org/W7132749439
+### CHINESE BELT AND ROAD INITIATIVE AND TURKEY’S MIDDLE CORRIDOR（2020，CyberLeninK (CyberLeninka)，被引 1）
 
 （无摘要）
 
 https://openalex.org/W3114699569
-### Exploring the structure and influence factors of trade competitive advantage network along the Belt and Road（2020，Physica A Statistical Mechanics and its Applications，被引 45）
+### Belt and Road Project and Turkey’s Central Asian goals（2019，Cappadocia Journal of Area Studies (CJAS) Cappadocia University，被引 0）
+
+（无摘要）
+
+https://openalex.org/W7128456743
+### Exploring the structure and influence factors of trade competitive advantage network along the Belt and Road（2020，Physica A Statistical Mechanics and its Applications，被引 46）
 
 （无摘要）
 
@@ -187,10 +187,10 @@ https://doi.org/10.1016/j.physa.2020.125057
 The Middle Corridor Initiative is also called the Middle Corridor Project, and it is a development plan proposed by the Turkish government to build a transportation network connecting Turkey and China: from Turkey, by way of Georgia, Azerbaijan, the Caspian Sea, Turkmenistan, Kazakhstan, Uzbekistan, Afghanistan and Pakistan, and finally to China. A stable and strong support from governments is necessary for the success of large-scale infrastructure construction, especially for cooperation projects in a developing country, e.g. the Middle Corridor; and China–Central Asia–West Asian Economic Corridor. At present, the political situation is stable in Turkey, which is favourable for the construction of these corridors. In May 2017, at the Belt and Road Forum for International Cooperation, President Erdogan clearly expressed to include this plan as an important component of the Belt and Road Initiative.
 
 https://doi.org/10.4324/9780429203039-88
-### Türkiye and the Belt and Road Initiative（2025，IGI Global eBooks，被引 0）
+### Role of culture in how AI affects the brand experience: comparison of Belt and Road countries（2025，Asia-Pacific Journal of Business Administration，被引 22）
 
-The Belt and Road Initiative (BRI), which is an extensive transportation and infrastructure project, connecting Asia, Africa, and Europe is also seen as one of the important tools of South-South cooperation. Türkiye as one of the important members of the BRI has had several expectations, mainly improving Sino-Turkish relations through increasing Chinese investments in Türkiye and reducing the pressure of the trade deficit of Türkiye given to China. In addition, it was anticipated that the BRI would have improved trade and investment relations of Türkiye with the other members, so that the initiative would also play a role in Türkiye's rapprochement to the rising Global South. On the other hand, Chinese investments in Türkiye have been insufficient since its inclusion in the BRI in 2015, and the two countries would mutually put efforts to realize the potential benefits of the BRI.
+Purpose Culture plays a pivotal role in influencing the customer journey when artificial intelligence (AI) is used, helping to foster consumer–brand interactions. Based on the stimulus–organism–response (SOR) model, this study examined the role of culture on AI–customer–brand interactions, comparing Belt and Road countries. Design/methodology/approach Structural equation modelling was used to analyse 300 responses from participants in Hong Kong and 398 responses from participants in Turkey to a questionnaire. Findings The findings indicated that AI affected brand experience and brand preference in both Hong Kong and Turkey. Multi-group analysis revealed that customisation exerted stronger influences on brand experience for the Hong Kong group, while interaction had a stronger effect on brand experience in the Turkey group. Most importantly, the effect of AI marketing efforts on brand experience was found to be moderated by cultural differences. Research limitations/implications The study’s findings advance knowledge of the crucial role of cultural factors in AI–consumer–brand relationships. These theoretical implications highlight the necessity of integrating cultural intelligence into AI-driven branding strategies. Practical implications Acknowledging this cultural embeddedness can help market practitioners for brand building and policymakers craft more informed and impactful guidelines governing AI–marketing practices and AI–brand management among Belt and Road countries. Originality/value Existing studies on AI–brand interactions have each focused on a single country. There is a glaring lack of research on cross-cultural differences. To fill the gap, this study adopted a cross-cultural perspective to investigate differences in AI–brand interactions between two Belt and Road countries.
 
-https://doi.org/10.4018/979-8-3373-0938-5.ch002
+https://doi.org/10.1108/apjba-09-2024-0510
 
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z

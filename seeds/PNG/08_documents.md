@@ -16,7 +16,6 @@ The rural and diverse population is a result of highly mountainous geography. Th
 ### China–Papua New Guinea relations
 
 The Independent State of Papua New Guinea and the People's Republic of China (PRC) established official diplomatic relations in 1976, soon after Papua New Guinea became independent. The two countries currently maintain diplomatic, economic and, to a lesser degree, military relations. Relations are cordial; China is a significant provider of both investments and development aid to Papua New Guinea.
-The current ambassador of Papua New Guinea in China is Don Sawong. The current ambassador of China in Papua New Guinea is Zeng Fanhua.
 
 
 == Background ==
@@ -33,14 +32,13 @@ In July 2003, PNG governor general Sir Silas Atopare visited the PRC, re-affirme
 In May 2008, Taiwan's foreign minister James Huang resigned, along with two other top officials, after wasting over €19 million in a failed attempt to win diplomatic recognition for the Republic of China from Papua New Guinea. The misuse of the money caused public outrage, forcing Huang's resignation. Papua New Guinea's foreign minister Sam Abal subsequently confirmed that his country had no intention of recognising Taiwan.
 A few days later, it was announced that members of the Papua New Guinea Defence Force would receive training provided by the PRC. Traditionally, military training aid in Papua New Guinea had been provided by Western countries, namely, Australia, New Zealand and the United States.
 Chinese companies were involved in the redevelopment of the port and airport of Lae.
-Papua New Guinea follows the one China principle and considers Taiwan to be "an inalienable part" of China. Papua New Guinea also supports all efforts by the PRC to "achieve national reunification" and opposes Taiwan independence. In mid-July 2026, Papua New Guinea announced the closure of Taiwan's representative office in Port Moresby in order to strengthen relations with China.
-In June 2020, Papua New Guinea was one of 53 countries that backed the Hong Kong national security law at the United Nations.
+PNG follows the one China principle and considers Taiwan to be "an inalienable part" of China. Papua New Guinea also supports all efforts by the PRC to "achieve national reunification" and opposes Taiwan independence. In mid-July 2026, Papua New Guinea announced the closure of Taiwan's representative office in Port Moresby in order to strengthen relations with China.
+In June 2020, Papua New Guinea was one of 53 countries that backed the Hong Kong national security law at the United Nations. In October 2026, PNG police arrested four Chinese nationals and seized a live Type 59 artillery shell at a construction site. The Chinese embassy in PNG suggested the artillery shell was "wine bottle."
 
 
 == See also ==
+
 Chinese people in Papua New Guinea
- China portal
- New Guinea portal
 
 
 == References ==
@@ -48,7 +46,6 @@ Chinese people in Papua New Guinea
 
 == External links ==
 Official website of the embassy of the People's Republic of China in Papua New Guinea
-James Chin (2024) The rise and rise of China: Contemporary Chinese community in PNG (2010–2020). https://www.jstor.org/stable/jj.17286116.11
 
 来源：https://en.wikipedia.org/wiki/China%E2%80%93Papua_New_Guinea_relations（CC BY-SA 4.0）
 
@@ -104,4 +101,4 @@ The PNGDF Land Element includes two infantry battalions, an engineer battalion, 
 - 2026-10-29 · Environmental and Social Management Plan · Environmental and Social Management Framework (ESMF) PNG Agriculture Commercialization and Diversification Project Phase 2  (P515452)（项目：PG-PNG Agriculture Commercialization and Diversification Project Phase 2 -- P515452）。http://documents.worldbank.org/curated/en/099102926205039149
 - 2026-10-29 · Environmental and Social Management Framework · Resettlement Framework PNG Agriculture Commercialization and Diversification Project Phase 2  (P515452)（项目：PG-PNG Agriculture Commercialization and Diversification Project Phase 2 -- P515452）。http://documents.worldbank.org/curated/en/099102926205537707
 
-抓取时间：2026-11-11T12:13:04Z
+抓取时间：2026-11-18T13:28:49Z
