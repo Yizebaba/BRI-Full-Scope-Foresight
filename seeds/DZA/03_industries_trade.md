@@ -199,14 +199,14 @@
 | 武器、弹药（HS 93，Arms and ammunition; parts and accessories thereof） | 3697 美元 | 无数据 |
 | 木浆（HS 47，Pulp of wood or other fibrous cellulosic material; recovered (waste an） | 500 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-13 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 496 次（前 30 天 510 次），进口约 2574285 公吨，出口约 4604537 公吨。
-- Arzew港：靠港 119 次，进口约 345662 公吨，出口约 2879073 公吨
-- Alger港：靠港 99 次，进口约 466199 公吨，出口约 61106 公吨
-- Skikda (Port Methanier)港：靠港 88 次，进口约 186556 公吨，出口约 1120591 公吨
-- Bejaia港：靠港 62 次，进口约 635023 公吨，出口约 233819 公吨
-- Oran港：靠港 49 次，进口约 376806 公吨，出口约 129699 公吨
-- Annaba港：靠港 41 次，进口约 159420 公吨，出口约 73632 公吨
+全国靠港 503 次（前 30 天 493 次），进口约 2478338 公吨，出口约 4503072 公吨。
+- Arzew港：靠港 117 次，进口约 257428 公吨，出口约 2715715 公吨
+- Alger港：靠港 98 次，进口约 461088 公吨，出口约 34784 公吨
+- Skikda (Port Methanier)港：靠港 82 次，进口约 198172 公吨，出口约 1090010 公吨
+- Bejaia港：靠港 67 次，进口约 651188 公吨，出口约 371525 公吨
+- Oran港：靠港 54 次，进口约 475682 公吨，出口约 122712 公吨
+- Annaba港：靠港 43 次，进口约 156468 公吨，出口约 74647 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

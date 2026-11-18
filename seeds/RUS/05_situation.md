@@ -24,4 +24,3 @@
 ## 灾害警报（GDACS，近 14 天）
 
 - 2026-11-17 15:48 UTC：Green 级 EQ，Earthquake in Russia。https://www.gdacs.org/report.aspx?eventid=1577818&episodeid=1747133&eventtype=EQ 
-- 2026-11-16 13:25 UTC：Green 级 EQ，Earthquake in Russia。https://www.gdacs.org/report.aspx?eventid=1577631&episodeid=1746934&eventtype=EQ 

@@ -193,9 +193,9 @@
 | 稻草编结品（HS 46，Manufactures of straw, esparto or other plaiting materials; basketware） | 3932 美元 | 无数据 |
 | 镍及其制品（HS 75，Nickel and articles thereof） | 210 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-13 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 118 次（前 30 天 117 次），进口约 1116037 公吨，出口约 240408 公吨。
-- Lome港：靠港 118 次，进口约 1116037 公吨，出口约 240408 公吨
+全国靠港 121 次（前 30 天 111 次），进口约 1186645 公吨，出口约 224512 公吨。
+- Lome港：靠港 121 次，进口约 1186645 公吨，出口约 224512 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

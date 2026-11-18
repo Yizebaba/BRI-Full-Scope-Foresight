@@ -14,7 +14,6 @@
 
 - 2026-11-13 16:17 UTC：M5.2，79 km NE of Kuqa, China。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty14 
 - 2026-11-12 20:03 UTC：M4.9，41 km N of Weining, China。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txvw 
-- 2026-11-10 22:15 UTC：M4.5，16 km SSE of Gaoyou, China。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txf9 
 
 ## 灾害警报（GDACS，近 14 天）
 

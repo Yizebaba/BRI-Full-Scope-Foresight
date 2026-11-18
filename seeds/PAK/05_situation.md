@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-17 18:28 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-18 01:14 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -77,6 +77,7 @@
 - 2026-11-17 08:10 UTC：Pakistan’s Gwadar Port Dream Collapses: From Dubai Promise To Ghost Port - DD News。https://news.google.com/rss/articles/CBMinAFBVV95cUxOeG1JUUtzbGhHa2NfQ2ZVa2JsRFVwUWRrRUtZVVFCWkRSRnF6NWxhZ0VCeE5RanpKVXRNUTdMWjlEYmpZdU1WRFpJbGpjLUFDS1NMSlAxeXQ3WlpydkRxTjJ4QVhPdUY1LU1WQ1ZEMDlOanZpaEZSSDVkclQ1Rnp1X1VXWWJXZWY3X1lqZDQ0c3BEaGxrSmFaQ2dBTUo?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-17 22:41 UTC：$30bn Turkmenistan-Gwadar Gas Pipeline Planned - Pkrevenue.com
 - 2026-11-17 16:06 UTC：Delta Energy, ISGS to study $30-B Pakistan gas pipeline program - Pipeline and Gas Journal
 - 2026-11-17 12:14 UTC：49 development projects completed in Gwadar District Under BSDI Breaking - Independent News Pakistan
 - 2026-11-17 11:49 UTC：49 Development Projects Worth Rs836 Million Completed in Gwadar Under BSDI - Daily Independent
@@ -84,7 +85,6 @@
 - 2026-11-17 11:17 UTC：Delta Energy Saudi signs deal to explore $30 billion investment in Pakistan - The Arab Weekly
 - 2026-11-17 05:23 UTC：Pakistan Puts Karachi, Gwadar Ports at Centre of ECO Trade Push - The Daily CPEC
 - 2026-11-16 19:49 UTC：Women Attend Mental Health Awareness Session in Gwadar - Daily Independent
-- 2026-11-16 19:47 UTC：Gwadar Uses Treated Wastewater to Expand Urban Green Spaces - Daily Independent
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

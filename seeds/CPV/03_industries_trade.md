@@ -169,13 +169,13 @@
 | 铁道车辆及设备（HS 86，Railway, tramway locomotives, rolling-stock and parts thereof; railway） | 386 美元 | 无数据 |
 | 其他植物纺织纤维（HS 53，Vegetable textile fibres; paper yarn and woven fabrics of paper yarn） | 153 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-13 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 114 次（前 30 天 122 次），进口约 114597 公吨，出口约 31899 公吨。
-- Porto Grande港：靠港 49 次，进口约 48654 公吨，出口约 26331 公吨
-- Porto Da Praia港：靠港 28 次，进口约 23776 公吨，出口约 5295 公吨
-- Palmeira港：靠港 18 次，进口约 33334 公吨，出口约 264 公吨
-- Sal Rei港：靠港 13 次，进口约 8463 公吨，出口约 0 公吨
-- Port Vale Knights港：靠港 6 次，进口约 370 公吨，出口约 9 公吨
+全国靠港 123 次（前 30 天 120 次），进口约 104273 公吨，出口约 52400 公吨。
+- Porto Grande港：靠港 57 次，进口约 57294 公吨，出口约 46587 公吨
+- Porto Da Praia港：靠港 30 次，进口约 24132 公吨，出口约 5516 公吨
+- Palmeira港：靠港 20 次，进口约 12276 公吨，出口约 288 公吨
+- Sal Rei港：靠港 10 次，进口约 10191 公吨，出口约 0 公吨
+- Port Vale Knights港：靠港 6 次，进口约 380 公吨，出口约 9 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

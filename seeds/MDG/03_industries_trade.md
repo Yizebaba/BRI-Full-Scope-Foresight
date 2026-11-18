@@ -200,14 +200,14 @@
 | 软木（HS 45，Cork and articles of cork） | 149 美元 | 无数据 |
 | 武器、弹药（HS 93，Arms and ammunition; parts and accessories thereof） | 88 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-13 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 70 次（前 30 天 55 次），进口约 649289 公吨，出口约 123115 公吨。
-- Toamasina港：靠港 44 次，进口约 615472 公吨，出口约 25167 公吨
-- Ehoala港：靠港 9 次，进口约 17532 公吨，出口约 88934 公吨
-- Majunga港：靠港 7 次，进口约 837 公吨，出口约 7208 公吨
-- Antsiranana (Diego Suarez)港：靠港 5 次，进口约 4767 公吨，出口约 0 公吨
-- Tulear (Toliara)港：靠港 3 次，进口约 7607 公吨，出口约 1806 公吨
-- Andoany港：靠港 2 次，进口约 3074 公吨，出口约 0 公吨
+全国靠港 62 次（前 30 天 62 次），进口约 571769 公吨，出口约 93436 公吨。
+- Toamasina港：靠港 36 次，进口约 538143 公吨，出口约 34217 公吨
+- Ehoala港：靠港 9 次，进口约 17625 公吨，出口约 52044 公吨
+- Majunga港：靠港 6 次，进口约 551 公吨，出口约 5369 公吨
+- Tulear (Toliara)港：靠港 5 次，进口约 8516 公吨，出口约 1806 公吨
+- Antsiranana (Diego Suarez)港：靠港 4 次，进口约 2536 公吨，出口约 0 公吨
+- Andoany港：靠港 2 次，进口约 4398 公吨，出口约 0 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

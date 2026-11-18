@@ -97,13 +97,13 @@
 | 软木（HS 45，Cork and articles of cork） | 86 美元 | 无数据 |
 | 锌及其制品（HS 79，Zinc and articles thereof） | 9 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-13 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 98 次（前 30 天 93 次），进口约 444555 公吨，出口约 307004 公吨。
-- Point Noire港：靠港 93 次，进口约 444383 公吨，出口约 144384 公吨
-- Republic of Congo - Offshore Oil Terminal 4港：靠港 3 次，进口约 172 公吨，出口约 121892 公吨
-- Republic of Congo - Offshore Oil Terminal 1港：靠港 1 次，进口约 0 公吨，出口约 40728 公吨
+全国靠港 98 次（前 30 天 97 次），进口约 446011 公吨，出口约 237375 公吨。
+- Point Noire港：靠港 94 次，进口约 445839 公吨，出口约 172028 公吨
+- Republic of Congo - Offshore Oil Terminal 4港：靠港 3 次，进口约 172 公吨，出口约 65347 公吨
 - Republic of Congo - Offshore Oil Terminal 2港：靠港 1 次，进口约 0 公吨，出口约 0 公吨
+- Republic of Congo - Offshore Oil Terminal 1港：靠港 0 次，进口约 0 公吨，出口约 0 公吨
 - Republic of Congo - Offshore Oil Terminal 3港：靠港 0 次，进口约 0 公吨，出口约 0 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

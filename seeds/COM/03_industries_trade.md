@@ -176,10 +176,10 @@
 | 制粉工业产品（HS 11，Products of the milling industry; malt, starches, inulin, wheat gluten） | 139 美元 | 无数据 |
 | 稻草编结品（HS 46，Manufactures of straw, esparto or other plaiting materials; basketware） | 31 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-13 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 15 次（前 30 天 21 次），进口约 59901 公吨，出口约 1935 公吨。
-- Moroni港：靠港 8 次，进口约 25852 公吨，出口约 274 公吨
-- Mutsamudu港：靠港 7 次，进口约 34049 公吨，出口约 1661 公吨
+全国靠港 13 次（前 30 天 22 次），进口约 44189 公吨，出口约 5223 公吨。
+- Mutsamudu港：靠港 7 次，进口约 30433 公吨，出口约 4928 公吨
+- Moroni港：靠港 6 次，进口约 13756 公吨，出口约 295 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

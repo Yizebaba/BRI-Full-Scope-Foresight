@@ -188,10 +188,10 @@
 | 树胶、树脂（HS 13，Lac; gums, resins and other vegetable saps and extracts） | 927 美元 | 无数据 |
 | 羊毛、动物毛（HS 51，Wool, fine or coarse animal hair; horsehair yarn and woven fabric） | 882 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-13 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 48 次（前 30 天 52 次），进口约 178247 公吨，出口约 939524 公吨。
-- Buchanan港：靠港 27 次，进口约 409 公吨，出口约 885009 公吨
-- Monrovia港：靠港 21 次，进口约 177838 公吨，出口约 54515 公吨
+全国靠港 44 次（前 30 天 53 次），进口约 204106 公吨，出口约 759061 公吨。
+- Buchanan港：靠港 23 次，进口约 0 公吨，出口约 740811 公吨
+- Monrovia港：靠港 21 次，进口约 204106 公吨，出口约 18250 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

@@ -10,7 +10,7 @@
 - 2026-05-21 00:00 UTC：Green 级 DR，Drought in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam。https://www.gdacs.org/report.aspx?eventid=1027462&episodeid=3&eventtype=DR 
 - 2026-03-21 00:00 UTC：Green 级 DR，Drought in Brunei, Indonesia, Cambodia, Laos, Malaysia, Papua New Guinea, Philippines, Singapore, Vietnam。https://www.gdacs.org/report.aspx?eventid=1018545&episodeid=21&eventtype=DR 
 
-# 老挝项目周边近期态势（截至 2026-11-17 18:28 UTC）
+# 老挝项目周边近期态势（截至 2026-11-18 01:14 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -31,8 +31,8 @@
 - 2026-11-16 05:15 UTC：China's premier calls cooperation with ASEAN 'mature and resilient' despite geopolitical turbulence - ABS-CBN
 - 2026-11-16 04:03 UTC：China Mentions $7.3 Billion Indonesian Train in ASEAN Talks - Jakarta Globe
 - 2026-11-15 06:40 UTC：400 Crore Chinese Travel In Train During 1st 10 Months Of 2026 - Trak.in
-- 2026-11-14 22:47 UTC：Investment and market access key in China links - Bangkok Post
-- 2026-11-14 07:04 UTC：Yunnan town boosts China's connectivity with APEC economies - chinadailyhk
+- 2026-11-15 04:14 UTC：China hits record 4.13b railway passenger trips - China Daily
+- 2026-11-15 03:58 UTC：Is China Expanding its Military Presence in Southeast Asia? - RTV News
 
 ## 南欧江梯级水电站（一期）
 

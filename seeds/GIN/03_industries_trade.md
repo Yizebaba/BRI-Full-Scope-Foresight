@@ -97,14 +97,14 @@
 | 活植物、花卉（HS 06，Trees and other plants, live; bulbs, roots and the like; cut flowers a） | 374 美元 | 无数据 |
 | 武器、弹药（HS 93，Arms and ammunition; parts and accessories thereof） | 147 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-13 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 127 次（前 30 天 125 次），进口约 973788 公吨，出口约 1736360 公吨。
-- Conakry港：靠港 67 次，进口约 901833 公吨，出口约 242460 公吨
-- Kamsar港：靠港 28 次，进口约 38614 公吨，出口约 1438723 公吨
-- Taressa港：靠港 24 次，进口约 27621 公吨，出口约 47823 公吨
-- Dapilon港：靠港 5 次，进口约 3100 公吨，出口约 7265 公吨
-- Morebaya港：靠港 3 次，进口约 2620 公吨，出口约 89 公吨
+全国靠港 127 次（前 30 天 121 次），进口约 918650 公吨，出口约 1512062 公吨。
+- Conakry港：靠港 66 次，进口约 838975 公吨，出口约 192578 公吨
+- Taressa港：靠港 27 次，进口约 36528 公吨，出口约 58713 公吨
+- Kamsar港：靠港 26 次，进口约 36949 公吨，出口约 1254261 公吨
+- Dapilon港：靠港 4 次，进口约 2480 公吨，出口约 5812 公吨
+- Morebaya港：靠港 4 次，进口约 3718 公吨，出口约 698 公吨
 - Katougouma港：靠港 0 次，进口约 0 公吨，出口约 0 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

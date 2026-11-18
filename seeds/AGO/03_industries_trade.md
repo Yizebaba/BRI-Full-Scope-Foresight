@@ -201,14 +201,14 @@
 | 软木（HS 45，Cork and articles of cork） | 703 美元 | 无数据 |
 | 毛皮及制品（HS 43，Furskins and artificial fur; manufactures thereof） | 91 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-13 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 191 次（前 30 天 176 次），进口约 1028884 公吨，出口约 1013716 公吨。
-- Luanda港：靠港 125 次，进口约 817544 公吨，出口约 202768 公吨
-- Lobito港：靠港 25 次，进口约 163101 公吨，出口约 22644 公吨
-- Namibe港：靠港 19 次，进口约 47617 公吨，出口约 45640 公吨
-- Soyo Angola LNG Terminal港：靠港 16 次，进口约 622 公吨，出口约 340387 公吨
-- Angola - Offshore Oil Terminal 6港：靠港 3 次，进口约 0 公吨，出口约 210706 公吨
-- Angola - Offshore Oil Terminal 5港：靠港 2 次，进口约 0 公吨，出口约 51984 公吨
+全国靠港 189 次（前 30 天 181 次），进口约 1063018 公吨，出口约 1000898 公吨。
+- Luanda港：靠港 122 次，进口约 897729 公吨，出口约 163476 公吨
+- Lobito港：靠港 27 次，进口约 116022 公吨，出口约 23561 公吨
+- Soyo Angola LNG Terminal港：靠港 20 次，进口约 1256 公吨，出口约 497832 公吨
+- Namibe港：靠港 15 次，进口约 48011 公吨，出口约 39618 公吨
+- Angola - Offshore Oil Terminal 5港：靠港 2 次，进口约 0 公吨，出口约 25703 公吨
+- Angola - Offshore Oil Terminal 6港：靠港 2 次，进口约 0 公吨，出口约 113682 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

@@ -203,10 +203,10 @@
 | 毛皮及制品（HS 43，Furskins and artificial fur; manufactures thereof） | 3027 美元 | 无数据 |
 | 镍及其制品（HS 75，Nickel and articles thereof） | 217 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-13 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 159 次（前 30 天 156 次），进口约 2411706 公吨，出口约 75900 公吨。
-- Mombasa港：靠港 137 次，进口约 2357138 公吨，出口约 50056 公吨
-- Lamu港：靠港 22 次，进口约 54568 公吨，出口约 25844 公吨
+全国靠港 171 次（前 30 天 150 次），进口约 2594013 公吨，出口约 73376 公吨。
+- Mombasa港：靠港 149 次，进口约 2520377 公吨，出口约 47690 公吨
+- Lamu港：靠港 22 次，进口约 73636 公吨，出口约 25686 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

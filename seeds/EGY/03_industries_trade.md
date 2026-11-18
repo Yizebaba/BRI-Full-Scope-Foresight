@@ -203,14 +203,14 @@
 | 毛皮及制品（HS 43，Furskins and artificial fur; manufactures thereof） | 1 万美元 | 无数据 |
 | 炸药、烟火（HS 36，Explosives; pyrotechnic products; matches; pyrophoric alloys; certain） | 5310 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-13 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 969 次（前 30 天 897 次），进口约 10346054 公吨，出口约 9967248 公吨。
-- Alexandria港：靠港 288 次，进口约 2512433 公吨，出口约 1753134 公吨
-- Damietta港：靠港 237 次，进口约 1435488 公吨，出口约 995990 公吨
-- El Dekheila港：靠港 139 次，进口约 1539045 公吨，出口约 604300 公吨
-- El Sokhna港：靠港 124 次，进口约 4342332 公吨，出口约 507316 公吨
-- Sidi Kerir港：靠港 54 次，进口约 0 公吨，出口约 5721416 公吨
-- Port Said港：靠港 53 次，进口约 166358 公吨，出口约 98373 公吨
+全国靠港 994 次（前 30 天 889 次），进口约 10118462 公吨，出口约 11136142 公吨。
+- Alexandria港：靠港 295 次，进口约 2475070 公吨，出口约 1704054 公吨
+- Damietta港：靠港 242 次，进口约 1337111 公吨，出口约 1130376 公吨
+- El Dekheila港：靠港 146 次，进口约 1507880 公吨，出口约 574610 公吨
+- El Sokhna港：靠港 117 次，进口约 4332051 公吨，出口约 539697 公吨
+- Sidi Kerir港：靠港 61 次，进口约 0 公吨，出口约 6668850 公吨
+- Port Said港：靠港 55 次，进口约 153854 公吨，出口约 114223 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

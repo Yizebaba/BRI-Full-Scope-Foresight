@@ -179,9 +179,9 @@
 | 航空器、航天器（HS 88，Aircraft, spacecraft, and parts thereof） | 649 美元 | 无数据 |
 | 照相及电影用品（HS 37，Photographic or cinematographic goods） | 6 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-13 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 21 次（前 30 天 18 次），进口约 86971 公吨，出口约 12700 公吨。
-- Victoria港：靠港 21 次，进口约 86971 公吨，出口约 12700 公吨
+全国靠港 20 次（前 30 天 19 次），进口约 64584 公吨，出口约 13775 公吨。
+- Victoria港：靠港 20 次，进口约 64584 公吨，出口约 13775 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

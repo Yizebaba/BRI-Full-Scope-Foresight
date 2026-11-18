@@ -13,6 +13,6 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
+- 2026-11-17 16:35 UTC：Green 级 EQ，Earthquake in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1577826&episodeid=1747149&eventtype=EQ 
 - 2026-11-17 12:26 UTC：Green 级 EQ，Earthquake in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1577781&episodeid=1747083&eventtype=EQ 
-- 2026-11-16 19:33 UTC：Green 级 EQ，Earthquake in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1577706&episodeid=1747003&eventtype=EQ 
 - 2026-03-21 00:00 UTC：Green 级 DR，Drought in Brunei, Indonesia, Cambodia, Laos, Malaysia, Papua New Guinea, Philippines, Singapore, Vietnam。https://www.gdacs.org/report.aspx?eventid=1018545&episodeid=21&eventtype=DR 

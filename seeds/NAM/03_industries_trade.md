@@ -191,10 +191,10 @@
 | 武器、弹药（HS 93，Arms and ammunition; parts and accessories thereof） | 无数据 | 72 美元 |
 | 锌及其制品（HS 79，Zinc and articles thereof） | 20 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-11-06 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-13 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 63 次（前 30 天 64 次），进口约 186102 公吨，出口约 276533 公吨。
-- Walvis Bay港：靠港 57 次，进口约 185060 公吨，出口约 236698 公吨
-- Luderitz Bay港：靠港 6 次，进口约 1042 公吨，出口约 39835 公吨
+全国靠港 66 次（前 30 天 61 次），进口约 235626 公吨，出口约 264302 公吨。
+- Walvis Bay港：靠港 60 次，进口约 233733 公吨，出口约 244351 公吨
+- Luderitz Bay港：靠港 6 次，进口约 1893 公吨，出口约 19951 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。
