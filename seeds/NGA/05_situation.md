@@ -21,6 +21,6 @@
 
 - 2026-11-15 00:00 UTC：Green 级 WF，Forest fires in Nigeria。https://www.gdacs.org/report.aspx?eventid=1033921&episodeid=6&eventtype=WF 
 - 2026-11-15 00:00 UTC：Green 级 WF，Forest fires in Nigeria。https://www.gdacs.org/report.aspx?eventid=1033904&episodeid=3&eventtype=WF 
-- 2026-11-15 00:00 UTC：Green 级 WF，Forest fires in Nigeria。https://www.gdacs.org/report.aspx?eventid=1033947&episodeid=1&eventtype=WF 
-- 2026-11-12 00:00 UTC：Green 级 WF，Forest fires in Nigeria。https://www.gdacs.org/report.aspx?eventid=1033886&episodeid=11&eventtype=WF 
-- 2026-11-12 00:00 UTC：Green 级 WF，Forest fires in Nigeria。https://www.gdacs.org/report.aspx?eventid=1033883&episodeid=10&eventtype=WF 
+- 2026-11-12 00:00 UTC：Green 级 WF，Forest fires in Nigeria。https://www.gdacs.org/report.aspx?eventid=1033886&episodeid=12&eventtype=WF 
+- 2026-11-12 00:00 UTC：Green 级 WF，Forest fires in Nigeria。https://www.gdacs.org/report.aspx?eventid=1033883&episodeid=11&eventtype=WF 
+- 2026-11-11 00:00 UTC：Green 级 WF，Forest fires in Nigeria。https://www.gdacs.org/report.aspx?eventid=1033856&episodeid=7&eventtype=WF 

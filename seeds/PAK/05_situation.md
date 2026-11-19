@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-19 17:17 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-19 23:45 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -49,6 +49,9 @@
 ## 喀喇昆仑公路改扩建（雷科特—红其拉甫）
 
 周边自然事件：扫描期间没有记录。
+
+近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-11-14 07:33 UTC：Khunjerab Snowfall Halts Traffic on Karakoram Highway - https://www.thetraveler.org/。https://news.google.com/rss/articles/CBMiigFBVV95cUxOSERfdS1WU0tHZGVBX2xNNmt1SnJLRUlmdjFtUHZ1dDh1d3V0b1dRX1dPQWFFU09LUFlaMEZGVDdJVFRkNFlxQmdkaWRJZUhJd3dlMF95SEVOdF9tbGlFUlh0aVRfY3JIcFVZYWFKTk5wVTIxcGEyZ3FhT1dkZE80cHBfRjVOc3g4VVE?oc=5
 
 ## 喀喇昆仑公路二期（塔科特—哈维连）
 
@@ -75,16 +78,17 @@
 - 2026-11-19 10:10 UTC：10 killed, 27 injured after bus and gas bowser collide near Gwadar - UrduPoint。https://news.google.com/rss/articles/CBMimwFBVV95cUxPdEJQWDlZOEx1bHQ1aTN2cE1XZnhnWjBUTVQwUTZEWGZidUFYQ3Nmd2ZzWUZEamJiVEpMckFOSkxDSGZ0bDBQT0JFd2UxeDZic2tMdUVFTUZ5UmpGS3ZPYXk0dE1wSkZ1bWhhN3ZvSWRfMGo4WWZkNDI5ejVURlVDU29IOTRGUmxpRXFmTnFNNGhvYlNHVHhhRzB6UQ?oc=5
 - 2026-11-19 08:02 UTC：Passenger Bus and Gas Bowser Catch Fire After Collision on Makran Coastal Highway in Gwadar - Balochistan Pulse。https://news.google.com/rss/articles/CBMivgFBVV95cUxNMERidnQxQjBqcWJ2NURuaEY3VG1pbnB0dUVCVjdySDh2ZzFQeTNIZ3ZiLVd5SDlKd20wZU5WaWFRQkRobEtCdzlLZWlrQVc2eGhKSGFiYmVET2RfNlU2WXBERGpTdUVXVXNIRjlvVnRqNEFteUlWUThyckpWM2p1SFJEcFB1X29pckhhRUM4U2VRTWM5RnRwMUlzV19ieHpmOXdMMFhJRHJPWGx2dm1lS1ZJNndNcEhqSnV5LVR30gG-AUFVX3lxTE0wRGJ2dDFCMGpxYnY1RG5oRjdUbWlucHR1RUJWN3JIOHZnMVB5M0hndmItV3lIOUp3bTBlTlZpYVFCRGhsS0J3OUtlaWtBVzZ4aEpIYWJiZURPZF82VTZZcEREalN1RVdVc0hGOW9WdGo0QW15SVZROHJySlYzanVIUkRwUHVfb2lySGFFQzhTZVFNYzlGdHAxSXNXX2J4emY5d0wwWElEck9YbHZ2bWVLVkk2d01wSGpKdXktVHc?oc=5
 - 2026-11-19 07:54 UTC：Pakistan’s Gwadar Port Dream Collapses: From Dubai Promise To Ghost Port - DD News。https://news.google.com/rss/articles/CBMinAFBVV95cUxOeG1JUUtzbGhHa2NfQ2ZVa2JsRFVwUWRrRUtZVVFCWkRSRnF6NWxhZ0VCeE5RanpKVXRNUTdMWjlEYmpZdU1WRFpJbGpjLUFDS1NMSlAxeXQ3WlpydkRxTjJ4QVhPdUY1LU1WQ1ZEMDlOanZpaEZSSDVkclQ1Rnp1X1VXWWJXZWY3X1lqZDQ0c3BEaGxrSmFaQ2dBTUo?oc=5
+- 2026-11-18 06:36 UTC：Three Men Abducted in Jhal Magsi as Panjgur, Balochistan Crossfire Kills Two Women - Balochistan Pulse。https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEFIZndhZFpaa1Vib2ZnSUl1cDJYck8ybnFYLWtPZHFQeTRzbzFfaV9fZHJMNUtTWHV5U0N1REpnR1NOeFBuUGYwbDF0a1JWMGJUblhPR3k2UGFtUElrX09HeUZTWGliTFkzOFlVUTdNVzVCb3BkQXpwbHpmUVF2dkJVdlZVUGMyT2xjXzBiY0YzZ3NGdWNWck5JcFdsMmZ1YUZVMVRkbkMxeGlxeERTetIBsAFBVV95cUxNMEFIZndhZFpaa1Vib2ZnSUl1cDJYck8ybnFYLWtPZHFQeTRzbzFfaV9fZHJMNUtTWHV5U0N1REpnR1NOeFBuUGYwbDF0a1JWMGJUblhPR3k2UGFtUElrX09HeUZTWGliTFkzOFlVUTdNVzVCb3BkQXpwbHpmUVF2dkJVdlZVUGMyT2xjXzBiY0YzZ3NGdWNWck5JcFdsMmZ1YUZVMVRkbkMxeGlxeERTeg?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-19 16:30 UTC：Parking Shed Completed at Government Boys Degree College Gwadar Under BSDI - www.dailyindependent.com.pk
-- 2026-11-19 16:23 UTC：Modern Futsal Ground Completed at Gwadar College at a Cost of Rs23.636 Million - www.dailyindependent.com.pk
+- 2026-11-19 21:31 UTC：Saudi Firm Signs Pact on Turkmen Gas Pipeline - Wisevoter
+- 2026-11-19 18:11 UTC：Hunza student wins second place in International Skills Competition in China - Gwadar Pro
+- 2026-11-19 16:30 UTC：Parking Shed Completed at Government Boys Degree College Gwadar Under BSDI - Daily Independent
+- 2026-11-19 16:23 UTC：Modern Futsal Ground Completed at Gwadar College at a Cost of Rs23.636 Million - Daily Independent
 - 2026-11-19 13:25 UTC：Gwadar Government College Parking Shed Completed for Rs 6.733 Million - UrduPoint
-- 2026-11-19 09:49 UTC：10 die as passenger bus collides with LPG tanker in Gwadar - 24 News HD
+- 2026-11-19 09:49 UTC：10 die as passenger bus collides with LPG tanker in Gwadar - 24NewsHD
 - 2026-11-18 18:18 UTC：Gwadar Administration Reviews Welfare and Rights of Minority Communities - Daily Independent
-- 2026-11-18 18:15 UTC：Gwadar Industrial Estate Accelerates Preparations for New Steel Mills - Daily Independent
-- 2026-11-18 14:25 UTC：Pakistan Saudi Gas Pipeline: $30bn Chaman-Gwadar Network Under Study - Construction Review
-- 2026-11-18 10:10 UTC：China offers 61 scholarships to Pakistani students for 2027-28 academic year - Gwadar Pro
+- 2026-11-18 18:16 UTC：Modern Dialysis Unit Opens at Lasbela Divisional Headquarters Hospital - Daily Independent
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

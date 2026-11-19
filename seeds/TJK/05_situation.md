@@ -8,7 +8,3 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-18 00:46 UTC：M5.3，7 km SE of Karakenja, Tajikistan。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw6 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-11-18 00:46 UTC：Green 级 EQ，Earthquake in Tajikistan。https://www.gdacs.org/report.aspx?eventid=1577896&episodeid=1747246&eventtype=EQ 
