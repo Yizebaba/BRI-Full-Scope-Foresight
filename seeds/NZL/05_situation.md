@@ -8,7 +8,3 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-17 10:30 UTC：M4.9，43 km NW of Oxford, New Zealand。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyrv 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-11-17 10:30 UTC：Green 级 EQ，Earthquake in New Zealand。https://www.gdacs.org/report.aspx?eventid=1577770&episodeid=1747070&eventtype=EQ 

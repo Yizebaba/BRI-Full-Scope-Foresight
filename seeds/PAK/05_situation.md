@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-18 17:57 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-19 00:15 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -75,14 +75,14 @@
 - 2026-11-17 08:10 UTC：Pakistan’s Gwadar Port Dream Collapses: From Dubai Promise To Ghost Port - DD News。https://news.google.com/rss/articles/CBMinAFBVV95cUxOeG1JUUtzbGhHa2NfQ2ZVa2JsRFVwUWRrRUtZVVFCWkRSRnF6NWxhZ0VCeE5RanpKVXRNUTdMWjlEYmpZdU1WRFpJbGpjLUFDS1NMSlAxeXQ3WlpydkRxTjJ4QVhPdUY1LU1WQ1ZEMDlOanZpaEZSSDVkclQ1Rnp1X1VXWWJXZWY3X1lqZDQ0c3BEaGxrSmFaQ2dBTUo?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-18 12:37 UTC：Pakistan Saudi Gas Pipeline: $30bn Chaman-Gwadar Network Under Study - Construction Review
+- 2026-11-18 18:18 UTC：Gwadar Administration Reviews Welfare and Rights of Minority Communities - Daily Independent
+- 2026-11-18 18:15 UTC：Gwadar Industrial Estate Accelerates Preparations for New Steel Mills - Daily Independent
+- 2026-11-18 14:25 UTC：Pakistan Saudi Gas Pipeline: $30bn Chaman-Gwadar Network Under Study - Construction Review
+- 2026-11-18 10:10 UTC：China offers 61 scholarships to Pakistani students for 2027-28 academic year - Gwadar Pro
+- 2026-11-18 08:26 UTC：Pakistan Invites Turkmen Businesses to Use Karachi, Gwadar Ports - business.com.tm
 - 2026-11-18 06:44 UTC：Pakistan, Saudi Arabia Sign MoU to Explore $30 Billion Gas Pipeline Project to Gwadar - Energy Update
 - 2026-11-18 05:04 UTC：49 uplift projects completed in Gwadar district under BSDI - Daily Times
 - 2026-11-17 22:41 UTC：Pakistan, Saudi firm sign MoU for $30 billion Turkmenistan-Gwadar gas pipeline - Pkrevenue.com
-- 2026-11-17 11:49 UTC：49 Development Projects Worth Rs836 Million Completed in Gwadar Under BSDI - Daily Independent
-- 2026-11-17 11:32 UTC：DG Health Reviews Medical Facilities at Gwadar Teaching Hospital - Daily Independent
-- 2026-11-17 11:17 UTC：Delta Energy Saudi signs deal to explore $30 billion investment in Pakistan - The Arab Weekly
-- 2026-11-17 05:23 UTC：Pakistan Puts Karachi, Gwadar Ports at Centre of ECO Trade Push - The Daily CPEC
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

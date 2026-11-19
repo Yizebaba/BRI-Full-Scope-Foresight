@@ -9,6 +9,10 @@
 
 - 2026-10-16 16:03 UTC：UK FCDO Ethiopia。https://www.gov.uk/foreign-travel-advice/ethiopia 
 
+## 地震（USGS，M4.5+，近 7 天）
+
+- 2026-11-17 22:52 UTC：M4.6，10 km ESE of Metahāra, Ethiopia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyyp 
+
 ## 灾害警报（GDACS，近 14 天）
 
-- 2026-11-10 00:00 UTC：Green 级 WF，Forest fires in Sudan, Ethiopia。https://www.gdacs.org/report.aspx?eventid=1033887&episodeid=4&eventtype=WF 
+- 2026-11-10 00:00 UTC：Green 级 WF，Forest fires in Ethiopia, Sudan。https://www.gdacs.org/report.aspx?eventid=1033887&episodeid=5&eventtype=WF 

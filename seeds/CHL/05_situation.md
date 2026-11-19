@@ -7,4 +7,8 @@
 
 ## 地震（USGS，M4.5+，近 7 天）
 
-- 2026-11-11 20:45 UTC：M4.5，41 km SSE of Camiña, Chile。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txni 
+- 2026-11-18 18:46 UTC：M4.5，23 km SSW of Ollagüe, Chile。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz33 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-11-18 18:46 UTC：Green 级 EQ，Earthquake in Chile。https://www.gdacs.org/report.aspx?eventid=1578040&episodeid=1747372&eventtype=EQ 
