@@ -9,14 +9,15 @@
 
 - 2026-09-04 00:00 UTC：US State Dept Nepal - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-19 07:50 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-19 17:17 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
 ## 国家层面
 
+- 美国国务院旅行建议：Nepal - Level 2: Exercise Increased Caution（发布 Fri, 04 Sep 2026）。来源：https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 - 英国外交部旅行建议最近更新于 2026-10-01 13:09 UTC，更新说明：Removal of information about the Family Assistance Centre at the British Embassy Kathmandu (‘Warnings and insurance’ page).。来源：https://www.gov.uk/foreign-travel-advice/nepal 
-- IODA 近 7 天记录到全国性网络中断告警 3 条。来源：IODA 互联网中断检测（佐治亚理工），https://ioda.inetintel.cc.gatech.edu/
+- IODA 近 7 天记录到全国性网络中断告警 2 条。来源：IODA 互联网中断检测（佐治亚理工），https://ioda.inetintel.cc.gatech.edu/
 
 ## 沙布鲁贝西—热索瓦加迪公路
 
@@ -26,6 +27,8 @@
 - 2026-11-15 13:48 UTC：Flood-hit Rasuwagadhi Hydropower’s cumulative loss reaches Rs 2.87 billion - myRepublica。https://news.google.com/rss/articles/CBMixgFBVV95cUxOM1dCWkxHNEY3QklJV202LW5XR3QxYVRaZnpmd01tRWJlX2MwWTljT3VtQ2xjSkRzR1Zyc3BoOU5XbUZDb2VXUHJZRDF0N1dObHlhM0wzcFdfbm81UzFpQTV1Q0pKa3lTWXJuWVZjWTZYby03S0o4Uk9SOWlNblFSOGNDM3lGYnZrdVJveUYzUVg2MDJ4ZkNaUElBZlA3VTJkN0hVLS12bXdWS1VEX1RMVHdJc3VpY2lMSGhXZDl5UVVrZXJqbVE?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-19 15:59 UTC：Foreign Minister Khanal stresses immediate reopening of Tatopani border point - The Rising Nepal
+- 2026-11-19 11:55 UTC：Foreign minister requests China to reopen Tatopani border point immediately - OnlineKhabar English News
 - 2026-11-19 00:15 UTC：A Diplomatic Push for Tatopani - myRepublica
 - 2026-11-18 08:02 UTC：FM Khanal urges China to reopen Tatopani border point - myRepublica
 - 2026-11-16 13:35 UTC：Closure of Tatopani and Rasuwagadhi border points pushes up Nepal-China trade costs - OnlineKhabar English News
@@ -42,8 +45,8 @@
 - 2026-11-15 13:48 UTC：Flood-hit Rasuwagadhi Hydropower’s cumulative loss reaches Rs 2.87 billion - myRepublica。https://news.google.com/rss/articles/CBMixgFBVV95cUxOM1dCWkxHNEY3QklJV202LW5XR3QxYVRaZnpmd01tRWJlX2MwWTljT3VtQ2xjSkRzR1Zyc3BoOU5XbUZDb2VXUHJZRDF0N1dObHlhM0wzcFdfbm81UzFpQTV1Q0pKa3lTWXJuWVZjWTZYby03S0o4Uk9SOWlNblFSOGNDM3lGYnZrdVJveUYzUVg2MDJ4ZkNaUElBZlA3VTJkN0hVLS12bXdWS1VEX1RMVHdJc3VpY2lMSGhXZDl5UVVrZXJqbVE?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-19 00:15 UTC：A Diplomatic Push for Tatopani - myRepublica
-- 2026-11-18 08:02 UTC：FM Khanal urges China to reopen Tatopani border point - myRepublica
+- 2026-11-19 15:59 UTC：Foreign Minister Khanal stresses immediate reopening of Tatopani border point - The Rising Nepal
+- 2026-11-19 11:55 UTC：Foreign minister requests China to reopen Tatopani border point immediately - OnlineKhabar English News
 - 2026-11-16 13:35 UTC：Closure of Tatopani and Rasuwagadhi border points pushes up Nepal-China trade costs - OnlineKhabar English News
 - 2026-11-14 13:47 UTC：Rasuwagadhi Border Crossing Reopening Efforts Intensify with Bailey Bridge Construction - Ratopati
 
@@ -52,7 +55,7 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-11-18 00:39 UTC：Nepal: Two pulled alive from tunnel nine days after floods - DW.com。https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkpnY1dtSFdKcnN3RERtaEZlemJSekRuaEY1ZW9DWFkyNndac0xHR2V1ck5seHV3RUZoWmlUQWU3ckpvenB5dUhQYmV5a3JLOWRvdnVUc1BtdmNVR2NRNFpleGFmSVJWOGJYRFl3RFFpZWVBbXJENENRam9BZU5sQnJXdF9NT243VGhBSVI1ck9NMkVs0gGUAUFVX3lxTE9nNTMwTWRlQk5JaUc4YmJGUnljNVJoT0dVVDhIaDl2ZXA3MFRqVnRVTXItVndDR3cxUTBEUDhUSDVrdHhGTy1BWktNSWFYNmNHaGlXazhCOXR5TkdmN2ZHYVE2Nnpqa1dVV0lxeUYzaHBKOVM5TW9Wb2dTaVhncGpkNHhPNnRibmVpR21nSXJiNzlxVW4?oc=5
+- 2026-11-18 19:26 UTC：Nepal: Two pulled alive from tunnel nine days after floods - DW.com。https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkpnY1dtSFdKcnN3RERtaEZlemJSekRuaEY1ZW9DWFkyNndac0xHR2V1ck5seHV3RUZoWmlUQWU3ckpvenB5dUhQYmV5a3JLOWRvdnVUc1BtdmNVR2NRNFpleGFmSVJWOGJYRFl3RFFpZWVBbXJENENRam9BZU5sQnJXdF9NT243VGhBSVI1ck9NMkVs0gGUAUFVX3lxTE9nNTMwTWRlQk5JaUc4YmJGUnljNVJoT0dVVDhIaDl2ZXA3MFRqVnRVTXItVndDR3cxUTBEUDhUSDVrdHhGTy1BWktNSWFYNmNHaGlXazhCOXR5TkdmN2ZHYVE2Nnpqa1dVV0lxeUYzaHBKOVM5TW9Wb2dTaVhncGpkNHhPNnRibmVpR21nSXJiNzlxVW4?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-18 12:18 UTC：Better data can help restore Himalayan ecosystems & prepare for climate risks (commentary) - news - Mongabay
@@ -69,7 +72,6 @@
 - 2026-11-17 10:33 UTC：Nepal Gets Approval to Import 350 MW of Electricity from India, Also Secures Clearance to Export 56 MW - Hindusthan Samachar English
 - 2026-11-17 09:50 UTC：NEA gets approval to import 350 MW of electricity from India this winter - OnlineKhabar English News
 - 2026-11-17 02:29 UTC：At COP31, Nepal pushes for billions to help disaster survivors. So far, $20 million is promised - MyStateline
-- 2026-11-12 08:51 UTC：Darkness on the horizon: Why Nepal’s winter power supply hangs in balance - Nepalnews.com
 
 ## 吉隆—加德满都跨境铁路（规划）
 

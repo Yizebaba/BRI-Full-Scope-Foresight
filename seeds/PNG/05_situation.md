@@ -7,6 +7,7 @@
 
 ## 地震（USGS，M4.5+，近 7 天）
 
+- 2026-11-19 10:53 UTC：M5，31 km WSW of Rabaul, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubz1 
 - 2026-11-18 03:42 UTC：M5.8，99 km ESE of Madang, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyx2 
 - 2026-11-17 12:26 UTC：M4.5，95 km W of Alotau, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tysa 
 - 2026-11-16 19:33 UTC：M4.6，144 km NW of Kavieng, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymc 
@@ -14,5 +15,6 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
+- 2026-11-19 10:53 UTC：Green 级 EQ，Earthquake in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1578162&episodeid=1747511&eventtype=EQ 
 - 2026-11-18 20:38 UTC：Green 级 EQ，Earthquake in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1578070&episodeid=1747403&eventtype=EQ 
 - 2026-11-18 03:42 UTC：Green 级 EQ，Earthquake in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1577911&episodeid=1747223&eventtype=EQ 
