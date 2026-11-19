@@ -5,13 +5,12 @@
 - 美国国务院旅行建议：Laos - Level 2: Exercise Increased Caution（Tue, 28 Jul 2026）。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lao.html 
 - World Monitor 汇总的旅行建议级别：caution
 
-# 老挝项目周边近期态势（截至 2026-11-19 00:15 UTC）
+# 老挝项目周边近期态势（截至 2026-11-19 07:50 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
 ## 国家层面
 
-- 美国国务院旅行建议：Laos - Level 2: Exercise Increased Caution（发布 Tue, 28 Jul 2026）。来源：https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lao.html 
 - 英国外交部旅行建议最近更新于 2026-11-18 15:21 UTC，更新说明：New information on the risk of attempting to smuggle drugs out of Laos, and updated information about land borders and crossing with Thailand and Cambodia  ('Warnings and insurance' page).。来源：https://www.gov.uk/foreign-travel-advice/laos 
 - IODA 近 7 天记录到全国性网络中断告警 7 条。来源：IODA 互联网中断检测（佐治亚理工），https://ioda.inetintel.cc.gatech.edu/
 
@@ -26,8 +25,8 @@
 - 2026-11-16 19:38 UTC：China-ASEAN trade tops $1 trillion - Daily Tribune
 - 2026-11-16 05:15 UTC：China's premier calls cooperation with ASEAN 'mature and resilient' despite geopolitical turbulence - ABS-CBN
 - 2026-11-16 04:03 UTC：China Mentions $7.3 Billion Indonesian Train in ASEAN Talks - Jakarta Globe
+- 2026-11-15 06:40 UTC：400 Crore Chinese Travel In Train During 1st 10 Months Of 2026 - Trak.in
 - 2026-11-14 22:47 UTC：Investment and market access key in China links - Bangkok Post
-- 2026-11-13 14:51 UTC：Yunnan town boosts China's connectivity with APEC economies - chinadailyhk
 
 ## 南欧江梯级水电站（一期）
 
