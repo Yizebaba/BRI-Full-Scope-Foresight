@@ -8,7 +8,6 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-16 16:23 UTC：M4.8，28 km SW of Changuillo, Peru。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tykk 
-- 2026-11-13 10:55 UTC：M4.5，86 km NNE of Lagunas, Peru。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txza 
 
 ## 灾害警报（GDACS，近 14 天）
 
