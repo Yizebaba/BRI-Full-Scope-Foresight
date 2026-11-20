@@ -8,7 +8,3 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-19 05:49 UTC：M4.8，23 km SSE of Guayaquil, Ecuador。https://earthquake.usgs.gov/earthquakes/eventpage/us6000uby4 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-11-19 05:49 UTC：Green 级 EQ，Earthquake in Ecuador。https://www.gdacs.org/report.aspx?eventid=1578130&episodeid=1747473&eventtype=EQ 

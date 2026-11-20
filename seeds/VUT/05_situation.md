@@ -8,3 +8,7 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-17 18:15 UTC：M4.5，26 km NW of Port-Vila, Vanuatu。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tytz 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-11-20 17:53 UTC：Green 级 EQ，Earthquake in Vanuatu。https://www.gdacs.org/report.aspx?eventid=1578429&episodeid=1747805&eventtype=EQ 

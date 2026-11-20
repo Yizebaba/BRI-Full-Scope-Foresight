@@ -13,8 +13,3 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-19 18:41 UTC：M4.9，13 km WNW of Xichang, China。https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc26 
-- 2026-11-13 16:17 UTC：M5.2，79 km NE of Kuqa, China。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty14 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-11-19 18:41 UTC：Green 级 EQ，Earthquake in China。https://www.gdacs.org/report.aspx?eventid=1578238&episodeid=1747613&eventtype=EQ 
