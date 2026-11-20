@@ -14,7 +14,3 @@
 - 2026-08-28 04:00 UTC：CDC Travel Notices Level 2 - Ebola Bundibugyo Virus Disease in the Democratic Republic of the Congo and Uganda。https://wwwnc.cdc.gov/travel/notices/level2/ebola-drc-uganda 
 - 2026-08-04 04:00 UTC：CDC Travel Notices Level 4 - Ebola Bundibugyo Virus Disease in Ituri and Nord-Kivu Provinces of the Democratic Republic of the Congo。https://wwwnc.cdc.gov/travel/notices/level4/ebola-drc-provinces 
 - 2026-08-04 04:00 UTC：CDC Travel Notices Level 3 - Ebola Bundibugyo Virus Disease in Haut-Uélé and Tshopo Provinces of the Democratic Republic of the Congo。https://wwwnc.cdc.gov/travel/notices/level3/ebola-democratic-republic-of-the-congo 
-
-## 地震（USGS，M4.5+，近 7 天）
-
-- 2026-11-13 01:12 UTC：M5，85 km W of Mwene-Ditu, Democratic Republic of the Congo。https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxl 

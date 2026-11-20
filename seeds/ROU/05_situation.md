@@ -7,4 +7,4 @@
 
 ## 地震（USGS，M4.5+，近 7 天）
 
-- 2026-11-18 00:48 UTC：M5.3，16 km ESE of Comandău, Romania。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8 
+- 2026-11-18 00:48 UTC：M5.3，17 km ESE of Comandău, Romania。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8 

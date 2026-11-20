@@ -9,7 +9,7 @@
 
 - 2026-09-04 00:00 UTC：US State Dept Nepal - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-19 23:45 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-20 06:59 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -46,7 +46,6 @@
 - 2026-11-15 13:48 UTC：Flood-hit Rasuwagadhi Hydropower’s cumulative loss reaches Rs 2.87 billion - myRepublica。https://news.google.com/rss/articles/CBMixgFBVV95cUxOM1dCWkxHNEY3QklJV202LW5XR3QxYVRaZnpmd01tRWJlX2MwWTljT3VtQ2xjSkRzR1Zyc3BoOU5XbUZDb2VXUHJZRDF0N1dObHlhM0wzcFdfbm81UzFpQTV1Q0pKa3lTWXJuWVZjWTZYby03S0o4Uk9SOWlNblFSOGNDM3lGYnZrdVJveUYzUVg2MDJ4ZkNaUElBZlA3VTJkN0hVLS12bXdWS1VEX1RMVHdJc3VpY2lMSGhXZDl5UVVrZXJqbVE?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-19 15:59 UTC：Foreign Minister Khanal stresses immediate reopening of Tatopani border point - The Rising Nepal
 - 2026-11-19 11:55 UTC：Foreign minister requests China to reopen Tatopani border point immediately - OnlineKhabar English News
 - 2026-11-16 13:35 UTC：Closure of Tatopani and Rasuwagadhi border points pushes up Nepal-China trade costs - OnlineKhabar English News
 - 2026-11-14 13:47 UTC：Rasuwagadhi Border Crossing Reopening Efforts Intensify with Bailey Bridge Construction - Ratopati
