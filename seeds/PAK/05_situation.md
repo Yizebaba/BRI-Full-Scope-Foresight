@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-21 12:29 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-21 19:43 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -61,6 +61,9 @@
 
 周边自然事件：扫描期间没有记录。
 
+近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-11-21 13:51 UTC：Why Pakistan Is Missing Out On Its 60,000 MW Hydropower Wealth - The Friday Times。https://news.google.com/rss/articles/CBMikAFBVV95cUxQTlJ5V1FqTlZ6S0huWmp1Q0RFYkZYM0twSURQQjN2UXJ4di03Z282UlAwVGd1amt5RlBIMFdjUHl2VG9QRzNiaWxPMXI4VlpqaVphaUtGUnRpb0RVcXBjZ0xpMy1KOVpLbnlnNlJjMndVZGVHS2VUNUhZcHFOVVhnNGpBUU9McGxLaWloeTNvZ3E?oc=5
+
 ## 瓜达尔港
 
 周边自然事件：扫描期间没有记录。
@@ -73,7 +76,6 @@
 - 2026-11-19 10:58 UTC：Ten Dead in Gwadar Highway Crash as Passenger Coach, LPG Bowser Catch Fire - https://quettavoice.com/。https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdDM4TllnNVJfOW1aY2psOFJrRXk0YzJibmo0UGQxZzZXemIyZlNlSXJERzJ3LWtxTWItNTctYl9Ba0wxREdNVWhjQ2t4YTZoX1dTRktESUstOE5Jc2Fnc0VMcmNsUzJxeF9zZldXajBubEMwcXJqR3VaOTdnTEVYSzctY3k4UlhvTjgyaWNpQkVCWWFBRGsxQzItUmtELUZHX0dqMGNnQTZEZw?oc=5
 - 2026-11-19 10:10 UTC：10 killed, 27 injured after bus and gas bowser collide near Gwadar - UrduPoint。https://news.google.com/rss/articles/CBMimwFBVV95cUxPdEJQWDlZOEx1bHQ1aTN2cE1XZnhnWjBUTVQwUTZEWGZidUFYQ3Nmd2ZzWUZEamJiVEpMckFOSkxDSGZ0bDBQT0JFd2UxeDZic2tMdUVFTUZ5UmpGS3ZPYXk0dE1wSkZ1bWhhN3ZvSWRfMGo4WWZkNDI5ejVURlVDU29IOTRGUmxpRXFmTnFNNGhvYlNHVHhhRzB6UQ?oc=5
 - 2026-11-19 08:02 UTC：Passenger Bus and Gas Bowser Catch Fire After Collision on Makran Coastal Highway in Gwadar - Balochistan Pulse。https://news.google.com/rss/articles/CBMivgFBVV95cUxNMERidnQxQjBqcWJ2NURuaEY3VG1pbnB0dUVCVjdySDh2ZzFQeTNIZ3ZiLVd5SDlKd20wZU5WaWFRQkRobEtCdzlLZWlrQVc2eGhKSGFiYmVET2RfNlU2WXBERGpTdUVXVXNIRjlvVnRqNEFteUlWUThyckpWM2p1SFJEcFB1X29pckhhRUM4U2VRTWM5RnRwMUlzV19ieHpmOXdMMFhJRHJPWGx2dm1lS1ZJNndNcEhqSnV5LVR30gG-AUFVX3lxTE0wRGJ2dDFCMGpxYnY1RG5oRjdUbWlucHR1RUJWN3JIOHZnMVB5M0hndmItV3lIOUp3bTBlTlZpYVFCRGhsS0J3OUtlaWtBVzZ4aEpIYWJiZURPZF82VTZZcEREalN1RVdVc0hGOW9WdGo0QW15SVZROHJySlYzanVIUkRwUHVfb2lySGFFQzhTZVFNYzlGdHAxSXNXX2J4emY5d0wwWElEck9YbHZ2bWVLVkk2d01wSGpKdXktVHc?oc=5
-- 2026-11-19 07:54 UTC：Pakistan’s Gwadar Port Dream Collapses: From Dubai Promise To Ghost Port - DD News。https://news.google.com/rss/articles/CBMinAFBVV95cUxOeG1JUUtzbGhHa2NfQ2ZVa2JsRFVwUWRrRUtZVVFCWkRSRnF6NWxhZ0VCeE5RanpKVXRNUTdMWjlEYmpZdU1WRFpJbGpjLUFDS1NMSlAxeXQ3WlpydkRxTjJ4QVhPdUY1LU1WQ1ZEMDlOanZpaEZSSDVkclQ1Rnp1X1VXWWJXZWY3X1lqZDQ0c3BEaGxrSmFaQ2dBTUo?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-20 17:07 UTC：DG Health Reviews Medical Training Facilities at Gwadar Midwifery School - Daily Independent
