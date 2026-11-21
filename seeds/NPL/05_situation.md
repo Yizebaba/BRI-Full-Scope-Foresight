@@ -9,7 +9,7 @@
 
 - 2026-09-04 00:00 UTC：US State Dept Nepal - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-20 22:37 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-21 03:53 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -33,7 +33,6 @@
 - 2026-11-19 00:32 UTC：FM Khanal urges China for opening of Tatopani border - The Rising Nepal
 - 2026-11-19 00:15 UTC：A Diplomatic Push for Tatopani - Hamro Patro
 - 2026-11-18 10:49 UTC：Nepal urges China to reopen Tatopani border crossing - The Kathmandu Post
-- 2026-11-18 08:02 UTC：FM Khanal urges China to reopen Tatopani border point - myRepublica
 - 2026-11-16 13:35 UTC：Closure of Tatopani and Rasuwagadhi border points pushes up Nepal-China trade costs - OnlineKhabar English News
 - 2026-11-14 13:47 UTC：Rasuwagadhi Border Crossing Reopening Efforts Intensify with Bailey Bridge Construction - Ratopati
 
@@ -42,7 +41,6 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-11-18 11:58 UTC：Timure flood victims return home, begin living in temporary tents :: RSS - Setopati。https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RNUxCOUNuMnpyUWNqVHI0VVlRWUgzZlM5ZWFqa0Rta21VTVJJVndMZUptUXFkZlJ5UThZRWZBeUNzbk9vUENmbGhHNUt6dw?oc=5
 - 2026-11-18 11:40 UTC：Timure flood victims return to native place to live in tents - Nepalnews.com。https://news.google.com/rss/articles/CBMiowFBVV95cUxONThTMGFuYkhxTWtnX1Y2THFuTF9lODREYVJTc25VLTd3Q3gtdUtOUEFzN0ZYM0IwSUQ5T1RmTVlZNC1QWHZHaXp1WmxyblN1eC1XOXRJRDNkX0V5MVg2OW5OVC1ZbGJ0RkphZ1d3RVdDTVhWbnJMVHFWaklwbkFTVm5uR1FoQmdNMWd4MC12UkVodGZNQzQtSm8zZWtJNzQxbklr?oc=5
 - 2026-11-18 09:24 UTC：Flood-displaced families return to Timure and set up temporary tents - OnlineKhabar English News。https://news.google.com/rss/articles/CBMiqgFBVV95cUxOelMxc09VUmh5cXBHUzZFbWZlcVQ3SU9WbXdIMkJ4bWxXSHA2WUNEZ083SDczNGFyQWlsa3dfdlU5Qmc2cThKU2ZrNDRKMFgxZmJNcmFkTVF4eEVGempZVjh0X3R5UkI0RUpJSUxWY3NRaDVzOVlQckVMam1uLTV3dEVuLTcteFRzaGhEUmRTWnh6QjQ0YUdJMHUxejJpWGVVYmE2NXZNaXBRZw?oc=5
 - 2026-11-18 09:24 UTC：Flood-displaced families return to Timure and set up temporary tents - Hamro Patro。https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeU9PWUd4WGExOWExSHI0a3JsZGxla2I4V3VCa2taaU9icEpCTkg3MHlrb0kzR0pjZmY3bUN0RWMyY2VPRlFSUmkyWkIwNUNoU0x2LWdERFdsR25aSGt3c1NZWFhYWmRQZnBjTkRMc1J6ZHNMVWthdlh2MGJhWHlraS1VZS1WTjRGUW1IM2VqYUxScU90RkhrZW9ZZVkyT25uY3pjYmNjUmRLby1QTWZVbXFSSW5uOWlBcFdZYnRRRzJZUQ?oc=5
@@ -55,7 +53,7 @@
 - 2026-11-19 11:55 UTC：Foreign minister requests China to reopen Tatopani border point immediately - OnlineKhabar English News
 - 2026-11-18 13:06 UTC：When mountains fall faster than
 warnings travel - The New Indian Express
-- 2026-11-18 08:02 UTC：FM Khanal urges China to reopen Tatopani border point - myRepublica
+- 2026-11-18 10:49 UTC：Nepal urges China to reopen Tatopani border crossing - The Kathmandu Post
 - 2026-11-16 13:35 UTC：Closure of Tatopani and Rasuwagadhi border points pushes up Nepal-China trade costs - OnlineKhabar English News
 - 2026-11-14 13:47 UTC：Rasuwagadhi Border Crossing Reopening Efforts Intensify with Bailey Bridge Construction - Ratopati
 
@@ -78,11 +76,9 @@ warnings travel - The New Indian Express
 - 2026-11-18 05:41 UTC：Nepal to seek Indian approval to export electricity from Upper Tamakoshi during PM Shah's visit - OnlineKhabar English News
 - 2026-11-18 04:59 UTC：Nepal gets nod to import 350 MW of power from India during winter - The Hindu
 - 2026-11-18 01:01 UTC：NEA gets approval to import 350 MW, export 56 MW of electricity - The Rising Nepal
-- 2026-11-17 16:53 UTC：Nepal Secures Approval To Import 350 MW Of Power From India This Winter - Ommcom News
 - 2026-11-17 15:23 UTC：NEA receives approval to import 350 MW of electricity from India and export 56 MW - myRepublica
-- 2026-11-17 10:33 UTC：Nepal Gets Approval to Import 350 MW of Electricity from India, Also Secures Clearance to Export 56 MW - Hindusthan Samachar English
 - 2026-11-17 09:50 UTC：NEA gets approval to import 350 MW of electricity from India this winter - OnlineKhabar English News
-- 2026-11-17 02:29 UTC：At COP31, Nepal pushes for billions to help disaster survivors. So far, $20 million is promised - MyStateline
+- 2026-11-16 18:29 UTC：At COP31, Nepal pushes for billions to help disaster survivors. So far, $20 million is promised - FOX40
 
 ## 吉隆—加德满都跨境铁路（规划）
 

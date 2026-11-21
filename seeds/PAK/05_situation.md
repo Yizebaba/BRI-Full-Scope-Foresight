@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-20 22:37 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-21 03:53 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -85,10 +85,10 @@
 - 2026-11-20 17:04 UTC：Gwadar to Establish Engineering and Technology Institute Through Pakistan-China Cooperation - Daily Independent
 - 2026-11-20 17:01 UTC：Gwadar Students Visit Port and China Business Centre to Learn About Economic Opportunities - Daily Independent
 - 2026-11-20 15:20 UTC：Pakistan premier orders 'strong' steps against illegal fishing in Gwadar - Yeni Safak English
-- 2026-11-20 13:05 UTC：Balochistan Health DG urges faster start of Gwadar nursing college classes - UrduPoint
 - 2026-11-20 06:13 UTC：Twelve years, one miracle: A Gwadar family's story - CGTN
 - 2026-11-19 09:49 UTC：10 die as passenger bus collides with LPG tanker in Gwadar - 24NewsHD
 - 2026-11-19 04:24 UTC：Modern Futsal Ground Completed at Gwadar College at a Cost of Rs23.636 Million - Daily Independent
+- 2026-11-18 18:18 UTC：Gwadar Administration Reviews Welfare and Rights of Minority Communities - Daily Independent
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

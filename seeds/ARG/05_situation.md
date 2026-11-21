@@ -11,7 +11,6 @@
 - 2026-11-15 03:59 UTC：M4.8，19 km NW of Albardón, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybx 
 - 2026-11-14 18:04 UTC：M4.7，24 km S of Yacuiba, Bolivia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9z 
 - 2026-11-14 16:36 UTC：M4.6，62 km WNW of San Antonio de los Cobres, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9n 
-- 2026-11-14 03:18 UTC：M4.7，54 km NW of San Antonio de los Cobres, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6p 
 
 ## 灾害警报（GDACS，近 14 天）
 
