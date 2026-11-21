@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-21 03:53 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-21 12:29 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -50,17 +50,12 @@
 
 周边自然事件：扫描期间没有记录。
 
-近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-11-14 07:33 UTC：Khunjerab Snowfall Halts Traffic on Karakoram Highway - https://www.thetraveler.org/。https://news.google.com/rss/articles/CBMiigFBVV95cUxOSERfdS1WU0tHZGVBX2xNNmt1SnJLRUlmdjFtUHZ1dDh1d3V0b1dRX1dPQWFFU09LUFlaMEZGVDdJVFRkNFlxQmdkaWRJZUhJd3dlMF95SEVOdF9tbGlFUlh0aVRfY3JIcFVZYWFKTk5wVTIxcGEyZ3FhT1dkZE80cHBfRjVOc3g4VVE?oc=5
-
 ## 喀喇昆仑公路二期（塔科特—哈维连）
 
 周边自然事件：扫描期间没有记录。
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-19 09:50 UTC：Three Decades of Struggle, One Mission: Iron Lady Stands Firm on Hazara Province - MM News
 - 2026-11-15 19:00 UTC：Thandiani Road project faces uncertainty over funding shortfall - The News Pakistan
-- 2026-11-14 08:47 UTC：Mansehra Substation Positions All Seven 765kV Transformers - The Daily CPEC
 
 ## 卡洛特水电站（720 MW）
 
