@@ -14,7 +14,6 @@
 - 2026-11-18 04:41 UTC：M5.8，40 km N of Ruteng, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxi 
 - 2026-11-18 04:21 UTC：M5.2，54 km NNE of Ruteng, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxc 
 - 2026-11-18 03:23 UTC：M4.8，134 km ENE of Nabire, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywx 
-- 2026-11-14 21:24 UTC：M4.5，25 km N of Ruteng, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyan 
 
 ## 灾害警报（GDACS，近 14 天）
 

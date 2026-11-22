@@ -9,7 +9,7 @@
 
 - 2026-09-04 00:00 UTC：US State Dept Nepal - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-21 19:43 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-22 00:15 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -34,10 +34,9 @@
 - 2026-11-19 11:55 UTC：Foreign minister requests China to reopen Tatopani border point immediately - OnlineKhabar English News
 - 2026-11-19 00:32 UTC：FM Khanal urges China for opening of Tatopani border - The Rising Nepal
 - 2026-11-19 00:15 UTC：A Diplomatic Push for Tatopani - Hamro Patro
-- 2026-11-18 13:06 UTC：When mountains fall faster than
-warnings travel - The New Indian Express
 - 2026-11-18 10:49 UTC：Nepal urges China to reopen Tatopani border crossing - The Kathmandu Post
 - 2026-11-18 08:02 UTC：FM Khanal urges China to reopen Tatopani border point - myRepublica
+- 2026-11-18 07:03 UTC：Foreign Minister Khanal urges immediate reopening of Tatopani border crossing with China - radionepalonline.com
 - 2026-11-16 13:35 UTC：Closure of Tatopani and Rasuwagadhi border points pushes up Nepal-China trade costs - OnlineKhabar English News
 
 ## 热索瓦加迪（Timure）口岸边检站
@@ -56,7 +55,6 @@ warnings travel - The New Indian Express
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-19 15:59 UTC：Foreign Minister Khanal stresses immediate reopening of Tatopani border point - The Rising Nepal
 - 2026-11-19 11:55 UTC：Foreign minister requests China to reopen Tatopani border point immediately - OnlineKhabar English News
-- 2026-11-19 00:32 UTC：FM Khanal urges China for opening of Tatopani border - The Rising Nepal
 - 2026-11-18 13:06 UTC：When mountains fall faster than
 warnings travel - The New Indian Express
 - 2026-11-18 10:49 UTC：Nepal urges China to reopen Tatopani border crossing - The Kathmandu Post
@@ -67,9 +65,6 @@ warnings travel - The New Indian Express
 
 周边自然事件：扫描期间没有记录。
 
-近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-11-19 19:45 UTC：Nepal flood losses estimated at $2.56 billion, official says - Awani International。https://news.google.com/rss/articles/CBMipgFBVV95cUxPZFFVak1GQzdiYUhYanluVk1FQjBtNzBwTU9lSktvRmpNTkpNeF9xa2pPTzE0TmZTdTRMTG5aUVpzMV9BQU5wQWJ5dHVCTl9Wb1p4VXg1SWdBdmFRUFNsV2VrODJla3M3ZUwxWlM0aDNWd1RoSk9LcUNnczdTU294a2JnSEI2YjByQ3hYZkNrbURBZGx4VGVYX3F3TDE3RHk0N2RXNmJB?oc=5
-
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-20 15:47 UTC：Lessons from the Nepal Dam Disaster: Fix, Don’t Abandon Hydropower - Center for Global Development
 
@@ -79,13 +74,13 @@ warnings travel - The New Indian Express
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-18 05:41 UTC：Nepal to seek Indian approval to export electricity from Upper Tamakoshi during PM Shah's visit - OnlineKhabar English News
-- 2026-11-18 04:59 UTC：Nepal gets nod to import 350 MW of power from India during winter - The Hindu
 - 2026-11-18 04:00 UTC：Nepal Gets India's Approval for 350 MW Power Import as Winter Shortage Looms - Newstrack English
 - 2026-11-18 01:01 UTC：NEA gets approval to import 350 MW, export 56 MW of electricity - The Rising Nepal
 - 2026-11-17 16:53 UTC：Nepal Secures Approval To Import 350 MW Of Power From India This Winter - Ommcom News
 - 2026-11-17 15:23 UTC：NEA receives approval to import 350 MW of electricity from India and export 56 MW - myRepublica
 - 2026-11-17 10:33 UTC：Nepal Gets Approval to Import 350 MW of Electricity from India, Also Secures Clearance to Export 56 MW - Hindusthan Samachar English
 - 2026-11-17 09:50 UTC：NEA gets approval to import 350 MW of electricity from India this winter - OnlineKhabar English News
+- 2026-11-16 21:29 UTC：At COP31, Nepal pushes for billions to help disaster survivors. So far, $20 million is promised - WSAV-TV
 
 ## 吉隆—加德满都跨境铁路（规划）
 
