@@ -4,7 +4,3 @@
 
 - 美国国务院旅行建议：Philippines - Level 2: Exercise Increased Caution（Tue, 01 Sep 2026）。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.phl.html 
 - World Monitor 汇总的旅行建议级别：caution
-
-## 地震（USGS，M4.5+，近 7 天）
-
-- 2026-11-15 13:41 UTC：M5.5，9 km E of Union, Philippines。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyek 
