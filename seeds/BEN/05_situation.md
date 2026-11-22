@@ -7,6 +7,7 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
-- 2026-11-16 00:00 UTC：Green 级 WF，Forest fires in Benin, Burkina Faso。https://www.gdacs.org/report.aspx?eventid=1033986&episodeid=3&eventtype=WF 
-- 2026-11-14 00:00 UTC：Green 级 WF，Forest fires in Togo, Benin, Burkina Faso。https://www.gdacs.org/report.aspx?eventid=1033923&episodeid=10&eventtype=WF 
-- 2026-11-13 00:00 UTC：Green 级 WF，Forest fires in Benin, Niger, Burkina Faso。https://www.gdacs.org/report.aspx?eventid=1033927&episodeid=8&eventtype=WF 
+- 2026-11-18 00:00 UTC：Green 级 WF，Forest fires in Benin, Burkina Faso。https://www.gdacs.org/report.aspx?eventid=1034014&episodeid=1&eventtype=WF 
+- 2026-11-15 00:00 UTC：Green 级 WF，Forest fires in Benin, Burkina Faso。https://www.gdacs.org/report.aspx?eventid=1034016&episodeid=1&eventtype=WF 
+- 2026-11-14 00:00 UTC：Green 级 WF，Forest fires in Togo, Benin, Burkina Faso。https://www.gdacs.org/report.aspx?eventid=1033923&episodeid=11&eventtype=WF 
+- 2026-11-12 00:00 UTC：Green 级 WF，Forest fires in Benin, Burkina Faso。https://www.gdacs.org/report.aspx?eventid=1034019&episodeid=1&eventtype=WF 

@@ -8,5 +8,6 @@
 ## 灾害警报（GDACS，近 14 天）
 
 - 2026-11-19 00:00 UTC：Green 级 WF，Forest fires in Chad。https://www.gdacs.org/report.aspx?eventid=1033994&episodeid=4&eventtype=WF 
-- 2026-11-17 00:00 UTC：Green 级 WF，Forest fires in Chad。https://www.gdacs.org/report.aspx?eventid=1033964&episodeid=7&eventtype=WF 
-- 2026-11-16 00:00 UTC：Green 级 WF，Forest fires in Chad。https://www.gdacs.org/report.aspx?eventid=1034000&episodeid=1&eventtype=WF 
+- 2026-11-17 00:00 UTC：Green 级 WF，Forest fires in Chad。https://www.gdacs.org/report.aspx?eventid=1033964&episodeid=9&eventtype=WF 
+- 2026-11-16 00:00 UTC：Green 级 WF，Forest fires in Chad。https://www.gdacs.org/report.aspx?eventid=1034012&episodeid=2&eventtype=WF 
+- 2026-11-10 00:00 UTC：Green 级 WF，Forest fires in Central African Republic, Chad。https://www.gdacs.org/report.aspx?eventid=1034020&episodeid=1&eventtype=WF 
