@@ -9,7 +9,6 @@
 
 - 2026-11-21 19:03 UTC：M4.9，88 km WNW of El Aguilar, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucni 
 - 2026-11-20 02:57 UTC：M4.8，24 km ESE of Calingasta, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc5s 
-- 2026-11-15 03:59 UTC：M4.8，19 km NW of Albardón, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybx 
 
 ## 灾害警报（GDACS，近 14 天）
 
