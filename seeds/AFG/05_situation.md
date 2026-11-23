@@ -10,7 +10,3 @@
 
 - 2026-08-31：Government of Afghanistan 与 Civilians，死亡 1 人。UCDP 引用来源：The Afghan Digest
 - 2026-08-31：Government of Afghanistan 与 AUF，死亡 0 人。UCDP 引用来源：The Afghan Digest
-
-## 地震（USGS，M4.5+，近 7 天）
-
-- 2026-11-15 21:37 UTC：M4.9，44 km S of Jurm, Afghanistan。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyga 

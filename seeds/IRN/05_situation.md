@@ -17,6 +17,7 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-22 15:05 UTC：M4.6，55 km S of Kūh Sefīd, Iran。https://earthquake.usgs.gov/earthquakes/eventpage/us6000uct0 
+- 2026-11-21 21:25 UTC：M4.5，26 km WSW of Qarah Ẕīā’ od Dīn, Iran。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucp5 
 
 ## 灾害警报（GDACS，近 14 天）
 

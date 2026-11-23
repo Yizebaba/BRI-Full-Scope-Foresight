@@ -7,6 +7,7 @@
 
 ## 地震（USGS，M4.5+，近 7 天）
 
+- 2026-11-22 21:35 UTC：M5.4，9 km N of Carhuamayo, Peru。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucuf 
 - 2026-11-22 05:51 UTC：M5，15 km NNE of Carhuamayo, Peru。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucqu 
 - 2026-11-21 05:12 UTC：M5，0 km NE of Carhuamayo, Peru。https://earthquake.usgs.gov/earthquakes/eventpage/us6000uchd 
 - 2026-11-21 00:09 UTC：M6.7，9 km NE of Carhuamayo, Peru。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm 
@@ -14,5 +15,5 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
+- 2026-11-22 21:35 UTC：Green 级 EQ，Earthquake in Peru。https://www.gdacs.org/report.aspx?eventid=1578757&episodeid=1748168&eventtype=EQ 
 - 2026-11-22 05:51 UTC：Green 级 EQ，Earthquake in Peru。https://www.gdacs.org/report.aspx?eventid=1578663&episodeid=1748065&eventtype=EQ 
-- 2026-11-21 05:12 UTC：Green 级 EQ，Earthquake in Peru。https://www.gdacs.org/report.aspx?eventid=1578506&episodeid=1747892&eventtype=EQ 
