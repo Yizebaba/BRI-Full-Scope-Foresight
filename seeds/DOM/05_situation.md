@@ -19,7 +19,3 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-21 15:00 UTC：M4.6，18 km ESE of La Romana, Dominican Republic。https://earthquake.usgs.gov/earthquakes/eventpage/pr2026325000 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-11-21 15:00 UTC：Green 级 EQ，Earthquake in Dominican Republic。https://www.gdacs.org/report.aspx?eventid=1578575&episodeid=1747970&eventtype=EQ 

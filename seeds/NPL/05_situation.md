@@ -9,7 +9,7 @@
 
 - 2026-09-04 00:00 UTC：US State Dept Nepal - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-23 01:56 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-23 10:38 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -45,6 +45,7 @@ warnings travel - The New Indian Express
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
 - 2026-11-21 19:32 UTC：Nepal urges China to reopen Tatopani border crossing as Rasuwagadhi remains shut after floods - Prop News Time。https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRzAxUDlMZUNfQ0N3Y3FSMGZUZTJzbUYzVzN4SURabjJnOFRJeVNwbnUwZkxpTnVNTlpoVUZ1RlJKdjF0V1Vya1pkR3Z3NVRyU1pkQmVzdnNDblJaWUJLSXlSSWZjaDNSVE00dXdlQ3ByR08tYlpWVVNlMUpxbUh0eHp0TmowMUpMMEVBRi1lYWd3RmJSZWN6eHZYRnZ5aDBqYmRSRUw3V01ucmhXVk9SaDBNczBaa19xSjRaNTlobjFXMGFYR3ZmZE1rNFN2YTRGVWpWbHZTOWRmUlRYeUE?oc=5
+- 2026-11-19 12:03 UTC：China working to provide flood relief, rebuild infrastructure and reopen Kerung border point - OnlineKhabar English News。https://news.google.com/rss/articles/CBMidEFVX3lxTE5vaURnQ210U0VIQVhBYXNnSkFVLWU4NldGNFBWT3VabGNjTmdRUFh0RGU2Z3Z2TXppMGhybHB6dXc0cGo2dUdtN0ZMMXdVM05zbEV1QTdYMnlrT28wcmNLSkRpMHQ3WkswLU9mVWNUQlE2b2k1?oc=5
 - 2026-11-18 11:58 UTC：Timure flood victims return home, begin living in temporary tents :: RSS - Setopati。https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RNUxCOUNuMnpyUWNqVHI0VVlRWUgzZlM5ZWFqa0Rta21VTVJJVndMZUptUXFkZlJ5UThZRWZBeUNzbk9vUENmbGhHNUt6dw?oc=5
 - 2026-11-18 11:40 UTC：Timure flood victims return to native place to live in tents - Nepalnews.com。https://news.google.com/rss/articles/CBMiowFBVV95cUxONThTMGFuYkhxTWtnX1Y2THFuTF9lODREYVJTc25VLTd3Q3gtdUtOUEFzN0ZYM0IwSUQ5T1RmTVlZNC1QWHZHaXp1WmxyblN1eC1XOXRJRDNkX0V5MVg2OW5OVC1ZbGJ0RkphZ1d3RVdDTVhWbnJMVHFWaklwbkFTVm5uR1FoQmdNMWd4MC12UkVodGZNQzQtSm8zZWtJNzQxbklr?oc=5
 - 2026-11-18 09:24 UTC：Flood-displaced families return to Timure and set up temporary tents - OnlineKhabar English News。https://news.google.com/rss/articles/CBMiqgFBVV95cUxOelMxc09VUmh5cXBHUzZFbWZlcVQ3SU9WbXdIMkJ4bWxXSHA2WUNEZ083SDczNGFyQWlsa3dfdlU5Qmc2cThKU2ZrNDRKMFgxZmJNcmFkTVF4eEVGempZVjh0X3R5UkI0RUpJSUxWY3NRaDVzOVlQckVMam1uLTV3dEVuLTcteFRzaGhEUmRTWnh6QjQ0YUdJMHUxejJpWGVVYmE2NXZNaXBRZw?oc=5
@@ -55,14 +56,13 @@ warnings travel - The New Indian Express
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-22 10:53 UTC：Korala border sees 7,000 electric vehicle imports in four months - The Himalayan Times
+- 2026-11-22 10:48 UTC：EV imports surge through Korala border in four months, customs revenue exceeds target - OnlineKhabar English News
 - 2026-11-22 06:35 UTC：Seven Thousand Electric Vehicles Imported Through Korala Pass in Four Months - Ratopati
 - 2026-11-19 15:59 UTC：Foreign Minister Khanal stresses immediate reopening of Tatopani border point - The Rising Nepal
 - 2026-11-19 11:55 UTC：Foreign minister requests China to reopen Tatopani border point immediately - OnlineKhabar English News
+- 2026-11-19 10:35 UTC：Xi calls on China, US and Russia to work together to address global challenges - OnlineKhabar English News
 - 2026-11-19 00:32 UTC：FM Khanal urges China for opening of Tatopani border - The Rising Nepal
 - 2026-11-18 16:32 UTC：Nepal asks China to immediately reopen Tatopani border point - PSU Watch
-- 2026-11-18 13:06 UTC：When mountains fall faster than
-warnings travel - The New Indian Express
-- 2026-11-18 10:49 UTC：Nepal urges China to reopen Tatopani border crossing - The Kathmandu Post
 
 ## 上特里苏利 3A 水电站（60 MW）
 

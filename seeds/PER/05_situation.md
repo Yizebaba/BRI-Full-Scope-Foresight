@@ -10,7 +10,7 @@
 - 2026-11-22 21:35 UTC：M5.4，9 km N of Carhuamayo, Peru。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucuf 
 - 2026-11-22 05:51 UTC：M5，15 km NNE of Carhuamayo, Peru。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucqu 
 - 2026-11-21 05:12 UTC：M5，0 km NE of Carhuamayo, Peru。https://earthquake.usgs.gov/earthquakes/eventpage/us6000uchd 
-- 2026-11-21 00:09 UTC：M6.7，9 km NE of Carhuamayo, Peru。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm 
+- 2026-11-21 00:09 UTC：M6.7，7 km ENE of Carhuamayo, Peru。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm 
 - 2026-11-16 16:23 UTC：M4.8，28 km SW of Changuillo, Peru。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tykk 
 
 ## 灾害警报（GDACS，近 14 天）
