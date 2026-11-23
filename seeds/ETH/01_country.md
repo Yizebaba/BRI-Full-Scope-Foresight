@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：34.00（2024 年）
 - 高技术出口占制成品出口（%）：3.75（2023 年）
 - 高技术出口（现价美元）：986 万美元（2023 年）
-- 2025 年有本国作者参与的论文约 18,280 篇（OpenAlex），主要学科：Medicine（5,000）、Agricultural and Biological Sciences（3,255）、Social Sciences（1,686）、Environmental Science（1,603）、Engineering（1,274）、Materials Science（520）、Computer Science（493）、Business, Management and Accounting（492）
+- 2025 年有本国作者参与的论文约 18,509 篇（OpenAlex），主要学科：Medicine（5,015）、Agricultural and Biological Sciences（3,304）、Social Sciences（1,751）、Environmental Science（1,614）、Engineering（1,295）、Materials Science（522）、Business, Management and Accounting（506）、Computer Science（494）
 - 阿比·艾哈迈德·阿里（Abiy Ahmed）：诺贝尔和平奖，2019 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

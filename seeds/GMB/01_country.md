@@ -73,7 +73,7 @@
 - 非居民专利申请（件）：88.00（2022 年）
 - 高技术出口占制成品出口（%）：3.35（2024 年）
 - 高技术出口（现价美元）：7739 美元（2024 年）
-- 2025 年有本国作者参与的论文约 933 篇（OpenAlex），主要学科：Medicine（298）、Social Sciences（219）、Arts and Humanities（54）、Business, Management and Accounting（51）、Environmental Science（47）、Agricultural and Biological Sciences（37）、Physics and Astronomy（34）、Mathematics（28）
+- 2025 年有本国作者参与的论文约 936 篇（OpenAlex），主要学科：Medicine（297）、Social Sciences（220）、Arts and Humanities（54）、Business, Management and Accounting（50）、Environmental Science（47）、Agricultural and Biological Sciences（41）、Physics and Astronomy（35）、Mathematics（27）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/GMB ；Wikidata https://www.wikidata.org/ （CC0）。

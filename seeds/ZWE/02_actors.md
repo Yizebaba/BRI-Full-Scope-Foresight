@@ -27,21 +27,6 @@
 - CPPCC：在津巴布韦出现在 1 个项目中。例：2007 年 CPPCC donates equipment to Zimbabwe’s Parliament
 - Hisense Group：在津巴布韦出现在 1 个项目中。例：2011 年 Hisense Group donates flat-screen TVs to Harare International Airport and Victoria Falls Airport
 
-## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
-
-- 南非：津巴布韦对其出口 22.00 亿美元，自其进口 38.04 亿美元
-- 阿联酋：津巴布韦对其出口 47.32 亿美元，自其进口 2.56 亿美元
-- 中国：津巴布韦对其出口 13.60 亿美元，自其进口 16.25 亿美元
-- Bahamas：津巴布韦对其出口 无数据，自其进口 8.06 亿美元
-- 巴林：津巴布韦对其出口 无数据，自其进口 7.52 亿美元
-- 莫桑比克：津巴布韦对其出口 2.66 亿美元，自其进口 4.58 亿美元
-- 赞比亚：津巴布韦对其出口 1.31 亿美元，自其进口 3.21 亿美元
-- 印度：津巴布韦对其出口 2253 万美元，自其进口 2.24 亿美元
-- 中国香港：津巴布韦对其出口 4532 万美元，自其进口 2.01 亿美元
-- 未列明地区：津巴布韦对其出口 1.94 亿美元，自其进口 4399 万美元
-- Mauritius：津巴布韦对其出口 923 万美元，自其进口 2.23 亿美元
-- 比利时：津巴布韦对其出口 1.48 亿美元，自其进口 2927 万美元
-
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Zimbabwe - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.zwe.html

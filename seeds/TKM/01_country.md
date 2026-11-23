@@ -67,7 +67,7 @@
 - 科技期刊论文（篇）：31.31（2023 年）
 - 本国居民专利申请（件）：44.00（1999 年）
 - 非居民专利申请（件）：5.00（1999 年）
-- 2025 年有本国作者参与的论文约 238 篇（OpenAlex），主要学科：Arts and Humanities（45）、Social Sciences（43）、Medicine（31）、Engineering（23）、Agricultural and Biological Sciences（17）、Energy（16）、Psychology（12）、Computer Science（11）
+- 2025 年有本国作者参与的论文约 243 篇（OpenAlex），主要学科：Social Sciences（45）、Arts and Humanities（44）、Medicine（28）、Engineering（21）、Agricultural and Biological Sciences（16）、Energy（16）、Psychology（14）、Computer Science（12）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/TKM ；Wikidata https://www.wikidata.org/ （CC0）。

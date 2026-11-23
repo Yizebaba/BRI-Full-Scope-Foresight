@@ -59,7 +59,7 @@
 - 非居民专利申请（件）：4.00（2024 年）
 - 高技术出口占制成品出口（%）：0.00（2024 年）
 - 高技术出口（现价美元）：0 美元（2024 年）
-- 2025 年有本国作者参与的论文约 151 篇（OpenAlex），主要学科：Medicine（121）、Neuroscience（8）、Biochemistry, Genetics and Molecular Biology（7）、Psychology（6）、Arts and Humanities（2）、Immunology and Microbiology（2）、Social Sciences（2）、Agricultural and Biological Sciences（1）
+- 2025 年有本国作者参与的论文约 466 篇（OpenAlex），主要学科：Medicine（376）、Biochemistry, Genetics and Molecular Biology（20）、Psychology（13）、Social Sciences（12）、Health Professions（11）、Neuroscience（9）、Immunology and Microbiology（5）、Engineering（4）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/ATG ；Wikidata https://www.wikidata.org/ （CC0）。

@@ -8,7 +8,7 @@
 - 政府首脑：亞歷山大·圖爾欽（Alexander Turchyn）；职位：白俄羅斯總理（Prime Minister of Belarus）
 - 立法机构：白俄罗斯国民议会（National Assembly of the Republic of Belarus）
 - 中央银行：白俄罗斯共和国国家银行（National Bank of the Republic of Belarus）
-- 首都：明斯克（Minsk）；货币：白俄羅斯盧布（Belarusian ruble）；官方语言：俄语（Russian）、白俄罗斯语（Belarusian）
+- 首都：明斯克（Minsk）；货币：白俄羅斯盧布（Belarusian ruble）；官方语言：白俄罗斯语（Belarusian）、俄语（Russian）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：47.00（2024 年）
 - 高技术出口占制成品出口（%）：6.02（2021 年）
 - 高技术出口（现价美元）：9.22 亿美元（2021 年）
-- 2025 年有本国作者参与的论文约 6,634 篇（OpenAlex），主要学科：Medicine（1,157）、Social Sciences（1,120）、Engineering（847）、Materials Science（490）、Arts and Humanities（423）、Business, Management and Accounting（287）、Agricultural and Biological Sciences（284）、Physics and Astronomy（257）
+- 2025 年有本国作者参与的论文约 6,878 篇（OpenAlex），主要学科：Social Sciences（1,192）、Medicine（1,167）、Engineering（873）、Materials Science（494）、Arts and Humanities（437）、Business, Management and Accounting（319）、Computer Science（293）、Agricultural and Biological Sciences（287）
 - 阿列斯·比亚利亚茨基（Ales Bialiatski）：诺贝尔和平奖，2022 年
 - 斯韦特兰娜·阿列克西耶维奇（Svetlana Alexievich）：诺贝尔文学奖，2015 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。

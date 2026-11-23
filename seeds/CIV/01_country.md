@@ -77,7 +77,7 @@
 - 非居民专利申请（件）：1.00（2012 年）
 - 高技术出口占制成品出口（%）：5.26（2024 年）
 - 高技术出口（现价美元）：8636 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 3,570 篇（OpenAlex），主要学科：Agricultural and Biological Sciences（981）、Medicine（853）、Environmental Science（416）、Social Sciences（283）、Engineering（106）、Economics, Econometrics and Finance（104）、Arts and Humanities（102）、Earth and Planetary Sciences（88）
+- 2025 年有本国作者参与的论文约 3,651 篇（OpenAlex），主要学科：Agricultural and Biological Sciences（1,008）、Medicine（876）、Environmental Science（422）、Social Sciences（291）、Engineering（110）、Arts and Humanities（103）、Economics, Econometrics and Finance（103）、Earth and Planetary Sciences（99）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/CIV ；Wikidata https://www.wikidata.org/ （CC0）。

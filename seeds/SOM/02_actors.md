@@ -15,21 +15,6 @@
 - 中国政府：在索马里出现在 13 个项目中，涉及金额约 5247 万美元。例：2011 年 China grants RMB 103 million to WFP for humanitarian interventions in Somalia；2017 年 Chinese Government donates $10 million to WFP for drought relief in Somalia；2021 年 Chinese Government donates 500,000 Sinopharm Covid-19 vaccine doses worth $9 million in December 2021
 - 中国驻当地使领馆：在索马里出现在 14 个项目中，涉及金额约 4 万美元。例：2017 年 Chinese Embassy donates materials to Bondhere Orphanage in Mogadishu, Somalia ；2015 年 Chinese embassy donates consignments to Badbaado Orphanage Center in Mogadishu, Somalia；2016 年 Chinese Embassy donates office equipment to the Ministry of Posts, Telecommunications and Technology of Somali
 
-## 主要贸易伙伴（UN Comtrade，2025 年，镜像：各国对它的申报）
-
-- 中国：索马里对其出口 299 万美元，自其进口 10.24 亿美元
-- 印度：索马里对其出口 3886 万美元，自其进口 7.93 亿美元
-- 阿曼：索马里对其出口 2.15 亿美元，自其进口 3.23 亿美元
-- 沙特阿拉伯：索马里对其出口 3.37 亿美元，自其进口 3245 万美元
-- 土耳其：索马里对其出口 199 万美元，自其进口 3.17 亿美元
-- 印度尼西亚：索马里对其出口 3 万美元，自其进口 1.63 亿美元
-- 埃及：索马里对其出口 778 万美元，自其进口 1.32 亿美元
-- 巴西：索马里对其出口 1 万美元，自其进口 1.26 亿美元
-- 马来西亚：索马里对其出口 58 万美元，自其进口 1.20 亿美元
-- 肯尼亚：索马里对其出口 115 万美元，自其进口 1.06 亿美元
-- 巴基斯坦：索马里对其出口 178 万美元，自其进口 6367 万美元
-- 美国：索马里对其出口 73 万美元，自其进口 5017 万美元
-
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Somalia - Level 4: Do Not Travel。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.som.html

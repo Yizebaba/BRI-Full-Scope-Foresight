@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：25.00（2024 年）
 - 高技术出口占制成品出口（%）：8.34（2024 年）
 - 高技术出口（现价美元）：48.58 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 12,327 篇（OpenAlex），主要学科：Medicine（2,197）、Social Sciences（1,650）、Engineering（1,135）、Arts and Humanities（847）、Computer Science（756）、Energy（607）、Agricultural and Biological Sciences（605）、Physics and Astronomy（577）
+- 2025 年有本国作者参与的论文约 15,087 篇（OpenAlex），主要学科：Medicine（2,412）、Social Sciences（2,287）、Engineering（1,486）、Computer Science（1,015）、Arts and Humanities（1,005）、Business, Management and Accounting（896）、Agricultural and Biological Sciences（680）、Energy（652）
 - 邓肯·霍尔丹（Duncan Haldane）：诺贝尔物理学奖，2016 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

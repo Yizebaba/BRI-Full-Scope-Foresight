@@ -8,7 +8,7 @@
 - 政府首脑：萨巴·海尔（Isaias Afwerki）；职位：厄利垂亞總統（President of Eritrea）
 - 立法机构：国民议会（National Assembly）
 - 中央银行：厄立特里亚银行（Bank of Eritrea）
-- 首都：阿斯马拉（Asmara）；货币：厄立特里亚纳克法（nakfa）；官方语言：英语（English）、阿拉伯语（Arabic）、提格雷尼亚语（Tigrinya）
+- 首都：阿斯马拉（Asmara）；货币：厄立特里亚纳克法（nakfa）；官方语言：英语（English）、提格雷尼亚语（Tigrinya）、阿拉伯语（Arabic）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -61,7 +61,7 @@
 ## 科研、创新与获奖
 
 - 科技期刊论文（篇）：29.08（2023 年）
-- 2025 年有本国作者参与的论文约 53 篇（OpenAlex），主要学科：Medicine（26）、Social Sciences（9）、Pharmacology, Toxicology and Pharmaceutics（3）、Business, Management and Accounting（2）、Environmental Science（2）、Immunology and Microbiology（2）、Materials Science（2）、Agricultural and Biological Sciences（1）
+- 2025 年有本国作者参与的论文约 49 篇（OpenAlex），主要学科：Medicine（27）、Social Sciences（5）、Pharmacology, Toxicology and Pharmaceutics（3）、Environmental Science（2）、Immunology and Microbiology（2）、Materials Science（2）、Agricultural and Biological Sciences（1）、Biochemistry, Genetics and Molecular Biology（1）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/ERI ；Wikidata https://www.wikidata.org/ （CC0）。

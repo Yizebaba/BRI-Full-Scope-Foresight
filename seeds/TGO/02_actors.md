@@ -20,21 +20,6 @@
 - China's South-South Cooperation Assistance Fund：在多哥出现在 1 个项目中。例：2019 年 China's South-South Cooperation Assistance Fund and ICAO provide civil aviation training course in Togo
 - 中国驻当地使领馆：在多哥出现在 1 个项目中。例：2021 年 Chinese Embassy provides supplies to girls at the Multinational Relief Agency of Togo in September 2021
 
-## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
-
-- 中国：多哥对其出口 1805 万美元，自其进口 8.94 亿美元
-- 印度：多哥对其出口 3.29 亿美元，自其进口 1.90 亿美元
-- 法国：多哥对其出口 1.00 亿美元，自其进口 2.60 亿美元
-- Burkina Faso：多哥对其出口 1.78 亿美元，自其进口 7556 万美元
-- 科特迪瓦：多哥对其出口 2.04 亿美元，自其进口 3545 万美元
-- 尼日利亚：多哥对其出口 1743 万美元，自其进口 1.86 亿美元
-- 加纳：多哥对其出口 1.03 亿美元，自其进口 8480 万美元
-- 美国：多哥对其出口 7004 万美元，自其进口 8799 万美元
-- 贝宁：多哥对其出口 1.27 亿美元，自其进口 1489 万美元
-- 日本：多哥对其出口 952 万美元，自其进口 1.25 亿美元
-- 荷兰：多哥对其出口 3463 万美元，自其进口 8977 万美元
-- 马来西亚：多哥对其出口 229 万美元，自其进口 1.11 亿美元
-
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Togo - Level 2: Exercise Increased Caution。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tgo.html

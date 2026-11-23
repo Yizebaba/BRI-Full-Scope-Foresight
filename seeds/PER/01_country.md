@@ -8,7 +8,7 @@
 - 政府首脑：无数据；职位：秘鲁总统（President of Peru）
 - 立法机构：共和国国会（Congress of the Republic of Peru）
 - 中央银行：秘鲁中央储备银行（Central Reserve Bank of Peru）
-- 首都：利马（Lima）；货币：秘鲁新索尔（Nuevo sol）；官方语言：克丘亚语（Quechua）、艾马拉语（Aymara）、西班牙语（Spanish）
+- 首都：利马（Lima）；货币：秘鲁新索尔（Nuevo sol）；官方语言：西班牙语（Spanish）、克丘亚语（Quechua）、艾马拉语（Aymara）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：1,081（2024 年）
 - 高技术出口占制成品出口（%）：5.21（2024 年）
 - 高技术出口（现价美元）：2.86 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 21,120 篇（OpenAlex），主要学科：Social Sciences（4,968）、Medicine（3,538）、Agricultural and Biological Sciences（1,858）、Business, Management and Accounting（1,651）、Environmental Science（1,296）、Engineering（1,230）、Psychology（1,059）、Arts and Humanities（993）
+- 2025 年有本国作者参与的论文约 35,640 篇（OpenAlex），主要学科：Social Sciences（9,924）、Medicine（5,293）、Business, Management and Accounting（4,039）、Agricultural and Biological Sciences（2,179）、Psychology（2,135）、Engineering（2,016）、Environmental Science（2,003）、Arts and Humanities（1,326）
 - 马里奥·巴尔加斯·略萨（Mario Vargas Llosa）：诺贝尔文学奖，2010 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

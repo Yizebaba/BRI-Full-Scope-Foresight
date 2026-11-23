@@ -5,8 +5,8 @@
 ## 本国政府与机构
 
 - 于勒·马迪塞（Ülle Madise）：爱沙尼亚现任国家元首。来源：Wikidata
-- 卡娅·卡拉斯（Kaja Kallas）：爱沙尼亚现任政府首脑。来源：Wikidata
 - 克里斯滕·米哈尔（Kristen Michal）：爱沙尼亚现任政府首脑。来源：Wikidata
+- 卡娅·卡拉斯（Kaja Kallas）：爱沙尼亚现任政府首脑。来源：Wikidata
 - 爱沙尼亚国会（Riigikogu）：爱沙尼亚的立法机构。来源：Wikidata
 - 爱沙尼亚银行（Bank of Estonia）：爱沙尼亚的中央银行。来源：Wikidata
 - 爱沙尼亚政府各部门：AidData 记录中的借款方、受援方和项目实施方。

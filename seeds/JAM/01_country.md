@@ -4,7 +4,7 @@
 
 ## 国家机构与领导人（Wikidata，现任）
 
-- 国家元首：查尔斯三世（Charles III）；职位：牙買加總督（Governor-General of Jamaica）、monarch of Jamaica
+- 国家元首：查尔斯三世（Charles III）；职位：monarch of Jamaica、牙買加總督（Governor-General of Jamaica）
 - 政府首脑：安德鲁·霍尔尼斯（Andrew Holness）；职位：牙买加总理（Prime Minister of Jamaica）
 - 立法机构：牙买加国会（Parliament of Jamaica）
 - 中央银行：牙买加银行（Bank of Jamaica）
@@ -72,7 +72,7 @@
 - 非居民专利申请（件）：45.00（2024 年）
 - 高技术出口占制成品出口（%）：2.65（2023 年）
 - 高技术出口（现价美元）：122 万美元（2023 年）
-- 2025 年有本国作者参与的论文约 775 篇（OpenAlex），主要学科：Social Sciences（202）、Medicine（178）、Agricultural and Biological Sciences（55）、Environmental Science（47）、Engineering（35）、Psychology（31）、Business, Management and Accounting（30）、Economics, Econometrics and Finance（30）
+- 2025 年有本国作者参与的论文约 733 篇（OpenAlex），主要学科：Medicine（181）、Social Sciences（179）、Agricultural and Biological Sciences（60）、Environmental Science（45）、Psychology（31）、Business, Management and Accounting（29）、Economics, Econometrics and Finance（29）、Engineering（26）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/JAM ；Wikidata https://www.wikidata.org/ （CC0）。

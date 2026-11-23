@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：1.00（2016 年）
 - 高技术出口占制成品出口（%）：1.65（2024 年）
 - 高技术出口（现价美元）：124 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 1,693 篇（OpenAlex），主要学科：Medicine（669）、Social Sciences（202）、Agricultural and Biological Sciences（179）、Environmental Science（117）、Health Professions（75）、Economics, Econometrics and Finance（55）、Immunology and Microbiology（54）、Nursing（54）
+- 2025 年有本国作者参与的论文约 1,702 篇（OpenAlex），主要学科：Medicine（664）、Social Sciences（209）、Agricultural and Biological Sciences（181）、Environmental Science（122）、Health Professions（75）、Nursing（55）、Economics, Econometrics and Finance（54）、Engineering（54）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/MWI ；Wikidata https://www.wikidata.org/ （CC0）。

@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：50,459（2024 年）
 - 高技术出口占制成品出口（%）：36.26（2024 年）
 - 高技术出口（现价美元）：2162.03 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 133,067 篇（OpenAlex），主要学科：Medicine（27,962）、Engineering（24,797）、Computer Science（13,647）、Materials Science（8,568）、Biochemistry, Genetics and Molecular Biology（6,488）、Agricultural and Biological Sciences（5,956）、Social Sciences（5,594）、Environmental Science（5,292）
+- 2025 年有本国作者参与的论文约 153,486 篇（OpenAlex），主要学科：Medicine（29,042）、Engineering（27,851）、Computer Science（15,453）、Social Sciences（10,553）、Materials Science（8,796）、Agricultural and Biological Sciences（6,680）、Biochemistry, Genetics and Molecular Biology（6,570）、Environmental Science（5,953）
 - 韩江（Han Kang）：诺贝尔文学奖，2024 年
 - 金大中（Kim Dae-jung）：诺贝尔和平奖，2000 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。

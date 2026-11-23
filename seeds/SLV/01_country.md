@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：138（2024 年）
 - 高技术出口占制成品出口（%）：5.61（2024 年）
 - 高技术出口（现价美元）：2.47 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 959 篇（OpenAlex），主要学科：Social Sciences（291）、Medicine（150）、Agricultural and Biological Sciences（72）、Engineering（71）、Arts and Humanities（57）、Environmental Science（56）、Computer Science（42）、Business, Management and Accounting（39）
+- 2025 年有本国作者参与的论文约 948 篇（OpenAlex），主要学科：Social Sciences（299）、Medicine（152）、Agricultural and Biological Sciences（71）、Engineering（69）、Arts and Humanities（58）、Environmental Science（52）、Psychology（40）、Computer Science（37）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/SLV ；Wikidata https://www.wikidata.org/ （CC0）。

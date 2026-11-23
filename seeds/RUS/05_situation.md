@@ -19,4 +19,9 @@
 
 ## 地震（USGS，M4.5+，近 7 天）
 
+- 2026-11-23 10:39 UTC：M4.7，52 km SW of Tyrma, Russia。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucy6 
 - 2026-11-17 15:48 UTC：M4.9，102 km ENE of Ozernovskiy, Russia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyt3 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-11-23 10:39 UTC：Green 级 EQ，Earthquake in Russia。https://www.gdacs.org/report.aspx?eventid=1578852&episodeid=1748279&eventtype=EQ 

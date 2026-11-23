@@ -79,7 +79,7 @@
 - 非居民专利申请（件）：5,196（2024 年）
 - 高技术出口占制成品出口（%）：9.73（2021 年）
 - 高技术出口（现价美元）：105.99 亿美元（2021 年）
-- 2025 年有本国作者参与的论文约 177,250 篇（OpenAlex），主要学科：Social Sciences（28,666）、Medicine（21,932）、Engineering（21,377）、Arts and Humanities（12,638）、Agricultural and Biological Sciences（11,797）、Materials Science（8,533）、Physics and Astronomy（8,243）、Business, Management and Accounting（7,807）
+- 2025 年有本国作者参与的论文约 186,947 篇（OpenAlex），主要学科：Social Sciences（30,829）、Engineering（23,078）、Medicine（23,010）、Arts and Humanities（13,532）、Agricultural and Biological Sciences（12,190）、Materials Science（8,712）、Business, Management and Accounting（8,542）、Physics and Astronomy（8,359）
 - 阿列克谢·叶基莫夫（Alexey Ekimov）：诺贝尔化学奖，2023 年
 - 德米特里·穆拉托夫（Dmitri Muratov）：诺贝尔和平奖，2021 年
 - 康斯坦丁·诺沃肖洛夫（Konstantin Novoselov）：诺贝尔物理学奖，2010 年

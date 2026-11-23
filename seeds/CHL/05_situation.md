@@ -13,4 +13,3 @@
 ## 灾害警报（GDACS，近 14 天）
 
 - 2026-11-22 21:47 UTC：Green 级 EQ，Earthquake in Chile。https://www.gdacs.org/report.aspx?eventid=1578763&episodeid=1748175&eventtype=EQ 
-- 2026-11-20 01:00 UTC：Green 级 FL，Flood in Chile。https://www.gdacs.org/report.aspx?eventid=1104293&episodeid=1&eventtype=FL 

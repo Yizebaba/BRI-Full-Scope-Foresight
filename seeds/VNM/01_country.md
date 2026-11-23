@@ -77,7 +77,7 @@
 - 非居民专利申请（件）：8,678（2024 年）
 - 高技术出口占制成品出口（%）：44.26（2023 年）
 - 高技术出口（现价美元）：1327.77 亿美元（2023 年）
-- 2025 年有本国作者参与的论文约 43,354 篇（OpenAlex），主要学科：Medicine（8,262）、Engineering（6,257）、Social Sciences（4,423）、Computer Science（3,861）、Agricultural and Biological Sciences（3,589）、Business, Management and Accounting（3,229）、Environmental Science（2,059）、Economics, Econometrics and Finance（1,614）
+- 2025 年有本国作者参与的论文约 44,113 篇（OpenAlex），主要学科：Medicine（8,342）、Engineering（6,283）、Social Sciences（4,654）、Computer Science（3,880）、Agricultural and Biological Sciences（3,668）、Business, Management and Accounting（3,304）、Environmental Science（2,113）、Economics, Econometrics and Finance（1,645）
 - 吴宝珠（Ngô Bảo Châu）：菲尔兹奖，2010 年
 - 黎德寿（Le Duc Tho）：诺贝尔和平奖，1973 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。

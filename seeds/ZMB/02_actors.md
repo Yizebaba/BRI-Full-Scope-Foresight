@@ -33,21 +33,6 @@
 - Jiangxi China Coal Construction Group Co., Ltd.：在赞比亚出现在 1 个项目中。例：2019 年 Jiangxi China Coal Construction Group Co., Ltd. donates sports equipment and cornmeal to Kaunda Square Seconda
 - Chinese State-Owned Enterprise：在赞比亚出现在 1 个项目中。例：2017 年 Chinese State-Owned Enterprise donates basketball courts to Kaunda Square Secondary School (Linked to #57406, 
 
-## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
-
-- 中国：赞比亚对其出口 11.72 亿美元，自其进口 26.79 亿美元
-- 南非：赞比亚对其出口 4.63 亿美元，自其进口 31.84 亿美元
-- 加拿大：赞比亚对其出口 34.38 亿美元，自其进口 3807 万美元
-- 瑞士：赞比亚对其出口 21.98 亿美元，自其进口 8183 万美元
-- 新加坡：赞比亚对其出口 18.27 亿美元，自其进口 2.91 亿美元
-- 刚果（金）：赞比亚对其出口 15.93 亿美元，自其进口 4.18 亿美元
-- 阿联酋：赞比亚对其出口 7.35 亿美元，自其进口 10.48 亿美元
-- 坦桑尼亚：赞比亚对其出口 2.92 亿美元，自其进口 5.27 亿美元
-- 印度：赞比亚对其出口 8479 万美元，自其进口 5.95 亿美元
-- 日本：赞比亚对其出口 34 万美元，自其进口 5.26 亿美元
-- 津巴布韦：赞比亚对其出口 3.54 亿美元，自其进口 1.69 亿美元
-- 纳米比亚：赞比亚对其出口 2.40 亿美元，自其进口 2.52 亿美元
-
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Zambia - Level 1: Exercise Normal Precautions。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.zmb.html

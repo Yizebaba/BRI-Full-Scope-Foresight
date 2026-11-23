@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：215（2024 年）
 - 高技术出口占制成品出口（%）：7.70（2023 年）
 - 高技术出口（现价美元）：11.99 亿美元（2023 年）
-- 2025 年有本国作者参与的论文约 16,237 篇（OpenAlex），主要学科：Medicine（4,182）、Engineering（2,216）、Computer Science（1,344）、Agricultural and Biological Sciences（1,024）、Materials Science（774）、Social Sciences（741）、Environmental Science（725）、Economics, Econometrics and Finance（709）
+- 2025 年有本国作者参与的论文约 16,470 篇（OpenAlex），主要学科：Medicine（4,199）、Engineering（2,238）、Computer Science（1,351）、Agricultural and Biological Sciences（1,041）、Materials Science（777）、Social Sciences（774）、Environmental Science（744）、Economics, Econometrics and Finance（719）
 - 蒙吉·巴文迪（Moungi Bawendi）：诺贝尔化学奖，2023 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：347（2024 年）
 - 高技术出口占制成品出口（%）：5.14（2024 年）
 - 高技术出口（现价美元）：99.04 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 162,949 篇（OpenAlex），主要学科：Medicine（39,725）、Social Sciences（23,467）、Engineering（14,744）、Arts and Humanities（10,783）、Agricultural and Biological Sciences（9,212）、Business, Management and Accounting（7,018）、Computer Science（6,562）、Psychology（6,456）
+- 2025 年有本国作者参与的论文约 168,953 篇（OpenAlex），主要学科：Medicine（40,473）、Social Sciences（24,662）、Engineering（15,532）、Arts and Humanities（11,402）、Agricultural and Biological Sciences（9,424）、Business, Management and Accounting（7,370）、Computer Science（6,840）、Psychology（6,746）
 - 阿齐兹·桑贾尔（Aziz Sancar）：诺贝尔化学奖，2015 年
 - 奥尔汗·帕穆克（Orhan Pamuk）：诺贝尔文学奖，2006 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。

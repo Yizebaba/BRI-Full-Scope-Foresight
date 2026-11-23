@@ -4,7 +4,7 @@
 
 ## 国家机构与领导人（Wikidata，现任）
 
-- 国家元首：拉沙德·穆罕默德·阿里米（Rashad al-Alimi）；职位：也门总统（President of Yemen）
+- 国家元首：拉沙德·穆罕默德·阿里米（Rashad al-Alimi）；职位：也门总统（حسان حسين محمد السعيدي الجمهورية اليمنية）
 - 政府首脑：薩利姆·薩利赫·本·布賴克（Salem Saleh bin Braik）；职位：也门总理（Prime Minister of Yemen）
 - 立法机构：也门议会（Parliament of Yemen）
 - 中央银行：Central Bank of Yemen
@@ -73,7 +73,7 @@
 - 非居民专利申请（件）：6.00（2023 年）
 - 高技术出口占制成品出口（%）：4.83（2015 年）
 - 高技术出口（现价美元）：303 万美元（2015 年）
-- 2025 年有本国作者参与的论文约 4,155 篇（OpenAlex），主要学科：Medicine（739）、Social Sciences（521）、Arts and Humanities（399）、Business, Management and Accounting（338）、Computer Science（295）、Engineering（262）、Mathematics（236）、Dentistry（191）
+- 2025 年有本国作者参与的论文约 4,187 篇（OpenAlex），主要学科：Medicine（738）、Social Sciences（525）、Arts and Humanities（401）、Business, Management and Accounting（342）、Computer Science（302）、Engineering（264）、Mathematics（236）、Dentistry（194）
 - 塔瓦库·卡曼（Tawakkol Karman）：诺贝尔和平奖，2011 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

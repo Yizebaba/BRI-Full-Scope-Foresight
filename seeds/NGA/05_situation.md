@@ -19,8 +19,7 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
-- 2026-11-15 00:00 UTC：Green 级 WF，Forest fires in Nigeria。https://www.gdacs.org/report.aspx?eventid=1034015&episodeid=2&eventtype=WF 
+- 2026-11-15 00:00 UTC：Green 级 WF，Forest fires in Nigeria。https://www.gdacs.org/report.aspx?eventid=1034015&episodeid=3&eventtype=WF 
 - 2026-11-12 00:00 UTC：Green 级 WF，Forest fires in Nigeria。https://www.gdacs.org/report.aspx?eventid=1033883&episodeid=20&eventtype=WF 
-- 2026-11-12 00:00 UTC：Green 级 WF，Forest fires in Nigeria。https://www.gdacs.org/report.aspx?eventid=1033886&episodeid=23&eventtype=WF 
-- 2026-11-12 00:00 UTC：Green 级 WF，Forest fires in Nigeria, Cameroon。https://www.gdacs.org/report.aspx?eventid=1034018&episodeid=1&eventtype=WF 
-- 2026-11-11 00:00 UTC：Green 级 WF，Forest fires in Nigeria。https://www.gdacs.org/report.aspx?eventid=1033856&episodeid=17&eventtype=WF 
+- 2026-11-12 00:00 UTC：Green 级 WF，Forest fires in Nigeria。https://www.gdacs.org/report.aspx?eventid=1033886&episodeid=25&eventtype=WF 
+- 2026-11-11 00:00 UTC：Green 级 WF，Forest fires in Nigeria。https://www.gdacs.org/report.aspx?eventid=1033856&episodeid=18&eventtype=WF 

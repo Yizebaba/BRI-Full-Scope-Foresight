@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：2,829（2024 年）
 - 高技术出口占制成品出口（%）：8.63（2024 年）
 - 高技术出口（现价美元）：10.77 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 31,767 篇（OpenAlex），主要学科：Social Sciences（6,127）、Medicine（5,618）、Physics and Astronomy（2,474）、Engineering（2,310）、Arts and Humanities（1,992）、Agricultural and Biological Sciences（1,721）、Environmental Science（1,712）、Psychology（1,223）
+- 2025 年有本国作者参与的论文约 33,103 篇（OpenAlex），主要学科：Social Sciences（6,516）、Medicine（5,760）、Physics and Astronomy（2,548）、Engineering（2,358）、Arts and Humanities（2,104）、Agricultural and Biological Sciences（1,786）、Environmental Science（1,763）、Psychology（1,262）
 - 巴勃罗·聂鲁达（Pablo Neruda）：诺贝尔文学奖，1971 年
 - 加夫列拉·米斯特拉尔（Gabriela Mistral）：诺贝尔文学奖，1945 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。

@@ -70,7 +70,7 @@
 - 科技期刊论文（篇）：136（2023 年）
 - 高技术出口占制成品出口（%）：0.68（2024 年）
 - 高技术出口（现价美元）：286 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 1,097 篇（OpenAlex），主要学科：Medicine（302）、Agricultural and Biological Sciences（192）、Environmental Science（131）、Social Sciences（113）、Arts and Humanities（48）、Economics, Econometrics and Finance（48）、Engineering（47）、Energy（28）
+- 2025 年有本国作者参与的论文约 1,121 篇（OpenAlex），主要学科：Medicine（317）、Agricultural and Biological Sciences（195）、Environmental Science（130）、Social Sciences（117）、Arts and Humanities（48）、Economics, Econometrics and Finance（48）、Engineering（48）、Energy（28）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/TGO ；Wikidata https://www.wikidata.org/ （CC0）。

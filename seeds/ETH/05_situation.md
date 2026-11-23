@@ -12,3 +12,7 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-17 22:52 UTC：M4.6，10 km ESE of Metahāra, Ethiopia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyyp 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-11-09 00:00 UTC：Green 级 WF，Forest fires in Ethiopia, Sudan。https://www.gdacs.org/report.aspx?eventid=1033961&episodeid=4&eventtype=WF 

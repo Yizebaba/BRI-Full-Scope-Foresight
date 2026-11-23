@@ -4,7 +4,7 @@
 
 ## 国家机构与领导人（Wikidata，现任）
 
-- 国家元首：穆罕默德·謝哈布丁·楚普（Mohammad Shahabuddin）；职位：孟加拉国总统（President of Bangladesh）
+- 国家元首：米尔扎·法赫鲁尔·伊斯兰·阿拉姆吉尔（Mirza Fakhrul Islam Alamgir）；职位：孟加拉国总统（President of Bangladesh）
 - 政府首脑：塔里克·拉赫曼（Tarique Rahman）；职位：孟加拉国总理（Prime Minister of Bangladesh）
 - 立法机构：國民議會（Jatiya Sangsad）
 - 中央银行：孟加拉国银行（Bangladesh Bank）
@@ -74,7 +74,7 @@
 - 非居民专利申请（件）：302（2024 年）
 - 高技术出口占制成品出口（%）：0.54（2018 年）
 - 高技术出口（现价美元）：2.04 亿美元（2018 年）
-- 2025 年有本国作者参与的论文约 37,819 篇（OpenAlex），主要学科：Medicine（7,207）、Engineering（4,543）、Computer Science（4,282）、Agricultural and Biological Sciences（3,745）、Social Sciences（3,518）、Environmental Science（2,429）、Business, Management and Accounting（1,678）、Materials Science（1,527）
+- 2025 年有本国作者参与的论文约 37,872 篇（OpenAlex），主要学科：Medicine（7,259）、Engineering（4,446）、Computer Science（4,290）、Agricultural and Biological Sciences（3,891）、Social Sciences（3,523）、Environmental Science（2,451）、Business, Management and Accounting（1,695）、Materials Science（1,516）
 - 穆罕默德·尤努斯（Muhammad Yunus）：诺贝尔和平奖，2006 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

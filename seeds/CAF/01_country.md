@@ -4,7 +4,7 @@
 
 ## 国家机构与领导人（Wikidata，现任）
 
-- 国家元首：福斯坦-阿尔尚热·图瓦德拉（Faustin-Archange Touadéra）、弗朗索瓦·博齐泽（François Bozizé）；职位：中非共和国总统（President of the Central African Republic）
+- 国家元首：弗朗索瓦·博齐泽（François Bozizé）、福斯坦-阿尔尚热·图瓦德拉（Faustin-Archange Touadéra）；职位：中非共和国总统（President of the Central African Republic）
 - 政府首脑：菲利克斯·莫卢瓦（Félix Moloua）；职位：中非共和国总理（Prime Minister of the Central African Republic）
 - 立法机构：国民议会（National Assembly）
 - 中央银行：中非国家银行（Bank of Central African States）
@@ -67,7 +67,7 @@
 - 科技期刊论文（篇）：25.75（2023 年）
 - 高技术出口占制成品出口（%）：8.30（2024 年）
 - 高技术出口（现价美元）：1219 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 148 篇（OpenAlex），主要学科：Medicine（51）、Agricultural and Biological Sciences（21）、Earth and Planetary Sciences（11）、Engineering（10）、Environmental Science（9）、Immunology and Microbiology（9）、Physics and Astronomy（8）、Mathematics（5）
+- 2025 年有本国作者参与的论文约 151 篇（OpenAlex），主要学科：Medicine（52）、Agricultural and Biological Sciences（22）、Engineering（11）、Earth and Planetary Sciences（10）、Immunology and Microbiology（10）、Environmental Science（9）、Physics and Astronomy（8）、Mathematics（5）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/CAF ；Wikidata https://www.wikidata.org/ （CC0）。

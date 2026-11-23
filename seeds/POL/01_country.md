@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：90.00（2024 年）
 - 高技术出口占制成品出口（%）：13.51（2024 年）
 - 高技术出口（现价美元）：401.10 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 96,693 篇（OpenAlex），主要学科：Medicine（17,836）、Social Sciences（14,653）、Engineering（9,713）、Arts and Humanities（9,224）、Agricultural and Biological Sciences（5,269）、Computer Science（4,243）、Environmental Science（4,082）、Physics and Astronomy（3,982）
+- 2025 年有本国作者参与的论文约 97,609 篇（OpenAlex），主要学科：Medicine（17,776）、Social Sciences（14,784）、Engineering（9,785）、Arts and Humanities（9,320）、Agricultural and Biological Sciences（5,363）、Computer Science（4,279）、Environmental Science（4,193）、Physics and Astronomy（4,036）
 - 维克托·安博斯（Victor Ambros）：诺贝尔生理学或医学奖，2024 年
 - 奥尔加·托卡尔丘克（Olga Tokarczuk）：诺贝尔文学奖，2018 年
 - 维斯瓦娃·辛波斯卡（Wisława Szymborska）：诺贝尔文学奖，1996 年

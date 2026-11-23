@@ -69,7 +69,7 @@
 - 科技期刊论文（篇）：234（2023 年）
 - 高技术出口占制成品出口（%）：5.20（2024 年）
 - 高技术出口（现价美元）：2.77 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 714 篇（OpenAlex），主要学科：Medicine（166）、Agricultural and Biological Sciences（116）、Computer Science（100）、Engineering（69）、Social Sciences（69）、Environmental Science（38）、Business, Management and Accounting（27）、Earth and Planetary Sciences（23）
+- 2025 年有本国作者参与的论文约 734 篇（OpenAlex），主要学科：Medicine（174）、Agricultural and Biological Sciences（116）、Computer Science（101）、Social Sciences（74）、Engineering（68）、Environmental Science（38）、Business, Management and Accounting（28）、Earth and Planetary Sciences（23）
 - 昂山素季（Aung San Suu Kyi）：诺贝尔和平奖，1991 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

@@ -79,7 +79,7 @@
 - 非居民专利申请（件）：499（2024 年）
 - 高技术出口占制成品出口（%）：2.44（2024 年）
 - 高技术出口（现价美元）：5.35 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 92,423 篇（OpenAlex），主要学科：Medicine（22,546）、Social Sciences（12,199）、Agricultural and Biological Sciences（6,993）、Engineering（5,617）、Computer Science（5,156）、Arts and Humanities（4,687）、Business, Management and Accounting（4,641）、Materials Science（3,718）
+- 2025 年有本国作者参与的论文约 93,188 篇（OpenAlex），主要学科：Medicine（22,785）、Social Sciences（12,329）、Agricultural and Biological Sciences（7,086）、Engineering（5,640）、Computer Science（5,196）、Arts and Humanities（4,716）、Business, Management and Accounting（4,687）、Materials Science（3,725）
 - 玛拉拉·优素福扎伊（Malala Yousafzai）：诺贝尔和平奖，2014 年
 - 阿卜杜勒·萨拉姆（Abdus Salam）：诺贝尔物理学奖，1979 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。

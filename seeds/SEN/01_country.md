@@ -8,7 +8,7 @@
 - 政府首脑：巴西鲁·迪奥马耶·法耶（Bassirou Diomaye Faye）；职位：塞内加尔总统（President of Senegal）
 - 立法机构：塞内加尔国民议会（National Assembly）
 - 中央银行：西非国家中央银行（Central Bank of West African States）
-- 首都：达喀尔（Dakar）；货币：西非非洲金融共同体法郎（West African CFA franc）；官方语言：法语（French）、巴蘭塔語（Balanta）、沃洛夫語（Wolof）、Badyara
+- 首都：达喀尔（Dakar）；货币：西非非洲金融共同体法郎（West African CFA franc）；官方语言：法语（French）、沃洛夫語（Wolof）、Badyara、巴蘭塔語（Balanta）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -72,7 +72,7 @@
 - 科技期刊论文（篇）：490（2023 年）
 - 高技术出口占制成品出口（%）：3.04（2024 年）
 - 高技术出口（现价美元）：4278 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 3,111 篇（OpenAlex），主要学科：Medicine（808）、Agricultural and Biological Sciences（395）、Social Sciences（328）、Environmental Science（320）、Engineering（192）、Computer Science（151）、Arts and Humanities（114）、Mathematics（101）
+- 2025 年有本国作者参与的论文约 3,169 篇（OpenAlex），主要学科：Medicine（837）、Agricultural and Biological Sciences（405）、Environmental Science（328）、Social Sciences（324）、Engineering（196）、Computer Science（156）、Arts and Humanities（112）、Mathematics（102）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/SEN ；Wikidata https://www.wikidata.org/ （CC0）。

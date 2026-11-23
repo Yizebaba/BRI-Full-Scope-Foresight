@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-23 10:38 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-23 22:33 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -55,7 +55,6 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-22 06:17 UTC：Heavy Snowfall Cuts Off Gilgit-Baltistan Districts - Bloom Pakistan
 - 2026-11-22 00:11 UTC：Harsh winter exacerbates misery in Gilgit-Baltistan - Dawn
 
 ## 卡洛特水电站（720 MW）
@@ -70,6 +69,7 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-11-23 09:01 UTC：Pakistan’s Gwadar Port Dream Collapses: From Dubai Promise To Ghost Port - DD News。https://news.google.com/rss/articles/CBMinAFBVV95cUxOeG1JUUtzbGhHa2NfQ2ZVa2JsRFVwUWRrRUtZVVFCWkRSRnF6NWxhZ0VCeE5RanpKVXRNUTdMWjlEYmpZdU1WRFpJbGpjLUFDS1NMSlAxeXQ3WlpydkRxTjJ4QVhPdUY1LU1WQ1ZEMDlOanZpaEZSSDVkclQ1Rnp1X1VXWWJXZWY3X1lqZDQ0c3BEaGxrSmFaQ2dBTUo?oc=5
 - 2026-11-20 00:18 UTC：10 killed, 27 hurt in Gwadar bus-tanker collision - Business Recorder。https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPdGVHNXViSXNiQUR5am5XU01nTnZreVZVQTNWS0RiQWNBamJqbDB1YWRhSWp6Q0k4SkgxV0hCcHgxUVU5aEtVeGFTR1hMVkh20gFWQVVfeXFMTVpSQzl0LVFvbks0T29yOVRFNmJFQmM1Z0QzWndPNzctODRveVhTUEhBQ2xBRTdZMDlseGNnSld3U3JjNTdoYjlBQXRwR2Y0UTQ5V2lmbmc?oc=5
 - 2026-11-19 14:54 UTC：Gwadar coach collision ends in fire, with 10 or more dead - Minute Mirror。https://news.google.com/rss/articles/CBMilwFBVV95cUxPTWg1dFNubEpLSjFiUHcxa1RXQmliQjVPYmNJT0duc3kzb2ducEl2VUZ0ZGRYemxyNWF1ZDViWkxkY2gyNVdnb3lQOGJ2TjZzOC1hSlpyNUZVLVQ5dWl3U1hwQm8wLW50RUdJVVRmckJtZnhjTTltemZsZFd4UnpjNS1UWVRTTGVrNzlKQTJLTVVZdUJSQTN3?oc=5
 - 2026-11-19 14:54 UTC：At least 10 killed, 27 injured as coach collides with LPG bowser in Gwadar - The Express Tribune。https://news.google.com/rss/articles/CBMirwFBVV95cUxPZEhSLTZGNmFCSXdBWGNDWkFnY1BBNFFmck95ellRaGc2eUVMc3BKdktKVzRRMWd6dndFOVJGMy1mVWlnQVFuOVNiY1o3TWFMU1Zad2JpaFRJb0NSUTl2VUkyejJieTRmLVJoVWJjVm1jeG1YWFlNTGkteU5kS2hVdFVrcGJ0bmFIVXpyTTR0aGNpWWRRVWhTaG1HRGpvY05yak03TDhfdHV0dTNHMUx3?oc=5
@@ -79,14 +79,14 @@
 - 2026-11-19 08:02 UTC：Passenger Bus and Gas Bowser Catch Fire After Collision on Makran Coastal Highway in Gwadar - Balochistan Pulse。https://news.google.com/rss/articles/CBMivgFBVV95cUxNMERidnQxQjBqcWJ2NURuaEY3VG1pbnB0dUVCVjdySDh2ZzFQeTNIZ3ZiLVd5SDlKd20wZU5WaWFRQkRobEtCdzlLZWlrQVc2eGhKSGFiYmVET2RfNlU2WXBERGpTdUVXVXNIRjlvVnRqNEFteUlWUThyckpWM2p1SFJEcFB1X29pckhhRUM4U2VRTWM5RnRwMUlzV19ieHpmOXdMMFhJRHJPWGx2dm1lS1ZJNndNcEhqSnV5LVR30gG-AUFVX3lxTE0wRGJ2dDFCMGpxYnY1RG5oRjdUbWlucHR1RUJWN3JIOHZnMVB5M0hndmItV3lIOUp3bTBlTlZpYVFCRGhsS0J3OUtlaWtBVzZ4aEpIYWJiZURPZF82VTZZcEREalN1RVdVc0hGOW9WdGo0QW15SVZROHJySlYzanVIUkRwUHVfb2lySGFFQzhTZVFNYzlGdHAxSXNXX2J4emY5d0wwWElEck9YbHZ2bWVLVkk2d01wSGpKdXktVHc?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-23 04:33 UTC：Pakistan, Iran to establish joint working group, discuss Gwadar power project financing - Profit by Pakistan Today
-- 2026-11-23 04:30 UTC：Pakistan, Iran to establish joint working group, discuss Gwadar power project financing - Investify
-- 2026-11-23 01:54 UTC：Trends - Gwadar electricity transmission line - Business Recorder
-- 2026-11-20 17:07 UTC：DG Health Reviews Medical Training Facilities at Gwadar Midwifery School - Daily Independent
-- 2026-11-20 17:01 UTC：Gwadar Students Visit Port and China Business Centre to Learn About Economic Opportunities - Daily Independent
-- 2026-11-20 15:20 UTC：Pakistan premier orders 'strong' steps against illegal fishing in Gwadar - Yeni Safak English
-- 2026-11-20 13:05 UTC：Balochistan Health DG urges faster start of Gwadar nursing college classes - UrduPoint
-- 2026-11-20 06:13 UTC：Twelve years, one miracle: A Gwadar family's story - CGTN
+- 2026-11-23 19:00 UTC：Pakistan, China to establish engineering and technology institute in Gwadar - The News Pakistan
+- 2026-11-23 18:55 UTC：Proposal to bring Karachi, Gwadar under federal control discussed: Khawaja Asif - ARYnews.tv
+- 2026-11-23 18:43 UTC：Free Veterinary Services to Reach Remote Farmers: Gwadar Livestock Officer - Daily Independent
+- 2026-11-23 17:43 UTC：Gwadar University Highlights Sustainable Fisheries and Employment Opportunities on World Fisheries Day - www.dailyindependent.com.pk
+- 2026-11-23 16:54 UTC：Pakistan, China to establish maritime engineering institute in Gwadar - Profit by Pakistan Today
+- 2026-11-23 16:52 UTC：Pakistan, China to establish maritime engineering institute in Gwadar - Investify
+- 2026-11-23 14:08 UTC：Maritime Technical Institute to be established in Gwadar under Pakistan-China cooperation - ARYnews.tv
+- 2026-11-23 11:37 UTC：Maritime technical institute to be set up in Gwadar under Pakistan-China cooperation - Investify
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

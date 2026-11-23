@@ -24,21 +24,6 @@
 - All-China Federation of Trade Unions：在乌干达出现在 1 个项目中。例：2009 年 All-China Federation of Trade Unions donates laptops to union organization
 - Zhang's group：在乌干达出现在 1 个项目中。例：2018 年 Zhang's group donates 5,000 kg of Poshos to victims of landslides in Eastern District of Bududa in 2018 (Linke
 
-## 主要贸易伙伴（UN Comtrade，2025 年，本国申报）
-
-- 阿联酋：乌干达对其出口 51.79 亿美元，自其进口 11.31 亿美元
-- 中国：乌干达对其出口 1.19 亿美元，自其进口 33.28 亿美元
-- 坦桑尼亚：乌干达对其出口 2.02 亿美元，自其进口 26.98 亿美元
-- 肯尼亚：乌干达对其出口 6.76 亿美元，自其进口 16.17 亿美元
-- 印度：乌干达对其出口 1.51 亿美元，自其进口 14.83 亿美元
-- 中国香港：乌干达对其出口 13.44 亿美元，自其进口 1252 万美元
-- 南非：乌干达对其出口 1568 万美元，自其进口 10.23 亿美元
-- Italy：乌干达对其出口 7.15 亿美元，自其进口 1.42 亿美元
-- 刚果（金）：乌干达对其出口 6.61 亿美元，自其进口 2405 万美元
-- Burkina Faso：乌干达对其出口 5 万美元，自其进口 6.38 亿美元
-- 莫桑比克：乌干达对其出口 577 万美元，自其进口 6.13 亿美元
-- 日本：乌干达对其出口 2154 万美元，自其进口 5.39 亿美元
-
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Uganda - Level 4: Do Not Travel。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.uga.html

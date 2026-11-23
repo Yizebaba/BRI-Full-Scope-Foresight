@@ -8,7 +8,7 @@
 - 政府首脑：克里斯托弗·拉克森（Christopher Luxon）；职位：新西兰总理（Prime Minister of New Zealand）
 - 立法机构：新西兰议会（New Zealand Parliament）
 - 中央银行：新西兰储备银行（Reserve Bank of New Zealand）
-- 首都：惠灵顿（Wellington）；货币：新西兰元（New Zealand dollar）；官方语言：英语（English）、毛利语（Māori）、新西蘭手語（New Zealand Sign Language）
+- 首都：惠灵顿（Wellington）；货币：新西兰元（New Zealand dollar）；官方语言：英语（English）、新西蘭手語（New Zealand Sign Language）、毛利语（Māori）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：5,684（2024 年）
 - 高技术出口占制成品出口（%）：12.97（2024 年）
 - 高技术出口（现价美元）：8.40 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 22,204 篇（OpenAlex），主要学科：Medicine（4,684）、Social Sciences（3,253）、Engineering（1,773）、Agricultural and Biological Sciences（1,602）、Environmental Science（1,564）、Computer Science（1,448）、Business, Management and Accounting（849）、Psychology（837）
+- 2025 年有本国作者参与的论文约 23,823 篇（OpenAlex），主要学科：Medicine（4,880）、Social Sciences（3,599）、Engineering（1,909）、Agricultural and Biological Sciences（1,730）、Environmental Science（1,677）、Computer Science（1,552）、Earth and Planetary Sciences（922）、Psychology（921）
 - 艾伦·麦克德尔米德（Alan MacDiarmid）：诺贝尔化学奖，2000 年
 - 沃恩·弗雷德里克·蘭德爾·瓊斯（Vaughan Jones）：菲尔兹奖，1990 年
 - 莫里斯·威尔金斯（Maurice Wilkins）：诺贝尔生理学或医学奖，1962 年

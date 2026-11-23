@@ -7,4 +7,6 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
-- 2026-11-16 00:00 UTC：Green 级 WF，Forest fires in Madagascar。https://www.gdacs.org/report.aspx?eventid=1033981&episodeid=4&eventtype=WF 
+- 2026-11-17 00:00 UTC：Green 级 WF，Forest fires in Madagascar。https://www.gdacs.org/report.aspx?eventid=1034035&episodeid=2&eventtype=WF 
+- 2026-11-16 00:00 UTC：Green 级 WF，Forest fires in Madagascar。https://www.gdacs.org/report.aspx?eventid=1034044&episodeid=1&eventtype=WF 
+- 2026-11-11 00:00 UTC：Green 级 WF，Forest fires in Madagascar。https://www.gdacs.org/report.aspx?eventid=1034036&episodeid=1&eventtype=WF 

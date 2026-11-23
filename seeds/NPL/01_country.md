@@ -76,7 +76,7 @@
 - 非居民专利申请（件）：43.00（2017 年）
 - 高技术出口占制成品出口（%）：0.62（2022 年）
 - 高技术出口（现价美元）：382 万美元（2022 年）
-- 2025 年有本国作者参与的论文约 11,745 篇（OpenAlex），主要学科：Medicine（3,503）、Social Sciences（1,778）、Agricultural and Biological Sciences（1,108）、Environmental Science（828）、Arts and Humanities（650）、Business, Management and Accounting（580）、Engineering（554）、Economics, Econometrics and Finance（350）
+- 2025 年有本国作者参与的论文约 11,810 篇（OpenAlex），主要学科：Medicine（3,549）、Social Sciences（1,786）、Agricultural and Biological Sciences（1,104）、Environmental Science（838）、Arts and Humanities（652）、Business, Management and Accounting（585）、Engineering（551）、Economics, Econometrics and Finance（357）
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 
 来源：世界银行开放数据 https://data.worldbank.org/country/NPL ；Wikidata https://www.wikidata.org/ （CC0）。

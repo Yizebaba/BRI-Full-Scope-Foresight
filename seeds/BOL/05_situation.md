@@ -8,3 +8,9 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-18 18:46 UTC：M4.5，20 km SSW of Ollagüe, Chile。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz33 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-11-22 00:00 UTC：Green 级 WF，Forest fires in Bolivia。https://www.gdacs.org/report.aspx?eventid=1034027&episodeid=1&eventtype=WF 
+- 2026-11-21 00:00 UTC：Green 级 WF，Forest fires in Bolivia。https://www.gdacs.org/report.aspx?eventid=1034029&episodeid=1&eventtype=WF 
+- 2026-11-15 00:00 UTC：Green 级 WF，Forest fires in Bolivia。https://www.gdacs.org/report.aspx?eventid=1034030&episodeid=1&eventtype=WF 

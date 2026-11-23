@@ -28,21 +28,6 @@
 - PetroChina：在苏丹出现在 1 个项目中。例：2008 年 PetroChina donates two demonstration farms and provides agricultural training in South Kordofan
 - 中国援外医疗队：在苏丹出现在 1 个项目中。例：2019 年 Chinese 34th medical team provides cataract surgery in Sudan as part of the Cataract Rejuvenation Project (Lin
 
-## 主要贸易伙伴（UN Comtrade，2025 年，镜像：各国对它的申报）
-
-- 中国：苏丹对其出口 6444 万美元，自其进口 19.53 亿美元
-- 沙特阿拉伯：苏丹对其出口 5.42 亿美元，自其进口 8.40 亿美元
-- 埃及：苏丹对其出口 2.60 亿美元，自其进口 9.33 亿美元
-- 马来西亚：苏丹对其出口 10.08 亿美元，自其进口 6336 万美元
-- 印度：苏丹对其出口 1.26 亿美元，自其进口 8.85 亿美元
-- Italy：苏丹对其出口 4.05 亿美元，自其进口 4182 万美元
-- 土耳其：苏丹对其出口 4586 万美元，自其进口 3.44 亿美元
-- 阿曼：苏丹对其出口 1.31 亿美元，自其进口 6055 万美元
-- 乌干达：苏丹对其出口 2 万美元，自其进口 1.67 亿美元
-- 泰国：苏丹对其出口 2690 万美元，自其进口 9730 万美元
-- 法国：苏丹对其出口 8542 万美元，自其进口 2627 万美元
-- 新加坡：苏丹对其出口 9502 万美元，自其进口 26 万美元
-
 ## 发布旅行建议的外国政府
 
 - 美国国务院：Sudan - Level 4: Do Not Travel。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.sdn.html

@@ -77,7 +77,7 @@
 - 非居民专利申请（件）：38.00（2024 年）
 - 高技术出口占制成品出口（%）：3.15（2024 年）
 - 高技术出口（现价美元）：6698 万美元（2024 年）
-- 2025 年有本国作者参与的论文约 15,140 篇（OpenAlex），主要学科：Medicine（3,130）、Social Sciences（2,682）、Agricultural and Biological Sciences（2,252）、Environmental Science（1,233）、Business, Management and Accounting（1,197）、Economics, Econometrics and Finance（751）、Arts and Humanities（485）、Engineering（472）
+- 2025 年有本国作者参与的论文约 16,075 篇（OpenAlex），主要学科：Medicine（3,141）、Social Sciences（3,008）、Agricultural and Biological Sciences（2,298）、Business, Management and Accounting（1,351）、Environmental Science（1,302）、Economics, Econometrics and Finance（901）、Arts and Humanities（513）、Engineering（492）
 - 旺加里·马塔伊（Wangari Muta Maathai）：诺贝尔和平奖，2004 年
 来源：世界银行开放数据（论文数据来自美国国家科学基金会，专利来自 WIPO）；OpenAlex（CC0）；Wikidata（CC0）。
 

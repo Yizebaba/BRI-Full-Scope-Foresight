@@ -8,7 +8,7 @@
 - 政府首脑：西里尔·拉马福萨（Cyril Ramaphosa）；职位：南非总统（President of South Africa）
 - 立法机构：南非议会（Parliament of South Africa）
 - 中央银行：南非储备银行（South African Reserve Bank）
-- 首都：开普敦（Cape Town）、比勒陀利亚（Pretoria）、布隆方丹（Bloemfontein）；货币：南非兰特（rand）；官方语言：英语（English）、祖鲁语（Zulu）、科萨语（Xhosa）、南非手语（South African Sign Language）、文达语（Venda）、北索托语（Northern Sotho）、阿非利卡语（Afrikaans）、索托语（Sesotho）、南恩德贝莱语（Southern Ndebele）、斯瓦蒂语（Swazi）、茨瓦纳语（Tswana）、聪加语（Tsonga）
+- 首都：开普敦（Cape Town）、比勒陀利亚（Pretoria）、布隆方丹（Bloemfontein）；货币：南非兰特（rand）；官方语言：英语（English）、祖鲁语（Zulu）、阿非利卡语（Afrikaans）、南非手语（South African Sign Language）、科萨语（Xhosa）、斯瓦蒂语（Swazi）、北索托语（Northern Sotho）、茨瓦纳语（Tswana）、文达语（Venda）、聪加语（Tsonga）、索托语（Sesotho）、南恩德贝莱语（Southern Ndebele）
 
 ## 经济与社会指标（世界银行开放数据，各取最近一个有值的年份）
 
@@ -78,7 +78,7 @@
 - 非居民专利申请（件）：8,549（2024 年）
 - 高技术出口占制成品出口（%）：5.71（2024 年）
 - 高技术出口（现价美元）：24.54 亿美元（2024 年）
-- 2025 年有本国作者参与的论文约 51,581 篇（OpenAlex），主要学科：Social Sciences（10,511）、Medicine（8,476）、Agricultural and Biological Sciences（3,958）、Environmental Science（3,720）、Engineering（3,498）、Business, Management and Accounting（2,788）、Arts and Humanities（2,240）、Computer Science（2,102）
+- 2025 年有本国作者参与的论文约 53,760 篇（OpenAlex），主要学科：Social Sciences（11,137）、Medicine（8,726）、Agricultural and Biological Sciences（4,151）、Environmental Science（3,901）、Engineering（3,601）、Business, Management and Accounting（2,968）、Arts and Humanities（2,311）、Computer Science（2,177）
 - 纳维·皮莱（Navanethem Pillay）：诺贝尔和平奖，2026 年
 - 迈克尔·莱维特（Michael Levitt）：诺贝尔化学奖，2013 年
 - 约翰·马克斯维尔·库切（J. M. Coetzee）：诺贝尔文学奖，2003 年
