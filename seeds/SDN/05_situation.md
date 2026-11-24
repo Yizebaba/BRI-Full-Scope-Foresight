@@ -16,7 +16,7 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
-- 2026-11-17 00:00 UTC：Green 级 WF，Forest fires in South Sudan, Sudan。https://www.gdacs.org/report.aspx?eventid=1033996&episodeid=8&eventtype=WF 
+- 2026-11-17 00:00 UTC：Green 级 WF，Forest fires in South Sudan, Sudan。https://www.gdacs.org/report.aspx?eventid=1033996&episodeid=9&eventtype=WF 
 - 2026-11-14 00:00 UTC：Green 级 WF，Forest fires in Sudan, South Sudan。https://www.gdacs.org/report.aspx?eventid=1033877&episodeid=9&eventtype=WF 
 - 2026-11-09 00:00 UTC：Green 级 WF，Forest fires in Ethiopia, Sudan。https://www.gdacs.org/report.aspx?eventid=1033961&episodeid=4&eventtype=WF 
 - 2026-11-08 00:00 UTC：Green 级 WF，Forest fires in Sudan。https://www.gdacs.org/report.aspx?eventid=1033867&episodeid=8&eventtype=WF 

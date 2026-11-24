@@ -9,7 +9,3 @@
 
 - 2026-11-22 21:47 UTC：M4.5，54 km NNE of Calama, Chile。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucuj 
 - 2026-11-21 01:24 UTC：M4.7，38 km NE of Calama, Chile。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucg8 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-11-22 21:47 UTC：Green 级 EQ，Earthquake in Chile。https://www.gdacs.org/report.aspx?eventid=1578763&episodeid=1748175&eventtype=EQ 
