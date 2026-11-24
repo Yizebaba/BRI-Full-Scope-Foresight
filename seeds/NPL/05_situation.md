@@ -17,7 +17,7 @@
 
 - 2026-11-24 01:32 UTC：Green 级 EQ，Earthquake in Nepal。https://www.gdacs.org/report.aspx?eventid=1578952&episodeid=1748389&eventtype=EQ 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-24 06:20 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-24 18:12 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -25,79 +25,27 @@
 
 - 美国国务院旅行建议：Nepal - Level 2: Exercise Increased Caution（发布 Fri, 04 Sep 2026）。来源：https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html 
 - 英国外交部旅行建议最近更新于 2026-10-01 13:09 UTC，更新说明：Removal of information about the Family Assistance Centre at the British Embassy Kathmandu (‘Warnings and insurance’ page).。来源：https://www.gov.uk/foreign-travel-advice/nepal 
-- IODA 近 7 天记录到全国性网络中断告警 4 条。来源：IODA 互联网中断检测（佐治亚理工），https://ioda.inetintel.cc.gatech.edu/
+- IODA 近 7 天记录到全国性网络中断告警 2 条。来源：IODA 互联网中断检测（佐治亚理工），https://ioda.inetintel.cc.gatech.edu/
 
 ## 沙布鲁贝西—热索瓦加迪公路
 
 周边自然事件（地震 150 km、灾害警报 300 km、NASA 自然事件 150 km 以内）：
 - 2026-11-24 01:32 UTC，GDACS：Green 级 · Earthquake in Nepal，距项目 256.8 km。https://www.gdacs.org/report.aspx?eventid=1578952&episodeid=1748389&eventtype=EQ
 
-近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-11-21 19:32 UTC：Nepal urges China to reopen Tatopani border crossing as Rasuwagadhi remains shut after floods - Prop News Time。https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRzAxUDlMZUNfQ0N3Y3FSMGZUZTJzbUYzVzN4SURabjJnOFRJeVNwbnUwZkxpTnVNTlpoVUZ1RlJKdjF0V1Vya1pkR3Z3NVRyU1pkQmVzdnNDblJaWUJLSXlSSWZjaDNSVE00dXdlQ3ByR08tYlpWVVNlMUpxbUh0eHp0TmowMUpMMEVBRi1lYWd3RmJSZWN6eHZYRnZ5aDBqYmRSRUw3V01ucmhXVk9SaDBNczBaa19xSjRaNTlobjFXMGFYR3ZmZE1rNFN2YTRGVWpWbHZTOWRmUlRYeUE?oc=5
-- 2026-11-18 11:48 UTC：APTOPIX Climate COP31 Nepal Flooding - Bluefield Daily Telegraph。https://news.google.com/rss/articles/CBMizAFBVV95cUxQY21rR29JQlNYNHJDZXhJLXl0OFFDN1VvWWFSS2RDd2VUZFlpMHZkeFdpd1JKSjE1S3FVNF9mYUZhcHdxVzBNSHltbUZJb0RGWGZfS2haZEhwQWROZFMwM0kyNk9fTHpfMS1hVEUwSlBzTk04RG92bFBXVFFEdFF0aVBvU1VubGxzc0pjQzRlQVJoU01KTERfVVBXeEdzbzEyRURldm5rdmdLRXhFS3FLa3c1ZEhJUXN2TC1PTUd3Y1RQR2k2YzV6TnU3STY?oc=5
-- 2026-11-18 05:08 UTC：Nepal-Tibet flood death toll surpasses 900, officials say, more than 4,700 missing - ABC30 Fresno。https://news.google.com/rss/articles/CBMihxNBVV95cUxQbkZmM0tWY3BxTzJNYU9qWXhsdG1oaEg4SEhPUkhfVi1mZUxYZ2M4OFRZbzZWNF95UFlEZm5CSHJfNERieHo5dEtLM2drNWUwNzMwR3FhU0F3amdKVHVSMDhBd0tpT3ZXcnREeld1M2Y4U3I2dnBOdUxFX1ExVl9uQmNFZ1RFQVplaHFGZ2VzajJZbnFYRzYxRUc5ekx6WER5VkZFRkJqOVRBVnZNWVZpUHo4aDUwY0VhZVJldkxDTEwwMU1HNmRVajJGT29OS0U5YmY0bURwbWxiUHZ4N1pFS055ZU5BbzZnNXNNS016eDRYNmx1OXVNQ1JMUjNuZ2I0ZHQwMzhrU3hYaFp0Vkc4aGZHcV9pY1FWRDlpbWx1VUtZVFR1MzAtNHlPbTZFNXlLMC05R29Ea3luVW5HdlZKamZIVU55Um8tbnF1UVJ1UERQVmZmV2MxUGlvR1dWT0Myak5nb3h3aW44a2l3QzdtRGtKXzM1NXEwTGNURktQNXZWOUFwX1M3SlZubjFCUG9qR0pLcFd1bTdkLWl4Z29UbGJCLUVlM3hoVWxlTDlZbEJ6TmtUeEtMU0Ftazk0OXJfUFpUZHRvQUR4QTc1Wmh3UVdvd2VfZng4VjUwd2pab2t1X3Yya3Bza2tOeTZFS0lZZHRGdUhBYXJFeXJlOVdMWW96b2FSWmRMc0ZMU3FsQkxQX1hxbE1HajBKeExqXzg1Ymh2SzU4cFhnVFBJSTBFOW9ZOUd1ZVl0Qmh5S1h4WGNXNW9BQ0FOVDRwelBkV203dWRPbWpRX0I1RHljR1IxeEZjT1h2U1pTSV9jVm5vMU5IREpCQS12ZFRZdXhUaTJuQjlncHg0cU9XTTdXdUhUN2lwWmEyeGdiQndSNUotNXdWZndzcHRQSlpuajd6VFNnU2E1dy1BOEo4NTNHZTJkbXhwR1ZSbk1ESlJxNlJ6RmNZRFFJZmZodFVudHNwbDFORUJTa1kwSWpodzBObDBUalVWaEF5OENFT1ZGbWlMeU1nQlhMdzFKZXB1d2FrUW0xZFVzLXBSR0ZFSkFwMHoxRXBFZ3I2SmJqZ1loUFFPdnJHWHE4ZUlSUG5IR21pNk1TQ2ZYbW9icTMySjhFV1V6NTNPZWw2a0FuMmVPc0pBMzFhVHNBYTUzOFBreU9rOGdweEp5LTl2V3h2dDRfYWFCQU51ZmRPbGRObDVHSFlwc0Q1YmpfVjZWMDg1dmVwdzZvQnRsQ0M0cmptWHRhVDJIcldrZmhmOEV1eVVfMmpkcEF3TmQwOF9tdUJwdkszcnctQmlLeEY4dXhJeFB3RF9uOV9lcmR3MHc5T0tOcWhOOWhVYnA5andYSTdIaWM5TWo0b1JjRlhKMkNPanUyNGRBZUkxYmFaYkQ5ZWRtOTRZWEluRElkZC1YQ2hoaEVLU0dYNjBwcUIxRE9fNE1LTk40VzN1VEhRcGdSdTl4ZGRUS19xLVQ4NGJPWC16OGplRkZQN0h6aFc5akptMnZpTkgzRkdydE45Y3VNQnpEYU9xUmxMYUZfZ1BFc3BsWFE2WkxOTkVvSkhuTkdWSWZWWDdSQ3N3aHRtNWNfbU1DaXloZFpRMGRJeTluczVsaUVZZFZPX1FlbkVIN1dJeUhFeFFhTGtWaS1IVmtjblQ3VmZJRzREZXFjUkpFSmNOczlRWjJzbFVJZGJGaGdtT0xDVFpwYXNvTTdmWXJrVHlPSkQyZ1BpRlpFUDRVNFhCT0RaVnhZZ3IwOGFOaFo5UFp4UHNnRnY5S2QxUGNHX2lOWGZ0ZFdXa1VCR1gwSkhmcVNvemJEcVVjcnNKdFNFekEtUmRESGlsSURBS2thQ3VPeWN1OWRYNDRhb2JuVUxNU2dvanhVNXlsTEIzNEUwaFVWc0RaNzIzUkw3R0k2UG1vWW5zLVlhc25hbXNoNzh3Y0UxM3dJRjRtcUZNdHBDM2lsb2FkRGV0UEEtbVBGbndIMkVsdi0xS3lwZGFiUWQ3S2pobFNNUXp0eWhKbE11QzZEY3RSZVZnVTZ0QTlkYnpUanFua2pZYVZHZTdramwyTVl2andRbWRHcEJ5RkhjQ2tfODdyRUZJNU1ESDBBYjBVUzNONG54YWdHc1NfYXd2Zkh2ZU9ZbmF0Q1Q5Y0w1YzZXZHVFWUVJRkhlV1pZeUVETTQ1dWlZc0lHeG1iMlF3b01PdU5WbFlTZl9xRGlMeDVkVmVpYjdRbWFTT05rdGNiT3FhSTBBczNfV3RvUERPanVwRVlETGJjSlZFblUwX2lOVmlxUUxUdUJrSFZJQzRIQnNVV3VBN0tmY0lLT3E4bk1xd1NiZDVvUklCMHJyWUI0WHlXSGtxWUxzWDhGYmQ4N0pJaGNxSVk0X2ktVUd3a0p0Z1dMZXlWWjFFVFM5VlhxcTJibGJVQmxwOVdQXzNoY3V3Z2IwdmdMaW9VTDMzd2xaYWQtVkdIZnFrYXBvaHM3Y29sRFY2SnBTUWlUTy1JU0kwTlJ5T2dsTWhzLVpvcF81Q09qY0xZallEWktyVXBlVEtYN2RRcmxadk9ZUXF4OFpYYWM3R3Z0d2NjbGktWjBjSXhjLWJ4ZXFEM1RJTHZxc0FLM2hrMUhDeHRPYXY0VWhweUFBYjJKaXRtLUUxSnQ5Vk44TW1tTkxFX25zUWN0SkVBdGJkWTZsLTBjUlJpLU5idDFVQnlfNFBLNzNPSk5YSF8zbFNjMXNvN3lPZU9yMHl5bEs1ZjNBUUpfRE53SHRjLWFIc2lNbmFTMU1kN0UtYmRFenlUOW9sLXBaenVacjJwaFUxbmdlUk4xM3RoYk9DNjJtWTFlZHpTRHMtZHFvS0prMllpdEJsTC1NM1FtcWp5UFg0ZERva1dMQ0xaTWZ2TXNlMzBSMjNyWXVPamNsTzktbk1GY3QxcHl5c011VGp4YmJIcUpOSzA4RS1lM0ZnSGtCYTkxeW11Uk1INlFSNzZOcDVlaUUycl9yTjJuUjRZdHVtc1Fpb3dwRVRUS3NBeHV0SG1oYVNJN19EdW1iSkxVZnB6LWktQWNtS2d1NUhsMmFTWVdzek9EM2ZpQWNhQzRuanpQNkcxLXB2cnZtNlJzQXdQZVJKLXlPSEJZMk4wdDZjdlcwY1FsaFppRzdVUWdObF9vWnJ6VGpBZ2RuS2djRFdqNVpURWZDdnd6TnZlb3F4VXRpb092OEhhdTg5dERIQ1ZVU01ZU2kzb2kyS0lGc18tekkyT3lKV1lJRk56NzJfemVDcWc?oc=5
-- 2026-11-17 14:57 UTC：Nepal’s Deadliest Glacier Collapse Exposes Larger Risks - Columbia University。https://news.google.com/rss/articles/CBMiogFBVV95cUxNYVRxOVpNY2JCOEJzXzFsSGI0WWd5eU1aclFEei0tamVjVE5SbGptYTZoUWt1ZnF6a0ZKdlVaUzEzc0E4ZUtfTktkeC1vOGNMNkduaXFnQkowTG55X0RETG1iNDRicFIxbXoyWWFJQ2w3LTRHNGJ1Q3pGbU9CRHZsZXI2N25UaXp4THJhbEFycDZTd3VFeldYR2ItaWNaNFB6U2c?oc=5
-
-近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-23 14:50 UTC：Seven Thousand Electric Vehicles Imported Through Korala Pass in Four Months - Ratopati
-- 2026-11-22 10:53 UTC：Korala border sees 7,000 electric vehicle imports in four months - The Himalayan Times
-- 2026-11-19 15:59 UTC：Foreign Minister Khanal stresses immediate reopening of Tatopani border point - The Rising Nepal
-- 2026-11-19 11:55 UTC：Foreign minister requests China to reopen Tatopani border point immediately - OnlineKhabar English News
-- 2026-11-19 10:35 UTC：Xi calls on China, US and Russia to work together to address global challenges - OnlineKhabar English News
-- 2026-11-19 00:32 UTC：FM Khanal urges China for opening of Tatopani border - The Rising Nepal
-- 2026-11-19 00:15 UTC：A Diplomatic Push for Tatopani - myRepublica
-- 2026-11-18 16:32 UTC：Nepal asks China to immediately reopen Tatopani border point - PSU Watch
-
 ## 热索瓦加迪（Timure）口岸边检站
 
 周边自然事件（地震 150 km、灾害警报 300 km、NASA 自然事件 150 km 以内）：
 - 2026-11-24 01:32 UTC，GDACS：Green 级 · Earthquake in Nepal，距项目 257.5 km。https://www.gdacs.org/report.aspx?eventid=1578952&episodeid=1748389&eventtype=EQ
-
-近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-11-21 19:32 UTC：Nepal urges China to reopen Tatopani border crossing as Rasuwagadhi remains shut after floods - Prop News Time。https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRzAxUDlMZUNfQ0N3Y3FSMGZUZTJzbUYzVzN4SURabjJnOFRJeVNwbnUwZkxpTnVNTlpoVUZ1RlJKdjF0V1Vya1pkR3Z3NVRyU1pkQmVzdnNDblJaWUJLSXlSSWZjaDNSVE00dXdlQ3ByR08tYlpWVVNlMUpxbUh0eHp0TmowMUpMMEVBRi1lYWd3RmJSZWN6eHZYRnZ5aDBqYmRSRUw3V01ucmhXVk9SaDBNczBaa19xSjRaNTlobjFXMGFYR3ZmZE1rNFN2YTRGVWpWbHZTOWRmUlRYeUE?oc=5
-- 2026-11-19 12:03 UTC：China working to provide flood relief, rebuild infrastructure and reopen Kerung border point - OnlineKhabar English News。https://news.google.com/rss/articles/CBMidEFVX3lxTE5vaURnQ210U0VIQVhBYXNnSkFVLWU4NldGNFBWT3VabGNjTmdRUFh0RGU2Z3Z2TXppMGhybHB6dXc0cGo2dUdtN0ZMMXdVM05zbEV1QTdYMnlrT28wcmNLSkRpMHQ3WkswLU9mVWNUQlE2b2k1?oc=5
-- 2026-11-18 11:58 UTC：Timure flood victims return home, begin living in temporary tents :: RSS - Setopati。https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RNUxCOUNuMnpyUWNqVHI0VVlRWUgzZlM5ZWFqa0Rta21VTVJJVndMZUptUXFkZlJ5UThZRWZBeUNzbk9vUENmbGhHNUt6dw?oc=5
-- 2026-11-18 11:40 UTC：Timure flood victims return to native place to live in tents - Nepalnews.com。https://news.google.com/rss/articles/CBMiowFBVV95cUxONThTMGFuYkhxTWtnX1Y2THFuTF9lODREYVJTc25VLTd3Q3gtdUtOUEFzN0ZYM0IwSUQ5T1RmTVlZNC1QWHZHaXp1WmxyblN1eC1XOXRJRDNkX0V5MVg2OW5OVC1ZbGJ0RkphZ1d3RVdDTVhWbnJMVHFWaklwbkFTVm5uR1FoQmdNMWd4MC12UkVodGZNQzQtSm8zZWtJNzQxbklr?oc=5
-- 2026-11-18 09:24 UTC：Flood-displaced families return to Timure and set up temporary tents - OnlineKhabar English News。https://news.google.com/rss/articles/CBMiqgFBVV95cUxOelMxc09VUmh5cXBHUzZFbWZlcVQ3SU9WbXdIMkJ4bWxXSHA2WUNEZ083SDczNGFyQWlsa3dfdlU5Qmc2cThKU2ZrNDRKMFgxZmJNcmFkTVF4eEVGempZVjh0X3R5UkI0RUpJSUxWY3NRaDVzOVlQckVMam1uLTV3dEVuLTcteFRzaGhEUmRTWnh6QjQ0YUdJMHUxejJpWGVVYmE2NXZNaXBRZw?oc=5
-- 2026-11-18 09:24 UTC：Flood-displaced families return to Timure and set up temporary tents - Hamro Patro。https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeU9PWUd4WGExOWExSHI0a3JsZGxla2I4V3VCa2taaU9icEpCTkg3MHlrb0kzR0pjZmY3bUN0RWMyY2VPRlFSUmkyWkIwNUNoU0x2LWdERFdsR25aSGt3c1NZWFhYWmRQZnBjTkRMc1J6ZHNMVWthdlh2MGJhWHlraS1VZS1WTjRGUW1IM2VqYUxScU90RkhrZW9ZZVkyT25uY3pjYmNjUmRLby1QTWZVbXFSSW5uOWlBcFdZYnRRRzJZUQ?oc=5
-- 2026-11-18 05:08 UTC：Nepal-Tibet flood death toll surpasses 900, officials say, more than 4,700 missing - ABC30 Fresno。https://news.google.com/rss/articles/CBMihxNBVV95cUxQbkZmM0tWY3BxTzJNYU9qWXhsdG1oaEg4SEhPUkhfVi1mZUxYZ2M4OFRZbzZWNF95UFlEZm5CSHJfNERieHo5dEtLM2drNWUwNzMwR3FhU0F3amdKVHVSMDhBd0tpT3ZXcnREeld1M2Y4U3I2dnBOdUxFX1ExVl9uQmNFZ1RFQVplaHFGZ2VzajJZbnFYRzYxRUc5ekx6WER5VkZFRkJqOVRBVnZNWVZpUHo4aDUwY0VhZVJldkxDTEwwMU1HNmRVajJGT29OS0U5YmY0bURwbWxiUHZ4N1pFS055ZU5BbzZnNXNNS016eDRYNmx1OXVNQ1JMUjNuZ2I0ZHQwMzhrU3hYaFp0Vkc4aGZHcV9pY1FWRDlpbWx1VUtZVFR1MzAtNHlPbTZFNXlLMC05R29Ea3luVW5HdlZKamZIVU55Um8tbnF1UVJ1UERQVmZmV2MxUGlvR1dWT0Myak5nb3h3aW44a2l3QzdtRGtKXzM1NXEwTGNURktQNXZWOUFwX1M3SlZubjFCUG9qR0pLcFd1bTdkLWl4Z29UbGJCLUVlM3hoVWxlTDlZbEJ6TmtUeEtMU0Ftazk0OXJfUFpUZHRvQUR4QTc1Wmh3UVdvd2VfZng4VjUwd2pab2t1X3Yya3Bza2tOeTZFS0lZZHRGdUhBYXJFeXJlOVdMWW96b2FSWmRMc0ZMU3FsQkxQX1hxbE1HajBKeExqXzg1Ymh2SzU4cFhnVFBJSTBFOW9ZOUd1ZVl0Qmh5S1h4WGNXNW9BQ0FOVDRwelBkV203dWRPbWpRX0I1RHljR1IxeEZjT1h2U1pTSV9jVm5vMU5IREpCQS12ZFRZdXhUaTJuQjlncHg0cU9XTTdXdUhUN2lwWmEyeGdiQndSNUotNXdWZndzcHRQSlpuajd6VFNnU2E1dy1BOEo4NTNHZTJkbXhwR1ZSbk1ESlJxNlJ6RmNZRFFJZmZodFVudHNwbDFORUJTa1kwSWpodzBObDBUalVWaEF5OENFT1ZGbWlMeU1nQlhMdzFKZXB1d2FrUW0xZFVzLXBSR0ZFSkFwMHoxRXBFZ3I2SmJqZ1loUFFPdnJHWHE4ZUlSUG5IR21pNk1TQ2ZYbW9icTMySjhFV1V6NTNPZWw2a0FuMmVPc0pBMzFhVHNBYTUzOFBreU9rOGdweEp5LTl2V3h2dDRfYWFCQU51ZmRPbGRObDVHSFlwc0Q1YmpfVjZWMDg1dmVwdzZvQnRsQ0M0cmptWHRhVDJIcldrZmhmOEV1eVVfMmpkcEF3TmQwOF9tdUJwdkszcnctQmlLeEY4dXhJeFB3RF9uOV9lcmR3MHc5T0tOcWhOOWhVYnA5andYSTdIaWM5TWo0b1JjRlhKMkNPanUyNGRBZUkxYmFaYkQ5ZWRtOTRZWEluRElkZC1YQ2hoaEVLU0dYNjBwcUIxRE9fNE1LTk40VzN1VEhRcGdSdTl4ZGRUS19xLVQ4NGJPWC16OGplRkZQN0h6aFc5akptMnZpTkgzRkdydE45Y3VNQnpEYU9xUmxMYUZfZ1BFc3BsWFE2WkxOTkVvSkhuTkdWSWZWWDdSQ3N3aHRtNWNfbU1DaXloZFpRMGRJeTluczVsaUVZZFZPX1FlbkVIN1dJeUhFeFFhTGtWaS1IVmtjblQ3VmZJRzREZXFjUkpFSmNOczlRWjJzbFVJZGJGaGdtT0xDVFpwYXNvTTdmWXJrVHlPSkQyZ1BpRlpFUDRVNFhCT0RaVnhZZ3IwOGFOaFo5UFp4UHNnRnY5S2QxUGNHX2lOWGZ0ZFdXa1VCR1gwSkhmcVNvemJEcVVjcnNKdFNFekEtUmRESGlsSURBS2thQ3VPeWN1OWRYNDRhb2JuVUxNU2dvanhVNXlsTEIzNEUwaFVWc0RaNzIzUkw3R0k2UG1vWW5zLVlhc25hbXNoNzh3Y0UxM3dJRjRtcUZNdHBDM2lsb2FkRGV0UEEtbVBGbndIMkVsdi0xS3lwZGFiUWQ3S2pobFNNUXp0eWhKbE11QzZEY3RSZVZnVTZ0QTlkYnpUanFua2pZYVZHZTdramwyTVl2andRbWRHcEJ5RkhjQ2tfODdyRUZJNU1ESDBBYjBVUzNONG54YWdHc1NfYXd2Zkh2ZU9ZbmF0Q1Q5Y0w1YzZXZHVFWUVJRkhlV1pZeUVETTQ1dWlZc0lHeG1iMlF3b01PdU5WbFlTZl9xRGlMeDVkVmVpYjdRbWFTT05rdGNiT3FhSTBBczNfV3RvUERPanVwRVlETGJjSlZFblUwX2lOVmlxUUxUdUJrSFZJQzRIQnNVV3VBN0tmY0lLT3E4bk1xd1NiZDVvUklCMHJyWUI0WHlXSGtxWUxzWDhGYmQ4N0pJaGNxSVk0X2ktVUd3a0p0Z1dMZXlWWjFFVFM5VlhxcTJibGJVQmxwOVdQXzNoY3V3Z2IwdmdMaW9VTDMzd2xaYWQtVkdIZnFrYXBvaHM3Y29sRFY2SnBTUWlUTy1JU0kwTlJ5T2dsTWhzLVpvcF81Q09qY0xZallEWktyVXBlVEtYN2RRcmxadk9ZUXF4OFpYYWM3R3Z0d2NjbGktWjBjSXhjLWJ4ZXFEM1RJTHZxc0FLM2hrMUhDeHRPYXY0VWhweUFBYjJKaXRtLUUxSnQ5Vk44TW1tTkxFX25zUWN0SkVBdGJkWTZsLTBjUlJpLU5idDFVQnlfNFBLNzNPSk5YSF8zbFNjMXNvN3lPZU9yMHl5bEs1ZjNBUUpfRE53SHRjLWFIc2lNbmFTMU1kN0UtYmRFenlUOW9sLXBaenVacjJwaFUxbmdlUk4xM3RoYk9DNjJtWTFlZHpTRHMtZHFvS0prMllpdEJsTC1NM1FtcWp5UFg0ZERva1dMQ0xaTWZ2TXNlMzBSMjNyWXVPamNsTzktbk1GY3QxcHl5c011VGp4YmJIcUpOSzA4RS1lM0ZnSGtCYTkxeW11Uk1INlFSNzZOcDVlaUUycl9yTjJuUjRZdHVtc1Fpb3dwRVRUS3NBeHV0SG1oYVNJN19EdW1iSkxVZnB6LWktQWNtS2d1NUhsMmFTWVdzek9EM2ZpQWNhQzRuanpQNkcxLXB2cnZtNlJzQXdQZVJKLXlPSEJZMk4wdDZjdlcwY1FsaFppRzdVUWdObF9vWnJ6VGpBZ2RuS2djRFdqNVpURWZDdnd6TnZlb3F4VXRpb092OEhhdTg5dERIQ1ZVU01ZU2kzb2kyS0lGc18tekkyT3lKV1lJRk56NzJfemVDcWc?oc=5
-- 2026-11-17 14:57 UTC：Nepal’s Deadliest Glacier Collapse Exposes Larger Risks - Columbia University。https://news.google.com/rss/articles/CBMiogFBVV95cUxNYVRxOVpNY2JCOEJzXzFsSGI0WWd5eU1aclFEei0tamVjVE5SbGptYTZoUWt1ZnF6a0ZKdlVaUzEzc0E4ZUtfTktkeC1vOGNMNkduaXFnQkowTG55X0RETG1iNDRicFIxbXoyWWFJQ2w3LTRHNGJ1Q3pGbU9CRHZsZXI2N25UaXp4THJhbEFycDZTd3VFeldYR2ItaWNaNFB6U2c?oc=5
-
-近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-22 10:53 UTC：Korala border sees 7,000 electric vehicle imports in four months - The Himalayan Times
-- 2026-11-22 10:48 UTC：EV imports surge through Korala border in four months, customs revenue exceeds target - OnlineKhabar English News
-- 2026-11-19 15:59 UTC：Foreign Minister Khanal stresses immediate reopening of Tatopani border point - The Rising Nepal
-- 2026-11-19 11:55 UTC：Foreign minister requests China to reopen Tatopani border point immediately - OnlineKhabar English News
-- 2026-11-19 10:35 UTC：Xi calls on China, US and Russia to work together to address global challenges - OnlineKhabar English News
-- 2026-11-19 00:32 UTC：FM Khanal urges China for opening of Tatopani border - The Rising Nepal
-- 2026-11-18 16:32 UTC：Nepal asks China to immediately reopen Tatopani border point - PSU Watch
-- 2026-11-18 13:06 UTC：When mountains fall faster than
-warnings travel - The New Indian Express
 
 ## 上特里苏利 3A 水电站（60 MW）
 
 周边自然事件（地震 150 km、灾害警报 300 km、NASA 自然事件 150 km 以内）：
 - 2026-11-24 01:32 UTC，GDACS：Green 级 · Earthquake in Nepal，距项目 270.4 km。https://www.gdacs.org/report.aspx?eventid=1578952&episodeid=1748389&eventtype=EQ
 
-近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-11-22 23:17 UTC：Nepal: Two pulled alive from tunnel nine days after floods - DW.com。https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkpnY1dtSFdKcnN3RERtaEZlemJSekRuaEY1ZW9DWFkyNndac0xHR2V1ck5seHV3RUZoWmlUQWU3ckpvenB5dUhQYmV5a3JLOWRvdnVUc1BtdmNVR2NRNFpleGFmSVJWOGJYRFl3RFFpZWVBbXJENENRam9BZU5sQnJXdF9NT243VGhBSVI1ck9NMkVs0gGUAUFVX3lxTE9nNTMwTWRlQk5JaUc4YmJGUnljNVJoT0dVVDhIaDl2ZXA3MFRqVnRVTXItVndDR3cxUTBEUDhUSDVrdHhGTy1BWktNSWFYNmNHaGlXazhCOXR5TkdmN2ZHYVE2Nnpqa1dVV0lxeUYzaHBKOVM5TW9Wb2dTaVhncGpkNHhPNnRibmVpR21nSXJiNzlxVW4?oc=5
-- 2026-11-22 11:25 UTC：Nepal flood losses estimated at $2.56 billion, official says - Awani International。https://news.google.com/rss/articles/CBMipgFBVV95cUxPZFFVak1GQzdiYUhYanluVk1FQjBtNzBwTU9lSktvRmpNTkpNeF9xa2pPTzE0TmZTdTRMTG5aUVpzMV9BQU5wQWJ5dHVCTl9Wb1p4VXg1SWdBdmFRUFNsV2VrODJla3M3ZUwxWlM0aDNWd1RoSk9LcUNnczdTU294a2JnSEI2YjByQ3hYZkNrbURBZGx4VGVYX3F3TDE3RHk0N2RXNmJB?oc=5
-
-近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-20 15:47 UTC：Lessons from the Nepal Dam Disaster: Fix, Don’t Abandon Hydropower - Center for Global Development
-
 ## 上特里苏利 3A—加德满都 220 kV 输电线
 
 周边自然事件（地震 150 km、灾害警报 300 km、NASA 自然事件 150 km 以内）：
 - 2026-11-24 01:32 UTC，GDACS：Green 级 · Earthquake in Nepal，距项目 263.0 km。https://www.gdacs.org/report.aspx?eventid=1578952&episodeid=1748389&eventtype=EQ
-
-近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-18 05:41 UTC：Nepal to seek Indian approval to export electricity from Upper Tamakoshi during PM Shah's visit - OnlineKhabar English News
-- 2026-11-18 04:00 UTC：Nepal Gets India's Approval for 350 MW Power Import as Winter Shortage Looms - Newstrack English
-- 2026-11-18 01:01 UTC：NEA gets approval to import 350 MW, export 56 MW of electricity - The Rising Nepal
-- 2026-11-17 16:53 UTC：Nepal Secures Approval To Import 350 MW Of Power From India This Winter - Ommcom News
-- 2026-11-17 15:23 UTC：NEA receives approval to import 350 MW of electricity from India and export 56 MW - myRepublica
-- 2026-11-17 09:50 UTC：NEA gets approval to import 350 MW of electricity from India this winter - OnlineKhabar English News
 
 ## 吉隆—加德满都跨境铁路（规划）
 

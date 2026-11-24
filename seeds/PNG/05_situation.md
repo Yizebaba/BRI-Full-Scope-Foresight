@@ -11,7 +11,6 @@
 - 2026-11-20 05:17 UTC：M4.9，54 km W of Madang, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc6c 
 - 2026-11-19 10:53 UTC：M5，31 km WSW of Rabaul, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubz1 
 - 2026-11-18 03:42 UTC：M5.8，99 km ESE of Madang, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyx2 
-- 2026-11-17 12:26 UTC：M4.5，95 km W of Alotau, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tysa 
 
 ## 灾害警报（GDACS，近 14 天）
 

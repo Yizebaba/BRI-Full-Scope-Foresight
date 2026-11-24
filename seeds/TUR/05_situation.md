@@ -9,3 +9,11 @@
 ## 各国政府旅行建议更新（经 World Monitor）
 
 - 2026-10-19 15:55 UTC：UK FCDO Turkey。https://www.gov.uk/foreign-travel-advice/turkey 
+
+## 地震（USGS，M4.5+，近 7 天）
+
+- 2026-11-24 15:39 UTC：M4.7，18 km ESE of Güvercinlik, Turkey。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud7z 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-11-24 15:39 UTC：Green 级 EQ，Earthquake in Turkey。https://www.gdacs.org/report.aspx?eventid=1579055&episodeid=1748500&eventtype=EQ 
