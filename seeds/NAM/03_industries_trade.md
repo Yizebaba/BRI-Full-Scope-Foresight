@@ -104,10 +104,10 @@
 | 其他贱金属（HS 81，Metals; n.e.c., cermets and articles thereof） | 5501 美元 | 6 万美元 |
 | 软木（HS 45，Cork and articles of cork） | 114 美元 | 6 万美元 |
 
-## 港口（IMF PortWatch，截至 2026-11-13 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-20 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 66 次（前 30 天 61 次），进口约 235626 公吨，出口约 264302 公吨。
-- Walvis Bay港：靠港 60 次，进口约 233733 公吨，出口约 244351 公吨
-- Luderitz Bay港：靠港 6 次，进口约 1893 公吨，出口约 19951 公吨
+全国靠港 68 次（前 30 天 60 次），进口约 358706 公吨，出口约 226014 公吨。
+- Walvis Bay港：靠港 62 次，进口约 356464 公吨，出口约 206464 公吨
+- Luderitz Bay港：靠港 6 次，进口约 2242 公吨，出口约 19550 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

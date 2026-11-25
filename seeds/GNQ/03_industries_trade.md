@@ -81,12 +81,12 @@
 | 锌及其制品（HS 79，Zinc and articles thereof） | 548 美元 | 无数据 |
 | 动植物油脂（HS 15，Animal, vegetable or microbial fats and oils and their cleavage produc） | 96 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-11-13 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-20 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 48 次（前 30 天 56 次），进口约 56074 公吨，出口约 192931 公吨。
-- Malabo港：靠港 26 次，进口约 27219 公吨，出口约 17696 公吨
-- Bata港：靠港 16 次，进口约 25557 公吨，出口约 57178 公吨
-- Luba港：靠港 5 次，进口约 3298 公吨，出口约 990 公吨
+全国靠港 43 次（前 30 天 58 次），进口约 46034 公吨，出口约 187611 公吨。
+- Malabo港：靠港 23 次，进口约 24788 公吨，出口约 9723 公吨
+- Bata港：靠港 15 次，进口约 18600 公吨，出口约 59831 公吨
+- Luba港：靠港 4 次，进口约 2646 公吨，出口约 990 公吨
 - Equatorial Guinea - Offshore Oil Terminal 2港：靠港 1 次，进口约 0 公吨，出口约 117067 公吨
 - Equatorial Guinea - Offshore Oil Terminal 1港：靠港 0 次，进口约 0 公吨，出口约 0 公吨
 - Equatorial Guinea - Offshore Oil Terminal 3港：靠港 0 次，进口约 0 公吨，出口约 0 公吨

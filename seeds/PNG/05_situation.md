@@ -14,5 +14,6 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
+- 2026-11-24 21:11 UTC：Green 级 EQ，Earthquake in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1579107&episodeid=1748556&eventtype=EQ 
 - 2026-11-23 10:39 UTC：Green 级 EQ，Earthquake in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1578851&episodeid=1748280&eventtype=EQ 
 - 2026-11-23 04:18 UTC：Green 级 EQ，Earthquake in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1578819&episodeid=1748240&eventtype=EQ 

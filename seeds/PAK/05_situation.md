@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-24 18:12 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-25 02:44 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -54,13 +54,44 @@
 
 周边自然事件：扫描期间没有记录。
 
+近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-25 00:51 UTC：CPEC: China-Pakistan Economic Corridor's Impact on Pakistan's Development and Economy - times of islamabad
+- 2026-11-22 06:17 UTC：Heavy Snowfall Cuts Off Gilgit-Baltistan Districts - Bloom Pakistan
+- 2026-11-22 00:11 UTC：Harsh winter exacerbates misery in Gilgit-Baltistan - Dawn
+
 ## 卡洛特水电站（720 MW）
 
 周边自然事件：扫描期间没有记录。
 
+近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-11-21 13:51 UTC：Why Pakistan Is Missing Out On Its 60,000 MW Hydropower Wealth - The Friday Times。https://news.google.com/rss/articles/CBMikAFBVV95cUxQTlJ5V1FqTlZ6S0huWmp1Q0RFYkZYM0twSURQQjN2UXJ4di03Z282UlAwVGd1amt5RlBIMFdjUHl2VG9QRzNiaWxPMXI4VlpqaVphaUtGUnRpb0RVcXBjZ0xpMy1KOVpLbnlnNlJjMndVZGVHS2VUNUhZcHFOVVhnNGpBUU9McGxLaWloeTNvZ3E?oc=5
+
+近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-20 11:47 UTC：Chinese Consul General in Cebu Li Nan Publishes an Article in the Irish News Titled “China’s green development benefits every corner of the world”_Ministry of Foreign Affairs of the People's Republic 
+
 ## 瓜达尔港
 
 周边自然事件：扫描期间没有记录。
+
+近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-11-23 09:01 UTC：Pakistan’s Gwadar Port Dream Collapses: From Dubai Promise To Ghost Port - DD News。https://news.google.com/rss/articles/CBMinAFBVV95cUxOeG1JUUtzbGhHa2NfQ2ZVa2JsRFVwUWRrRUtZVVFCWkRSRnF6NWxhZ0VCeE5RanpKVXRNUTdMWjlEYmpZdU1WRFpJbGpjLUFDS1NMSlAxeXQ3WlpydkRxTjJ4QVhPdUY1LU1WQ1ZEMDlOanZpaEZSSDVkclQ1Rnp1X1VXWWJXZWY3X1lqZDQ0c3BEaGxrSmFaQ2dBTUo?oc=5
+- 2026-11-20 00:18 UTC：10 killed, 27 hurt in Gwadar bus-tanker collision - Business Recorder。https://news.google.com/rss/articles/CBMikgFBVV95cUxQb0pYamItc3FSSjhCV2lwRklDc3BHTU9zNGktQ1NQWFhjTk1YNVlTTmJUWWJRS21TVkQ0NXk4QjRwaEV0VE1oOG5OSm0tTFZqMkRHUUxxMV9HX1JnZ0lQQkVHSGNYWmxZTFVmLUpaQ3hJRUowRWh0MnBzQ2ZRVWx2WEZnSmpBYy01RE9WYU1CVWZEd9IBVkFVX3lxTE1aUkM5dC1Rb25LNE9vcjlURTZiRUJjNWdEM1p3Tzc3LTg0b3lYU1BIQUNsQUU3WTA5bHhjZ0pXd1NyYzU3aGI5QUF0cEdmNFE0OVdpZm5n?oc=5
+- 2026-11-19 14:54 UTC：Gwadar coach collision ends in fire, with 10 or more dead - Minute Mirror。https://news.google.com/rss/articles/CBMilwFBVV95cUxPTWg1dFNubEpLSjFiUHcxa1RXQmliQjVPYmNJT0duc3kzb2ducEl2VUZ0ZGRYemxyNWF1ZDViWkxkY2gyNVdnb3lQOGJ2TjZzOC1hSlpyNUZVLVQ5dWl3U1hwQm8wLW50RUdJVVRmckJtZnhjTTltemZsZFd4UnpjNS1UWVRTTGVrNzlKQTJLTVVZdUJSQTN3?oc=5
+- 2026-11-19 14:54 UTC：At least 10 killed, 27 injured as coach collides with LPG bowser in Gwadar - The Express Tribune。https://news.google.com/rss/articles/CBMirwFBVV95cUxPZEhSLTZGNmFCSXdBWGNDWkFnY1BBNFFmck95ellRaGc2eUVMc3BKdktKVzRRMWd6dndFOVJGMy1mVWlnQVFuOVNiY1o3TWFMU1Zad2JpaFRJb0NSUTl2VUkyejJieTRmLVJoVWJjVm1jeG1YWFlNTGkteU5kS2hVdFVrcGJ0bmFIVXpyTTR0aGNpWWRRVWhTaG1HRGpvY05yak03TDhfdHV0dTNHMUx3?oc=5
+- 2026-11-19 11:40 UTC：Gwadar bus-tanker collision kills 10, leaves 27 injured on Makran Highway - samaa tv。https://news.google.com/rss/articles/CBMipwFBVV95cUxNOE0tYUI4d3NXN0hWTHBPSFRvblc5cS1Kb3ZmaEMxbFdWa2tYSUh4T1VjR0VEQ19WdXZ4V29SZmM3bWFraEtxcTJrcmhHUGVSb2g4UnRCLWdIYjlLQURfRnB1QmUxX1JtT2pZV3pPUmhTdGFpMnA5YnVWekd5QUl0S2pPR1F2Q2U0ZjRLMzJ4all2b2Z0T2Y0bWVPcnZqeFVsYkwwOW9pQQ?oc=5
+- 2026-11-19 10:58 UTC：Ten Dead in Gwadar Highway Crash as Passenger Coach, LPG Bowser Catch Fire - https://quettavoice.com/。https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdDM4TllnNVJfOW1aY2psOFJrRXk0YzJibmo0UGQxZzZXemIyZlNlSXJERzJ3LWtxTWItNTctYl9Ba0wxREdNVWhjQ2t4YTZoX1dTRktESUstOE5Jc2Fnc0VMcmNsUzJxeF9zZldXajBubEMwcXJqR3VaOTdnTEVYSzctY3k4UlhvTjgyaWNpQkVCWWFBRGsxQzItUmtELUZHX0dqMGNnQTZEZw?oc=5
+- 2026-11-19 10:10 UTC：10 killed, 27 injured after bus and gas bowser collide near Gwadar - UrduPoint。https://news.google.com/rss/articles/CBMimwFBVV95cUxPdEJQWDlZOEx1bHQ1aTN2cE1XZnhnWjBUTVQwUTZEWGZidUFYQ3Nmd2ZzWUZEamJiVEpMckFOSkxDSGZ0bDBQT0JFd2UxeDZic2tMdUVFTUZ5UmpGS3ZPYXk0dE1wSkZ1bWhhN3ZvSWRfMGo4WWZkNDI5ejVURlVDU29IOTRGUmxpRXFmTnFNNGhvYlNHVHhhRzB6UQ?oc=5
+- 2026-11-19 08:02 UTC：Passenger Bus and Gas Bowser Catch Fire After Collision on Makran Coastal Highway in Gwadar - Balochistan Pulse。https://news.google.com/rss/articles/CBMivgFBVV95cUxNMERidnQxQjBqcWJ2NURuaEY3VG1pbnB0dUVCVjdySDh2ZzFQeTNIZ3ZiLVd5SDlKd20wZU5WaWFRQkRobEtCdzlLZWlrQVc2eGhKSGFiYmVET2RfNlU2WXBERGpTdUVXVXNIRjlvVnRqNEFteUlWUThyckpWM2p1SFJEcFB1X29pckhhRUM4U2VRTWM5RnRwMUlzV19ieHpmOXdMMFhJRHJPWGx2dm1lS1ZJNndNcEhqSnV5LVR30gG-AUFVX3lxTE0wRGJ2dDFCMGpxYnY1RG5oRjdUbWlucHR1RUJWN3JIOHZnMVB5M0hndmItV3lIOUp3bTBlTlZpYVFCRGhsS0J3OUtlaWtBVzZ4aEpIYWJiZURPZF82VTZZcEREalN1RVdVc0hGOW9WdGo0QW15SVZROHJySlYzanVIUkRwUHVfb2lySGFFQzhTZVFNYzlGdHAxSXNXX2J4emY5d0wwWElEck9YbHZ2bWVLVkk2d01wSGpKdXktVHc?oc=5
+
+近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-24 18:22 UTC：GDA plans paving work in Gwadar’s Jannat Bazaar - Gwadar Pro
+- 2026-11-24 17:15 UTC：Pakistan, China to Establish Maritime Institute in Gwadar - TechJuice
+- 2026-11-24 15:48 UTC：Karachi, Gwadar May Come Under Federal Control: Khawaja Asif Reveals Proposal - Bloom Pakistan
+- 2026-11-24 12:00 UTC：Proposal to Bring Karachi, Gwadar Under Federal Control Discussed: Khawaja Asif - UrduPoint
+- 2026-11-24 10:03 UTC：Pakistan and China Plan Maritime Institute in Gwadar - The Daily CPEC
+- 2026-11-24 10:00 UTC：Pakistan, China to Establish Maritime and Engineering Training Institute in Gwadar - Daily Independent
+- 2026-11-24 08:11 UTC：Khawaja Asif reveals proposal to place Karachi, Gwadar under federal control - Aaj English TV
+- 2026-11-24 07:50 UTC：New Institute to Train Gwadar’s Youth for Port and Shipping Jobs - ProPakistani
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

@@ -202,11 +202,11 @@
 | 活植物、花卉（HS 06，Trees and other plants, live; bulbs, roots and the like; cut flowers a） | 620 美元 | 243 美元 |
 | 其他贱金属（HS 81，Metals; n.e.c., cermets and articles thereof） | 360 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-11-13 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-20 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 175 次（前 30 天 177 次），进口约 1767969 公吨，出口约 593254 公吨。
-- Abidjan港：靠港 141 次，进口约 1623839 公吨，出口约 257628 公吨
-- San Pedro港：靠港 33 次，进口约 144130 公吨，出口约 266551 公吨
-- Côte d'Ivoire - Offshore Oil Terminal 1港：靠港 1 次，进口约 0 公吨，出口约 69075 公吨
+全国靠港 175 次（前 30 天 169 次），进口约 1662165 公吨，出口约 674775 公吨。
+- Abidjan港：靠港 142 次，进口约 1528859 公吨，出口约 274606 公吨
+- San Pedro港：靠港 32 次，进口约 133306 公吨，出口约 251153 公吨
+- Côte d'Ivoire - Offshore Oil Terminal 1港：靠港 1 次，进口约 0 公吨，出口约 149016 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

@@ -16,7 +16,3 @@
 - 2026-11-22 09:08 UTC：M5.1，45 km SE of Ürümqi, China。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucrp 
 - 2026-11-21 10:45 UTC：M5.9，238 km SW of Yanglong, China。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucly 
 - 2026-11-19 18:41 UTC：M4.9，13 km WNW of Xichang, China。https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc26 
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-11-23 02:14 UTC：Green 级 EQ，Earthquake in China。https://www.gdacs.org/report.aspx?eventid=1578797&episodeid=1748238&eventtype=EQ 

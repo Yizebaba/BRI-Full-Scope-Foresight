@@ -11,7 +11,7 @@
 
 ## 灾害警报（GDACS，近 14 天）
 
-- 2026-11-22 00:00 UTC：Green 级 WF，Forest fires in Bolivia。https://www.gdacs.org/report.aspx?eventid=1034027&episodeid=3&eventtype=WF 
-- 2026-11-21 00:00 UTC：Green 级 WF，Forest fires in Bolivia。https://www.gdacs.org/report.aspx?eventid=1034029&episodeid=4&eventtype=WF 
-- 2026-11-16 00:00 UTC：Green 级 WF，Forest fires in Bolivia, Brazil。https://www.gdacs.org/report.aspx?eventid=1034053&episodeid=1&eventtype=WF 
-- 2026-11-15 00:00 UTC：Green 级 WF，Forest fires in Bolivia。https://www.gdacs.org/report.aspx?eventid=1034030&episodeid=4&eventtype=WF 
+- 2026-11-22 00:00 UTC：Green 级 WF，Forest fires in Bolivia。https://www.gdacs.org/report.aspx?eventid=1034027&episodeid=4&eventtype=WF 
+- 2026-11-21 00:00 UTC：Green 级 WF，Forest fires in Bolivia。https://www.gdacs.org/report.aspx?eventid=1034029&episodeid=6&eventtype=WF 
+- 2026-11-16 00:00 UTC：Green 级 WF，Forest fires in Bolivia, Brazil。https://www.gdacs.org/report.aspx?eventid=1034053&episodeid=2&eventtype=WF 
+- 2026-11-15 00:00 UTC：Green 级 WF，Forest fires in Bolivia。https://www.gdacs.org/report.aspx?eventid=1034030&episodeid=5&eventtype=WF 

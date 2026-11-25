@@ -8,7 +8,3 @@
 ## 各国政府旅行建议更新（经 World Monitor）
 
 - 2026-10-16 16:03 UTC：UK FCDO Ethiopia。https://www.gov.uk/foreign-travel-advice/ethiopia 
-
-## 地震（USGS，M4.5+，近 7 天）
-
-- 2026-11-17 22:52 UTC：M4.6，10 km ESE of Metahāra, Ethiopia。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyyp 

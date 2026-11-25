@@ -189,12 +189,12 @@
 | 活植物、花卉（HS 06，Trees and other plants, live; bulbs, roots and the like; cut flowers a） | 445 美元 | 无数据 |
 | 其他动物产品（HS 05，Animal originated products; not elsewhere specified or included） | 23 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-11-13 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-20 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 78 次（前 30 天 77 次），进口约 113623 公吨，出口约 908742 公吨。
-- Port Owendo港：靠港 51 次，进口约 104633 公吨，出口约 222959 公吨
-- Port Gentil港：靠港 21 次，进口约 8990 公吨，出口约 22097 公吨
-- Gabon - Offshore Oil Terminal 3港：靠港 4 次，进口约 0 公吨，出口约 468188 公吨
+全国靠港 72 次（前 30 天 74 次），进口约 133292 公吨，出口约 670683 公吨。
+- Port Owendo港：靠港 44 次，进口约 120353 公吨，出口约 207193 公吨
+- Port Gentil港：靠港 24 次，进口约 12939 公吨，出口约 33672 公吨
+- Gabon - Offshore Oil Terminal 3港：靠港 2 次，进口约 0 公吨，出口约 234320 公吨
 - Gamba港：靠港 2 次，进口约 0 公吨，出口约 195498 公吨
 - Gabon - Offshore Oil Terminal 1港：靠港 0 次，进口约 0 公吨，出口约 0 公吨
 - Gabon - Offshore Oil Terminal 2港：靠港 0 次，进口约 0 公吨，出口约 0 公吨

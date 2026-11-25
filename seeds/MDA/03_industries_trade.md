@@ -194,9 +194,9 @@
 | 蚕丝（HS 50，Silk） | 630 美元 | 无数据 |
 | 乳品、蛋、蜂蜜（HS 04，Dairy produce; birds' eggs; natural honey; edible products of animal o） | 420 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-11-13 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-20 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 6 次（前 30 天 19 次），进口约 535 公吨，出口约 9750 公吨。
-- Giurgiulesti Port港：靠港 6 次，进口约 535 公吨，出口约 9750 公吨
+全国靠港 6 次（前 30 天 16 次），进口约 1166 公吨，出口约 8971 公吨。
+- Giurgiulesti Port港：靠港 6 次，进口约 1166 公吨，出口约 8971 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

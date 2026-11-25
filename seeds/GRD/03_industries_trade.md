@@ -2,9 +2,9 @@
 
 本国没有向 UN Comtrade 申报近三年的分行业数据。
 
-## 港口（IMF PortWatch，截至 2026-11-13 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-20 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 30 次（前 30 天 35 次），进口约 39333 公吨，出口约 5434 公吨。
-- Saint George's港：靠港 30 次，进口约 39333 公吨，出口约 5434 公吨
+全国靠港 32 次（前 30 天 33 次），进口约 47922 公吨，出口约 5982 公吨。
+- Saint George's港：靠港 32 次，进口约 47922 公吨，出口约 5982 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

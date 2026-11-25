@@ -198,12 +198,12 @@
 | 软木（HS 45，Cork and articles of cork） | 134 美元 | 无数据 |
 | 镍及其制品（HS 75，Nickel and articles thereof） | 95 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-11-13 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-20 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 109 次（前 30 天 136 次），进口约 664531 公吨，出口约 538370 公吨。
-- Douala港：靠港 71 次，进口约 386987 公吨，出口约 75654 公吨
-- Port De Kribi港：靠港 34 次，进口约 271820 公吨，出口约 63538 公吨
+全国靠港 122 次（前 30 天 127 次），进口约 715442 公吨，出口约 564573 公吨。
+- Douala港：靠港 79 次，进口约 413461 公吨，出口约 80049 公吨
+- Port De Kribi港：靠港 37 次，进口约 290567 公吨，出口约 75519 公吨
 - Cameroon - Offshore Oil Terminal 1港：靠港 3 次，进口约 0 公吨，出口约 393931 公吨
-- Limboh港：靠港 1 次，进口约 5724 公吨，出口约 5247 公吨
+- Limboh港：靠港 3 次，进口约 11414 公吨，出口约 15074 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。

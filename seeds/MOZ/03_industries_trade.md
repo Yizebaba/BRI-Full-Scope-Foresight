@@ -198,13 +198,13 @@
 | 动植物油脂（HS 15，Animal, vegetable or microbial fats and oils and their cleavage produc） | 233 美元 | 无数据 |
 | 航空器、航天器（HS 88，Aircraft, spacecraft, and parts thereof） | 35 美元 | 无数据 |
 
-## 港口（IMF PortWatch，截至 2026-11-13 00:00 UTC 的近 30 天，卫星船舶信号估算）
+## 港口（IMF PortWatch，截至 2026-11-20 00:00 UTC 的近 30 天，卫星船舶信号估算）
 
-全国靠港 196 次（前 30 天 212 次），进口约 1063952 公吨，出口约 3365533 公吨。
-- Maputo港：靠港 70 次，进口约 532575 公吨，出口约 1798508 公吨
-- Nacala港：靠港 53 次，进口约 99462 公吨，出口约 1167924 公吨
-- Beira港：靠港 47 次，进口约 417941 公吨，出口约 254719 公吨
-- Pemba港：靠港 21 次，进口约 13974 公吨，出口约 16341 公吨
-- Mozambique - Offshore Oil Terminal 1港：靠港 5 次，进口约 0 公吨，出口约 128041 公吨
+全国靠港 193 次（前 30 天 207 次），进口约 1179640 公吨，出口约 3181862 公吨。
+- Maputo港：靠港 66 次，进口约 558176 公吨，出口约 1713102 公吨
+- Beira港：靠港 52 次，进口约 497433 公吨，出口约 280257 公吨
+- Nacala港：靠港 51 次，进口约 110395 公吨，出口约 1064807 公吨
+- Pemba港：靠港 19 次，进口约 13636 公吨，出口约 16198 公吨
+- Mozambique - Offshore Oil Terminal 1港：靠港 5 次，进口约 0 公吨，出口约 107498 公吨
 
 来源：UN Comtrade https://comtradeplus.un.org/ ；IMF PortWatch https://portwatch.imf.org/ 。金额为现价美元。
