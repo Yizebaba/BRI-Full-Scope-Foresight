@@ -11,3 +11,7 @@
 - 2026-11-22 05:51 UTC：M5，15 km NNE of Carhuamayo, Peru。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucqu 
 - 2026-11-21 05:12 UTC：M5，0 km NE of Carhuamayo, Peru。https://earthquake.usgs.gov/earthquakes/eventpage/us6000uchd 
 - 2026-11-21 00:09 UTC：M6.7，7 km ENE of Carhuamayo, Peru。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm 
+
+## 灾害警报（GDACS，近 14 天）
+
+- 2026-11-24 22:36 UTC：Green 级 EQ，Earthquake in Peru。https://www.gdacs.org/report.aspx?eventid=1579159&episodeid=1748612&eventtype=EQ 

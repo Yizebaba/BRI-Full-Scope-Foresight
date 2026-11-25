@@ -10,4 +10,3 @@
 - 2026-11-17 00:00 UTC：Green 级 WF，Forest fires in Madagascar。https://www.gdacs.org/report.aspx?eventid=1034035&episodeid=3&eventtype=WF 
 - 2026-11-17 00:00 UTC：Green 级 WF，Forest fires in Madagascar。https://www.gdacs.org/report.aspx?eventid=1034051&episodeid=3&eventtype=WF 
 - 2026-11-16 00:00 UTC：Green 级 WF，Forest fires in Madagascar。https://www.gdacs.org/report.aspx?eventid=1034044&episodeid=3&eventtype=WF 
-- 2026-11-11 00:00 UTC：Green 级 WF，Forest fires in Madagascar。https://www.gdacs.org/report.aspx?eventid=1034036&episodeid=3&eventtype=WF 
