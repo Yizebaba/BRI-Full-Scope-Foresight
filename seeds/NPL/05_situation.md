@@ -17,7 +17,7 @@
 
 - 2026-11-24 01:32 UTC：Green 级 EQ，Earthquake in Nepal。https://www.gdacs.org/report.aspx?eventid=1578952&episodeid=1748389&eventtype=EQ 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-25 12:36 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-25 21:57 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -33,18 +33,16 @@
 - 2026-11-24 01:32 UTC，GDACS：Green 级 · Earthquake in Nepal，距项目 256.8 km。https://www.gdacs.org/report.aspx?eventid=1578952&episodeid=1748389&eventtype=EQ
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-11-25 09:47 UTC：Hundreds missing, including 47 Americans, in deadly Nepal floods, local officials say - ABC News - Breaking News, Latest News and Videos。https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFFKbWhSWTR5S25UT01SQnE4V1Jua044M19rZmJiYzRwRHphTU1GdFBIUi1ORXl2UUF1Y0NzNG00cDVuNzZuZzFjQ0doUTF5VUg1elRPdE02V0UxNFB1U1dub1ZrMnpjR190bnJIV2VWN0ZPbTRucURXYTlkQWlHS2d0XzR4dzgxaGdCWk92OE9paV92VWIzdTlYNE5xQThPNWRzR2N3R0hjUQ?oc=5
 - 2026-11-21 19:32 UTC：Nepal urges China to reopen Tatopani border crossing as Rasuwagadhi remains shut after floods - Prop News Time。https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRzAxUDlMZUNfQ0N3Y3FSMGZUZTJzbUYzVzN4SURabjJnOFRJeVNwbnUwZkxpTnVNTlpoVUZ1RlJKdjF0V1Vya1pkR3Z3NVRyU1pkQmVzdnNDblJaWUJLSXlSSWZjaDNSVE00dXdlQ3ByR08tYlpWVVNlMUpxbUh0eHp0TmowMUpMMEVBRi1lYWd3RmJSZWN6eHZYRnZ5aDBqYmRSRUw3V01ucmhXVk9SaDBNczBaa19xSjRaNTlobjFXMGFYR3ZmZE1rNFN2YTRGVWpWbHZTOWRmUlRYeUE?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-25 07:08 UTC：Nepal-India joint military exercise ‘Surya Kiran’ begins in Saljhandi - OnlineKhabar English News
 - 2026-11-23 04:16 UTC：Korala border sees 7,000 electric vehicle imports in four months - The Himalayan Times
+- 2026-11-22 06:35 UTC：Seven Thousand Electric Vehicles Imported Through Korala Pass in Four Months - Ratopati
 - 2026-11-19 15:59 UTC：Foreign Minister Khanal stresses immediate reopening of Tatopani border point - The Rising Nepal
 - 2026-11-19 11:55 UTC：Foreign minister requests China to reopen Tatopani border point immediately - OnlineKhabar English News
 - 2026-11-19 00:32 UTC：FM Khanal urges China for opening of Tatopani border - The Rising Nepal
 - 2026-11-19 00:15 UTC：A Diplomatic Push for Tatopani - myRepublica
-- 2026-11-18 13:06 UTC：When mountains fall faster than
-warnings travel - The New Indian Express
 
 ## 热索瓦加迪（Timure）口岸边检站
 
@@ -52,7 +50,7 @@ warnings travel - The New Indian Express
 - 2026-11-24 01:32 UTC，GDACS：Green 级 · Earthquake in Nepal，距项目 257.5 km。https://www.gdacs.org/report.aspx?eventid=1578952&episodeid=1748389&eventtype=EQ
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-11-25 09:47 UTC：Hundreds missing, including 47 Americans, in deadly Nepal floods, local officials say - ABC News - Breaking News, Latest News and Videos。https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFFKbWhSWTR5S25UT01SQnE4V1Jua044M19rZmJiYzRwRHphTU1GdFBIUi1ORXl2UUF1Y0NzNG00cDVuNzZuZzFjQ0doUTF5VUg1elRPdE02V0UxNFB1U1dub1ZrMnpjR190bnJIV2VWN0ZPbTRucURXYTlkQWlHS2d0XzR4dzgxaGdCWk92OE9paV92VWIzdTlYNE5xQThPNWRzR2N3R0hjUQ?oc=5
+- 2026-11-25 06:59 UTC：Aid Has Begun Reaching Flood-Hit Areas, Says MoS Kirti Vardhan Singh as India Steps Up Nepal Relief Efforts - DD News。https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFFxMFMwN0c5WmVkWS1udmF6dFdmZ2lwYU5hbGtkT0l0VjduMjBiczlNaHBRX0laMjFXc3lzWk9WUGFVMFhfLS00X0ZNZS1LOGZNM1ctbW03c1lxUWJYM0QzSERpQW9GVS1yeXd5WWRTMlRsVjI3eWRzUGFSb2w3U1ItVWpXWGFUVzZ0b3RfYTd2NUc4Z3BDU0VKYmdsemNObVdValdteWwwTUtrdVJFeVJZWWlpYWF1cmowUkZRMmJRM0F6d2w2U3l1bTE?oc=5
 - 2026-11-25 05:09 UTC：Distribution of house rent money begins for 970 Bhotekoshi flood-affected families - OnlineKhabar English News。https://news.google.com/rss/articles/CBMif0FVX3lxTE1zNGJmN2tONHBVR0tNcEtBbE8tNjZkNVg1cFlhamNIUVhUSlpRbFhNcGQtVFZMdWFoUEEwUE1JWGZxZ29LcE9fV3ROaFh2WFc5T0xMSkN1aDN3T01WUVpxZEd1TzY4ODIxZnpFa1BKcmczdmZvVll1UVJSblZVZW8?oc=5
 - 2026-11-21 19:32 UTC：Nepal urges China to reopen Tatopani border crossing as Rasuwagadhi remains shut after floods - Prop News Time。https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRzAxUDlMZUNfQ0N3Y3FSMGZUZTJzbUYzVzN4SURabjJnOFRJeVNwbnUwZkxpTnVNTlpoVUZ1RlJKdjF0V1Vya1pkR3Z3NVRyU1pkQmVzdnNDblJaWUJLSXlSSWZjaDNSVE00dXdlQ3ByR08tYlpWVVNlMUpxbUh0eHp0TmowMUpMMEVBRi1lYWd3RmJSZWN6eHZYRnZ5aDBqYmRSRUw3V01ucmhXVk9SaDBNczBaa19xSjRaNTlobjFXMGFYR3ZmZE1rNFN2YTRGVWpWbHZTOWRmUlRYeUE?oc=5
 - 2026-11-19 12:03 UTC：China working to provide flood relief, rebuild infrastructure and reopen Kerung border point - OnlineKhabar English News。https://news.google.com/rss/articles/CBMidEFVX3lxTE5vaURnQ210U0VIQVhBYXNnSkFVLWU4NldGNFBWT3VabGNjTmdRUFh0RGU2Z3Z2TXppMGhybHB6dXc0cGo2dUdtN0ZMMXdVM05zbEV1QTdYMnlrT28wcmNLSkRpMHQ3WkswLU9mVWNUQlE2b2k1?oc=5
@@ -73,7 +71,7 @@ warnings travel - The New Indian Express
 - 2026-11-24 01:32 UTC，GDACS：Green 级 · Earthquake in Nepal，距项目 270.4 km。https://www.gdacs.org/report.aspx?eventid=1578952&episodeid=1748389&eventtype=EQ
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-11-24 21:04 UTC：Nepal: Two pulled alive from tunnel nine days after floods - DW.com。https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkpnY1dtSFdKcnN3RERtaEZlemJSekRuaEY1ZW9DWFkyNndac0xHR2V1ck5seHV3RUZoWmlUQWU3ckpvenB5dUhQYmV5a3JLOWRvdnVUc1BtdmNVR2NRNFpleGFmSVJWOGJYRFl3RFFpZWVBbXJENENRam9BZU5sQnJXdF9NT243VGhBSVI1ck9NMkVs0gGUAUFVX3lxTE9nNTMwTWRlQk5JaUc4YmJGUnljNVJoT0dVVDhIaDl2ZXA3MFRqVnRVTXItVndDR3cxUTBEUDhUSDVrdHhGTy1BWktNSWFYNmNHaGlXazhCOXR5TkdmN2ZHYVE2Nnpqa1dVV0lxeUYzaHBKOVM5TW9Wb2dTaVhncGpkNHhPNnRibmVpR21nSXJiNzlxVW4?oc=5
+- 2026-11-24 21:04 UTC：Nepal: Two pulled alive from tunnel nine days after floods - Deutsche Welle。https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkpnY1dtSFdKcnN3RERtaEZlemJSekRuaEY1ZW9DWFkyNndac0xHR2V1ck5seHV3RUZoWmlUQWU3ckpvenB5dUhQYmV5a3JLOWRvdnVUc1BtdmNVR2NRNFpleGFmSVJWOGJYRFl3RFFpZWVBbXJENENRam9BZU5sQnJXdF9NT243VGhBSVI1ck9NMkVs0gGUAUFVX3lxTE9nNTMwTWRlQk5JaUc4YmJGUnljNVJoT0dVVDhIaDl2ZXA3MFRqVnRVTXItVndDR3cxUTBEUDhUSDVrdHhGTy1BWktNSWFYNmNHaGlXazhCOXR5TkdmN2ZHYVE2Nnpqa1dVV0lxeUYzaHBKOVM5TW9Wb2dTaVhncGpkNHhPNnRibmVpR21nSXJiNzlxVW4?oc=5
 - 2026-11-23 08:00 UTC：Himalayan flood death toll passes 1,000 as search continues - 朝日新聞。https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1akpPVFF4R3l4aHY4UHhycEtsZEpyZzVlbDJlUmxBN0ltWUZNNWxnZnZfNXJ3V09tSkpXUzBuZ196N1ZxWG5nRElFaEZsS0RxeTk5anc5QmJUeFJfd0E?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
@@ -83,10 +81,6 @@ warnings travel - The New Indian Express
 
 周边自然事件（地震 150 km、灾害警报 300 km、NASA 自然事件 150 km 以内）：
 - 2026-11-24 01:32 UTC，GDACS：Green 级 · Earthquake in Nepal，距项目 263.0 km。https://www.gdacs.org/report.aspx?eventid=1578952&episodeid=1748389&eventtype=EQ
-
-近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-24 13:03 UTC：NEA gets approval to import 350 MW, export 56 MW of electricity - The Rising Nepal
-- 2026-11-23 05:42 UTC：Ncell in rebuilding efforts - Nepali Times
 
 ## 吉隆—加德满都跨境铁路（规划）
 

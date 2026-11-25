@@ -24,6 +24,7 @@ China does not recognize the legitimacy of High Representative for Bosnia and He
 
 
 == Economic relations ==
+Bosnia and Herzegovina joined the Belt and Road Initiative (BRI) in 2017.
 According to statistics from the General Administration of Customs of China, the bilateral trade volume between China and Bosnia and Herzegovina in 2022 was US$310 million, a year-on-year increase of 12.2%, of which China's exports were US$190 million, a year-on-year increase of 35.3%, and imports were US$120 million, a year-on-year increase of 10.9%. In November 2018, Bosnia and Herzegovina hosted the 3rd China-CEEC Innovation Cooperation Conference. In April 2019, China served as the guest of honor at the Mostar Expo.
 
 
@@ -77,17 +78,22 @@ Cooperation between China and Central and Eastern European Countries (China-CEE,
 
 ## 学术论文（OpenAlex）
 
-### Examining the debt implications of the Belt and Road Initiative from a policy perspective（2019，Journal of Infrastructure Policy and Development，被引 544）
+### Belt and Road Economics: Opportunities and Risks of Transport Corridors（2019，World Bank, Washington, DC eBooks，被引 494）
+
+China proposed the Belt and Road Initiative in 2013 to improve connectivity and cooperation on a transcontinental scale. This study, by a team of World Bank Group economists led by Michele Ruta, analyzes the economics of the initiative. It assesses the connectivity gaps between economies along the initiative’s corridors, examines the costs and economic effects of the infrastructure improvements proposed under the initiative, and identifies complementary policy reforms and institutions that will support welfare maximization and mitigation of risks for participating economies.
+
+https://doi.org/10.1596/978-1-4648-1392-4
+### Examining the debt implications of the Belt and Road Initiative from a policy perspective（2019，Journal of Infrastructure Policy and Development，被引 485）
 
 China’s Belt and Road Initiative (BRI) hopes to deliver trillions of dollars in infrastructure financing to Asia, Europe, and Africa. If the initiative follows Chinese practices to date for infrastructure financing, which often entail lending to sovereign borrowers, then BRI raises the risk of debt distress in some borrower countries. This paper assesses the likelihood of debt problems in the 68 countries identified as potential BRI borrowers. We conclude that eight countries are at particular risk of debt distress based on an identified pipeline of project lending associated with BRI.Because this indebtedness also suggests a higher concentration in debt owed to official and quasi-official Chinese creditors, we examine Chinese policies and practices related to sustainable financing and the management of debt problems in borrower countries. Based on this evidence, we offer recommendations to improve Chinese policy in these areas. The recommendations are offered to Chinese policymakers directly, as well as to BRI’s bilateral and multilateral partners, including the IMF and World Bank.
 
 https://doi.org/10.24294/jipd.v3i1.1123
-### “One Belt, One Road”: China's New Global Strategy（2016，Journal of Contemporary East Asia Studies，被引 206）
+### “One Belt, One Road”: China's New Global Strategy（2016，Journal of Contemporary East Asia Studies，被引 215）
 
 The “One Belt, One Road” (OBOR) initiative has been a topic of hot debate among Sinologists and pundits in recent years. What is the nature of this foreign policy and how is it implemented under the Xi Jinping administration? By examining China's OBOR initiative, this article argues that OBOR is not only a regional policy but a grand global strategy for achieving the “Chinese Dream”. While there is little chance that China will be able to create a large area of influence around the world, the potential impact on global politics cannot be overlooked.
 
 https://doi.org/10.1080/24761028.2016.11869094
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 226）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 234）
 
 （无摘要）
 
@@ -102,20 +108,15 @@ https://doi.org/10.51235/kt.2025.25.1-2.25
 In the context of Belt and Road cooperation, China and the central and eastern European countries have been developing the cooperation under the frame of “17+1” multilateral cooperation mechanism, with remarkable outcome achieved. With the increasing exchanges and cooperation in the fields of economy and trade, education, humanities and so on, the number of Chinese-funded enterprises in central and eastern European countries has been increasing, the demand of international integrated talents with strong cross-cultural communication ability is on the rise. This paper aims to find a resolution of cultivating qualified talents with the capacity in both cross-cultural communication and academic majors, by carrying out a study on the joint master program between two higher educational institutions of China and eastern Europe. Tianjin University of Technology and Education of China together with University of Banja Luka in Bosnia-Herzegovina has carried out an online joint program for masters majoring in economics and trade with mutual recognition of academic credits. The study evaluated the result of the joint program through various interviews and data analyses, which showed good an outcome in promoting mutual understanding and academic major improvement. The paper described in detail the profits of the program for the students, the teachers and universities from both sides and then further listed the future cooperation strategies and steps from the aspects of governments, universities and faculties, etc. Hope this study can provide a good example of joint talent-cultivation for the higher educational institutions between China and the central and eastern European countries, thus providing talent support for the cooperation between China and Bosnia-Herzegovina (BiH) and even for the development of the Belt and Road Initiative.
 
 https://doi.org/10.11648/j.her.20220702.13
-### Western Balkan 6 Connectivity Agenda with the Belt and Road Initiative（2019，Routledge eBooks，被引 0）
+### China’s Belt and Road Initiative: Motives, Scope, and Challenges（2016，RePEc: Research Papers in Economics，被引 116）
 
-In the Western Balkan area, Serbia is most active in the Belt and Road Initiative and makes the greatest achievements with China. In order to promote its member states in organising and coordinating the infrastructure construction, the Western Balkan 6 Summit was held by the South-East Europe Transport Observatory. The Western Balkan Summit was at a larger scale. At these 2 summits, a series of connectivity agendas had been proposed by the Western Balkan, which was generally called the “Western Balkan 6 Connectivity Agenda”. In November 2015, under the smooth alignment of cooperation, development and strategy, an intergovernmental memorandum of understanding was formally signed by both sides to jointly boost the Belt and Road construction, indicating that the China–Serbia cooperation had entered a new stage. In 2017, the Centre for Constructing and Promoting the Belt and Road was even established by Bosnia–Herzegovina.
+China’s commercial ties with the outside world have long been symbolized by the ancient Silk Road, which began as a tortuous trading network of mountain paths and sea routes that provided a lifeline for the Chinese economy. Now the leadership in Beijing is reviving the concept with an ambitious plan to build and upgrade highways, railways, ports, and other infrastructure throughout Asia and Europe designed to enrich the economies of China and some 60 of its nearby trading partners. The so-called Belt and Road Initiative has generated enthusiasm and high hopes but also skepticism and wariness. And as big as China’s ambitions are, many obstacles stand in the way. In this volume of essays edited by Sean Miner and Simeon Djankov, PIIE experts analyze the initiative’s opportunities for China and the world, along with the logistical problems and political, economic, and security implications that have generated concerns.
 
-https://doi.org/10.4324/9780429203039-96
-### Does the Belt and Road Initiative Promote Sustainable Development? Evidence from Countries along the Belt and Road（2018，Sustainability，被引 51）
+https://openalex.org/W2514923130
+### Does the Belt and Road Initiative Promote Sustainable Development? Evidence from Countries along the Belt and Road（2018，Sustainability，被引 50）
 
 The “Belt and Road (B&R) Initiative” is an innovative idea proposed by China aimed at promoting common prosperity in the world. Although it has gained more and more recognition and response, there is also some one-sided understanding or distortion. Taking the 60 countries along the Belt and Road from 2010 to 2015 as samples, this paper mainly answers three questions from the perspective of sustainable development: (1) What is the current status of sustainable development in all countries along the “B&R”? (2) Is the “B&R Initiative” conducive to promoting the sustainable development of all countries along the “B&R”? (3) How could the “B&R” be better promoted? The study found that, first, various countries along the “B&R” have manifested an imbalanced characteristic in terms of the sustainable development, and there is much room for improvement in general. Second, the “B&R Initiative” has a positive impact on the sustainable development of all countries. However, due to the relatively short period of time, this impact is not significant at present. Third, to promote “B&R” construction, we must take sustainable development as the fundamental goal to jointly promote the connectivity of facilities, integrate the UN 2030 sustainable development goals, and strengthen the cross-border cooperation between non-governmental and non-profit organizations.
 
 https://doi.org/10.3390/su10124370
-### Trade Openness and CO2 Emissions: The Heterogeneous and Mediating Effects for the Belt and Road Countries（2021，Sustainability，被引 152）
 
-To investigate whether increasing trade openness results in more severe environmental problems, this study investigates the impact of trade openness on carbon dioxide (CO2) emissions using panel data from 64 countries along the Belt and Road from 2001–2019. Fully considering the potential heterogeneity, the panel quantile regression approach is utilized. Moreover, this study explores the three major mediating effects of the process, namely the energy-substitution effect, economic effect, and technology effect. The empirical results indicate that the improvement in trade openness has a significantly positive effect on CO2 emissions, and it also shows that the impact varies with different levels of CO2 emissions. Furthermore, the indirect effect of trade openness on CO2 emissions via the economic effect is positive, while the indirect effect via the energy-substitution and the technology effect is negative. Therefore, it is necessary to improve renewable energy consumption, decrease energy intensity, and formulate related policies to reduce carbon emissions policies in terms of local conditions.
-
-https://doi.org/10.3390/su13041958
-
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

@@ -108,6 +108,8 @@ In September 2026, at the "Belt and Road" international tournament among adults 
 
 ## 世界银行最新文件（Documents & Reports）
 
+- 2026-11-23 · Learning and Results Note · Azerbaijan - Regional Connectivity and Development Project（项目：AZ-Regional Connectivity and Development Project -- P174379）。http://documents.worldbank.org/curated/en/099112326145037595
+  摘要：Ratings of the Regional Connectivity and Development Project for Azerbaijan were as follows: relevance was high; overall efficacy was high; efficiency was substantial; overall outcome was satisfactory; quality of m&e was high; Bank performance was satisfactory. Lessons learned and recommendations include that road investments can generate broader local benefits when complemented by targeted business support and sustained community engagement; however, improved connectivity and training alone do not ensure income gains without complementary access to finance, markets, and business development services, so future operations should pair transport investments with tailored business support delivered through capable local partners. Land readiness and institutional responsibilities must be confirmed before including corridor-based local development investments; preparation should assess land availability, ownership and cadastral conditions, and approval pathways, consider private participation for commercially viable roadside services, and include periodic reassessment with timely restructuring or alternative delivery if constraints persist. Embedding environmental and climate considerations in design is more effective than retrofitting; early collaboration among engineers, environmental specialists, and local stakeholders can yield nature-friendly solutions that enhance resilience and protect sensitive habitats, and future corridor operations should systematically integrate climat
 - 2026-10-01 · Brief · Macro Poverty Outlook for Azerbaijan : Annual Meetings 2026 Datasheet。http://documents.worldbank.org/curated/en/099325310202641595
   摘要：Azerbaijan's growth slowed sharply in the first half of 2026 as hydrocarbon output declined and growth in the non-hydrocarbon sector was negatively affected by the reduction in public capital expenditures. Higher oil prices helped to realize fiscal and external surpluses, while inflationary pressures increased on the back of imported inflation linked to geopolitical tensions. Growth is estimated at 1.2 percent in 2026, with medium-term growth projected below 2 percent.
 - 2026-10-01 · Brief · Macro Poverty Outlook for Azerbaijan : Annual Meetings 2026。http://documents.worldbank.org/curated/en/099524010142628310
@@ -134,18 +136,20 @@ In September 2026, at the "Belt and Road" international tournament among adults 
 - 2025-10-07 · Brief · Prosperity Data360 Finance, Competitiveness and Innovation Country Snapshots : Azerbaijan
 。http://documents.worldbank.org/curated/en/099235210092531393
   摘要：This Factsheet provides an overview of the finance, competitiveness, and innovation sector according to key performance indicators.
-- 2025-10-07 · Brief · Prosperity Data360 Gender Country Snapshots : Azerbaijan
-。http://documents.worldbank.org/curated/en/099759110102571254
-  摘要：This Factsheet provides an overview of the gender sector according to key performance indicators.
 
 ## 学术论文（OpenAlex）
 
-### Belt and Road Initiative（2020，World Bank, Washington, DC eBooks，被引 10）
+### The Belt and Road Initiative and Economic Development of Azerbaijan（2026，，被引 0）
+
+（无摘要）
+
+https://doi.org/10.63596/azerb-2026
+### Belt and Road Initiative（2020，World Bank, Washington, DC eBooks，被引 2）
 
 Belt and Road Initiative (BRI), announced in 2013 and formalized in 2015, is China’s long-term commitment and aims to improve connectivity within Asia as well as between Asia and other continents via transport corridors (rail, road, maritime, air) and deeper economic, political, and cultural integration between China and the countries in Europe and Africa (National Development and Reform Commission, 2015). This study analyzes a potential impact of the BRI on Azerbaijan’s economy by focusing on (1) Azerbaijan’s connectivity and trade with the BRI economies; (2) its recent improvements in transport, power, and ICT infrastructure as part of the China, Central Asia, West Asia economic corridor; (3) its remaining connectivity gaps and challenges; and (4) potential economic effects of BRI on Azerbaijan’s trade, foreign investment, growth and welfare. Finally, the study concludes with policy implications that would mitigate the BRI risks and maximize the benefits.
 
 https://doi.org/10.1596/34329
-### "ONE BELT, ONE ROAD" INITIATIVE IN RESPECT TO AZERBAIJAN（2023，Международный научно-исследовательский журнал，被引 0）
+### "ONE BELT, ONE ROAD" INITIATIVE IN RESPECT TO AZERBAIJAN（2023，Международный научно-исследовательский журнал，被引 1）
 
 （无摘要）
 
@@ -175,10 +179,5 @@ https://doi.org/10.63596/azerb-2026-3
 （无摘要）
 
 https://doi.org/10.13140/rg.2.2.26475.20000
-### Azerbaijan’s Integration in the Belt and Road Initiative Middle Corridor. Is World Trade Organization Accession Needed?（2021，Journal of Applied Economic Sciences (JAES)，被引 0）
 
-Azerbaijan’s accession to the World Trade Organization (WTO) has been under discussion since the late 1990s, however this process is not any closer to being achieved today. Despite the government’s multiple economic reforms and the implementation of strategic roadmaps, the same cannot be said about Azerbaijan’s commitment to bilateral and multilateral market access negotiations (WTO 2017). The objective of this article is to investigate the potential impact of WTO accession on the economic strategy of Azerbaijan. Contrary to other WTO members, China does not automatically apply the Most-Favoured Nation (MFN) tariff rate to non-members. The cost-benefit analysis in this paper suggests that the Azerbaijani goods with the highest untapped potential in China suffer from the application of the General Tariff Rate (GTR) versus the MFN tariff applied to all WTO members (China Customs 2021, International Trade Center 2021). Findings suggest that Azerbaijan’s WTO accession is required for this country to integrate into the Middle Corridor and reap its benefits fully.Copyright© 2021 The Author(s). This article is distributed under the terms of the license CC-BY 4.0., which permits any further distribution in any medium, provided the original work is properly cited.
-
-https://doi.org/10.57017/jaes.v16.3(73).10
-
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

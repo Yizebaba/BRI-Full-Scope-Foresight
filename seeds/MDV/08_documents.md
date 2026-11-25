@@ -22,7 +22,7 @@ China-Maldives ties improved with the election of Mohamed Muizzu as president in
 
 == History ==
 The relations between China and the Maldives date back hundreds of years. A record from the Tang dynasty documents a visiting Maldivian delegation bearing gifts from King Baladitiya to Emperor Gaozong in 658 AD, and repeatedly in 662 AD. The Maldives are referred to as "Mo-lai". The Chinese explorer Zheng He visited the islands in 1412 and 1417 AD.
-The Maldives has historically been aligned with India since its independence in 1965 but has increasingly engaged with China, particularly after joining China's Belt and Road Initiative (BRI) in 2014.
+The Maldives has historically been aligned with India since its independence in 1965 but has increasingly engaged with China. Maldives joined China's Belt and Road Initiative in 2017.
 Maldives strongly supported China's 2007 application to join the South Asian Association for Regional Cooperation (SAARC) as an observer. In November 2011, China opened an embassy in Malé.
 In 2013, Maldives and China upgraded their relationship to a strategic partnership.
 In July 2022, the Chinese embassy in the capital city Malé received a bomb threat, sent via the city's website, that also targeted a Russian consulate. Security forces were dispatched to the affected areas and the residence of politician Mohamed Nasheed, and some streets were cordoned off.
@@ -41,8 +41,8 @@ The Maldives has significantly strengthened its relationship with China, undersc
 
 
 == Economic relations ==
-
-Following the defeat of Abdulla Yameen in the  September 2018 presidential election, the government of Ibrahim Mohamed Solih raised concerns about the level of Chinese debt incurred by Yameen's government. In December 2019, the then-Speaker of the People's Majlis and former president Mohamed Nasheed labelled debts incurred to build projects such as the Sinamalé Bridge, part of a debt trap. Former Maldivian officials and Chinese representatives criticized Nasheed's lack of detailed accounting, and worried that the amount was still a large amount for the islands.
+In 2017, Maldives joined the Belt and Road Initiative (BRI).
+Following the defeat of Abdulla Yameen in the  September 2018 presidential election, the government of Ibrahim Mohamed Solih raised concerns about the level of Chinese debt incurred by Yameen's government. In December 2019, the then-Speaker of the People's Majlis and former president Mohamed Nasheed labelled debts incurred to build projects such as the Sinamalé Bridge, part of a debt-trap. Former Maldivian officials and Chinese representatives criticized Nasheed's lack of detailed accounting, and worried that the amount was still a large amount for the islands.
 China's enduring economic partnership with the Maldives for over a decade has remained robust, positioning Beijing well to steadily pursue its strategic goals in Male.
 As of 2024, the Maldives already owes US$1.3 billion to China, which represents the largest percentage of its debt.
 On January 1, 2025, the China-Maldives Free Trade Agreement officially came into effect.
@@ -137,4 +137,4 @@ The emergence of the String of Pearls is indicative of China's growing geopoliti
   摘要：This briefing showcases the gender landscape in Maldives on key indicators helpful for monitoring gender equality and designing effective policy interventions. Gender equality fosters productivity gains, minimizes losses in wealth, reduces poverty, boosts shared prosperity, and supports green, resilient, and inclusive development.
 - 2026-10-22 · Agreement · Official Documents- Amendment to the Project Agreement Grant E046-MV.pdf（项目：MV-Sustainable and Integrated Labor Services (SAILS) -- P177240）。http://documents.worldbank.org/curated/en/099102226100538541
 
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

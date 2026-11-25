@@ -17,6 +17,7 @@ Jamaica is an upper-middle-income country with an economy heavily dependent on t
 
 Diplomatic relations between China and Jamaica were established on 21 November 1972. The Chinese government established an embassy in Kingston in 1973. There was no formal representation from Jamaica to China until 1992, when the Jamaican ambassador to Tokyo, Japan was accredited as a non-resident ambassador to Beijing. Jamaica later established a formal embassy in Beijing, and the current ambassador is Courtenay Rattray. The current Chinese ambassador to Jamaica is Chen Jinghua. In 2007, China announced it would provide technical training for more than 2,000 Jamaicans in 2008. A growing number of Jamaican products have been promoted through the China International Import Expo (CIIE) and gained interest in the Chinese market.
 In 2014 China Harbour Engineering Company (CHEC) opened the 67 kilometre Jamaica North South Highway.
+Jamaica joined the Belt and Road Initiative (BRI) in 2019.
 In 2021, Prime Minister Andrew Holness announced furtherance of a technology partnership with Huawei which had increased its investment in the Jamaican economy.
 
 
@@ -74,4 +75,4 @@ The permanent headquarters of the CDB is located in Wildey, St. Michael, Barbado
 。http://documents.worldbank.org/curated/en/099552410092514384
   摘要：This Factsheet provides an overview of the finance, competitiveness, and innovation sector according to key performance indicators.
 
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

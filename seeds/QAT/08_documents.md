@@ -42,6 +42,7 @@ As early as the 1950s, China indirectly exported its goods to Qatar. From 1958 t
 In December 1987, the China Council for the Promotion of International Trade held its inaugural exhibition in Doha. This exhibition featured industrial products, handicrafts and electronics, among other goods. Trade turnover between the two countries witnessed rapid increases throughout the 1980s with the total bilateral trade volume from 1980 to 1989 being $380 million. The total trade volume in 1991 was $86 million, a massive increase from $49 million in 1989. At the time, the main Qatari exports were fossil fuels, fertilizers and plastics while China primarily exported food items, textiles, papers and construction materials.
 A draft agreement stipulating the annual importation of 2.5 million tonnes of LNG from Qatar was signed by China in January 1995. Former Energy Minister Abdullah bin Hamad Al Attiyah visited Beijing in March 1995 and worked with Chinese officials to iron out the details and conclude the agreement.
 The Joint Economic and Trade Commission between China and Qatar staged its inaugural meeting in July 2000 in Beijing. Both countries signed an agreement on the avoidance of double taxation in 2001.
+Qatar joined the Belt and Road Initiative in 2019.
 Qatar became the first Middle Eastern country to open a Chinese Renminbi clearing facility in 2015, doing so as a means to advance economic relations.
 In November 2022, Qatar's national oil and gas company QatarEnergy has signed a 27-year contract with China for the supply of liquefied natural gas (LNG). Chinese Sinopec will receive 4 million tons of LNG annually. This is the longest contract in the history of the industry, said QatarEnergy. Qatar is working to expand production at its North gas field in the Persian Gulf, which it shares with Iran. By 2026, Qatar plans to produce 110 million tons of LNG per year instead of the current 77 million tons. Qatar exports most of its gas to Asian countries.  In June 2023, China National Petroleum Corporation and QatarEnergy signed second 27-year agreement.
 
@@ -119,7 +120,7 @@ Embassy of the State of Qatar in Beijing
 （无摘要）
 
 https://doi.org/10.1007/978-3-031-90502-5_4
-### From Qatar to Xinjiang: Security in China's Belt and Road Initiative（2018，Middle East Policy，被引 5）
+### From Qatar to Xinjiang: Security in China's Belt and Road Initiative（2018，Middle East Policy，被引 6）
 
 （无摘要）
 
@@ -151,8 +152,8 @@ The six monarchies of the Persian Gulf – Bahrain, Kuwait, Oman, Qatar, Saudi A
 https://doi.org/10.4324/9780429202346-6
 ### Qatar’s Role in China’s Belt and Road Initiative: Bridging Two Economic Titans, Mohamad Zreik (2025)（2025，Journal of Gulf studies.，被引 0）
 
-Review of: Qatar’s Role in China’s Belt and Road Initiative: Bridging Two Economic Titans , Mohamad Zreik (2025) Cham: Springer Nature (Palgrave Macmillan), 175 pp., ISBN 978-3-03190-501-8, h/bk, GBP 89.99
+Review of: Qatar’s Role in China’s Belt and Road Initiative: Bridging Two Economic Titans, Mohamad Zreik (2025) Cham: Springer Nature (Palgrave Macmillan), 175 pp., ISBN 978-3-03190-501-8, h/bk, GBP 89.99
 
 https://doi.org/10.1386/jgs_00020_5
 
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

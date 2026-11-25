@@ -24,11 +24,8 @@ Dominican officials who have visited China include: Prime Minister Skerrit (offi
 
 
 == Economic relations ==
-
-
-== Economic Cooperation between China and Dominica ==
 On March 23, 2004, the People's Republic of China and the Commonwealth of Dominica officially established diplomatic relations at the ambassadorial level, marking the start of bilateral cooperation.
-Since then, China and Dominica have expanded collaboration across multiple sectors including infrastructure, healthcare, agriculture, and education. In 2018, both countries signed a Memorandum of Understanding on jointly advancing the Belt and Road Initiative, accelerating development cooperation and bringing tangible benefits to both peoples.
+Since then, China and Dominica have expanded collaboration across multiple sectors including infrastructure, healthcare, agriculture, and education. In 2018, both countries signed a Memorandum of Understanding on jointly advancing the Belt and Road Initiative (BRI).
 China has also played a significant role in Dominica's disaster recovery efforts. Following Hurricane Maria in 2017, China provided major assistance, including the construction of an international airport and the reconstruction of six primary schools. Other initiatives included healthcare improvements, agricultural modernization, and the restoration of cultural sites.
 In 2024, China and Dominica commemorated the 20th anniversary of their diplomatic ties, emphasizing strong political trust and increasingly fruitful cooperation.
 In 2011, the bilateral trade volume between China and Dominica totaled US$26.885 million. China's exports amounted to US$26.49 million, while its imports were US$396,000. China's main exports included electromechanical products, textiles, clothing, and footwear, while its main imports consisted of scrap aluminum, medical instruments, and equipment.
@@ -72,4 +69,4 @@ Dominica is listed as a destination for Chinese citizens. In 2014, Dominica unil
 - 2025-10-08 · Brief · Prosperity Data360 Gender Country Snapshots : Dominica。http://documents.worldbank.org/curated/en/099933510102517108
   摘要：This Factsheet provides an overview of the gender sector according to key performance indicators.
 
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

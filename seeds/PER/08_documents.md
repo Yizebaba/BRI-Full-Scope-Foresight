@@ -29,8 +29,10 @@ After the establishment of the Republic of China, Peru maintained its relations 
 After the establishment of Juan Velasco Alvarado's Revolutionary Government, Peru established relations with the People's Republic of China on November 2, 1971, with the Republic of China severing its relations and closing its embassy in Lima as a result, and the PRC opening its embassy the following year. As such, Peru became the third Latin American country to recognize the Beijing-based government. Since the establishment of relations between Peru and the PRC, the South American country has adhered to the One China policy.
 In May 1978, the ROC established the "Far East Trade Center" in Lima to promote bilateral trade. On November 5, 1990, President Alberto Fujimori approved Supreme Executive Order No. RE014, agreeing to change the name of "Far East Trade Center" to "Taipei Economic and Cultural Office in Peru". On March 3, 1994, Peru established a "Taipei Trade Office" in Taiwan.
 Peru and the PRC signed a free trade agreement in April 2009. The agreement was officially ratified by both countries governments on December 6, 2009, and came into effect on March 1, 2010. As of 2025, Chinese investment in Peru is primarily in the resources sector and predominantly mining-related.
+Peru joined the Belt and Road Initiative (BRI) in 2019.
 President of Peru Dina Boluarte pays a state visit to China to meet with Chinese President and CCP General Secretary Xi Jinping from June 25, 2024, to June 29, 2024.
 During a November 2024 visit by Xi Jinping to Peru, Boluarte and Xi celebrated the opening of the Port of Chancay, which is part of the Belt and Road Initiative. Xi described the port as the beginning of a new maritime-land corridor between China and Latin America. The port was built by COSCO Shipping Ports.
+In November 2026, Peruvian president Keiko Fujimori visited Shenzhen to attend APEC China 2026. Fujimori met with Chinese leader Xi Jinping, and asked China for help regarding the 2026–2027 El Niño event and said Peru was "introducing countercyclical measures to prevent the economy from slowing" and "like you, ensure that poverty levels continue to decline"; Xi pledged US$15 million in non-repayable aid plus US$7.5 million in machinery.
 
 
 === Subnational relations ===
@@ -63,11 +65,11 @@ A survey published in 2026 by the Pew Research Center found that 64% of Peruvian
 
 
 == High-level visits ==
-High-level visits from China to Peru
 
-CCP General Secretary and President Xi Jinping (2014)
-Chief Executive of Hong Kong Leung Chun-ying (2014)
-CCP General Secretary and President Xi Jinping (2024)
+Presidential visits from China to Peru
+
+President Hu Jintao (2008)
+President Xi Jinping (2016, 2024)
 High-level visits from Peru to China
 
 Minister Carlos Boloña (1991)
@@ -137,4 +139,4 @@ The opening of the port of Chancay decongests the Port of Callao, but it has bee
 - 2026-10-15 · Implementation Completion Report Review · Peru - Modernization of WSS Services（项目：PE-Modernization of Water Supply and Sanitation Services -- P157043）。http://documents.worldbank.org/curated/en/099101526135022283
 - 2026-09-15 · Loan Agreement · Official Documents- Loan Agreement for Loan 9910-PE.pdf（项目：PE-Peru Second Fiscal Policy and Sustainable Growth DPF-DDO -- P506131）。http://documents.worldbank.org/curated/en/099092126120036674
 
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

@@ -37,6 +37,10 @@ In March 2008, following unrest in Tibet, the speaker of the Samoan Fono (legisl
 In June 2008, Samoa announced it would be opening diplomatic missions in China and Japan - the country's first diplomatic offices in Asia. In September 2008, the Chinese Ministry of Foreign Affairs issued a statement indicating that China and Samoa have always "conducted fruitful cooperation in the fields of economy, trade, agriculture, sports, culture, education and health, as well as international affairs", and that China intended to "make more tangible efforts to support Samoa's economic and social development".
 
 
+=== 2010s ===
+Samoa joined the Belt and Road Initiative (BRI) in 2018.
+
+
 === 2020s ===
 In late May 2022, Samoan Prime Minister Fiamē Naomi Mataʻafa and Chinese Foreign Minister Wang Yi signed a bilateral agreement focusing on climate change, the COVID-19 pandemic and security.
 
@@ -56,14 +60,6 @@ Sino-Pacific relations#Samoa
 
 ## 与“一带一路”相关的条目（维基百科导言）
 
-### China-Pacific relations
-
-Oceania is, to the People's Republic of China, a stage for continuous diplomatic competition. The PRC dictates that no state can have diplomatic relations with both the PRC and the ROC. As of 2024, eleven states in Oceania have diplomatic relations with the PRC, and three have diplomatic relations with the ROC. These numbers fluctuate as Pacific Island nations re-evaluate their foreign policies, and occasionally shift diplomatic recognition between Beijing and Taipei. The issue of which "Chinese" government to recognize has become a central theme in the elections of numerous Pacific island nations, and has led to several votes of no-confidence.
-Although both Australia and New Zealand have long recognized the PRC and maintain stable and cordial relationships, the PRC and the ROC continue to actively court diplomatic favours from small Pacific island nations, which commentators have referred to as "checkbook diplomacy", usually in the form of developmental aid, or in the case of the PRC, by providing assistance in building large government complexes, stadiums, or infrastructure. According to Taiwanese newspaper The China Post, "Taiwan and China compete ferociously for diplomatic ties, and both sides have given away millions of dollars to bolster diplomatic relations or steal allies from each other."
-Several Pacific island states receive significant amounts of development aid from the ROC or the PRC. Hamish McDonald of The Age thus reported in 2003 that "[p]laying off China against Taiwan for diplomatic recognition continues as a lucrative export earner for tiny Pacific island nations". The ROC's Pacific allies pledge in return to promote Taiwan's interests in the United Nations, and do so actively.
-In addition, several Pacific countries, including Australia, Fiji, New Zealand, Papua New Guinea, Samoa, Solomon Islands, Tonga, and Vanuatu have ethnic minorities of Chinese descent among their citizens. There are an estimated 80,000 "overseas Chinese" in the Pacific Islands, including 20,000 in Fiji and 20,000 in Papua New Guinea. Countries including Australia, Papua New Guinea, and Vanuatu have also attracted Chinese businesses and investments.
-
-来源：https://en.wikipedia.org/wiki/China-Pacific_relations
 ### Vaiusu
 
 Vaiusu is a village on the Samoan island of Upolu. It is located on the central-north coast of the island, to the west of the capital Apia. As of 2016, Vaiusu had a population of 2,686.
@@ -101,4 +97,4 @@ In 2019 the government proposed a US$100 million wharf and port project for Vaiu
 。http://documents.worldbank.org/curated/en/099724108182689482
   摘要：Economic growth was volatile over 2018–2024, rebounding strongly in 2023–2024 after contractions in 2020–2022. GDP growth reached 10.5 percent in 2024, while inflation eased to 3.6 percent after peaking at 12.0 percent in 2023. Fiscal performance strengthened markedly, with the overall balance rising to 10.1 percent of GDP and debt falling to 27.1 percent. The current account shifted to a surplus of 2.4 percent of GDP. External trade recovered, supported by services and exports growth.
 
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

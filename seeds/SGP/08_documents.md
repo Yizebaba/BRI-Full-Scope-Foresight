@@ -57,16 +57,16 @@ Despite pressure from China, Singapore has maintained its unofficial ties with T
 == Economics ==
 The bilateral trade between China and Singapore developed rapidly in recent years and Singapore has maintained the first position among ASEAN countries in their trade with China. China's transformation into a major economic power in the 21st century has led to an increase of foreign investments in the bamboo network, a network of overseas Chinese businesses operating in the markets of Southeast Asia that share common family and cultural ties.
 In 1998, volume of trade was US$8.154 billion In 1999, the trade value has increased to US$8.56 billion. In 2000, the amount increased to US$10.821 billion. In 2009, the total trade volume was SGD 75.1 billion (US$58.4 billion).
-Singapore is China's 9th largest trading partner, while China is Singapore's 3rd largest trading partner which consisted of 10.1 percent of Singapore's total external trade from the previous year.
+As of 2013, Singapore was China's 9th largest trading partner.
 China's exports to Singapore were textiles, clothing, agriculture produce, petrochemical, metals, electromechanical equipment, feed, coking coal, shipping, machinery supplier, communication equipment and electronic components.
-Companies such as Capitaland and Breadtalk have made substantial inroads into China's domestic economy. 
-Singaporean state-owned companies Temasek Holdings and Singapore Airlines attempted to invest in China Eastern Airlines in 2007, though the deal was not successful.
+Companies such as Capitaland and Breadtalk have made substantial inroads into China's domestic economy.
 Singapore is a significant destination for Chinese outbound foreign direct investment. Singaporean investment in China became particularly important to Singapore during the 1990s, as Singapore sought to adjust its economic model.
 
 
 === Cooperation projects ===
 Suzhou Industrial Park developed as a result of high-level intergovernmental cooperation between China and Singapore. In the late 1980s, Singapore's export-driven economic model required adjustment for further growth and Singapore's government viewed investment in China as part of its policy adjustment. Through its Regional Industrial Parks program, Singapore proposed to develop industrial manufacturing locations in other Asian countries, modeled after its own Jurong Industrial Estate. In 1993, Prime Minister of Singapore Lee Kuan Yew contacted Vice Premier Zhu Rongji and proposed a government-to-government cooperation program to develop an industrial estate on an unbuilt site in Suzhou. The next year, the two countries signed the Agreement on the Joint Development of Suzhou Industrial Park.
 In 2007, China and Singapore began the Sino-Singapore Tianjin Eco-City project.
+Singapore joined the Belt and Road Initiative (BRI) in 2018.
 
 
 == Culture and education ==
@@ -151,8 +151,8 @@ The economic corridor connects several cities in Southern China with the major c
 来源：https://en.wikipedia.org/wiki/China%E2%80%93Indochina_Peninsula_economic_corridor
 ### Kunming-Singapore Railway
 
-The Kunming–Singapore railway, also referred to as the Pan-Asian Railway, is a network of railways that connects China, Singapore and all the countries of mainland Southeast Asia. The concept originated with the British and French colonial empires, which sought to link the railways they had built in southwest China, Indochina and Malaya, but international conflicts in the 20th century kept regional railways fragmented.  The idea was formally revived in October 2006 when 18 Asian and Eurasian countries signed the Trans-Asian Railway Network Agreement, which incorporated the Kunming–Singapore railway into the Trans-Asian Railway network.
-The network consists of three main routes from Kunming, China to Bangkok, Thailand: the Eastern route via Vietnam and Cambodia; the Central route via Laos, and the Western route via Myanmar. The southern half of the network from Bangkok to Singapore has been operational since 1918. The Central route opened on 3 December 2021, with the opening of the Yuxi–Mohan railway and Boten–Vientiane railway linking with the other operational segments of the route, which formally connected Kunming and Singapore directly by rail. There have been plans for high-speed railway constructions, though only one line (between Bangkok and Nakhon Ratchasima) has since entered the construction phase.
+The Kunming–Singapore railway, also referred to as the Pan-Asian Railway, is a network of railways that connects China, Singapore, and all the countries of mainland Southeast Asia. The concept originated with the British and French colonial empires, which sought to link the railways they had built in southwest China, Indochina, and Malaya, but international conflicts in the 20th century kept regional railways fragmented. The idea was formally revived in October 2006, when 18 Asian and Eurasian countries signed the Trans-Asian Railway Network Agreement, which incorporated the Kunming–Singapore railway into the Trans-Asian Railway network.
+The network consists of three main routes, from Kunming, China, to Bangkok, Thailand: the Eastern route via Vietnam and Cambodia; the Central route via Laos, and the Western route via Myanmar. The southern half of the network, from Bangkok to Singapore, has been operational since 1918. The Central route was inaugurated on 3 December 2021, with the opening of the Yuxi–Mohan railway and the Boten–Vientiane railway linking with the other operational segments of the route, which formally connected Kunming and Singapore directly by rail. There have been plans for high-speed railway constructions, though only one line (between Bangkok and Nakhon Ratchasima) has since entered the construction phase.
 The railway network is expected to increase regional economic integration and increase China's economic ties with Southeast Asia.
 
 来源：https://en.wikipedia.org/wiki/Kunming-Singapore_Railway
@@ -178,6 +178,8 @@ The railway network is expected to increase regional economic integration and in
   摘要：This Factsheet provides an overview of the Justice sector according to key performance indicators.
 - 2025-06-30 · Annual Report · Advancing Water Solutions to Tackle the World’s Most Pressing Water Challenges : Singapore Water Center Annual Report FY2025。http://documents.worldbank.org/curated/en/099017211262519417
   摘要：The inaugural Singapore Water Center (SWC) Annual Report presents the center’s activities and results for fiscal year 2025 (June 19, 2024 to June 30, 2025). Launched through a partnership between the Government of Singapore and the World Bank Group, the SWC leverages Singapore’s integrated urban water management expertise to advance water security and resilience globally. Guided by four strategic pillars - policy and leadership, innovative practices and technology, innovative finance, and water monitoring - the SWC delivered five major capacity building activities on utility leadership, non-revenue water management, and flood risk management, engaging more than 300 high-level government officials, ministry directors and senior staff, water utility CEOs, managers and technical experts from the East Asia and the Pacific and South Asia regions. Flagship initiatives included co-organizing a high-level water finance roundtable that culminated in the formation of a Water Finance Working Group to facilitate mobilization of private capital for sector investments. The SWC also contributed to Singapore case studies on two World Bank Group global reports on water reuse and sanitation, showcasing practical pathways for circularity, service delivery, and climate resilience. Working with partners across government, academia, industry, and regional platforms, the SWC combines knowledge exchange, technical training, and demonstration to accelerate adoption of proven solutions.
+- 2025-06-12 · Announcement · Announcement of IFC and QBE Insurance Team Up to Drive Building Resilience in Asia Pacific on June 12, 2025。http://documents.worldbank.org/curated/en/099256211202635443
+  摘要：This press release announces IFC’s collaboration with QBE Asia to strengthen building resilience and help address the persistent property insurance gap across the Asia-Pacific region.
 - 2025-01-17 · Brief · Prosperity Data360 Finance, Competitiveness and Innovation Country Snapshots : Singapore
 。http://documents.worldbank.org/curated/en/099621101212561134
   摘要：This Factsheet provides an overview of the finance, competitiveness and innovation sector in Singapore according to key performance indicators.
@@ -185,8 +187,5 @@ The railway network is expected to increase regional economic integration and in
   摘要：This Factsheet provides an overview of the Justice sector in Singapore according to key performance indicators.
 - 2024-11-19 · Brief · Prosperity Data360 Gender Country Snapshots : Singapore。http://documents.worldbank.org/curated/en/099745002112520426
   摘要：Factsheet provides an overview of the gender sector in Singapore according to key performance indicators.
-- 2024-11-07 · Brief · Prosperity Data360 Tourism Country Snapshots : Singapore
-。http://documents.worldbank.org/curated/en/099557211182436419
-  摘要：This Factsheet provides an overview of the tourism sector in Singapore according to key performance indicators.
 
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

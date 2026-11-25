@@ -44,8 +44,8 @@ Caribbean–China relations
 
 
 == Further reading ==
-Ellis, Evan (26 March 2019). "China's engagement with Trinidad and Tobago". Features. Global Americans. Retrieved 19 February 2022. {{cite news}}: More than one of |publication-date= and |date= specified (help)
-Staff writer (1 February 2022). "PoS mayor: The Chinese, an important part of Trinidad and Tobago's fabric". Features. Trinidad and Tobago Newsday. Retrieved 3 February 2022. {{cite news}}: More than one of |publication-date= and |date= specified (help)
+Ellis, Evan (26 March 2019). "China's engagement with Trinidad and Tobago". Features. Global Americans. Retrieved 19 February 2022.
+Staff writer (1 February 2022). "PoS mayor: The Chinese, an important part of Trinidad and Tobago's fabric". Features. Trinidad and Tobago Newsday. Retrieved 3 February 2022.
 
 来源：https://en.wikipedia.org/wiki/China%E2%80%93Trinidad_and_Tobago_relations（CC BY-SA 4.0）
 
@@ -91,4 +91,4 @@ Several capital-works or infrastructural projects across the Caribbean region ha
 - 2024-12-17 · Brief · Prosperity Data360 Justice Country Snapshots : Trinidad and Tobago。http://documents.worldbank.org/curated/en/099757312242421725
   摘要：This Factsheet provides an overview of the justice sector in Trinidad and Tobago according to key performance indicators.
 
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

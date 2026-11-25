@@ -35,7 +35,7 @@ Effective 1 December 2024, China eliminated tariffs for goods imported from all 
 
 
 === Belt and Road Initiative ===
-In 2015, Laos joined the People's Republic of China global infrastructure project the Belt and Road Initiative (BRI). During a 2017 visit to Vientiane by Xi, the two countries announced the Laos-China Economic Corridor. The most important BRI project in Laos is the Vientiane-Boten Railway which was completed in 2021. It runs from the capital of Laos to the Chinese border. It is part of the broader China-Laos Railway, which the two countries operate as a joint venture through the Laos-China Railway Company. Like China, Laos is a major supporter of the Pan-Asian Railway, given its desire to move from a land-locked economy to a land-linked economy.
+During a 2017 visit to Vientiane by Xi, the two countries announced the Laos-China Economic Corridor. In 2018, Laos joined China's Belt and Road Initiative (BRI). The most important BRI project in Laos is the Vientiane-Boten Railway which was completed in 2021. It runs from the capital of Laos to the Chinese border. It is part of the broader China-Laos Railway, which the two countries operate as a joint venture through the Laos-China Railway Company. Like China, Laos is a major supporter of the Pan-Asian Railway, given its desire to move from a land-locked economy to a land-linked economy.
 
 
 == Political relations ==
@@ -137,4 +137,4 @@ If current trajectories continue there will be no elephants left in Laos by the 
 
 https://openalex.org/W3005905567
 
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

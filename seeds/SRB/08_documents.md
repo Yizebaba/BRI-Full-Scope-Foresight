@@ -4,10 +4,11 @@
 
 ## 国家概况（维基百科）
 
-Serbia, officially the Republic of Serbia, is a landlocked country in Southeastern and Central Europe. It is bordered by Hungary to the north, Romania to the northeast, Bulgaria to the southeast, North Macedonia to the south, Croatia to the northwest, Bosnia and Herzegovina to the west, Montenegro to the southwest, and it also claims a border with Albania through the disputed territory of Kosovo. 
-Serbia has about 6.5 million inhabitants, with its capital, Belgrade, being its largest city.  
-Continuously inhabited since the Paleolithic age, the territory of modern-day Serbia, then part of the Roman Empire, experienced Slavic migrations in the 6th century. The first Serb proto-state was established in the 7th century and by the 9th century had developed into a more stable principality, recognized as a tributary state to the Byzantine Empire. The Serbian Kingdom was established in 1217, reaching its territorial apex in 1346 as the Serbian Empire. By the mid-16th century, the Ottoman Empire annexed the entirety of modern-day Serbia; their rule was at times interrupted by the Habsburg Empire, which maintained a foothold in the northern part of the country from the early 18th century. At the beginning of the 19th century, the Serbian Revolution established the Principality of Serbia, which developed into a constitutional monarchy and gained international recognition of its independence in 1878 before being proclaimed a kingdom in 1882. Emerging victorious from World War I, Serbia incorporated the former Habsburg crownland of Vojvodina into its territory in 1918, before uniting that same year with Croats and Slovenes to form the Kingdom of Yugoslavia, ending its existence as a separate political entity. Serbia was re-established after World War II as one of six federal units of socialist Yugoslavia. During the breakup of Yugoslavia, it formed a union with Montenegro, which was dissolved in 2006, subsequently restoring Serbia's independence. In 2008, Kosovo unilaterally declared independence, receiving mixed responses from the international community, while Serbia continues to regard it as part of its sovereign territory.
-Serbia is a parliamentary republic, with its constitution ensuring the separation of powers between the executive (with president and government headed by the prime minister), legislative (with unicameral parliament), and judiciary branches. The country is a member of the United Nations and numerous other international organizations and has been negotiating its accession to the European Union. It exerts regional influence as a small power in Europe, particularly in neighboring Southeast Europe. An upper-middle-income economy, Serbia provides universal health care as well as free primary and secondary education and subsidized tertiary education to its citizens.
+Serbia, officially the Republic of Serbia, is a landlocked country in Southeastern and Central Europe. It is bordered by Hungary to the north, Romania to the northeast, Bulgaria to the southeast, North Macedonia to the south, Croatia to the northwest, Bosnia and Herzegovina to the west, Montenegro to the southwest, and it also claims a border with Albania through the disputed territory of Kosovo.
+Serbia has about 6.5 million inhabitants; its capital, Belgrade, is also its largest city.
+Continuously inhabited since the Paleolithic age, the territory of modern-day Serbia, then part of the Roman Empire, experienced Slavic migrations in the 6th century. The first Serb proto-state was established in the 7th century and by the 9th century had developed into a more stable principality, recognized as a tributary state to the Byzantine Empire. The Serbian Kingdom was established in 1217, reaching its territorial apex in 1346 as the Serbian Empire. By the mid-16th century, the Ottoman Empire had annexed the entirety of modern-day Serbia; their rule was at times interrupted by the Habsburg Empire, which maintained a foothold in the northern part of the country from the early 18th century. At the beginning of the 19th century, the Serbian Revolution established the Principality of Serbia, which developed into a constitutional monarchy and gained international recognition of its independence in 1878 before being proclaimed a kingdom in 1882.
+Emerging victorious from World War I, Serbia incorporated the former Habsburg crownland of Vojvodina into its territory in 1918, before uniting that same year with Croats and Slovenes to form the Kingdom of Yugoslavia, ending its existence as a separate political entity. Serbia was re-established after World War II as one of six federal units of socialist Yugoslavia. During the breakup of Yugoslavia, it formed a union with Montenegro, which was dissolved in 2006, subsequently restoring Serbia's independence. In 2008, Kosovo unilaterally declared independence, receiving mixed responses from the international community, while Serbia continues to regard it as part of its sovereign territory.
+Serbia is a parliamentary republic, with its constitution ensuring the separation of powers between the executive (with president and government headed by the prime minister), legislative (with unicameral parliament), and judiciary branches. The country is a member of the United Nations and numerous other international organizations and has been negotiating its accession to the European Union. It exerts regional influence as a small power in Europe, particularly in neighbouring Southeast Europe. An upper-middle-income economy, Serbia provides universal health care as well as free primary and secondary education and subsidized tertiary education to its citizens.
 
 来源：https://en.wikipedia.org/wiki/Serbia（CC BY-SA 4.0）
 
@@ -43,7 +44,7 @@ Serbian Deputy Prime Minister Božidar Đelić told reporters after an April 200
 == Economic relations ==
 China is Serbia's second biggest trading partner. Trade between the two countries amounted to $6.1 billion in 2022 with Chinese merchandise exports to Serbia standing at almost $5 billion while Serbian exports stood at $1.1 billion. Since 2024, China and Serbia have a free trade agreement. 
 Chinese companies invested $5.6 billion in Serbia in the last decade and employ 38,000 people. Chinese corporations making investments in Serbia include Zijin Mining (owner of Serbia Zijin Bor Copper cooper mining complex in Bor), Hesteel (owner of Hesteel Serbia steel plant in Smederevo), Hisense (electrical appliances factory in Valjevo), Linglong Tire (tire factory in Zrenjanin), and Minth (automotive parts factories in Šabac and Loznica).
-Since early 2010s China has invested US$10 billion in Serbian infrastructure and energy mainly through China's Belt and Road Initiative, of which Serbia was one of major beneficiaries. BRI funded projects including Serbian section of the Budapest–Belgrade railway (built by China Communications Construction Company and China Railway International), 350 MW B3 unit of Kostolac thermal power-plant (built by CMEC), Belgrade–Ljig and Čačak-Požega segments of A2 motorway (built by Shandong Gaosu Group), Pupin Bridge in Belgrade (built by CRBC). 
+Since early 2010s China has invested US$10 billion in Serbian infrastructure and energy mainly through China's Belt and Road Initiative, of which Serbia was one of major beneficiaries. Serbia had joined joined the BRI in 2015. BRI-funded projects including Serbian section of the Budapest–Belgrade railway (built by China Communications Construction Company and China Railway International), 350 MW B3 unit of Kostolac thermal power-plant (built by CMEC), Belgrade–Ljig and Čačak-Požega segments of A2 motorway (built by Shandong Gaosu Group), Pupin Bridge in Belgrade (built by CRBC). 
 The Serbian flag carrier Air Serbia operates flights between Belgrade and Shanghai. The Chinese carriers China Southern Airlines and Hainan Airlines operate flights between Belgrade and Guangzhou and Belgrade and Beijing, respectively.
 In 2021, China became the largest single country investor in Serbia.
 
@@ -133,12 +134,12 @@ Cooperation between China and Central and Eastern European Countries (China-CEE,
 
 ## 学术论文（OpenAlex）
 
-### The Republic of Serbia and the Belt and Road Initiative（2020，，被引 8）
+### The Republic of Serbia and the Belt and Road Initiative（2020，，被引 7）
 
 In 2013, President of the People's Republic of China, Xi Jinping, launched the One Belt One Road Initiative, later abbreviated as the Belt and Road Initiative.Surprisingly or not, the initiative became widely accepted.The Republic of Serbia was among the countries that warmly welcomed it and decided to join.This article gives an insight into the results that Serbia has achieved participating in this initiative so far.Besides, the author tried to determine if this political decision had influenced the Republic of Serbia's position in international relations and if it did to what extent.Although the BRI was launched in 2013, the time context of this paper starts earlier in order not to neglect Serbia and China's bilateral relations that have been ascending for decades.The quality of their relations was never conditioned by undeniable disproportion in population, territory or economic strength.Their linkage was based on mutual understanding and respect for the international law norms and principles.
 
 https://doi.org/10.18485/iipe_balkans_rssc.2020.ch17
-### Beyond the spatial fix: towards a finance-sensitive reading of the Belt and Road in Serbia（2023，Area Development and Policy，被引 28）
+### Beyond the spatial fix: towards a finance-sensitive reading of the Belt and Road in Serbia（2023，Area Development and Policy，被引 29）
 
 The Belt and Road Initiative (BRI) has been theorised as a spatial fix to China's overaccumulation problem, and as such, an implicitly productivist endeavour. This article opens up conceptual space to consider how historically and geographically mediated forms of financialisation have tempered the unfolding of the BRI in peripheral economies. Drawing on the Serbian post-socialist transition context, financialisation has been characterised by underinvestment and a persistent dependency on foreign, market-based capital inflows which have (1) precipitated state transformations to mobilise Chinese financing for BRI projects, strengthening the role of the state in industrial rejuvenation; and (2) created an institutional palimpsest conducive to non-productive forms of surplus value appropriation that demonstrates the hybridity of accumulation imperatives underlying the BRI.
 
@@ -155,7 +156,7 @@ Foreign direct investment (FDI) is a very important element of economic integrat
 https://doi.org/10.4018/978-1-7998-8021-9.ch008
 ### Global-Local Dynamics in Belt and Road Initiative Projects（2023，Japan focus，被引 6）
 
-Abstract This essay argues that modes of conceptualizing global-local entanglements provide a useful lens for looking at the different ways Belt and Road Initiative (BRI) projects localize in BRI-host countries. The essay draws on recent work on George Ritzer to examine examples of BRI projects where global norms and practices are locally conceived and controlled, in contrast to other cases where the projects barely reflect local culture. Examples of Serbia and Hungary are provided to illuminate these points.
+This essay argues that modes of conceptualizing global-local entanglements provide a useful lens for looking at the different ways Belt and Road Initiative (BRI) projects localize in BRI-host countries. The essay draws on recent work on George Ritzer to examine examples of BRI projects where global norms and practices are locally conceived and controlled, in contrast to other cases where the projects barely reflect local culture. Examples of Serbia and Hungary are provided to illuminate these points.
 
 https://doi.org/10.1017/s1557466023028449
 ### Understanding the Impact of the Normative Power of the European Union on the Belt and Road Initiative: The Case of Italy, Serbia, and Latvia（2020，Gothenburg University Publications Electronic Archive (Gothenburg University)，被引 2）
@@ -163,36 +164,15 @@ https://doi.org/10.1017/s1557466023028449
 The Belt and Road Initiative (BRI) was announced in 2013 and has attracted much attention from many countries. Promising significant investments all over the world, including in Europe, the BRI has prompted vibrant discussion regarding how it will shape international politics. While many studies have been published on how the BRI is influencing trends in different countries and regions, there has not been any research on how those countries try to socialize the BRI during their interaction with China. This dissertation aims to contribute to the by looking at if the level of a country’s affiliation with the EU, which is usually considered as being a normative power, equals the level of EU norms present in China’s BRI interactions with that country. The dissertation used a qualitative content analysis of official agreements and other documents related to China’s BRI interactions with our three case countries (Italy, Latvia, Serbia) to study the topic. The dissertation also studied what norms were present in the BRI when the BRI was first defined in 2015 to be better able to see what norms originate from the EU. To complement our data and give our data more context, we have also conducted expert interviews with country experts as well as EU-China experts while also utilizing second hand or tertiary sources if it is needed. The dissertation concludes that the EU’s internal norms are affecting the BRI and the level of affiliation to the EU matters. The more a country is affiliated\n4\nwith the EU, the more EU norms are present in China’s BRI interactions with said country. Affiliation levels and EU norms present in China’s interactions can change over time and be affected by the case country's attitude towards, and dependency of, the EU.
 
 https://openalex.org/W3093897103
+### Framing, filtering, and friction: the domestic mechanics of the Belt and Road Initiative（2026，，被引 0）
+
+This chapter analyses the Belt and Road Initiative (BRI) between 2020 and 2026 through the lens of the political processing of global challenges. Drawing on strategic documents – including China’s 15th Five-Year Plan – and comparative case studies from Kazakhstan and Serbia, the study is anchored in the framework of global governance and the domestic filtering of norms. It examines how global standards of the Green and Digital Silk Roads enter national policy arenas, arguing that domestic institutional and political filters shape implementation outcomes. The findings reveal that the BRI is not a monolithic instrument of Chinese hegemony, but a dynamic, fragmented process actively co-created by partner states. Rather than simple compliance, local elites employ strategies of selective implementation and symbolic alignment to reinforce domestic political legitimacy and regime stability.
+
+https://doi.org/10.59862/p7k4m2xq04
 ### Western Balkan 6 Connectivity Agenda with the Belt and Road Initiative（2022，Routledge eBooks，被引 0）
 
 In order to promote its member states in organising and coordinating infrastructure construction, the Western Balkan 6 Summit was held by the South-East Europe Transport Observatory (SEETO). In addition, the Western Balkan Summit was at a larger scale. At these two summits, a series of connectivity agendas had been proposed by the Western Balkan, which was generally called the “Western Balkan 6 Connectivity Agenda” (hereinafter referred to as “the Agenda”). “6 Western Balkan countries” means the Western Balkan countries without EU accession: Albania, Serbia, Montenegro, Bosnia–Herzegovina, Macedonia, and Kosovo. The Steering Committee of SEETO is composed of representatives of these six countries. The enlarged Western Balkan Summit was also attended by EU member states in the Western Balkan area and other relevant countries, including Croatia and Slovenia inside the Western Balkan area; and Germany, Italy, Austria, and France outside this area.
 
 https://doi.org/10.4324/9781003286202-117
-### The importance of Chinese investments in the One Belt, One Road Initiative（2017，，被引 2）
 
-The 16+1 cooperation initiative, involving the People’s Republic
-of China and the 16 countries of Central and Eastern Europe, was officially
-launched in 2012. Each of the countries has its own cooperation priorities,
-but the majority of the investment projects which are part of the initiative
-is in the areas of transport infrastructure, agriculture, energy, logistics,
-health, etc. This cooperation initiative is complementary to China’s
-landmark foreign policy project, One Belt, One Road; together, they
-determine China’s attitude towards these 16 countries. Firstly, this paper
-will view the main sectors of Chinese investment throughout the countries
-of Central and Eastern Europe since 2012. This will be followed by the
-investment projects which have been completed, as well as the most recent
-announced projects and their estimated value. Five years after the official
-launching of the 16+1 cooperation initiative, it is clear that not all countries
-in the region have benefited equally from the initiative ‐ while some have
-maintained enthusiasm due to a large number of implemented projects
-and tangible results, the others are still waiting to see tax revenue flowing
-into their budgets and are growing sceptical. The authors point out that
-dominant countries such as Hungary, Poland, the Czech Republic, Romania,
-Serbia or Bulgaria have seen most of the benefits; although it is unrealistic
-to expect equal benefits to all 16 countries of Central and Eastern Europe,
-the initiative will be fully successful only if major Chinese companies gain
-a stronghold in those countries in which they were absent until now.
-
-https://openalex.org/W3154958098
-
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

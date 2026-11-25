@@ -25,6 +25,7 @@ During the Ebola outbreak in western Africa, Guinea was one of the countries to 
 == Economic relations ==
 Along with Ghana and Mali, two other newly independent states under leftist governments, Guinea was one of the first countries in Africa to receive Chinese aid. Throughout the 1960s, Chinese loans helped Guinea to construct an oil pressing factory, a bamboo processing center, a series of paddy fields and other significant projects. Radio-Conakry reported that two countries signed a trade agreement worth 3.4 million pounds on 6 February 1971.
 From 2000 to 2011, there were approximately 31 Chinese official development finance projects identified in Guinea through various media reports. These projects range from the construction of a 150-bed hospital at Kipe in 2008, to an aid package worth US$5.2 million in 2007.
+Guinea joined the Belt and Road Initiative (BRI) in 2018.
 
 
 === Bauxite ore ===
@@ -48,6 +49,11 @@ In the 1970s, China and Equatorial Guinea signed agreements on economic and tech
 Between 1985 and 1996 there were no outstanding developments in relations between China and Equatorial Guinea, in fact, Equatorial Guinea underwent a period of democratisation, passing a new constitution in 1991 and holding the most democratic elections in its history in 1995. The discovery of oil in 1996 saw a reversion of the democratisation process and simultaneous gravitation towards China, with the first bilateral economic cooperation meeting held in Equatorial Guinea in 1996.
 
 来源：https://en.wikipedia.org/wiki/China%E2%80%93Equatorial_Guinea_relations
+### China–Guinea-Bissau relations
+
+China–Guinea-Bissau refers to the current and historical relationship between the People's Republic of China (PRC) and Guinea-Bissau. Relations were established in March 1974, several months before Guinea-Bissau's September 1974 independence. From 1990 to 1998, Guinea-Bissau maintained diplomatic relations with the Republic of China (Taiwan) rather than with the People's Republic. Relations were reestablished in 1998 and maintained since.
+
+来源：https://en.wikipedia.org/wiki/China%E2%80%93Guinea-Bissau_relations
 ### China–Papua New Guinea relations
 
 The Independent State of Papua New Guinea and the People's Republic of China (PRC) established official diplomatic relations in 1976, soon after Papua New Guinea became independent. The two countries currently maintain diplomatic, economic and, to a lesser degree, military relations. Relations are cordial; China is a significant provider of both investments and development aid to Papua New Guinea.
@@ -75,45 +81,45 @@ The Independent State of Papua New Guinea and the People's Republic of China (PR
 
 ## 学术论文（OpenAlex）
 
-### An Analysis of Competitiveness and Complementarity between China and Guinea Trade under the qThe Belt and Roadq Initiative（2018，International Conference on Humanities Science, Management and Education Technology (HSMET)，被引 4）
-
-With the continuous advancement of the "The Belt and Road" initiative and the continuous development of China-Africa trade cooperation, bilateral trade development between China and Guinea has also ushered in new opportunities.At present, China has become one of the largest trading partners and largest investors of Guinea.By measuring the Export Similarity Index (ESI), Trade Intensity Index (TII), Intra-industry Trade Index (G-L Index)and Revealed Comparative Advantage Index ( RCA ) , this paper analyzes the competitiveness and complementarity of bilateral trade between China and Guinea.The results show that China and Guinea have weaker trade competitiveness but strong complementarities, and huge potential for trade cooperation.It puts forward proposals for improving China and Guinea to jointly discuss and build a sharing mechanism, promote the construction of the "The Belt and Road" infrastructure, and build a China-Guinea economic and trade cooperation industrial park. IntroductionOn February 28, 2015 , our country issued the "Vision and Action to Promote the Joint Construction of the Silk Road Economic Belt and the 21st Century Maritime Silk Road", and " The Belt and Road" propose preludes.On May 14-15, 2017, " The Belt and Road" International Cooperation Summit Forum was held in Beijing.As an important country to promote "The Belt and Road" initiative, Africa was also invited to attend the summit.China is becoming one of the most important partners on the road to African development.According to the latest data of the Ministry of Commerce in 2017, China has become Africa's largest trading partner and the third largest source of investment.Guinea, as the first Sub-Saharan African country to establish diplomatic ties with China, has an important position in the construction of China-Africa " The Belt and Road ".In order to further develop the bilateral trade between China and Guinea, expand friendly exchanges and practical cooperation in various fields between the
-
-https://doi.org/10.2991/hsmet-18.2018.69
-### Examining the debt implications of the Belt and Road Initiative from a policy perspective（2019，Journal of Infrastructure Policy and Development，被引 490）
+### Examining the debt implications of the Belt and Road Initiative from a policy perspective（2019，Journal of Infrastructure Policy and Development，被引 485）
 
 China’s Belt and Road Initiative (BRI) hopes to deliver trillions of dollars in infrastructure financing to Asia, Europe, and Africa. If the initiative follows Chinese practices to date for infrastructure financing, which often entail lending to sovereign borrowers, then BRI raises the risk of debt distress in some borrower countries. This paper assesses the likelihood of debt problems in the 68 countries identified as potential BRI borrowers. We conclude that eight countries are at particular risk of debt distress based on an identified pipeline of project lending associated with BRI.Because this indebtedness also suggests a higher concentration in debt owed to official and quasi-official Chinese creditors, we examine Chinese policies and practices related to sustainable financing and the management of debt problems in borrower countries. Based on this evidence, we offer recommendations to improve Chinese policy in these areas. The recommendations are offered to Chinese policymakers directly, as well as to BRI’s bilateral and multilateral partners, including the IMF and World Bank.
 
 https://doi.org/10.24294/jipd.v3i1.1123
-### Bridging the Belt and Road Initiative in Papua New Guinea（2021，ANU Press eBooks，被引 9）
+### Bridging the Belt and Road Initiative in Papua New Guinea（2021，ANU Press eBooks，被引 13）
 
 （无摘要）
 
 https://doi.org/10.2307/j.ctv1h45mkn.17
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 209）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 234）
 
 （无摘要）
 
 https://doi.org/10.1016/j.ememar.2019.100629
-### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 107）
+### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 127）
 
-China's Belt and Road Initiative aims to improve connectivity between China and more than 70 countries through infrastructure investment and regional cooperation. The initiative has the potential to accelerate significantly the rate of economic integration and development in the region, as trade costs decline. The goals of this paper are to (i) study the impacts of infrastructure improvements on Belt and Road Initiative and non?Belt and Road Initiative countries'trade flows, growth, and poverty; and (ii) suggest policies that would help maximize gains from the Belt and Road Initiative?induced trade cost declines. The analysis captures the trade costs reductions as a result of infrastructure improvements. The findings indicate that the Belt and Road Initiative would be largely beneficial. First, global income increases by 0.7 percent (in 2030 relative to the baseline). This translates into almost half a trillion dollars in 2014 prices and market exchange rates. The Belt and Road Initiative area captures 82 percent of the gain, with the largest percent gains in East Asia. Second, globally, the Belt and Road Initiative could contribute to lifting 7.6 million people from extreme poverty and 32 million from moderate poverty. Third, the initiative would lead to a modest increase in global carbon dioxide emissions, with a complex set of positive and negative outcomes at the national level for other types of emissions.
+China's Belt and Road Initiative aims to improve connectivity between China and more than 70 countries through infrastructure investment and regional cooperation. The initiative has the potential to accelerate significantly the rate of economic integration and development in the region, as trade costs decline. The goals of this paper are to (i) study the impacts of infrastructure improvements on Belt and Road Initiative and non–Belt and Road Initiative countries' trade flows, growth, and poverty; and (ii) suggest policies that would help maximize gains from the Belt and Road Initiative–induced trade cost declines. The analysis captures the trade costs reductions as a result of infrastructure improvements. The findings indicate that the Belt and Road Initiative would be largely beneficial. First, global income increases by 0.7 percent (in 2030 relative to the baseline). This translates into almost half a trillion dollars in 2014 prices and market exchange rates. The Belt and Road Initiative area captures 82 percent of the gain, with the largest percent gains in East Asia. Second, globally, the Belt and Road Initiative could contribute to lifting 8.7 million people from extreme poverty and 34 million from moderate poverty. Third, the initiative would lead to a modest increase in global carbon dioxide emissions, with a complex set of positive and negative outcomes at the national level for other types of emissions.
 
 https://doi.org/10.1596/1813-9450-8814
-### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 170）
-
-（无摘要）
-
-https://doi.org/10.1016/j.jdeveco.2019.102415
-### The Belt and Road comes to Papua New Guinea: Chinese geoeconomics with Melanesian characteristics?（2020，ANU Open Research (Australian National University)，被引 7）
+### The Belt and Road comes to Papua New Guinea: Chinese geoeconomics with Melanesian characteristics?（2020，Security challenges，被引 28）
 
 Considered ‘peripheral’ in Chinese foreign policy, Melanesia has nevertheless experienced a steady growth in Chinese interests this century, particularly leading up to APEC 2018. This interest brought with it the Belt and Road Initiative – China’s economic quest for global influence, and the public face of China’s grand strategy. Drawing on research from 2017 and 2019, this article examines what changed after PNG joined the BRI in June 2018. It consults a range of well-informed Chinese and PNG perspectives to discern what the BRI means for Melanesia and how Melanesians are responding to it. Is this economic development, geoeconomic influence or both?
 
 https://openalex.org/W3193975942
-### Growth effects of economic integration: New evidence from the Belt and Road Initiative（2022，Economic Analysis and Policy，被引 101）
+### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 167）
+
+（无摘要）
+
+https://doi.org/10.1016/j.jdeveco.2019.102415
+### Growth effects of economic integration: New evidence from the Belt and Road Initiative（2022，Economic Analysis and Policy，被引 115）
 
 This paper uses the Belt and Road Initiative (B&R), an exogenous innovative model of economic integration proposed by China, to examine the growth effects of economic integration on local economies. From 2013 to 2019, more than 120 countries successively participated in the B&R, which intensified the regional integration and interdependence of B&R countries. Employing a difference-in-differences estimation methodology that exploits the cross-country, cross-time variation in the timing of participation in the Belt and Road Initiative, the author finds that the Belt and Road Initiative materially improved the economic performance of local economies, with particularly strong effects for lower-income countries. This paper also provides suggestive evidence that the growth effects can be interpreted in terms of foreign trade and foreign direct investment inwards.
 
 https://doi.org/10.1016/j.eap.2022.01.004
+### Policy, institutional fragility, and Chinese outward foreign direct investment: An empirical examination of the Belt and Road Initiative（2020，Journal of International Business Policy，被引 175）
 
-抓取时间：2026-11-18T13:28:49Z
+（无摘要）
+
+https://doi.org/10.1057/s42214-020-00056-8
+
+抓取时间：2026-11-25T14:59:43Z

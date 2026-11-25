@@ -141,12 +141,12 @@ The Hydropower Plant project was undertaken by the Chinese Gezhouba Group as its
 
 ## 学术论文（OpenAlex）
 
-### China’s Belt and Road Initiative: Implications for the Middle East（2018，Cambridge Review of International Affairs，被引 89）
+### China’s Belt and Road Initiative: Implications for the Middle East（2018，Cambridge Review of International Affairs，被引 95）
 
 This article examines the geopolitical and economic implications of the Belt and Road Initiative for the Middle East. It locates the BRI within the region’s politics and examines the opportunities that the initiative offers for the region, as well as its inherent risks and challenges. It argues that the BRI is not merely an economic project as framed by Beijing, but that it represents a new stage in China’s engagement with the region, and—if fully implemented—could have wide geopolitical implications. The Middle East has the potential to contribute immensely to China’s sustained growth by addressing its energy security, supporting China’s role as a ‘megatrader’, and, more importantly, driving China’s efforts to become a global maritime power and monetary power by internationalizing the Renminbi (RMB). Thus, the BRI could have wide implications for the Middle East. Far from being a win-win project for all, the BRI will likely benefit some countries in the region more than others. Iran stands ready to benefit most. The BRI will likely increase the strategic importance of the Suez Canal and could potentially undermine the importance of some logistic hubs in the Middle East in favour of other trade hubs in Central Asia.
 
 https://doi.org/10.1080/09557571.2018.1480592
-### Iran and the Belt and Road Initiative: Amid Hope and Fear（2019，Journal of Contemporary China，被引 26）
+### Iran and the Belt and Road Initiative: Amid Hope and Fear（2019，Journal of Contemporary China，被引 27）
 
 Iran is one of the countries involved in the Belt and Road Initiative (BRI). What eﬀects will the realization of the BRI have on the geo economical and geopolitical status of Iran? On the one hand, this project can boost China’s presence and inﬂuence in the political economy of Iran and its neighborhood, and create new domains of competition between Iran and China. On the other hand, it could contribute to the revival of Iran’s historical role in the ancient Silk Road. Thus, to participate in this project, Iran is stuck between hope and fear. It is fearful for Iran because it has negative eﬀects on Iranian interests, at the same time Iran is hopeful because it can enhance its economic development and raise its historical role as a bridge between the East and the West.As a result, Iran tries at the same time to develop its relationships with the EU as well as cooperation with China in the framework of the BRI. Iran tries to maximize its interests from the project and reduce its negative eﬀects on its geo economic and geopolitical interests. Maintaining this fragile balance could face Iran ’s active participation in the project with substantial challenges.
 
@@ -161,25 +161,25 @@ https://doi.org/10.4324/9780367854645-12
 While the name ‘Silk Road’ connotes significant Chinese influence, in fact since the eighth century the old land route ran mostly through Islamic countries and areas, from present-day Xinjiang to Istanbul, and the old sea route passed through Islamic trading principalities for centuries. Modern Islamic economies, and concepts of Islamic economics, will exert considerable impact on the Belt and Road Initiative (BRI, also known as OBOR) development programmes. Although a non-Muslim majority country, China has a longer, deeper and more influential history of cultural interaction with Islam than any other large country or major culture, save perhaps India and Indian culture. The new ‘West’ for China consists of countries with great variety of Islamic economies, and so I argue that China has certain unique advantages to engage with Islamic economies and utilise Islamic banking and finance. Using Kazakhstan, Pakistan and Iran as examples, this paper argues that variation across modern views of ‘Islamic economics’ not only results in challenges but also holds promise for BRI development strategies in countries with Muslim majorities.
 
 https://doi.org/10.1080/20954816.2018.1498989
-### Iran and the Belt and Road Initiative: Amid Hope and Fear（2020，Routledge eBooks，被引 8）
-
-（无摘要）
-
-https://doi.org/10.4324/9781003029397-13
-### China in the Middle East: Iran's "Belt and Road" Role（2021，Middle East Quarterly，被引 7）
+### China in the Middle East: Iran's "Belt and Road" Role（2021，Middle East Quarterly，被引 8）
 
 （无摘要）
 
 https://openalex.org/W3134784831
-### The impact of U.S. sanctions on Iran’s engagement and integration in the Belt and Road Initiative（2020，Digest of Middle East Studies，被引 15）
+### The impact of U.S. sanctions on Iran’s engagement and integration in the Belt and Road Initiative（2020，Digest of Middle East Studies，被引 17）
 
-Abstract This study seeks to examine the new dynamic of the growing comprehensive strategic partnership between Iran and China in order to understand the impact and the extent of the reimposition of U.S. secondary sanctions on Iran’s engagement and integration in the implementation of the Belt and Road Initiative. Tehran has a special geographical and communication status in West Asia which makes it one of the important centerpieces of the new Silk Road trade route. However, Washington’s decision to withdraw from the Iran nuclear agreement and to reimpose sanctions has created barriers in the new dynamic in Sino‐Iranian trade and obstacles to integrating Iran into the realization of the Belt and Road Initiative.
+This study seeks to examine the new dynamic of the growing comprehensive strategic partnership between Iran and China in order to understand the impact and the extent of the reimposition of U.S. secondary sanctions on Iran’s engagement and integration in the implementation of the Belt and Road Initiative. Tehran has a special geographical and communication status in West Asia which makes it one of the important centerpieces of the new Silk Road trade route. However, Washington’s decision to withdraw from the Iran nuclear agreement and to reimpose sanctions has created barriers in the new dynamic in Sino‐Iranian trade and obstacles to integrating Iran into the realization of the Belt and Road Initiative.
 
 https://doi.org/10.1111/dome.12215
-### 12 Geographic Agency: Iran as a ‘Civilizational Crossroads’ in the Belt and Road Geography（2021，Amsterdam University Press eBooks，被引 8）
+### Iran and the Belt and Road Initiative: Amid Hope and Fear（2020，Routledge eBooks，被引 4）
+
+（无摘要）
+
+https://doi.org/10.4324/9781003029397-13
+### 12 Geographic Agency: Iran as a ‘Civilizational Crossroads’ in the Belt and Road Geography（2021，Amsterdam University Press eBooks，被引 10）
 
 Chapter 12 focuses on Iran and tackles two issues.First, it seeks to demarcate the conceptual boundaries of 'geographic agency'.Second, it attempts to apply this concept to the case of Iran.Adopting a critical geography approach, the chapter unpacks how Iran is reinventing itself geographically through certain 'space-making processes' and 'space-framing assumptions'.The chapter argues that Iran is showing agency at three geographical levels: 1) as a nation state, it is systematically representing the 'idea of Iran' as a 'civilizational crossroads'; it does so 2) in a region that the Iranian government chooses to call 'West Asia' (and not 'the Middle East'), and 3) in an emergent world whose organizing trope is a 'New Silk Roads' imaginary and which has a geoeconomic rather than geopolitical logic.
 
 https://doi.org/10.1515/9789048553952-013
 
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

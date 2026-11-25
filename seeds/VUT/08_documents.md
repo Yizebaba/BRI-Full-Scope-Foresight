@@ -6,8 +6,7 @@
 
 Vanuatu, officially the Republic of Vanuatu (French: République de Vanuatu; Bislama: Ripablik blong Vanuatu), is an archipelagic country in the Melanesia region of Oceania located in the South Pacific Ocean. The archipelago, which is of volcanic origin, is 1,750 km (1,090 mi) east of northern Australia, 540 km (340 mi) northeast of New Caledonia, east of New Guinea, southeast of Solomon Islands, and west of Fiji.
 Vanuatu was first inhabited by Melanesian people. The first Europeans to visit the islands were a Spanish expedition led by Portuguese navigator Fernandes de Queirós, who arrived on the largest island, Espíritu Santo, in 1606. Queirós claimed the archipelago for Spain, as part of the colonial Spanish East Indies and named it La Austrialia del Espíritu Santo.
-In the 1880s, France and the United Kingdom claimed parts of the archipelago, and in 1906, they agreed on a framework for jointly managing the archipelago as the New Hebrides – through an Anglo-French condominium.
-In the 1970s, an independence movement arose, and the Republic of Vanuatu was founded in 1980. Since its independence, the country has become a member of the United Nations, the Commonwealth of Nations, the  Organisation internationale de la Francophonie, and the Pacific Islands Forum.
+In the 1880s, France and the United Kingdom claimed parts of the archipelago, and in 1906, they agreed on a framework for jointly managing the archipelago as the New Hebrides – through an Anglo-French condominium. In the 1970s, an independence movement arose, and the Republic of Vanuatu was founded in 1980. Since its independence, the country has become a member of the United Nations, the Commonwealth of Nations, the  Organisation internationale de la Francophonie, and the Pacific Islands Forum.
 
 来源：https://en.wikipedia.org/wiki/Vanuatu（CC BY-SA 4.0）
 
@@ -29,6 +28,7 @@ In 2006, Vanuatu signed an economic cooperation agreement with the PRC, whereby 
 In 2002, the countries' bilateral trade was worth €1.294 million, of which just over €1 million imported by Vanuatu from China, and over €200,000 imported by China from Vanuatu. Vanuatu imports Chinese garments, shoes, textiles, medicines, foods and light industrial products, while China imports Vanuatuan "plants to be used for killing insects and bacteria, as well as buttons and sown timber".
 According to the government of Vanuatu, "China is recognized as one of Vanuatu's major development partners".
 As of 2018, China reportedly accounts for approximately $220 million of Vanuatu's foreign debts.
+Vanuatu joined the Belt and Road Initiative (BRI) in 2018.
 
 
 === Military relations ===
@@ -101,4 +101,4 @@ In addition, several Pacific countries, including Australia, Fiji, New Zealand, 
 - 2026-05-01 · Resettlement Plan · Vanuatu - Climate Resilient Transport Project : Addendum to Abbreviated Resettlement Action Plan - Package 2 : Vehicle Waiting Areas at Bridge 6 and 9 （项目：VU-Vanuatu Climate Resilient Transport Project -- P167382）。http://documents.worldbank.org/curated/en/099638107242624601
   摘要：The development objective of the Climate Resilient Transport Project for Vanuatu is to improve the climate resilience of the Recipient’s Road network, with emphasis on the selected project road, and in the event of an eligible crisis or emergency, to provide an immediate response to the eligible crisis or emergency. The project will be implemented within the existing 20-meter gazetted road reserve and does not require land acquisition. However, minor impacts have been identified, including the removal of four productive coconut trees, relocation of an approximately 5-meter fence, and temporary impacts on non-land assets affecting two Project Affected Persons (PAPs). These impacts are localized, site-specific, and considered minor in nature. To address these impacts, the project obtained signed consent forms from all affected land users, conducted consultations with PAPs and community leaders, and established compensation arrangements for affected assets. Cash compensation will be paid at replacement value for the removed coconut trees prior to construction, while the affected fence will be relocated or replaced if damaged. Existing grievance redress, monitoring, and entitlement mechanisms under the approved ARAP will continue to apply.
 
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

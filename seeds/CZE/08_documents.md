@@ -55,6 +55,7 @@ Miloš Zeman, who served as prime minister of the Czech Republic from 1998 to 20
 On 20 May 2009, China and Czech Republic celebrated sixty years of diplomatic relations. Chinese premier Wen Jiabao met with Czech President Václav Klaus and the then Czech Prime Minister Jan Fischer for talks on improving bilateral trade, environment protection and build mutual trust.
 According to a Czech Republic's counter-intelligence agency Security Information Service (BIS) 2014 report, "China’s administration and its intelligence services have put an emphasis on gaining influence over Czech political and state structures and on gathering political intelligence, with active participation by select Czech elites, including politicians and state officials."
 In October 2014, Czech president Miloš Zeman met his Chinese leader Xi Jinping in Beijing. Xi expressed he will strive new restart in bilateral relations and Zeman addressed topics on improving business and tourism between the two countries. Zeman also proposed direct flight connection between Prague and Shanghai, and establishing new Czech consulate in Chengdu, Sichuan. Later Zeman also met representatives of Bank of China and Chinese Premier Li Keqiang.
+Czech Republic joined the Belt and Road Initiative in 2015.
 In 2016, the two countries signed the Sino-Czech agreement for Chinese investment in the Czech Republic.
 Xi Jinping visited the Czech Republic from 28 to 30 March 2016, at the invitation of president Zeman. It was the first visit by a General Secretary of the Chinese Communist Party to the Czech Republic, demonstrating the improving relations between the two countries. A strategic partnership agreement between the two countries was signed by the presidents.
 In 2018 relations were damaged when the Czech cyber-security watchdog warned of the risks associated with purchasing telecom equipment from Chinese companies such as Huawei and ZTE.
@@ -160,45 +161,45 @@ Cooperation between China and Central and Eastern European Countries (China-CEE,
 
 ## 学术论文（OpenAlex）
 
+### Belt and Road Economics: Opportunities and Risks of Transport Corridors（2019，World Bank, Washington, DC eBooks，被引 494）
+
+China proposed the Belt and Road Initiative in 2013 to improve connectivity and cooperation on a transcontinental scale. This study, by a team of World Bank Group economists led by Michele Ruta, analyzes the economics of the initiative. It assesses the connectivity gaps between economies along the initiative’s corridors, examines the costs and economic effects of the infrastructure improvements proposed under the initiative, and identifies complementary policy reforms and institutions that will support welfare maximization and mitigation of risks for participating economies.
+
+https://doi.org/10.1596/978-1-4648-1392-4
 ### China’s Belt and Road Initiative and the 16+1 Platform: The Case of the Czech Republic（2018，Springer eBooks，被引 3）
 
 （无摘要）
 
 https://doi.org/10.1007/978-981-10-7116-4_15
-### Monetary and Financial Cooperation Between China and the One Belt One Road Countries（2018，Emerging Markets Finance and Trade，被引 54）
+### Monetary and Financial Cooperation Between China and the One Belt One Road Countries（2018，Emerging Markets Finance and Trade，被引 55）
 
 Based on the theory of optimal currency area (OCA), we calculate the OCA index between China and the OBOR partners with the expressed objective of identifying which partners exhibit monetary and financial compatibilities, and hence present the best potential in terms of cost and benefits. Our findings suggest that among South East Asia region, Malaysia exhibits the highest compatibility and profit potential, followed by Thailand and Vietnam. For the East European area, Poland and Croatia show the best potential in terms of monetary and financial cooperation; with the Czech Republic as close third. Based on our computation, currently Central Asia and the Middle East do not possess the condition or potential for beneficial financial and monetary collaboration.
 
 https://doi.org/10.1080/1540496x.2018.1540976
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 226）
+### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 234）
 
 （无摘要）
 
 https://doi.org/10.1016/j.ememar.2019.100629
-### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 140）
+### The Belt and Road Initiative: Economic, Poverty and Environmental Impacts（2019，World Bank, Washington, DC eBooks，被引 127）
 
-China's Belt and Road Initiative aims to improve connectivity between China and more than 70 countries through infrastructure investment and regional cooperation. The initiative has the potential to accelerate significantly the rate of economic integration and development in the region, as trade costs decline. The goals of this paper are to (i) study the impacts of infrastructure improvements on Belt and Road Initiative and non?Belt and Road Initiative countries'trade flows, growth, and poverty; and (ii) suggest policies that would help maximize gains from the Belt and Road Initiative?induced trade cost declines. The analysis captures the trade costs reductions as a result of infrastructure improvements. The findings indicate that the Belt and Road Initiative would be largely beneficial. First, global income increases by 0.7 percent (in 2030 relative to the baseline). This translates into almost half a trillion dollars in 2014 prices and market exchange rates. The Belt and Road Initiative area captures 82 percent of the gain, with the largest percent gains in East Asia. Second, globally, the Belt and Road Initiative could contribute to lifting 7.6 million people from extreme poverty and 32 million from moderate poverty. Third, the initiative would lead to a modest increase in global carbon dioxide emissions, with a complex set of positive and negative outcomes at the national level for other types of emissions.
+China's Belt and Road Initiative aims to improve connectivity between China and more than 70 countries through infrastructure investment and regional cooperation. The initiative has the potential to accelerate significantly the rate of economic integration and development in the region, as trade costs decline. The goals of this paper are to (i) study the impacts of infrastructure improvements on Belt and Road Initiative and non–Belt and Road Initiative countries' trade flows, growth, and poverty; and (ii) suggest policies that would help maximize gains from the Belt and Road Initiative–induced trade cost declines. The analysis captures the trade costs reductions as a result of infrastructure improvements. The findings indicate that the Belt and Road Initiative would be largely beneficial. First, global income increases by 0.7 percent (in 2030 relative to the baseline). This translates into almost half a trillion dollars in 2014 prices and market exchange rates. The Belt and Road Initiative area captures 82 percent of the gain, with the largest percent gains in East Asia. Second, globally, the Belt and Road Initiative could contribute to lifting 8.7 million people from extreme poverty and 34 million from moderate poverty. Third, the initiative would lead to a modest increase in global carbon dioxide emissions, with a complex set of positive and negative outcomes at the national level for other types of emissions.
 
 https://doi.org/10.1596/1813-9450-8814
-### A comparative study of the Belt and Road Initiative and the Marshall plan（2018，Humanities and Social Sciences Communications，被引 106）
+### A comparative study of the Belt and Road Initiative and the Marshall plan（2018，Humanities and Social Sciences Communications，被引 110）
 
-Abstract Since the introduction of the Belt and Road Initiative (BRI) in 2013, both the mainstream media and professional analysts began to name the Initiative “China’s Marshall Plan”. While the rhetoric may simply be an eye-catching term constructed in journalist and consultancy circles, this paper examines the background and purposes behind these two grand projects in order to shed light on the similarities and the differences of their effects on the world order. By comparing the projects under five different aspects—boosting exports, exporting currency, countering a rival, fostering strategic divisions, and siphoning away diplomatic support—this paper argues that while the two projects may have similarities and aim to respond to the malfunctioning world order through macro political-economic investments and developmental aid, their outcomes (given the relative differences of the global position of rivalries—USSR in Marshall Plan; US in BRI) and the changing economic structures, could be very different. As a result, this paper concludes that it may be too early to suggest that the BRI could bring similar outcomes as the Marshall Plan, especially in competing for the global leadership in the 21st century.
+Since the introduction of the Belt and Road Initiative (BRI) in 2013, both the mainstream media and professional analysts began to name the Initiative “China’s Marshall Plan”. While the rhetoric may simply be an eye-catching term constructed in journalist and consultancy circles, this paper examines the background and purposes behind these two grand projects in order to shed light on the similarities and the differences of their effects on the world order. By comparing the projects under five different aspects—boosting exports, exporting currency, countering a rival, fostering strategic divisions, and siphoning away diplomatic support—this paper argues that while the two projects may have similarities and aim to respond to the malfunctioning world order through macro political-economic investments and developmental aid, their outcomes (given the relative differences of the global position of rivalries—USSR in Marshall Plan; US in BRI) and the changing economic structures, could be very different. As a result, this paper concludes that it may be too early to suggest that the BRI could bring similar outcomes as the Marshall Plan, especially in competing for the global leadership in the 21st century.
 
 https://doi.org/10.1057/s41599-018-0077-9
-### The Belt and Road Initiative Impact on Europe: An Italian Perspective（2017，China & World Economy，被引 103）
+### China’s Belt and Road Initiative: Motives, Scope, and Challenges（2016，RePEc: Research Papers in Economics，被引 116）
 
-Abstract This paper analyzes the impact of the Belt and Road Initiative on Europe with a specific focus on Italy. We concentrate on the impact of new railways and port infrastructures on bilateral trade. Our analysis suggests that the development of new railway connections will benefit most of the Northern and Central European countries. Some industries like automotive and electronics that have a higher value to weight ratio will benefit more than others. However, due to higher costs, railway services will never reach a high percentage of total import/export flows. Investment in new port facilities, although less “new” compared with railways, may be a bigger game changer. The development of the Port of Piraeus has already increased the importance of the Mediterranean Sea as an import/export hub for China. If the other planned investments in Egypt and Algeria are completed, this phenomenon will be magnified. This presents a huge challenge for Italy. The Italian port in the high Adriatic Sea could be displaced by Piraeus capacity, especially if this port is linked through railways with the center of Europe. Italy needs to coordinate its ports together with its railway network to take advantage of Belt and Road Initiative opportunities.
+China’s commercial ties with the outside world have long been symbolized by the ancient Silk Road, which began as a tortuous trading network of mountain paths and sea routes that provided a lifeline for the Chinese economy. Now the leadership in Beijing is reviving the concept with an ambitious plan to build and upgrade highways, railways, ports, and other infrastructure throughout Asia and Europe designed to enrich the economies of China and some 60 of its nearby trading partners. The so-called Belt and Road Initiative has generated enthusiasm and high hopes but also skepticism and wariness. And as big as China’s ambitions are, many obstacles stand in the way. In this volume of essays edited by Sean Miner and Simeon Djankov, PIIE experts analyze the initiative’s opportunities for China and the world, along with the logistical problems and political, economic, and security implications that have generated concerns.
 
-https://doi.org/10.1111/cwe.12217
-### The Belt and Road Initiative and China–US strategic competition（2021，China International Strategy Review，被引 94）
+https://openalex.org/W2514923130
+### The Belt and Road Initiative and China–US strategic competition（2021，China International Strategy Review，被引 95）
 
 （无摘要）
 
 https://doi.org/10.1007/s42533-021-00087-7
-### Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative（2019，Journal of Development Economics，被引 181）
 
-（无摘要）
-
-https://doi.org/10.1016/j.jdeveco.2019.102415
-
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

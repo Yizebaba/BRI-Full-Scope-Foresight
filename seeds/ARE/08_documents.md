@@ -35,6 +35,7 @@ In July 2018, Chinese Communist Party general secretary Xi Jinping visited UAE. 
 
 
 == Belt and Road initiative ==
+UAE joined the Belt and Road Initiative (BRI) in 2018.
 China and the UAE signed $3.4 billion worth of deals as part of China's Belt and Road Initiative. The initiative aims to use the Port of Jebel Ali to ship Chinese products to the world using the UAE's position as both sea and land trading hub. Dubai's Rashid Al Maktoum Solar Park is intended as a flagship BRI renewable project in the Middle East.
 
 
@@ -67,6 +68,11 @@ Cardenal, Juan Pablo; Araújo, Heriberto (2011). La silenciosa conquista china (
 
 ## 与“一带一路”相关的条目（维基百科导言）
 
+### 2024 state visits by Mohamed bin Zayed Al Nahyan to South Korea and China
+
+From May 28 to May 31, 2024, the President of the United Arab Emirates Sheikh Mohamed bin Zayed Al Nahyan (MBZ) visited South Korea and China for the first time as UAE Head of State.
+
+来源：https://en.wikipedia.org/wiki/2024_state_visits_by_Mohamed_bin_Zayed_Al_Nahyan_to_South_Korea_and_China
 ### Digital Silk Road
 
 The Digital Silk Road (DSR) is the digital infrastructure component of China's Belt and Road Initiative (BRI), launched in 2013 to enhance connectivity between China and partner countries. It includes deployment of 5G networks, fiber optic cables, satellite communications, and data center facilities to support cross-border digital trade, e-commerce, and financial integration, including potential use of China's digital renminbi.
@@ -128,7 +134,7 @@ https://doi.org/10.5296/ber.v8i1.12355
 Strategically located, Pakistan, the United Arab Emirates (UAE) and Kyrgyzstan are, important node countries of the Belt and Road Initiative and the China-Pakistan Economic Corridor (CPEC), as well as important gateways linking central and South Asia and leading to Europe. To implement the Belt and Road Initiative, the central Asia, Middle East and South Asia need to be opened up first, and then the road to Europe can be opened up. To encourage Chinese private capital to “go global” and invest and set up factories in central and South Asia is the only way to deepen the implementation of the Belt and Road Initiative and realize mutual benefit and win-win cooperation with countries along the belt and road. To further the Belt and Road Initiative in the future, this chapter proposes a new cooperative mechanism and some projects by emphasizing the role of private enterprises. The development model of Yiwu city is also highlighted in the low-to lower-middle income countries where people live in isolated and resource-poor areas.
 
 https://doi.org/10.4324/9781003189473-4-4
-### Diverse Religious Experiences among Overseas Chinese in the United Arab Emirates（2020，BRILL eBooks，被引 2）
+### Diverse Religious Experiences among Overseas Chinese in the United Arab Emirates（2020，BRILL eBooks，被引 1）
 
 This chapter examines the religious lives of Chinese expatriates in the United Arab Emirates, a country that has recently formed a “comprehensive strategic partnership” with China. Taking into consideration uae’s immigration policies, its social and cultural context, as well as the characteristics of Chinese religiosity, this paper delineates the contour of Chinese religious spaces in a Muslim-majority society. This study serves three goals: first, it adds to our knowledge of the diverse religious experiences of overseas Chinese, especially the post-2000 cohort; second, it sheds light on the influence of Chinese state apparatus in overseas Chinese communities against the backdrop of Belt and Road Initiative; third, it contributes to the ongoing discussions on Muslim societies’ responses to religious diversity.
 
@@ -148,15 +154,15 @@ https://doi.org/10.4324/9780429202346-6
 China is the world's second-largest economy after the United States with more than 60% of the value of its trade being transported by sea. Therefore, China looks for short, safe, and inexpensive trade routes (both land and maritime) to reach Europe, Africa, and the Middle East countries. In doing so, China has taken the One Belt-One-Road (OBOR) initiative intending to develop a cost-effective transportation network ensuring timely and secure delivery. The objective of the OBOR strategy is to enhance Pakistan's infrastructure through the construction of the China-Pakistan Economic Corridor (CPEC). Therefore, this chapter aims to examine the implications of CPEC trade routes in terms of cost and delivery between China and other regions (i.e., Saudi Arabia, Iraq, Angola, Oman, Kuwait, and the United Arab Emirates) via Gwadar Port, Pakistan. The results demonstrate a significant reduction in cost and delivery time via the CPEC route in comparison with traditional trade routes.
 
 https://doi.org/10.4018/978-1-6684-6663-6.ch010
-### Belt and Road Initiative: Opportunities and Obstacles for the Gulf（2020，Gerlach Press eBooks，被引 7）
+### Belt and Road Initiative: Opportunities and Obstacles for the Gulf（2020，Gerlach Press eBooks，被引 3）
 
 China's Belt and Road Initiative (BRI) invokes historic memories of the Silk Road, which facilitated communication, trade and exchanges between civilisations. In its current form, the BRI is designed to further China's economic and foreign policies. It is rooted in China enjoying economic success through infrastructure development. The plan is to replicate this economic strategy abroad. By attempting to create land and maritime trade routes linking China with Europe, through Asia (including the Middle East) and Africa, Beijing intends to help its own growth, especially in central and western China, and that of other countries as well. The BRI is an extension of former president Jiang Zemin's strategy of encouraging Chinese companies to invest abroad. As China takes on a more global role under President Xi Jinping, the BRI is being promoted as a tool aimed at building a “common human community with a shared future”. Of the proposed six BRI corridors, none formally includes the Gulf Cooperation Council (GCC) countries. But the five BRI connectivity themes – infrastructure, policy implementation, trade facilitation, financial facilitation, and people-to-people communication – keep the doors open for participation by the GCC countries, including the United Arab Emirates. The scope for the GCC countries’ involvement in the BRI can be linked to at least two factors: one, the region's financial liquidity, which is evident in the bloc being home to some of the largest sovereign wealth funds, and their related investment interests; and two, the region's infrastructure capabilities, especially their reputation as air and maritime hubs, which have made them major trade and financial centres. While these two GCC strengths dovetail well with the BRI, there are a few obstacles too, from the GCC countries’ perspective. The foremost among them is Iran, a major partner in the project. This chapter analyses some of the GCC's prospects and difficulties associated with the BRI. It argu
 
 https://doi.org/10.1017/9783959941334.003
 ### China National Petroleum Corporation (CNPC) Oil and Gas Development Strategy Study in the United Arab Emirates under the Background of “One Belt one and Road”（2024，Atlantis highlights in engineering/Atlantis Highlights in Engineering，被引 1）
 
-The UAE is rich in oil and gas resources, has a stable investment environment, is a major member of OPEC and an important pivot country along the "Belt and Road", and has a certain influence on the international oil and gas market.It has a certain influence on the international oil and gas market.The geopolitical factors and oil resources of the UAE make its advantages in the context of the " One Belt one and Road " very obvious.In this paper, starting from the current situation of CNPC's oil and gas development in the UAE, we analyze the advantages, disadvantages, opportunities and threats of CNPC's oil and gas development in the UAE based on the SWOT analysis model, summarize CNPC's oil and gas development strategy in the UAE and put forward its development-related suggestions, so as to enhance the efficiency of CNPC's investment by investing in the UAE, safeguard China's rights and interests, and protect the country's overseas oil and gas assets from losses.
+The UAE is rich in oil and gas resources, has a stable investment environment, is a major member of OPEC and an important pivot country along the “Belt and Road”, and has a certain influence on the international oil and gas market. It has a certain influence on the international oil and gas market. The geopolitical factors and oil resources of the UAE make its advantages in the context of the “ One Belt one and Road “ very obvious. In this paper, starting from the current situation of CNPC’s oil and gas development in the UAE, we analyze the advantages, disadvantages, opportunities and threats of CNPC’s oil and gas development in the UAE based on the SWOT analysis model, summarize CNPC’s oil and gas development strategy in the UAE and put forward its development-related suggestions, so as to enhance the efficiency of CNPC’s investment by investing in the UAE, safeguard China’s rights and interests, and protect the country’s overseas oil and gas assets from losses.
 
 https://doi.org/10.2991/978-94-6463-415-0_75
 
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

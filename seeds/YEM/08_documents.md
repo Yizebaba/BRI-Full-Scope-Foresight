@@ -33,6 +33,7 @@ In June 2020, Yemen was one of 53 countries that backed the Hong Kong national s
 On 9 December 2022, while visiting Saudi Arabia, Chinese leader Xi Jinping met with Rashad al-Alimi, the president of the Presidential Leadership Council.
 After the 2024 floods in Hadramaut Governorate, China provided medical and relief materials including ventilators, defibrillators, x-ray equipment, and more.
 Effective 1 December 2024, China eliminated tariffs for goods imported from all of the countries that the United Nations categorizes as least developed and with which China has diplomatic relations, including Yemen.
+Yemen joined the Belt and Road Initiative (BRI) in 2017.
 
 
 === Houthis ===
@@ -91,7 +92,7 @@ Foreign relations of Yemen
 
 ### Yemeni Perceptions of China's Belt and Road Initiative（2026，Research Square，被引 0）
 
-Abstract The Republic of Yemen positioned at a strategic nexus, plays a pivotal role in this endeavor. This research delves into the intricate dynamics between Yemen's participation in the BRI and the subsequent developments. The study employs a survey to gauge the perceptions of individuals from diverse educational backgrounds regarding China's influence in Yemen. Findings indicate that a significant majority (96.2%) perceive China positively in Yemen, with 92.9% supporting Chinese investments. This research sheds light on the impact of China's initiative on Yemen, a strategically important yet often overlooked nation in global discussions. The uniqueness of this study lies in its holistic approach, amalgamating historical analysis, practical evaluation, and empirical data from questionnaires to provide a multifaceted view of the BRI's implementation in Yemen. It contributes significantly to the field by offering a detailed analysis of a critical international relationship within the framework of an important global development strategy.
+The Republic of Yemen positioned at a strategic nexus, plays a pivotal role in this endeavor. This research delves into the intricate dynamics between Yemen's participation in the BRI and the subsequent developments. The study employs a survey to gauge the perceptions of individuals from diverse educational backgrounds regarding China's influence in Yemen. Findings indicate that a significant majority (96.2%) perceive China positively in Yemen, with 92.9% supporting Chinese investments. This research sheds light on the impact of China's initiative on Yemen, a strategically important yet often overlooked nation in global discussions. The uniqueness of this study lies in its holistic approach, amalgamating historical analysis, practical evaluation, and empirical data from questionnaires to provide a multifaceted view of the BRI's implementation in Yemen. It contributes significantly to the field by offering a detailed analysis of a critical international relationship within the framework of an important global development strategy.
 
 https://doi.org/10.21203/rs.3.rs-8078314/v1
 ### The Comparative Advantage of Aden Port from the Perspective of the Belt and Road Initiative（2022，Open Journal of Social Sciences，被引 3）
@@ -109,25 +110,25 @@ https://doi.org/10.1080/20954816.2018.1498991
 （无摘要）
 
 https://doi.org/10.1007/978-3-031-29593-5_5
-### Digital Health and Cardiovascular Policy Integration: A Strategic Framework for the Belt and Road Initiative - Bridging Western China and Yemen（2026，，被引 0）
-
-（无摘要）
-
-https://doi.org/10.13140/rg.2.2.33611.14881
-### China and New Middle East（2021，Journal of Balkan and Near Eastern Studies，被引 31）
+### China and New Middle East（2021，Journal of Balkan and Near Eastern Studies，被引 32）
 
 A New Middle East is emerging, which is shaped by the result of geo-strategic competitions in the region among key state actors. The power structure of the new Middle East can be summarized as a weakened and divided Arab world facing more powerful non-Arab actors, which has conditioned the emergence of three significant camps in the region. Major regional state actors and some sub-state armed actors are playing an increasing role in the geo-strategic competitions in the focal point countries of Syria, Iraq, Yemen, Lebanon, and Libya. China has important interests in the Middle East, and key elements of its policy are taking shape. Institutional mechanisms of cooperation have been created and a network of partnerships with some regional countries has been established. The Belt and Road Initiative remains the key framework for China’s cooperation with the region.
 
 https://doi.org/10.1080/19448953.2021.1888248
-### China and New Middle East（2023，Routledge eBooks，被引 5）
+### Port Geopolitics and Regional Security Complexes: The BRI, Iran–Israel Rivalry, and Gulf–Red Sea Dynamics（2026，Contemporary Gulf studies，被引 0）
+
+This chapter examines the intersection of economic connectivity and the geopolitics of security at Gulf and Red Sea ports. It examines the contributions of UAE ports, such as Jebel Ali Port, Khalifa Port, and Khor Fakkan Port, as well as Oman’s Duqm Port and the Port of Hudaydah in Yemen, as diversification enablers and dual-use infrastructures susceptible to conflict, using the Regional Security Complex Theory. These facilities are integrated into China’s Maritime Silk Road, raising concerns for the United States and its allies through the Belt and Road Initiative. Port further securitisation by the Iran-Israel rivalry: Tehran’s projects have reached due to their proxies in Yemen, and Israel has acculturation with Emirati logistics following the Abraham Accords. The Gulf and Red Sea constitute an interconnected security system in which instability poses a risk to major chokepoints such as the Strait of Hormuz and the Bab el-Mandeb Strait, and Gulf port strategies have become even more fragile due to US-China competition.
+
+https://doi.org/10.1007/978-981-92-1702-1_11
+### China and New Middle East（2023，Routledge eBooks，被引 3）
 
 A New Middle East is emerging, which is shaped by the result of geo-strategic competitions in the region among key state actors. The power structure of the new Middle East can be summarized as a weakened and divided Arab world facing more powerful non-Arab actors, which has conditioned the emergence of three significant camps in the region. Major regional state actors and some sub-state armed actors are playing an increasing role in the geo-strategic competitions in the focal point countries of Syria, Iraq, Yemen, Lebanon, and Libya. China has important interests in the Middle East, and key elements of its policy are taking shape. Institutional mechanisms of cooperation have been created and a network of partnerships with some regional countries has been established. The Belt and Road Initiative remains the key framework for China’s cooperation with the region.
 
 https://doi.org/10.4324/9781003402312-4
-### Wading in Troubled Waters: China’s Middle East Diplomacy in the New Era（2016，International Relations and Diplomacy，被引 0）
+### Belt and Road Economics: Opportunities and Risks of Transport Corridors（2019，World Bank, Washington, DC eBooks，被引 494）
 
-The current Middle East situation is characterized by accelerating multi-polarity, the intertwining sectarian politics and geopolitics, the impending crisis of US alliance system, the escalation of arms race, and the deterioration of terrorism and separatism.Syria, Iran, Yemen and Palestine-Israel peace process will remain the flashpoints.Within such a changed situation, China's Middle East policy is evolving from passiveness to aggressiveness.First, participation in the Middle East governance and protection of its practical interests are the two major pillars of China's diplomacy in the Middle East; second, bilateral and multilateral mechanisms are the major platforms; third, partnership instead of alliance is the unique China-styled coalition policy, and finally the "Belt and Road Initiative" is an important tool of Chinese Middle East diplomacy.
+China proposed the Belt and Road Initiative in 2013 to improve connectivity and cooperation on a transcontinental scale. This study, by a team of World Bank Group economists led by Michele Ruta, analyzes the economics of the initiative. It assesses the connectivity gaps between economies along the initiative’s corridors, examines the costs and economic effects of the infrastructure improvements proposed under the initiative, and identifies complementary policy reforms and institutions that will support welfare maximization and mitigation of risks for participating economies.
 
-https://doi.org/10.17265/2328-2134/2016.09.003
+https://doi.org/10.1596/978-1-4648-1392-4
 
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

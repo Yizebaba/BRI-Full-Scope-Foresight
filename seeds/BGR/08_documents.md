@@ -16,6 +16,7 @@ Since adopting a democratic constitution in 1991, Bulgaria has been a parliament
 ### Bulgaria–China relations
 
 Bulgaria–China relations are foreign relations between Bulgaria and China. Bulgaria's communist administration recognized the People's Republic of China on October 3, 1949 as the second country to do so with both countries established diplomatic relations the next day.
+Bulgaria joined the Belt and Road Initiative in 2015.
 In 2019, Bulgaria and China raised their characterization of their mutual foreign relations to a strategic partnership.
 
 
@@ -125,20 +126,20 @@ https://openalex.org/W3154958098
 The article is devoted to the specifics of China's strategy in the countries of the Black Sea region in the context of the implementation of the “One Belt, One Road” initiative. In this context, the Black Sea region is of interest as a transit zone for the transport corridors of the Chinese initiative. Author concludes that although Beijing's relative influence in the region, compared with other key players such as the United States, is relatively modest, it is likely to expand, given the interest of Turkey, Bulgaria, Georgia in Chinese investments.
 
 https://doi.org/10.31166/voprosyistorii202206statyi55
-### Chinese investment in Romania and Bulgaria（2017，Bulgarian Portal for Open Science，被引 7）
+### Chinese investment in Romania and Bulgaria（2017，Bulgarian Portal for Open Science，被引 8）
 
 In this chapter we present case studies of Chinese investment in Romania and Bulgaria. The cases under consideration can be classified by distinguishing between market and resource-seeking investment strategies. A conclusion about the potential impact and challenges for the cases of high-road and low-road investment is formulated.
 
 https://openalex.org/W7132038289
+### Belt and Road Economics: Opportunities and Risks of Transport Corridors（2019，World Bank, Washington, DC eBooks，被引 494）
+
+China proposed the Belt and Road Initiative in 2013 to improve connectivity and cooperation on a transcontinental scale. This study, by a team of World Bank Group economists led by Michele Ruta, analyzes the economics of the initiative. It assesses the connectivity gaps between economies along the initiative’s corridors, examines the costs and economic effects of the infrastructure improvements proposed under the initiative, and identifies complementary policy reforms and institutions that will support welfare maximization and mitigation of risks for participating economies.
+
+https://doi.org/10.1596/978-1-4648-1392-4
 ### The Black Sea Region Caught Between East and West（2021，The Journal of Slavic Military Studies，被引 8）
 
 Under the Belt and Road Initiative, China has become an increasingly important actor in the Black Sea Region, and this looks set to continue in the future. In the West, in particular in the United States and to a lesser extent in Europe, there has, however, been a tendency to see the growth of China as a potential threat to the West and Western interests. China has revealed geopolitical ambitions that challenge the leading role of the United States in the international system, as well as Western norms and values, and Beijing is widely seen as engaging in systemic competition with the West. As a result, there is a growing recognition in the United States that China has become a strategic competitor, and this view has been echoed in the European Union, which has designated China as a strategic rival. Although this strategic competition, at least between the United States and China, has been played out primarily, but not exclusively, in the South China Seas, there is growing concern that this rivalry is being transposed into other regions such as the Black Sea. In light of China’s engagement in the Black Sea Region (BSR), this article examines how this growing strategic competition between the United States and China, and to a lesser extent the European Union and China, is being played out in the Black Sea. In addressing this issue, this article examines Chinese engagement in each of the six littoral states and argues that Russia and Turkey have already tilted decisively toward China. Romania has firmly sided with Washington and Bulgaria with the European Union, whereas the two non-NATO and non-EU members of the BSR, Georgia and Ukraine, will be forced increasingly to make a difficult choice between East and West — between the security provided by Brussels and Washington as against the potential economic growth and investment provided by Beijing.
 
 https://doi.org/10.1080/13518046.2021.1990561
-### Belt and road initiative and Chinese firms' outward foreign direct investment（2019，Emerging Markets Review，被引 226）
 
-（无摘要）
-
-https://doi.org/10.1016/j.ememar.2019.100629
-
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

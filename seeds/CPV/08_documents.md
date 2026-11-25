@@ -22,6 +22,7 @@ Cape Verde–China relations refers to the current and historical relationship b
 In 1980, Cape Verde and China signed an Economic and Technical Cooperation Agreement through which China would construct a parliamentary hall for Cape Verde. The hall was finished in 1985.
 Since the first Forum on China Africa Cooperation conference in 2000, the Chinese government has successfully delivered $63.5 million in development finance. These projects include $4.4 million for construction of the Poilão dam in the Santa Cruz, $22 million to build a sports stadium in Monte Vaca, and $2.3 million in debt forgiveness.
 Cape Verde and China both participate in the multi-lateral group Forum Macao, which China formed in 2003 to increase economic and commercial cooperation between China and the Portuguese-speaking countries. During the 2010 Forum Macao meeting, Chinese Premier Wen Jiaobao announced the creation of a $1 billion fund aimed at boosting trade between China and Portuguese speaking countries.
+Cape Verde joined the Belt and Road Initiative (BRI) in 2018.
 Cape Verde follows the one China principle. It recognizes the People's Republic of China as the sole government of China and Taiwan as an integral part of China's territory, and supports all efforts by the PRC to "achieve national reunification". It also considers Hong Kong, Xinjiang and Tibet to be China's internal affairs.
 
 
@@ -62,19 +63,19 @@ Cardenal, Juan Pablo; Araújo, Heriberto (2011). La silenciosa conquista china (
 
 ## 学术论文（OpenAlex）
 
-### Examining the debt implications of the Belt and Road Initiative from a policy perspective（2019，Journal of Infrastructure Policy and Development，被引 544）
+### Examining the debt implications of the Belt and Road Initiative from a policy perspective（2019，Journal of Infrastructure Policy and Development，被引 485）
 
 China’s Belt and Road Initiative (BRI) hopes to deliver trillions of dollars in infrastructure financing to Asia, Europe, and Africa. If the initiative follows Chinese practices to date for infrastructure financing, which often entail lending to sovereign borrowers, then BRI raises the risk of debt distress in some borrower countries. This paper assesses the likelihood of debt problems in the 68 countries identified as potential BRI borrowers. We conclude that eight countries are at particular risk of debt distress based on an identified pipeline of project lending associated with BRI.Because this indebtedness also suggests a higher concentration in debt owed to official and quasi-official Chinese creditors, we examine Chinese policies and practices related to sustainable financing and the management of debt problems in borrower countries. Based on this evidence, we offer recommendations to improve Chinese policy in these areas. The recommendations are offered to Chinese policymakers directly, as well as to BRI’s bilateral and multilateral partners, including the IMF and World Bank.
 
 https://doi.org/10.24294/jipd.v3i1.1123
-### The roles of cultural and institutional distance in international trade: Evidence from China's trade with the Belt and Road countries（2018，China Economic Review，被引 185）
+### The roles of cultural and institutional distance in international trade: Evidence from China's trade with the Belt and Road countries（2018，China Economic Review，被引 190）
 
 （无摘要）
 
 https://doi.org/10.1016/j.chieco.2018.10.001
-### Building Bridges or Breaking Bonds? The Belt and Road Initiative and Foreign Aid Competition（2023，Foreign Policy Analysis，被引 74）
+### Building Bridges or Breaking Bonds? The Belt and Road Initiative and Foreign Aid Competition（2023，Foreign Policy Analysis，被引 75）
 
-Abstract China’s renewed prominence is the most important development in international relations in the 21st century. Despite longstanding rhetoric of its own “peaceful rise”, China is increasingly viewed as a long-term strategic competitor, especially in the United States. Foreign aid is one arena where this competition may be playing out. While Western foreign aid principles have emphasized coordination and harmonization, the rise of China as a development partner has raised the specter of a return to competitive foreign aid practices. Most notably, China's Belt and Road Initiative (BRI), has received a wary reception by those who view it primarily as a geostrategic effort, but our knowledge of responses to the BRI is often anecdotal and fragmentary. To remedy this, we test if the BRI is inducing a competitive foreign aid response by evaluating if countries involved in this initiative are more likely to receive US support for loan packages from the major, Western, multilateral development banks (MDBs). Using an instrumental variable approach, covering 7,850 project/loan packages in 10 MDBs from 162 countries during 2013–2018 period, we find that the United States was more likely to vote for MDB packages to countries that have signed on to the BRI, but predominantly when the actual amount of Chinese aid flowing to those countries is still low, suggesting the United States is competing for “hedging” countries.
+China’s renewed prominence is the most important development in international relations in the 21st century. Despite longstanding rhetoric of its own “peaceful rise”, China is increasingly viewed as a long-term strategic competitor, especially in the United States. Foreign aid is one arena where this competition may be playing out. While Western foreign aid principles have emphasized coordination and harmonization, the rise of China as a development partner has raised the specter of a return to competitive foreign aid practices. Most notably, China's Belt and Road Initiative (BRI), has received a wary reception by those who view it primarily as a geostrategic effort, but our knowledge of responses to the BRI is often anecdotal and fragmentary. To remedy this, we test if the BRI is inducing a competitive foreign aid response by evaluating if countries involved in this initiative are more likely to receive US support for loan packages from the major, Western, multilateral development banks (MDBs). Using an instrumental variable approach, covering 7,850 project/loan packages in 10 MDBs from 162 countries during 2013–2018 period, we find that the United States was more likely to vote for MDB packages to countries that have signed on to the BRI, but predominantly when the actual amount of Chinese aid flowing to those countries is still low, suggesting the United States is competing for “hedging” countries.
 
 https://doi.org/10.1093/fpa/orad015
 ### China and the Great Urban Projects in Cabo Verde（2020，Springer eBooks，被引 6）
@@ -82,25 +83,25 @@ https://doi.org/10.1093/fpa/orad015
 （无摘要）
 
 https://doi.org/10.1007/978-981-15-2564-3_14
-### The Palgrave Handbook of Globalization with Chinese Characteristics: The Case of the Belt and Road Initiative（2023，Springer eBooks，被引 34）
-
-（无摘要）
-
-https://doi.org/10.1007/978-981-19-6700-9
 ### National Culture and Financial Inclusion: Evidence from Belt and Road Economies（2022，Sustainability，被引 37）
 
 Financial Inclusion is a key factor in achieving the sustainable development goals of the United Nations. The research in the area of financial inclusion is becoming more critical for scholars and policymakers. In previous studies, effects of formal institutions on financial inclusion have been explored. However, influence of informal institutions (culture) on financial inclusion remained untapped. To fill this gap, we investigate how national culture affects the financial inclusion of 81 Belt and Road economies using 17 years of data from 2004 to 2020. The empirical findings of the two-stage least square (2SLS) show that Hofstede’s cultural dimensions are significantly associated with financial inclusion with different signs and levels of magnitude. We find that financial inclusion is lower in countries where uncertainty avoidance and power distance is high and that the opposite is true for individualism and masculinity. The overall results are reliable to a series of robustness checks and provide a useful basis for policymakers, regulatory agencies, and other stakeholders in achieving the sustainable development goal of financial inclusion in Belt and Road countries.
 
 https://doi.org/10.3390/su14063405
-### The Belt and Road Initiative: Economic Causes and Effects（2023，Asian Economic Papers，被引 6）
+### The Palgrave Handbook of Globalization with Chinese Characteristics: The Case of the Belt and Road Initiative（2023，Springer eBooks，被引 32）
 
-Abstract Chinese investment abroad has grown significantly in connection with the Belt and Road Initiative (BRI). This paper tries to answer two questions: First, what considerations gave birth to the BRI? And second, what are the project's economic effects in terms of capital flows and international trade? It is found that the project is above all a way to deal with large surplus capacity in China's capital-intensive industries, to increase growth in relatively poor regions of the country, and to secure a supply of energy and raw materials. For other countries involved in the project, BRI investments are a means to increase production and international trade. International trade and foreign direct investment have been positively affected, although to a limited extent. Finally, there are concerns that lack of transparency in Chinese lending may lead to increased corruption, and that some countries will face financial difficulties.
+（无摘要）
+
+https://doi.org/10.1007/978-981-19-6700-9
+### The Belt and Road Initiative: Economic Causes and Effects（2023，Asian Economic Papers，被引 7）
+
+Chinese investment abroad has grown significantly in connection with the Belt and Road Initiative (BRI). This paper tries to answer two questions: First, what considerations gave birth to the BRI? And second, what are the project's economic effects in terms of capital flows and international trade? It is found that the project is above all a way to deal with large surplus capacity in China's capital-intensive industries, to increase growth in relatively poor regions of the country, and to secure a supply of energy and raw materials. For other countries involved in the project, BRI investments are a means to increase production and international trade. International trade and foreign direct investment have been positively affected, although to a limited extent. Finally, there are concerns that lack of transparency in Chinese lending may lead to increased corruption, and that some countries will face financial difficulties.
 
 https://doi.org/10.1162/asep_a_00861
-### Grande projeto urbano num pequeno país insular: projeto chinês “Cape Verde Integrated Resort and Casino”（2018，Americanae (AECID Library)，被引 0）
+### Democracy and Human Rights in the Context of the Belt and Road Initiative（2022，Springer eBooks，被引 9）
 
-A renovação dos interesses da China pela África tem sido conotada com o seu recente empoderamento econômico e necessidade de ampliação das matérias-primas e mercado para a colocação dos produtos. Cabo Verde, pequeno país insular, com um reduzido mercado e frequentemente caracterizado como pobre em recursos minerais, parece suscitar da China outros interesses. Com um estrondoso peso na economia do país (aproximadamente 15% do PIB), o Projeto Chinês “Cape Verde Integrated Resort and Casino”, em execução na cidade da Praia e financiado por uma empresa macaense, parece confirmar a tendência mundial de execução dos denominados GPUs (Grandes Projetos Urbanos), promovidos e incentivados pelo poder público de diversos países, nas últimas duas décadas e meia. Com exceção de Sal e Boa Vista, que recentemente têm recebido expressivos investimentos turísticos estrangeiros, as restantes ilhas registram uma fraca dinâmica socioeconómica, ao mesmo tempo em que se observa a propensão para a Cidade da Praia concentrar investimentos e população, o que levou recentemente o poder público a conceber medidas e políticas públicas para reduzir as disparidades historicamente construídas. Porém, contraditoriamente, esta pesquisa permitiu observar que o Projeto Casino tende a reforçar a referida concentração, acentuando a dinâmica socioeconómica da cidade da Praia e, paralelamente, expandindo os fenómenos de segregação socioespacial que recentemente vêm ocorrendo nas ilhas de Sal e Boa Vista. Envolto num clima de sigilo, défices de informação e participação, confrontam-se as expetativas de “desenvolvimento” e criação de emprego suscitadas pelo Projeto Casino, com indicações de aprofundamento das desigualdades regionais no país. Neste sentido, o Projeto em construção em Cabo Verde tende a reproduzir efeitos observados em outros GPUs, em que pese as particularidades do contexto de pequeno país insular e das pretensões geopolíticas chinesas no continente africano, reafirmadas no ambicioso progra
+This chapter focuses on the political impact of the Belt and Road Initiative, in particular on different aspects of democracy, such as freedom, equality, and accountability, as well as on human rights. The effect of the BRI is analysed using data from the years before and after the inception of the BRI, from 2005 to 2019, applying a difference-in-differences approach, one of the most frequently used methods in impact evaluation studies. The results support the hypothesis that those countries involved in BRI projects are prone to the diminishment of certain democratic freedoms and labour rights.
 
-https://openalex.org/W3023653330
+https://doi.org/10.1007/978-3-031-16659-4_24
 
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

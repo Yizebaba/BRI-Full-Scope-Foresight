@@ -27,19 +27,42 @@ Following the end of the Cold War and the Chilean transition to democracy in 199
 == Bilateral relations ==
 Chile is one of the first Latin American countries which began trade and economic exchanges with China after the Chinese civil war. Bilateral trade between the two countries began as early as 1961 when China established the Commercial News Office of Chinese Import and Export Corporation. In 1965, it was re-established as the Commercial Office of China Council for the Promotion of International Trade.
 Since the establishment of the diplomatic relations in 1970, bilateral economic relations have developed considerably. Chile became China's third largest Latin American trading partner behind Brazil and Mexico. Bilateral trade volume was at $2.565 billion in 2002.
-Chile and China signed a free trade agreement in 2008. In 2018, Chinese company purchased controlling stake in Sociedad Química y Minera (SQM), SQM being at the time is Chile lithium producer and world's biggest lithium producer. As of 2025, Chinese investment in Chile is primarily in the resources sector and predominantly mining-related. In 2026 Tianqi Lithium lost in Chileans courts a challenge to the dismembering of SQM's lithium operation in Salar de Atacama into the new public-private joint venture Nova Andino Litio.
+Chile and China signed a free trade agreement in 2008. 
+Chile joined the Belt and Road Initiative (BRI) in 2018.
+In 2018, Chinese company purchased controlling stake in Sociedad Química y Minera (SQM), SQM being at the time is Chile lithium producer and world's biggest lithium producer. As of 2025, Chinese investment in Chile is primarily in the resources sector and predominantly mining-related. In 2026 Tianqi Lithium lost in Chileans courts a challenge to the dismembering of SQM's lithium operation in Salar de Atacama into the new public-private joint venture Nova Andino Litio.
 
 In February 2026, Chile denied the Chinese ship Silk Road Ark permission to provide medical services to Chilean residents on board.
 In January 2026, plans for a China–Chile submarine optical fiber cable built by China Mobile were scrapped during the last days of the Gabriel Boric government following sanctions by the United States against a handful of Chilean officials.
 In March 2026, José Antonio Kast's government signed an agreement with the United States with regards to the exploitation and commercialization of rare-earth metals. This move has been interpreted by analysts an attempt by the United States to diminish Chinese influence in the rare-earth metals market.
+In November 2026, Chilean president José Antonio Kast visited Shenzhen to attend APEC China 2026. During the visit, he met with Chinese leader Xi Jinping, and told him relations had "remained stable, beyond internal situations that may have affected our country" and praised China for lifting people out of poverty, while adding Chile respects "the political organisations of each nation".
 
 
 === Cerro Ventarrones observatory ===
 In 2023, the  Catholic University of the North and the National Astronomical Observatories of China signed an agreement to develop an astronomical observatory in Cerro Ventarrones, Antofagasta Region. In April 2025, the Chilean government froze development of the project. The government's action followed reporting on the lack of transparency around it and potential military intelligence uses by the People's Liberation Army.
 
 
+== High-level visits ==
+
+Presidential visits from Chile to China
+
+President Patricio Aylwin (1992)
+President Eduardo Frei Ruiz-Tagle (1995)
+President Ricardo Lagos (2001)
+President Sebastián Piñera (2010, 2019)
+President Michelle Bachelet (2014, 2017)
+President Gabriel Boric (2025)
+President José Antonio Kast (2026)
+CCP General Secretary, President and Premier visits from China to Chile
+
+President Yang Shangkun (1990)
+President Jiang Zemin (2001)
+Premier Wen Jiabao (2012)
+President Hu Jintao (2004)
+President Xi Jinping (2016)
+
+
 == Trade ==
-As of 2026, trade between the two countries was approximately USD 65 billion annually.
+As of 2025, trade between the two countries was approximately USD 65 billion annually. As of 2025, 37% of Chile's exports are bought by China.
 Chinese exports to Chile is primary in textiles, clothing, ceramics, chemicals and medicine, tools and consumer electronics.
 Chilean exports to China are mainly in copper, niter, pulp, paper, fish meal and timber. This has also expanded to red wine, marine alga, potassium sulphate and fruit produce.
 
@@ -94,4 +117,4 @@ Chilean Embassy in Beijing, China (in Spanish)
 - 2026-03-25 · Brief · Chile Gender Landscape。http://documents.worldbank.org/curated/en/099855106302218668
   摘要：This briefing showcases the gender landscape in Chile on key indicators helpful for monitoring gender equality and designing effective policy interventions. Gender equality fosters productivity gains, minimizes losses in wealth, reduces poverty, boosts shared prosperity, and supports green, resilient, and inclusive development.
 
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

@@ -27,9 +27,10 @@ On July 13, 1943, the Nationalist Government of the Republic of China set up a m
 Following the United Nations General Assembly Resolution 2758, the Dominican Republic maintained relations with the Chinese Nationalist government despite losing its United Nations seat.
 
 
-=== Establishment of diplomatic relations with People's Republic of China ===
+=== Relations with People's Republic of China ===
 On May 1, 2018, the People's Republic of China, now ruling the Mainland China since 1949 and the Dominican Republic established diplomatic relations, after the Dominican Republic cut diplomatic ties with the Republic of China (Taiwan). Chinese Foreign Minister Wang Yi and Dominican Foreign Minister Miguel Vargas Maldonado attended the signing ceremony in Diaoyutai State Guesthouse in Beijing.
 Some Dominicans were angry about the Chinese ambassador's perceived meddling in internal political affairs when he spoke out against a Dominican senator who were critical of the then-ruling government under Danilo Medina for being too friendly with China.
+Dominican Republic joined the Belt and Road Initiative (BRI) in 2019.
 
 
 == References ==
@@ -46,6 +47,8 @@ Marco Rubio’s diplomatic efforts in the Caribbean, particularly in anti-narcot
 
 ## 世界银行最新文件（Documents & Reports）
 
+- 2026-11-10 · Announcement · Announcement of IFC and Banreservas Partner to Strengthen Trade Finance in the Dominican Republic on November 10, 2026。http://documents.worldbank.org/curated/en/099658311252642929
+  摘要：This press release announces a strategic agreement between the International Finance Corporation (IFC) and Banreservas to strengthen trade finance in the Dominican Republic. The partnership aims to expand access to financing for importers and exporters, facilitate international trade, and support private sector growth and economic development in the country.
 - 2026-10-30 · Report · República Dominicana - Gestión Financiera y Aseguramiento del Riesgo de Desastres en la : Avances y Perspectivas（项目：DO-Dominican Republic Second DRM Development Policy Loan with a Catastrophe Deferred Drawdown Option -- P178122）。http://documents.worldbank.org/curated/en/099138210302692948
   摘要：Este informe proporciona una hoja de ruta para fortalecer el financiamiento del riesgo de desastres (FRD) en la República Dominicana, con el objetivo de hacer que la población, la economía y las finanzas públicas del país sean más resilientes ante los desastres. Elaborado en el marco de una colaboración entre el Banco Interamericano de Desarrollo y el Banco Mundial, el informe examina los avances logrados desde la evaluación de 2015, incluida la adopción de líneas de crédito contingentes, el fortalecimiento de los marcos jurídicos e institucionales para gestionar los pasivos contingentes relacionados con desastres y la emisión de bonos verdes para apoyar la adaptación al cambio climático y la prevención de desastres. Asimismo, destaca desafíos persistentes, en particular la ausencia de una estrategia nacional formal de FRD, la dependencia del financiamiento posterior a los desastres, la limitada cobertura de seguros contra catástrofes y la falta de mecanismos soberanos de transferencia de riesgos. El informe evalúa las posibles pérdidas financieras y los pasivos contingentes asociados con terremotos, ciclones tropicales y exceso de lluvias, e identifica brechas de financiamiento que podrían afectar la respuesta a emergencias y la reconstrucción. Recomienda desarrollar y adoptar una estrategia integral de FRD, fortalecer la cuantificación de los pasivos contingentes y las brechas de financiamiento, ampliar la gama de instrumentos financieros y de seguros e incorporar inversion
 - 2026-10-09 · Brief · Dominican Republic Poverty and Equity Brief : October 2026
@@ -64,4 +67,4 @@ Marco Rubio’s diplomatic efforts in the Caribbean, particularly in anti-narcot
 - 2026-11-13 · Procedure and Checklist · PIU Environmental and Social Training Plan Support for the Implementation of the Public Administration Reform and Modernization Plan (P180302)（项目：DO-Support for the Implementation of the Public Administration Reform and Modernization Plan -- P180302）。http://documents.worldbank.org/curated/en/099111326171518769
 - 2026-11-13 · Procedure and Checklist · Environmental and Social Checklist for Technical Assistance Support for the Implementation of the Public Administration Reform and Modernization Plan (P180302)（项目：DO-Support for the Implementation of the Public Administration Reform and Modernization Plan -- P180302）。http://documents.worldbank.org/curated/en/099111326172097237
 
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

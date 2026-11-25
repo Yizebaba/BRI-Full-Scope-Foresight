@@ -38,6 +38,7 @@ The DR Congo considers Hong Kong, Tibet, and Xinjiang to be China's internal aff
 The DRC is a major destination for Chinese investment, especially in mining, with the South China Morning Post describing the country as "the epicentre of Chinese investments in Africa". Major companies involved include Chengtun Mining, China Molybdenum Company, China Nonferrous Metal Mining Group, and Huayou Cobalt. As of 2025, Chinese investment in the DRC is primarily in the resources sector and predominantly mining-related.
 In June 2000, a Sino-Congolese telecommunications company (China-Congo Telecom) was set up between ZTE and the Congolese government in a deal worth RMB 80 million in concessional finance from China EXIM Bank.  In April 2009, South African telecommunications group MTN Group offered to buy ZTE's 51 percent stake in the company for USD 200 million. As of January 2010, the DRC has not yet been given Approved Destination Status (ADS) by China due to ongoing civil conflict in the country.
 Exports of copper ore and hard woods to China increased greatly in 2007.
+DRC joined the Belt and Road Initiative (BRI) in 2021.
 China and the DRC have significant trade in cobalt, a metal for which China is the world's largest consumer due to its importance in batteries for electric vehicles. As of at least 2024, the DRC produces more than 70% of the world's cobalt, and most of this production goes to China. Chinese companies also account for the majority of cobalt mining in the DRC.
 
 
@@ -110,17 +111,17 @@ Mining includes large-scale industrial projects, semi-industrial ventures, and w
 
 ## 学术论文（OpenAlex）
 
-### Understanding China’s Belt and Road Initiative（2024，Asia in transition，被引 112）
-
-This open access book provokes critical thinking regarding the most ambitious Chinese project since the founding of the People’s Republic of China
-
-https://doi.org/10.1007/978-981-99-9633-9
 ### The Challenges of Peace in China’s Belt and Road Initiative in The Great-Lakes Region: The Case of The Democratic Republic of The Congo（2024，Hong Kong Review of Belt and Road Studies，被引 0）
 
 For more than two decades, the Grand Lac region has been a theater of armed conflicts whose dramatic effects are concentrated in the east of the Democratic Republic of the Congo (DRC). The DRC is installed in a chaos programmed by predators of natural resources, intervening on ground veiled by the front agents in their services in particular: Rwanda, Burundi, and Uganda, which are themselves under the influence of geographical extremism, the latter struggling with the imperative of power and covetousness land, raw materials are eager to control the space within the borders of the DRC, benefiting from the alliance with the great powers to establish their strategies of mineral possessions. It is in this conflictual climate that this article undertakes to examine the challenges and impact of China’s Belt and Road initiative (BRI) for the establishment of peace and stability in the Great Lakes region with a particular focus on the conflict in the East of the DRC. Through an in-depth analysis of Chinese projects in the DRC and their influence on the security situation, we assess the specific challenges encountered in promoting peace. By highlighting the potential destabilizing factors associated with this initiative, we seek to understand how to reconcile Chinese economic interests with the imperatives of peace and regional stability. Drawing on empirical data and case studies, this article offers recommendations for strengthening regional and international cooperation for peace in the Great Lakes region. These contributions aim to inform policymakers and actors involved in conflict management on the crucial issues linked to the intersection between economic development and peacebuilding. From the above, regarding the conflict situation in the eastern Democratic Republic of the Congo, the involvement of the BRI could potentially address several underlying factors that influence the conflict, such as the development of infrastructure, job creation, economic stimulation, a
 
 https://doi.org/10.63596/oborjournal.1.2024.52-65
-### Examining the debt implications of the Belt and Road Initiative from a policy perspective（2019，Journal of Infrastructure Policy and Development，被引 544）
+### Understanding China’s Belt and Road Initiative（2024，Asia in transition，被引 70）
+
+This open access book provokes critical thinking regarding the most ambitious Chinese project since the founding of the People’s Republic of China
+
+https://doi.org/10.1007/978-981-99-9633-9
+### Examining the debt implications of the Belt and Road Initiative from a policy perspective（2019，Journal of Infrastructure Policy and Development，被引 485）
 
 China’s Belt and Road Initiative (BRI) hopes to deliver trillions of dollars in infrastructure financing to Asia, Europe, and Africa. If the initiative follows Chinese practices to date for infrastructure financing, which often entail lending to sovereign borrowers, then BRI raises the risk of debt distress in some borrower countries. This paper assesses the likelihood of debt problems in the 68 countries identified as potential BRI borrowers. We conclude that eight countries are at particular risk of debt distress based on an identified pipeline of project lending associated with BRI.Because this indebtedness also suggests a higher concentration in debt owed to official and quasi-official Chinese creditors, we examine Chinese policies and practices related to sustainable financing and the management of debt problems in borrower countries. Based on this evidence, we offer recommendations to improve Chinese policy in these areas. The recommendations are offered to Chinese policymakers directly, as well as to BRI’s bilateral and multilateral partners, including the IMF and World Bank.
 
@@ -140,15 +141,15 @@ https://doi.org/10.58861/tae.grdier.2025.01
 （无摘要）
 
 https://doi.org/10.1007/978-3-031-08526-0_4
-### The Belt and Road Initiative: Geopolitical Expansion and Institutional Instability in the DRC and Sri Lanka（2026，CUNY Academic Works (City University of New York)，被引 0）
-
-This study examines how large‑scale Chinese investment in resource‑rich and strategically located states, specifically the Democratic Republic of the Congo (DRC) and Sri Lanka, generates domestic and geopolitical instability. Despite their distinct regional and historical contexts, both countries exhibit structural vulnerabilities that allow external actors to reshape their political and economic trajectories. In the DRC, Chinese initiatives leverage abundant mineral resources and a highly centralized executive structure, reinforcing weak institutional oversight. In Sri Lanka, financial fragility and geopolitical ambition enabled China to acquire strategic territorial influence, illustrating how external financing can erode strategic autonomy and intensify great‑power competition. These dynamics reflect a broader shift in the future of International Political Economy, where a more Beijing‑centric distribution of power and deeper polarization of the international system are likely to intensify. As realist dynamics expand globally, states face increasing pressure from hard‑power competition, reshaping the constraints and possibilities of global governance.
-
-https://openalex.org/W7165995105
 ### Use and Abuse of Chinese Workers Recruited for Belt and Road Projects Abroad（2026，Journal of Contemporary Asia，被引 0）
 
 China’s Belt and Road Initiative is the subject of considerable debate. However, relatively little attention has been devoted to the reasons why Chinese state-owned enterprises involved in the initiative so heavily recruit their own country’s manual workers to work overseas and why those workers sometimes experience mistreatment. This article seeks to answer these questions through a close analysis of documents collected by an advocacy group in Indonesia, Algeria, Serbia, and the Democratic Republic of Congo. It details workplace abuses in the sequence that workers encounter them, from their initial recruitment to their confinement within work-site compounds abroad. In addition, the article highlights several factors inherited from China’s early reform era that enable abuses and lead Chinese state-owned enterprises to use Chinese workers abroad: militaristic oversight of employees; barracks-style housing for them; surveillance of workers’ personal lives and communications; elaborate tiers of sub-contracting; and wage gaps resulting from regional and demographic distinctions between workers. Finally, it examines the characteristics of host countries, especially their political regime types, that render them less likely to enforce their own labour laws on behalf of foreign workers.
 
 https://doi.org/10.1080/00472336.2026.2686201
+### The Belt and Road Initiative: Geopolitical Expansion and Institutional Instability in the DRC and Sri Lanka（2026，CUNY Academic Works (City University of New York)，被引 0）
 
-抓取时间：2026-11-18T13:28:49Z
+This study examines how large‑scale Chinese investment in resource‑rich and strategically located states, specifically the Democratic Republic of the Congo (DRC) and Sri Lanka, generates domestic and geopolitical instability. Despite their distinct regional and historical contexts, both countries exhibit structural vulnerabilities that allow external actors to reshape their political and economic trajectories. In the DRC, Chinese initiatives leverage abundant mineral resources and a highly centralized executive structure, reinforcing weak institutional oversight. In Sri Lanka, financial fragility and geopolitical ambition enabled China to acquire strategic territorial influence, illustrating how external financing can erode strategic autonomy and intensify great‑power competition. These dynamics reflect a broader shift in the future of International Political Economy, where a more Beijing‑centric distribution of power and deeper polarization of the international system are likely to intensify. As realist dynamics expand globally, states face increasing pressure from hard‑power competition, reshaping the constraints and possibilities of global governance.
+
+https://openalex.org/W7165995105
+
+抓取时间：2026-11-25T14:59:43Z

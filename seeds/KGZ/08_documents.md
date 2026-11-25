@@ -99,16 +99,16 @@ The corridor is a part of the Belt and Road Initiative and among the corridors a
 
 ## 学术论文（OpenAlex）
 
-### Seeing China's Belt and Road（2024，，被引 9）
-
-Abstract A massive program of infrastructure development and financing, China’s Belt and Road Initiative (BRI) is often described as a giant geopolitical move on Beijing’s part. Yet, while the program may be geopolitical in its intention, whether it is geopolitically significant in its effects remains to be seen. Based on ground-level fieldwork, the contributions to this volume take stock of the downstream effects of the BRI in a wide range of countries from Kyrgyzstan and Switzerland to Ethiopia and Nepal. The authors argue that the BRI is multifaceted and dynamic. Most of the BRI’s effects are a function of what different social and political actors see in the BRI.
-
-https://doi.org/10.1093/oso/9780197789261.001.0001
-### I. China’s Grand Strategy: The Belt and Road Initiative（2016，Whitehall Papers，被引 16）
+### I. China’s Grand Strategy: The Belt and Road Initiative（2016，Whitehall Papers，被引 20）
 
 The abrupt dissolution of the Soviet Union left China with a series of unresolved border disputes with three of the newly established independent countries of Central Asia (Kazakhstan, Kyrgyzstan a...
 
 https://doi.org/10.1080/02681307.2016.1274604
+### An Overview of Chinese Education in Kyrgyzstan under the Construction of “Belt and Road”（2022，Creative Education Studies，被引 1）
+
+We should take a comprehensive and systematic view on the development of international Chinese education, and promote it to be inclusive, so as to lead the development of international Chinese education. Chinese education in Kyrgyzstan has been very effective and has become a benchmark for the five Central Asian countries. This paper expounds the development situation, experience and lessons of Chinese education in Kyrgyzstan from three macro levels of primary education, higher education and social training, the purpose is to promote international Chinese education in the new form, and to provide reference for Chinese and Central Asian language exchange.
+
+https://doi.org/10.12677/ces.2022.1011428
 ### The effect of the belt and road initiative on China's soft power in Kyrgyzstan（2021，，被引 1）
 
 China’s Belt and Road Initiative (BRI) is seen as one of its most ambitious projects to boost its international influence. This thesis explores the effect of BRI on the public perception of China. Kyrgyzstan, where the public opinion of China is worse than anywhere else in the Central Asian region, is chosen as a case study. The framework of the thesis relies on the conceptualization of soft power outlined by Joseph Nye and extended to also include economic resources. Using available survey results on public opinion on China and semi-structured expert interviews, this paper argues that China’s application of soft power through BRI is negatively perceived by the general population in Kyrgyzstan. The reasons behind and the impact of the negative perception are further discussed in the thesis.
@@ -129,15 +129,15 @@ https://doi.org/10.33514/1694-7851-2025-4/1-561-572
 Improving the competitiveness of Kyrgyzstan as a transport logistics centre at the crossroads of Europe and Asia could enable the country to unlock significant untapped benefits of growing cargo flows between the two continents. This study identifies the transport infrastructure and services available in Kyrgyzstan, reviews the country’s extensive recent and future transport investments, and sets out recommendations to ensure its transport network is ready to harness the growth in inland transport from rising East-West trade, particularly in the context of the Belt and Road Initiative, within which Kyrgyzstan could occupy a strategic geographical position. To further capitalize on Kyrgyzstan’s pivotal role in Euro-Asian transport logistics, this study also presents the benefits of adhering to and implementing the full spectrum of UN Transport Conventions and Legal Instruments administered by UNECE, and through its continued participation in UNECE initiatives such as the Euro-Asian Transport Links project. The study also highlights strengthening the harmonization of legislation as one of the most important conditions for the development of the transport infrastructure of Kyrgyzstan and the broader region, of which Kyrgyzstan is a member.
 
 https://doi.org/10.18356/93340fa2-en
-### Central Asian ‘Characteristics’ on China’s New Silk Road: The Role of Landscape and the Politics of Infrastructure（2017，Land，被引 99）
+### Central Asian ‘Characteristics’ on China’s New Silk Road: The Role of Landscape and the Politics of Infrastructure（2017，Land，被引 101）
 
 China’s $1 trillion One Belt, One Road (OBOR) infrastructure project has significant landscape, socio-economic, and political implications in recipient countries. To date, investigation has focused on Chinese motivation and plans rather than OBOR impact in host nations. This paper examines the programme from the perspective of two Central Asian states—Kazakhstan and Kyrgyzstan—that are at the heart of OBOR. We identify geographical factors that constrain infrastructure, recognise geopolitical contestation between Russia and China, address historical and cultural factors, and consider issues of institutional capacity and marginality that may be impediments to China’s initiative. The discussion then focuses on how OBOR may play out in Central Asian landscapes and suggests how to conceive and address the unprecedented transformation in the region’s built environment. Critical issues are that OBOR has not been grounded in the physical geography, practical understanding of OBOR’s impacts is missing, and the state-citizen-China nexus remains unexplored. As pivot nations, OBOR implementation in Kazakhstan and Kyrgyzstan will showcase the Chinese programme’s strengths and highlight its weaknesses.
 
 https://doi.org/10.3390/land6030055
-### A pesky story of Chinese mining in Kyrgyzstan（2021，Routledge eBooks，被引 23）
+### Exploring the Distribution of Tourism Resources in Kyrgyzstan under the Background of the Belt and Road Initiative and Swot Analysis（2024，Grassroots Journal of Natural Resources，被引 6）
 
-The rediscovered maps of the ancient Silk Road, the promises of multimillion-dollar investments in economic corridors and the discourses about the community of common destiny sent waves across the continents. Indeed, China’s Belt and Road Initiative (BRI) is being hailed as a grand project that will change the political, economic, and social landscape of the whole of Eurasia. Yet whilst BRI’s prospective infrastructure investments can create positive spillovers and produce long-term economic benefits, these projects may also leave a negative imprint on frontier and host states on BRI routes. Accordingly, this chapter will explore the nature of BRI mining projects in Central Asia, the risks associated with the Chinese investments, and the impacts such investments may have on a sociopolitical fabric of the region. Since much of foreign direct investment from China is channelled into the extractive industry, this work will study the main drivers of mining-related conflicts, exemplified by the Solton Sary, Kyrgyzstan mine and what conditions and factors are needed in order to build trust between all stakeholders.
+The aim of the study was to assess the distribution and potential of tourism resources in Kyrgyzstan within the context of the Belt and Road Initiative (BRI). Utilizing geospatial analysis, nearest neighbor analysis (NNA), and geographic concentration index, the study reveals the concentration of various types of tourism resources across Kyrgyzstan's regions. Natural resources such as geological landscapes and water bodies are found to be dispersed, with significant concentrations in Chuy and Issyk-Kul regions. Cultural and religious landscapes, on the other hand, are highly clustered in Bishkek and Osh. The study identifies key strengths, such as Kyrgyzstan's rich and diverse tourism resources, but also highlights weaknesses including infrastructure limitations and language barriers. Opportunities arise from the deepening China-Kyrgyzstan relations under the BRI, while threats include potential environmental pressures and over-commercialization. The findings provide a comprehensive understanding of Kyrgyzstan's tourism landscape, offering actionable insights for leveraging the BRI to enhance tourism development in the country.
 
-https://doi.org/10.4324/9781003097341-3
+https://doi.org/10.33002/nr2581.6853.070221
 
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

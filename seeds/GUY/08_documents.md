@@ -34,6 +34,7 @@ Burnham ruled for 21 years, followed by a change in government. The Republic of 
 
 
 == Economic relations ==
+Guyana joined the Belt and Road Initiative (BRI) in 2018.
 In 2022, exports from Guyana to China totaled $1 billion. Chinese state-owned companies have constructed the largest bridge in Guyana, spanning the Demerara River. Upon opening it was named the Bharrat Jagdeo Demerara River Bridge.
 Wide commerce and trade between the two nations has grown significantly, rising from $180 million in 2013 to $1.4 billion in 2024.
 Several Chinese companies operate in Guyana and established the Chinese Enterprises Association in 2014. In 2014, the cargo ship Yuanheng, built by a Chinese company in Guyana, was launched. This ship is the first medium-sized or large ship built in Guyana in decades and is planned for transporting timber.
@@ -99,4 +100,4 @@ Marco Rubio’s diplomatic efforts in the Caribbean, particularly in anti-narcot
 - 2025-10-07 · Brief · Prosperity Data360 Gender Country Snapshots : Guyana。http://documents.worldbank.org/curated/en/099809310132545594
   摘要：This Factsheet provides an overview of the gender sector according to key performance indicators.
 
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

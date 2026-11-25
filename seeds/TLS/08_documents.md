@@ -32,6 +32,7 @@ Timor-Leste's dismissal of hundreds of soldiers resulted in demonstrations and t
 In 2006, the then President Xanana Gusmão called China "a “reliable friend” and had committed Timor-Leste to a One China policy.
 In 2014, the two countries issued a joint communiqué reaffirming that Timor-Leste recognised the Government of the People's Republic of China as "the sole lawful Government representing the whole of China", that Taiwan was "an inalienable part of the Chinese territory", and that Timor-Leste would not establish "any form of official relationship or conduct any form of official contacts" with Taiwan.
 There is also increased military cooperation between the two countries, with the 2008 purchase of two Shanghai-Class patrol boats from a Chinese company. These boats were initially to be crewed by Chinese sailors, while the Chinese trained the Timorese to guard their coasts. In addition, China signed a contract providing US$9 million toward the building of a new headquarters for the military in Timor-Leste.
+Timor-Leste joined the Belt and Road Initiative (BRI) in 2017.
 Effective 1 December 2024, China eliminated tariffs for goods imported from all of the countries that the United Nations categorizes as least developed and with which China has diplomatic relations, including Timor-Leste.
 
 
@@ -50,13 +51,6 @@ Foreign relations of the People's Republic of China
 
 ## 与“一带一路”相关的条目（维基百科导言）
 
-### Andre Vltchek
-
-André Vltchek (Russian: Андре Влчек, [ɐnˈdrɛ ˈvɫ̩t͡ɕɛk], December 29, 1963 – September 22, 2020) was a Soviet-born American political analyst, journalist, and a filmmaker. Vltchek was born in Leningrad but later became a naturalized U.S. citizen after being granted asylum there in his 20s. He lived in the United States, Chile, Peru, Mexico, Vietnam, Samoa, and Indonesia.
-Vltchek covered armed conflicts in Peru, Kashmir, Mexico, Bosnia, Sri Lanka, Congo, India, South Africa, East Timor, Indonesia, Turkey, and the Middle East. He traveled to more than 140 countries, and wrote articles for Der Spiegel, Japanese newspaper The Asahi Shimbun, The Guardian, ABC News and the Czech Republic daily Lidové noviny. From 2004, Vltchek served as a senior fellow at the Oakland Institute.
-Commenting on Vltchek's book Oceania, published in 2010, American linguist Noam Chomsky said that it evoked "the reality of the contemporary world" and that "He has also not failed to trace the painful — and particularly for the West, shameful realities to their historical roots".
-
-来源：https://en.wikipedia.org/wiki/Andre_Vltchek
 ### Kerry Brown (historian)
 
 Kerry Brown (born 1967) is a British historian, author and sinologist specialising in Chinese history, international relations and politics. Brown is a current Professor of Chinese Studies and Director of the Lau China Institute at King's College, London, President of the Kent Archeological Society, and Associate Fellow on the Asia Pacific programme at Chatham House. 
@@ -93,4 +87,4 @@ From 2012 to 2015, he was a Professor of Chinese Politics and Director of the Ch
 （项目：TP-Timor-Leste Branch Roads Project -- P155203）。http://documents.worldbank.org/curated/en/099521207092692778
   摘要：The development objective of is to improve road access, safety, and climate resilience: (i) enhance road access, safety and efficiency of road networks, (ii) increase access of the rural and urban populations on the Gleno-Maubisse corridor to various social services and markets leading to improved livelihoods and poverty reduction, and (iii) improve the districts trade on agriculture products and other potential commodities, (iv) promote a development potential for tourism and agriculture by facilitating road transport and connectivity to major urban and per-urban areas including Dili, Ermera and Ainaro. Some of the negative impacts include: loss of main structures; loss of secondary structures; business impacts and loss of income; loss of crops and trees; loss of public assets and utilities; impacts on vulnerable households; construction-related impacts; and unanticipated involuntary resettlement impacts. Some of the mitigation measures include: cash compensation at replacement cost for affected structures; relocation assistance for displaced households; advance notice of land clearance; priority access to project-related employment opportunities; compensation for secondary structures at replacement cost; income restoration assistance for affected businesses; livelihood restoration program participation; compensation for lost crops and trees based on government rates; restoration or reconstruction of affected public assets and utilities; additional subsistence allowances for
 
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

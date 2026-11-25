@@ -21,7 +21,7 @@ Brunei and China established formal diplomatic relations in 1991. Brunei has an 
 == History ==
 
 Direct contact between China and Brunei dates back to at least the 10th century, as evidenced by the discovery of Chinese artifacts at Kampong Limau Manis in Brunei Darussalam. Over 50,000 ceramic shards, dated between the 10th and 14th centuries, have been unearthed at the site, indicating a long-standing relationship between the two regions.
-In 1932, China declared the Paracel Islands as its southernmost territory, excluding the Spratly Islands, where Brunei has a claim.
+In 1932, the Republic of China declared the Paracel Islands as its southernmost territory, excluding the Spratly Islands, where Brunei has a claim.
 During Brunei's period as a British protectorate (19th century–1984), direct relations with China were limited. After gaining independence on 1 January 1984, Brunei joined ASEAN in 1991, formalizing diplomatic relations with China.
 In June 2013, the Chinese naval hospital ship Peace Ark visited Brunei.
 In 2019, Chinese leader and General Secretary of the Chinese Communist Party Xi Jinping visited Brunei. His visit was described in local media as a significant diplomatic event. Chinese investments such as the Hengyi Petrochemical Complex and StarCity Brunei have been noted for their contributions to the local economy.
@@ -30,6 +30,7 @@ In 2019, Chinese leader and General Secretary of the Chinese Communist Party Xi 
 == Economic relations ==
 In 2011, trade between China and Brunei reached approximately US$1.3 billion,. The two nations have focused on cooperation in areas such as infrastructure development, agriculture, and fisheries.
 In 2014, the two countries established the Brunei-Guangxi Economic Corridor, with pledged joint investments of approximately US$500 million.
+Brunei joined the Belt and Road Initiative (BRI) in 2018.
 Following the 2026 United States strikes in Venezuela, a refinery operated by a joint venture of Zhejiang Hengyi Petrochemical Co. and Brunei's state-owned Damai Holdings stated that it would double its capacity.
 
 
@@ -81,4 +82,4 @@ Brunei, China hail special relationship The Borneo Post
 - 2018-10-31 · Working Paper · Doing Business 2019 : Training for Reform – Brunei Darussalam。http://documents.worldbank.org/curated/en/520341541086940726
   摘要：Sixteenth in a series of annual reports comparing business regulation in 190 economies, Doing Business 2019 covers 11 areas of business regulation. Ten of these areas - starting a business, dealing with construction permits, getting electricity, registering property, getting credit, protecting minority investors, paying taxes, trading across borders, enforcing contracts and resolving insolvency - are included in the ease of doing business score and ease of doing business ranking. Doing Business also measures features of labor market regulation, which is not included in these two measures. Doing Business provides objective measures of business regulations and their enforcement across 190 economies and selected cities at the subnational and regional level. This economy profile presents indicators for Brunei Darussalam; for 2019 Brunei Darussalam ranks 55.
 
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

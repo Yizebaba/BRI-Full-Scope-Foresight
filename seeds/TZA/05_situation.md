@@ -14,4 +14,3 @@
 
 - 2026-11-19 02:11 UTC：M4.9，36 km NNE of Kilimatinde, Tanzania。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxg 
 - 2026-11-19 01:29 UTC：M4.8，40 km NNE of Kilimatinde, Tanzania。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxa 
-- 2026-11-18 18:08 UTC：M4.8，46 km SE of Ikungi, Tanzania。https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz2w 

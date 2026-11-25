@@ -32,16 +32,15 @@ While official diplomatic relations between Ecuador and the People's Republic of
 
 === 21st century ===
 While many Ecuadorian executives visited China, no Chinese leader reciprocated until CCP general secretary Xi Jinping visited Ecuador in 2016.
+Ecuador joined the Belt and Road Initiative (BRI) in 2018.
 In 2024, Ecuador reinstated a visa requirement for Chinese visitors due to an increase in irregular migratory flows.
 
 
-== Loan agreements ==
+== Lending ==
+
 China's oil consumption doubled between 2000 and 2010, and is likely to surpass the United States by 2019. China has been searching outside its national borders to find a solution for its rising energy needs; currently more than half of its oil consumption comes from imports. China already controls growing volumes of oil from Venezuela, where it has negotiated at least $43 billion in loans; from Russia, where the amount may exceed $55 billion; and Brazil, with at least $10 billion. In Angola, the deals total around $13 billion.
 Shortly after taking office in 2007, President Rafael Correa declared a large chunk of Ecuador's $3.2 billion in foreign debt "illegitimate" and "odious," and the country defaulted the next year. With Ecuador considered a pariah in credit markets and struggling to keep its economy solvent, PetroChina, the Chinese oil and gas company and the listed arm of state-owned China National Petroleum Corporation (CNPC), offered a lifeline in July 2009, lending $1 billion to the Correa administration. The "pre-finance" deal was to be repaid over 2 years and carried a 7.25 percent interest rate. Part of the loan agreement stipulated that PetroEcuador, Ecuador's state oil company, sell Amazonian crude to PetroChina. Ecuador committed 96,000 barrels per day to Chinese firms.
 Since 2008 Ecuador has borrowed over $11 billion from China, many used for infrastructure, oil, mining and energy projects. In 2010, the China Export-Import Bank provided a loan of $1.7 billion to the Ecuadorian government for the Coca-Codo Sinclair hydroelectric dam and $570 million for the Sopladora hydroelectric dam, and the Chinese Development Bank loaned PetroEcuador $1 billion. In 2011, PetroChina paid a $1 billion down payment on oil to PetroEcuador. The Chinese Development Bank gave an additional $2 billion loan to the Ecuadorian government, 70% of which was designated for the Ecuadorian government's discretion and 30% of which was for oil. Many of the loans that have followed have been in the $1–2 billion range, with interest rates of between 6% and 8%, and demand payment in barrels of crude oil through 2024.
-
-
-== Compromised sovereignty ==
 In 2013, Chinese money helped cover as much as 61% of the government's financing needs. In exchange, China has claimed nearly 90% of the country's oil shipments over the next few years, most of which it then trades around the world and especially in the United States
 A new credit line is under negotiation since mid 2014, which would be in addition to $9 billion in financing that Ecuador is seeking from China for the construction of a refinery that will process 200,000 barrels of crude oil a day, as well as a $2 billion loan signed with state oil company Sinopec. Including the credit line, these loans from China are equivalent to about 13.6% of Ecuador's GDP as of 2013. The consequent risk is that Ecuador loses it sovereignty, and when it is forced to drill for oil in its natural and ethnic  reserves to repay its debts to China, indigenous peoples' rights are violated and some of the most biodiverse areas in the world are harmed. Critics of the current administration say Ecuador will resemble a wholly owned subsidiary of China, much like many solvency-challenged yet resource-rich countries in sub-Saharan Africa.
 President Correa has publicly complained about China's guarantee demands of the loans, calling it "attempts against the sovereignty of Ecuador". During these public denouncements however, Correa's administration was secretly signing a letter allowing PetroChina to seize assets from any oil companies operating in Ecuador in the event that Ecuador would not pay back its loans to China in full.
@@ -92,4 +91,4 @@ China-Latin America relations
 - 2026-08-08 · Environmental and Social Review Summary · Appraisal Environmental and Social Review Summary (ESRS) - Ecuador Resilient Infrastructure Project - P512096（项目：EC-Ecuador Resilient Infrastructure Project -- P512096）。http://documents.worldbank.org/curated/en/099080826133022481
 - 2026-08-07 · Environmental and Social Assessment · Environmental and Social Impact Assessment  Ecuador Resilient Infrastructure Project (P512096)（项目：EC-Ecuador Resilient Infrastructure Project -- P512096）。http://documents.worldbank.org/curated/en/099080726173522388
 
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z

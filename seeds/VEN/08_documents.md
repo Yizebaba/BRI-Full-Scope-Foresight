@@ -87,7 +87,7 @@ In June 2020, Venezuela was one of 53 countries that backed the Hong Kong nation
 
 == New Silk Road ==
 
-Venezuela has expressed public support for China's Belt and Road Initiative. In September 2018 Maduro traveled to China to strengthen bilateral relations through the BRI. The exact details of any deals have yet to be disclosed.
+Venezuela joined the Belt and Road Initiative (BRI) in 2018.
 Of the $150 billion the Chinese Development Bank loaned to Latin America in the past 12 years, a third went to Venezuela.
 
 
@@ -117,10 +117,10 @@ VIT, C.A.
 
 ### China–Cuba relations
 
-China–Cuba relations are the bilateral relations between the People's Republic of China and the Republic of Cuba. Historically, these relations began when the Qing dynasty established a consulate in Havana while Cuba was still a Captaincy General of Spain in 1879. In 1902, the Qing dynasty recognized the independence of the Republic of Cuba from the United States, which had taken it from Spain in 1898. Cuba recognized the PRC in September 1960.
+Bilateral relations between China and Cuba began when the Qing dynasty established a consulate in Havana while Cuba was still a Captaincy General of Spain in 1879. In 1902, the Qing dynasty recognized the independence of the Republic of Cuba from the United States, which had taken it from Spain in 1898. Cuba recognized the PRC in September 1960.
 The relations are based on trade, credits, and investments, which have increased significantly since the 1990s. China is Cuba's second-largest trading partner after Venezuela. At a ceremonial trade gathering in Havana in early 2006, China's ambassador to Cuba said, "Our government has a firm position to develop trade co-operation between our countries. The policy, the orientation, has been determined. What's left is the work to complete our plans." Although both Cuba and China are ruled by a communist party, they were on different sides during the Cold War, with Cuba being an ally of the Soviet Union, which China usually opposed following the Sino-Soviet Split.
 China and Cuba maintain good relations, including through being members of the Belt and Road Initiative. China has partnered with Cuba to upgrade the rail network, host military facilities, and undertake other initiatives.
 
 来源：https://en.wikipedia.org/wiki/China%E2%80%93Cuba_relations
 
-抓取时间：2026-11-18T13:28:49Z
+抓取时间：2026-11-25T14:59:43Z
