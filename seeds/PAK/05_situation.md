@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-26 13:48 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-26 22:55 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -81,14 +81,14 @@
 - 2026-11-25 06:41 UTC：Pakistan’s Gwadar Port Dream Collapses: From Dubai Promise To Ghost Port - DD News。https://news.google.com/rss/articles/CBMinAFBVV95cUxOeG1JUUtzbGhHa2NfQ2ZVa2JsRFVwUWRrRUtZVVFCWkRSRnF6NWxhZ0VCeE5RanpKVXRNUTdMWjlEYmpZdU1WRFpJbGpjLUFDS1NMSlAxeXQ3WlpydkRxTjJ4QVhPdUY1LU1WQ1ZEMDlOanZpaEZSSDVkclQ1Rnp1X1VXWWJXZWY3X1lqZDQ0c3BEaGxrSmFaQ2dBTUo?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-26 22:00 UTC：Pakistan-Iran Joint Energy Working Group: Gwadar Power Line and Electricity Trade in Focus - News and Statistics - IndexBox
+- 2026-11-26 18:51 UTC：Gwadar Displays Banners Highlighting Pakistan’s Human Space Mission - Daily Independent
+- 2026-11-26 18:33 UTC：Restoration of Gwadar’s Historic Jannat Bazaar Gets Underway - Daily Independent
+- 2026-11-26 18:32 UTC：GDA Directs Acceleration of Desalination Project to Address Gwadar’s Water Needs - www.dailyindependent.com.pk
+- 2026-11-26 18:30 UTC：Gwadar Residents Highlight Key Issues at Public Consultation - www.dailyindependent.com.pk
+- 2026-11-26 15:33 UTC：CM Balochistan to Review Gwadar Development Projects, Basic Facilities - https://quettavoice.com/
+- 2026-11-26 14:49 UTC：Gwadar Set to Transform Pakistan’s Economy as Global Investors Show Interest - Tapmad
 - 2026-11-26 09:42 UTC：Customs seize 40,000 litres of smuggled diesel off Gwadar coast - The Nation (Pakistan )
-- 2026-11-26 09:05 UTC：Pakistan Customs seizes 40,000 litres of smuggled diesel off Gwadar coast - UrduPoint
-- 2026-11-26 08:59 UTC：Pakistan seeks Gwadar link to INSTC through Iran with China - NewsBytes
-- 2026-11-26 07:32 UTC：28th NSW Participants Visit Gwadar, Briefings on Security and Development Projects - Balochistan Pulse
-- 2026-11-26 05:41 UTC：GDA plans paving work in Gwadar’s Jannat Bazaar Breaking - Independent News Pakistan
-- 2026-11-26 01:54 UTC：Ways to boost investment in Gwadar explored - Dawn
-- 2026-11-25 21:40 UTC：Gwadar Free Zone Attracts Chinese Firms, Prioritizes Local Jobs - times of islamabad
-- 2026-11-25 15:29 UTC：Gwadar Business Owners Urged to Keep Footpaths Clear and Maintain Traffic Flow - Daily Independent
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 
