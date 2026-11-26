@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-26 04:05 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-26 13:48 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -44,7 +44,6 @@
 
 - 美国国务院旅行建议：Pakistan - Level 3: Reconsider Travel（发布 Tue, 16 Jun 2026）。来源：https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.pak.html 
 - 英国外交部旅行建议最近更新于 2026-11-18 16:36 UTC，更新说明：Updated information about regional tensions (See ‘Warnings and insurance’ page).。来源：https://www.gov.uk/foreign-travel-advice/pakistan 
-- IODA 近 7 天记录到全国性网络中断告警 0 条。来源：IODA 互联网中断检测（佐治亚理工），https://ioda.inetintel.cc.gatech.edu/
 
 ## 喀喇昆仑公路改扩建（雷科特—红其拉甫）
 
@@ -55,6 +54,8 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-26 11:48 UTC：MNJC motorway project to be built in Khyber Pakhtunkhwa - Pakistan Connect
+- 2026-11-26 11:17 UTC：New Motorway to Ease Traffic Burden on Karakoram Highway - ProPakistani
 - 2026-11-25 19:00 UTC：Aleem Khan says MNJC Motorway to be alternative to KKH - The News Pakistan
 - 2026-11-25 08:09 UTC：Defence, Space and Trade: China and Pakistan Mark 75 Years of Strategic Partnership - NKTV
 - 2026-11-25 00:51 UTC：CPEC: China-Pakistan Economic Corridor's Impact on Pakistan's Development and Economy - times of islamabad
@@ -78,19 +79,16 @@
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
 - 2026-11-25 13:38 UTC：Security Forces Disperse Protesters During Gwadar Baloch Raaji Muchi Clashes - Balochistan Pulse。https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdnAzNGMzTXlTQTlrdGhTejdBTS1UV2FIeWNjSERmV3pCMDA2QW5WVU1CZ09LQjNTS2FoTVo3bGduZ1NPdVB5bGxQQTJ0bWYzSnF5SnQ5dEpfN25rQTAzWk00ZlpKTnM0MFpjNTVMc1ZxY1dWcFVIX3V3SEE4Q2xDWFliaEtRbEdBNmJ2ZnN1Rl9tMlh1dlpnbW9yYW1SSEVDYkZoeDRFTGNsTjJBVFpYV2doWVBYU3lYMGlHYWlFOHNXVFIxN1pQSnlmOTJvV25pTE9DZndVS0Rwb1BGeFVkLVQyYWsyQQ?oc=5
 - 2026-11-25 06:41 UTC：Pakistan’s Gwadar Port Dream Collapses: From Dubai Promise To Ghost Port - DD News。https://news.google.com/rss/articles/CBMinAFBVV95cUxOeG1JUUtzbGhHa2NfQ2ZVa2JsRFVwUWRrRUtZVVFCWkRSRnF6NWxhZ0VCeE5RanpKVXRNUTdMWjlEYmpZdU1WRFpJbGpjLUFDS1NMSlAxeXQ3WlpydkRxTjJ4QVhPdUY1LU1WQ1ZEMDlOanZpaEZSSDVkclQ1Rnp1X1VXWWJXZWY3X1lqZDQ0c3BEaGxrSmFaQ2dBTUo?oc=5
-- 2026-11-20 00:18 UTC：10 killed, 27 hurt in Gwadar bus-tanker collision - Business Recorder。https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPdGVHNXViSXNiQUR5am5XU01nTnZreVZVQTNWS0RiQWNBamJqbDB1YWRhSWp6Q0k4SkgxV0hCcHgxUVU5aEtVeGFTR1hMVkh20gFWQVVfeXFMTVpSQzl0LVFvbks0T29yOVRFNmJFQmM1Z0QzWndPNzctODRveVhTUEhBQ2xBRTdZMDlseGNnSld3U3JjNTdoYjlBQXRwR2Y0UTQ5V2lmbmc?oc=5
-- 2026-11-19 14:54 UTC：Gwadar coach collision ends in fire, with 10 or more dead - Minute Mirror。https://news.google.com/rss/articles/CBMilwFBVV95cUxPTWg1dFNubEpLSjFiUHcxa1RXQmliQjVPYmNJT0duc3kzb2ducEl2VUZ0ZGRYemxyNWF1ZDViWkxkY2gyNVdnb3lQOGJ2TjZzOC1hSlpyNUZVLVQ5dWl3U1hwQm8wLW50RUdJVVRmckJtZnhjTTltemZsZFd4UnpjNS1UWVRTTGVrNzlKQTJLTVVZdUJSQTN3?oc=5
-- 2026-11-19 14:54 UTC：At least 10 killed, 27 injured as coach collides with LPG bowser in Gwadar - The Express Tribune。https://news.google.com/rss/articles/CBMirwFBVV95cUxPZEhSLTZGNmFCSXdBWGNDWkFnY1BBNFFmck95ellRaGc2eUVMc3BKdktKVzRRMWd6dndFOVJGMy1mVWlnQVFuOVNiY1o3TWFMU1Zad2JpaFRJb0NSUTl2VUkyejJieTRmLVJoVWJjVm1jeG1YWFlNTGkteU5kS2hVdFVrcGJ0bmFIVXpyTTR0aGNpWWRRVWhTaG1HRGpvY05yak03TDhfdHV0dTNHMUx3?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-26 09:42 UTC：Customs seize 40,000 litres of smuggled diesel off Gwadar coast - The Nation (Pakistan )
+- 2026-11-26 09:05 UTC：Pakistan Customs seizes 40,000 litres of smuggled diesel off Gwadar coast - UrduPoint
+- 2026-11-26 08:59 UTC：Pakistan seeks Gwadar link to INSTC through Iran with China - NewsBytes
+- 2026-11-26 07:32 UTC：28th NSW Participants Visit Gwadar, Briefings on Security and Development Projects - Balochistan Pulse
+- 2026-11-26 05:41 UTC：GDA plans paving work in Gwadar’s Jannat Bazaar Breaking - Independent News Pakistan
+- 2026-11-26 01:54 UTC：Ways to boost investment in Gwadar explored - Dawn
 - 2026-11-25 21:40 UTC：Gwadar Free Zone Attracts Chinese Firms, Prioritizes Local Jobs - times of islamabad
 - 2026-11-25 15:29 UTC：Gwadar Business Owners Urged to Keep Footpaths Clear and Maintain Traffic Flow - Daily Independent
-- 2026-11-25 15:24 UTC：Anis Tariq Gorgeej Assumes Charge as Gwadar Development Authority Director General - Daily Independent
-- 2026-11-25 15:20 UTC：Basic Education and Fisheries Facilities Completed in Gwadar, Ormara and Jiwani - Daily Independent
-- 2026-11-25 15:16 UTC：Gwadar Free Zone Sees Major Push for Chinese Industrial Investment - Daily Independent
-- 2026-11-25 11:36 UTC：Gwadar to Upgrade Shahi and Jannat Bazaars - The Daily CPEC
-- 2026-11-25 07:33 UTC：The Edelstam Prize: Can International Recognition Overlook Judicial Findings of Mahrang’s Violence and Political Associations? - Balochistan Pulse
-- 2026-11-24 18:22 UTC：GDA plans paving work in Gwadar’s Jannat Bazaar - Gwadar Pro
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

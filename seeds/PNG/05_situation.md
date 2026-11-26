@@ -9,9 +9,7 @@
 
 - 2026-11-23 10:39 UTC：M4.6，30 km SW of Finschhafen, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucy7 
 - 2026-11-20 05:17 UTC：M4.9，54 km W of Madang, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc6c 
-- 2026-11-19 10:53 UTC：M5，31 km WSW of Rabaul, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubz1 
 
 ## 灾害警报（GDACS，近 14 天）
 
 - 2026-11-25 04:30 UTC：Green 级 EQ，Earthquake in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1579161&episodeid=1748614&eventtype=EQ 
-- 2026-11-24 21:11 UTC：Green 级 EQ，Earthquake in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1579107&episodeid=1748556&eventtype=EQ 

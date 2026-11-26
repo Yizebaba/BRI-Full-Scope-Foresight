@@ -5,7 +5,7 @@
 - 美国国务院旅行建议：Laos - Level 2: Exercise Increased Caution（Tue, 28 Jul 2026）。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lao.html 
 - World Monitor 汇总的旅行建议级别：caution
 
-# 老挝项目周边近期态势（截至 2026-11-26 04:05 UTC）
+# 老挝项目周边近期态势（截至 2026-11-26 13:48 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -13,19 +13,20 @@
 
 - 美国国务院旅行建议：Laos - Level 2: Exercise Increased Caution（发布 Tue, 28 Jul 2026）。来源：https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lao.html 
 - 英国外交部旅行建议最近更新于 2026-11-19 14:37 UTC，更新说明：Updated information about the Laos legal system and the consequences of illegal drugs in Laos (See ‘Legal system’ and ‘Illegal drugs and the death penalty’ on the ‘Safety and security’ page).。来源：https://www.gov.uk/foreign-travel-advice/laos 
-- IODA 近 7 天记录到全国性网络中断告警 1 条。来源：IODA 互联网中断检测（佐治亚理工），https://ioda.inetintel.cc.gatech.edu/
 
 ## 中老铁路
 
 周边自然事件：扫描期间没有记录。
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-26 03:30 UTC：Record 1,270 Tourists From Southeast Asia Enter China Through China-Laos Railway Under Visa-Free Travel Policy - Wake Up Singapore
 - 2026-11-24 14:29 UTC：Yunnan welcomes largest inbound foreign tour group since opening of China-Laos Railway - 巴士的報
 - 2026-11-23 08:00 UTC：China-Laos Railway marks fifth birthday in Dalian - China Daily Global Edition
 - 2026-11-21 07:55 UTC：Lao section of China-Laos Railway launches maintenance campaign - Xinhua
+- 2026-11-21 04:24 UTC：LAOS-CHINA-LAOS RAILWAY-MAINTENANCE - Malaysia Sun
 - 2026-11-20 19:04 UTC：China–Laos Railway hits 300,000 cross-border riders in 2026 - https://www.thetraveler.org/
 - 2026-11-20 01:00 UTC：China–Laos Railway reports 300,600 cross-border trips this year - GoKunming
-- 2026-11-19 13:33 UTC：China-Laos Railway Records Over 300,000 Cross-Border Passenger Trips in 2026 - ຂ່າວສານປະເທດລາວ
+- 2026-11-19 22:49 UTC：Vientiane Water Supply Says Tests Find No Hazardous Arsenic in Tap Water - ຂ່າວສານປະເທດລາວ
 
 ## 南欧江梯级水电站（一期）
 
