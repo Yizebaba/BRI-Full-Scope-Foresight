@@ -13,7 +13,7 @@
 
 - 2026-11-24 01:32 UTC：M5.3，67 km WNW of Mangan, India。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud3i 
 
-# 尼泊尔项目周边近期态势（截至 2026-11-27 04:55 UTC）
+# 尼泊尔项目周边近期态势（截至 2026-11-27 14:54 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -27,9 +27,10 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-11-25 20:59 UTC：Hundreds missing, including 47 Americans, in deadly Nepal floods, local officials say - ABC News - Breaking News, Latest News and Videos。https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFFKbWhSWTR5S25UT01SQnE4V1Jua044M19rZmJiYzRwRHphTU1GdFBIUi1ORXl2UUF1Y0NzNG00cDVuNzZuZzFjQ0doUTF5VUg1elRPdE02V0UxNFB1U1dub1ZrMnpjR190bnJIV2VWN0ZPbTRucURXYTlkQWlHS2d0XzR4dzgxaGdCWk92OE9paV92VWIzdTlYNE5xQThPNWRzR2N3R0hjUdIBrwFBVV95cUxNYjM2dnl3U1htTjMxc1ctcjBITTVMMXlXQlFCTjNPV2cxOXF6U3BmU2xSZHZRdHI1QTJRYTB6T1kyVVJ0Y2s3UlZQUm1ZS210UUozM0F3M09Sbk1QWU9pTXVwdjBNT3lGRkhnM0NGZU5ha1BuVDJ1R1hKbVR1M0REMkVMdFpZYnhDb2RUdlNSMVpQbHEwUXV5WGxSMFp1ci16M2dzVGhnQlNpTlVHZ3Qw?oc=5
+- 2026-11-27 13:16 UTC：Home Minister Prioritizes Own Constituency Over Flood Victims - Ratopati。https://news.google.com/rss/articles/CBMiygFBVV95cUxPVjlqZUxpOXluSDlDQWw5X1NMeXEyVzFYOEFGd1Yzek5SQ2gzejI0blFQcWhBVzF6MmVDSVU3N3dSMC1nRm9iYTN0UmktbGFMVlpIQXZIWHczTzZsQnZkdjR1VG1ueEJWSXVjMEVCWFRVU1lfUWNrOTE2aWRrbmVoTGxXdk56Y1BwLTdkbDZRMWpOZmVZeVhBOXotcmVDS2NNQjVlaS1CNENSNmhaeGVGTnVUSFlrWlNsRm5zOGY3eHE5SFR6NTlNdjdn?oc=5
+- 2026-11-27 03:38 UTC：Hundreds missing, including 47 Americans, in deadly Nepal floods, local officials say - ABC News - Breaking News, Latest News and Videos。https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFFKbWhSWTR5S25UT01SQnE4V1Jua044M19rZmJiYzRwRHphTU1GdFBIUi1ORXl2UUF1Y0NzNG00cDVuNzZuZzFjQ0doUTF5VUg1elRPdE02V0UxNFB1U1dub1ZrMnpjR190bnJIV2VWN0ZPbTRucURXYTlkQWlHS2d0XzR4dzgxaGdCWk92OE9paV92VWIzdTlYNE5xQThPNWRzR2N3R0hjUdIBrwFBVV95cUxNYjM2dnl3U1htTjMxc1ctcjBITTVMMXlXQlFCTjNPV2cxOXF6U3BmU2xSZHZRdHI1QTJRYTB6T1kyVVJ0Y2s3UlZQUm1ZS210UUozM0F3M09Sbk1QWU9pTXVwdjBNT3lGRkhnM0NGZU5ha1BuVDJ1R1hKbVR1M0REMkVMdFpZYnhDb2RUdlNSMVpQbHEwUXV5WGxSMFp1ci16M2dzVGhnQlNpTlVHZ3Qw?oc=5
 - 2026-11-25 06:59 UTC：Aid Has Begun Reaching Flood-Hit Areas, Says MoS Kirti Vardhan Singh as India Steps Up Nepal Relief Efforts - DD News。https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFFxMFMwN0c5WmVkWS1udmF6dFdmZ2lwYU5hbGtkT0l0VjduMjBiczlNaHBRX0laMjFXc3lzWk9WUGFVMFhfLS00X0ZNZS1LOGZNM1ctbW03c1lxUWJYM0QzSERpQW9GVS1yeXd5WWRTMlRsVjI3eWRzUGFSb2w3U1ItVWpXWGFUVzZ0b3RfYTd2NUc4Z3BDU0VKYmdsemNObVdValdteWwwTUtrdVJFeVJZWWlpYWF1cmowUkZRMmJRM0F6d2w2U3l1bTE?oc=5
-- 2026-11-21 19:32 UTC：Nepal urges China to reopen Tatopani border crossing as Rasuwagadhi remains shut after floods - Prop News Time。https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRzAxUDlMZUNfQ0N3Y3FSMGZUZTJzbUYzVzN4SURabjJnOFRJeVNwbnUwZkxpTnVNTlpoVUZ1RlJKdjF0V1Vya1pkR3Z3NVRyU1pkQmVzdnNDblJaWUJLSXlSSWZjaDNSVE00dXdlQ3ByR08tYlpWVVNlMUpxbUh0eHp0TmowMUpMMEVBRi1lYWd3RmJSZWN6eHZYRnZ5aDBqYmRSRUw3V01ucmhXVk9SaDBNczBaa19xSjRaNTlobjFXMGFYR3ZmZE1rNFN2YTRGVWpWbHZTOWRmUlRYeUE?oc=5
+- 2026-11-21 19:31 UTC：Nepal urges China to reopen Tatopani border crossing as Rasuwagadhi remains shut after floods - Prop News Time。https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRzAxUDlMZUNfQ0N3Y3FSMGZUZTJzbUYzVzN4SURabjJnOFRJeVNwbnUwZkxpTnVNTlpoVUZ1RlJKdjF0V1Vya1pkR3Z3NVRyU1pkQmVzdnNDblJaWUJLSXlSSWZjaDNSVE00dXdlQ3ByR08tYlpWVVNlMUpxbUh0eHp0TmowMUpMMEVBRi1lYWd3RmJSZWN6eHZYRnZ5aDBqYmRSRUw3V01ucmhXVk9SaDBNczBaa19xSjRaNTlobjFXMGFYR3ZmZE1rNFN2YTRGVWpWbHZTOWRmUlRYeUE?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-26 01:39 UTC：Opinion | Keep Himalayan settlements out of harm’s way - The Kathmandu Post
@@ -38,30 +39,27 @@
 - 2026-11-23 02:54 UTC：Listed Hydropower Companies Post Rs 8.41 Billion Q1 Profit Amid Rising Debt and Reserve Disparities - NEPSE Trading
 - 2026-11-22 10:48 UTC：EV imports surge through Korala border in four months, customs revenue exceeds target - OnlineKhabar English News
 - 2026-11-22 06:35 UTC：Seven Thousand Electric Vehicles Imported Through Korala Pass in Four Months - Ratopati
-- 2026-11-22 06:32 UTC：Seven Thousand Electric Vehicles Imported Through Korala Pass in Four Months - Hamro Patro
 
 ## 热索瓦加迪（Timure）口岸边检站
 
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-11-27 13:16 UTC：Home Minister Prioritizes Own Constituency Over Flood Victims - Ratopati。https://news.google.com/rss/articles/CBMiygFBVV95cUxPVjlqZUxpOXluSDlDQWw5X1NMeXEyVzFYOEFGd1Yzek5SQ2gzejI0blFQcWhBVzF6MmVDSVU3N3dSMC1nRm9iYTN0UmktbGFMVlpIQXZIWHczTzZsQnZkdjR1VG1ueEJWSXVjMEVCWFRVU1lfUWNrOTE2aWRrbmVoTGxXdk56Y1BwLTdkbDZRMWpOZmVZeVhBOXotcmVDS2NNQjVlaS1CNENSNmhaeGVGTnVUSFlrWlNsRm5zOGY3eHE5SFR6NTlNdjdn?oc=5
+- 2026-11-27 03:38 UTC：Hundreds missing, including 47 Americans, in deadly Nepal floods, local officials say - ABC News - Breaking News, Latest News and Videos。https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFFKbWhSWTR5S25UT01SQnE4V1Jua044M19rZmJiYzRwRHphTU1GdFBIUi1ORXl2UUF1Y0NzNG00cDVuNzZuZzFjQ0doUTF5VUg1elRPdE02V0UxNFB1U1dub1ZrMnpjR190bnJIV2VWN0ZPbTRucURXYTlkQWlHS2d0XzR4dzgxaGdCWk92OE9paV92VWIzdTlYNE5xQThPNWRzR2N3R0hjUdIBrwFBVV95cUxNYjM2dnl3U1htTjMxc1ctcjBITTVMMXlXQlFCTjNPV2cxOXF6U3BmU2xSZHZRdHI1QTJRYTB6T1kyVVJ0Y2s3UlZQUm1ZS210UUozM0F3M09Sbk1QWU9pTXVwdjBNT3lGRkhnM0NGZU5ha1BuVDJ1R1hKbVR1M0REMkVMdFpZYnhDb2RUdlNSMVpQbHEwUXV5WGxSMFp1ci16M2dzVGhnQlNpTlVHZ3Qw?oc=5
 - 2026-11-26 05:36 UTC：Flood Victims Face Hardship Amidst Government Inaction and Ample Funds - Ratopati。https://news.google.com/rss/articles/CBMiswFBVV95cUxQeWlFbndOdnNJQjgzYmtTeTl5OEs2MDZ0dEplNkRTbVh0SWpGSnB4Nlk5NGpfS2hBb3RQZTNyQWRxZ3FabFExUjF0aFpIeUZhRG8tYklSOXN6cXRtblkwdVRwS0xzQm5HRnAzRGJ3aV9DSzZsRjVsR2dRSjhDZ2RxQURaRXlSOHFZMjI1bDVpRzRqOVRIaWJLNC1IakNDNmZldlo4V1dZRl9KR1dJcjBZakxmQQ?oc=5
 - 2026-11-26 04:18 UTC：Three months after Bhotekoshi floods: Reconstruction slow, livelihoods under strain - myRepublica。https://news.google.com/rss/articles/CBMiygFBVV95cUxQOENhZzVaYV9NQjhoc0pJZUszaWZVYzFGV3dwOXVMQTRIeVp1ZTNGSC1SM0I4R1pnNUJwbXFZQnVtVlh6cUFiM2wzMFdGYVJyMGlnOUN6dVdMMVQzR3BwUzREMUFsSDM5YkltM1RFcnYyZ0w3eVd2OHZITnA4SFVOUFJOdVBlS1JSOWRxSEl1VWhpaC01R1I5MHRibi1kYjFZZ0t6Mno3TzVOcl82cExocmd6UmJmOHZOSHJZblc2WGJ3aloxY19UM0lR?oc=5
-- 2026-11-25 20:59 UTC：Hundreds missing, including 47 Americans, in deadly Nepal floods, local officials say - ABC News - Breaking News, Latest News and Videos。https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFFKbWhSWTR5S25UT01SQnE4V1Jua044M19rZmJiYzRwRHphTU1GdFBIUi1ORXl2UUF1Y0NzNG00cDVuNzZuZzFjQ0doUTF5VUg1elRPdE02V0UxNFB1U1dub1ZrMnpjR190bnJIV2VWN0ZPbTRucURXYTlkQWlHS2d0XzR4dzgxaGdCWk92OE9paV92VWIzdTlYNE5xQThPNWRzR2N3R0hjUdIBrwFBVV95cUxNYjM2dnl3U1htTjMxc1ctcjBITTVMMXlXQlFCTjNPV2cxOXF6U3BmU2xSZHZRdHI1QTJRYTB6T1kyVVJ0Y2s3UlZQUm1ZS210UUozM0F3M09Sbk1QWU9pTXVwdjBNT3lGRkhnM0NGZU5ha1BuVDJ1R1hKbVR1M0REMkVMdFpZYnhDb2RUdlNSMVpQbHEwUXV5WGxSMFp1ci16M2dzVGhnQlNpTlVHZ3Qw?oc=5
 - 2026-11-25 06:59 UTC：Aid Has Begun Reaching Flood-Hit Areas, Says MoS Kirti Vardhan Singh as India Steps Up Nepal Relief Efforts - DD News。https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFFxMFMwN0c5WmVkWS1udmF6dFdmZ2lwYU5hbGtkT0l0VjduMjBiczlNaHBRX0laMjFXc3lzWk9WUGFVMFhfLS00X0ZNZS1LOGZNM1ctbW03c1lxUWJYM0QzSERpQW9GVS1yeXd5WWRTMlRsVjI3eWRzUGFSb2w3U1ItVWpXWGFUVzZ0b3RfYTd2NUc4Z3BDU0VKYmdsemNObVdValdteWwwTUtrdVJFeVJZWWlpYWF1cmowUkZRMmJRM0F6d2w2U3l1bTE?oc=5
-- 2026-11-25 06:36 UTC：Nepal flash floods: Why the region draws thousands of trekkers, pilgrims this season - DD News。https://news.google.com/rss/articles/CBMirAFBVV95cUxONlJqY2pUcEYydW81RkN1YnZ3emoxZkNuSzVGc0Y2TnhIalFReFZWUmdJMkZkY0F5cDA4UktydEdJLTRXYkl5dDhjNGZXS1FnbkVROFo5T1Jsb3lxcEtTOU4yRTRxRlZyYjFhbWJvZ1BtOFdXajBhRUg0SzBYNkVybmswN2JpLU5aOXVvSjZEaHVUTmJSaUlCUEFjdXZ3RmRORUpfU29hTHpqMXpn?oc=5
 - 2026-11-25 05:09 UTC：Distribution of house rent money begins for 970 Bhotekoshi flood-affected families - OnlineKhabar English News。https://news.google.com/rss/articles/CBMif0FVX3lxTE1zNGJmN2tONHBVR0tNcEtBbE8tNjZkNVg1cFlhamNIUVhUSlpRbFhNcGQtVFZMdWFoUEEwUE1JWGZxZ29LcE9fV3ROaFh2WFc5T0xMSkN1aDN3T01WUVpxZEd1TzY4ODIxZnpFa1BKcmczdmZvVll1UVJSblZVZW8?oc=5
-- 2026-11-21 19:32 UTC：Nepal urges China to reopen Tatopani border crossing as Rasuwagadhi remains shut after floods - Prop News Time。https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRzAxUDlMZUNfQ0N3Y3FSMGZUZTJzbUYzVzN4SURabjJnOFRJeVNwbnUwZkxpTnVNTlpoVUZ1RlJKdjF0V1Vya1pkR3Z3NVRyU1pkQmVzdnNDblJaWUJLSXlSSWZjaDNSVE00dXdlQ3ByR08tYlpWVVNlMUpxbUh0eHp0TmowMUpMMEVBRi1lYWd3RmJSZWN6eHZYRnZ5aDBqYmRSRUw3V01ucmhXVk9SaDBNczBaa19xSjRaNTlobjFXMGFYR3ZmZE1rNFN2YTRGVWpWbHZTOWRmUlRYeUE?oc=5
+- 2026-11-21 19:31 UTC：Nepal urges China to reopen Tatopani border crossing as Rasuwagadhi remains shut after floods - Prop News Time。https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRzAxUDlMZUNfQ0N3Y3FSMGZUZTJzbUYzVzN4SURabjJnOFRJeVNwbnUwZkxpTnVNTlpoVUZ1RlJKdjF0V1Vya1pkR3Z3NVRyU1pkQmVzdnNDblJaWUJLSXlSSWZjaDNSVE00dXdlQ3ByR08tYlpWVVNlMUpxbUh0eHp0TmowMUpMMEVBRi1lYWd3RmJSZWN6eHZYRnZ5aDBqYmRSRUw3V01ucmhXVk9SaDBNczBaa19xSjRaNTlobjFXMGFYR3ZmZE1rNFN2YTRGVWpWbHZTOWRmUlRYeUE?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-26 16:31 UTC：Buried Alive in Mud - Clarion India
 - 2026-11-26 01:39 UTC：Opinion | Keep Himalayan settlements out of harm’s way - The Kathmandu Post
 - 2026-11-25 07:08 UTC：Nepal-India joint military exercise ‘Surya Kiran’ begins in Saljhandi - OnlineKhabar English News
 - 2026-11-23 04:16 UTC：Korala border sees 7,000 electric vehicle imports in four months - The Himalayan Times
 - 2026-11-23 02:54 UTC：Listed Hydropower Companies Post Rs 8.41 Billion Q1 Profit Amid Rising Debt and Reserve Disparities - NEPSE Trading
 - 2026-11-22 10:48 UTC：EV imports surge through Korala border in four months, customs revenue exceeds target - OnlineKhabar English News
 - 2026-11-22 06:35 UTC：Seven Thousand Electric Vehicles Imported Through Korala Pass in Four Months - Ratopati
-- 2026-11-22 06:32 UTC：Seven Thousand Electric Vehicles Imported Through Korala Pass in Four Months - Hamro Patro
 
 ## 上特里苏利 3A 水电站（60 MW）
 
@@ -72,7 +70,6 @@
 - 2026-11-23 08:00 UTC：Himalayan flood death toll passes 1,000 as search continues - 朝日新聞。https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1akpPVFF4R3l4aHY4UHhycEtsZEpyZzVlbDJlUmxBN0ltWUZNNWxnZnZfNXJ3V09tSkpXUzBuZ196N1ZxWG5nRElFaEZsS0RxeTk5anc5QmJUeFJfd0E?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-26 05:20 UTC：Two Detained With Rs 5.05 Million in Cash at Thamel Hotel - Khoj Samachar
 - 2026-11-20 15:47 UTC：Lessons from the Nepal Dam Disaster: Fix, Don’t Abandon Hydropower - Center for Global Development
 
 ## 上特里苏利 3A—加德满都 220 kV 输电线

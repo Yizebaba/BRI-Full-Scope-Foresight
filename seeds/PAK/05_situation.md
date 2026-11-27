@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-27 04:55 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-27 14:54 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -49,21 +49,18 @@
 
 周边自然事件：扫描期间没有记录。
 
-近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-20 08:00 UTC：Karakoram Highway | Facts, Completion Date, & Khunjerab Pass - Britannica
-
 ## 喀喇昆仑公路二期（塔科特—哈维连）
 
 周边自然事件：扫描期间没有记录。
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-27 10:33 UTC：New Motorway Project Aims to Ease Traffic Burden on Karakoram Highway - Al Sadat Marketing
+- 2026-11-27 09:40 UTC：Ahsan Iqbal seeks to boost Pakistani exports with duty-free access to China - ARYnews.tv
 - 2026-11-26 19:00 UTC：Fazl warns of shutdown if barred from entering Sargodha - The News Pakistan
 - 2026-11-26 11:48 UTC：MNJC motorway project to be built in Khyber Pakhtunkhwa - Pakistan Connect
 - 2026-11-26 11:17 UTC：New Motorway to Ease Traffic Burden on Karakoram Highway - ProPakistani
 - 2026-11-25 19:00 UTC：Aleem Khan says MNJC Motorway to be alternative to KKH - The News Pakistan
-- 2026-11-25 08:09 UTC：Defence, Space and Trade: China and Pakistan Mark 75 Years of Strategic Partnership - NKTV
 - 2026-11-25 00:51 UTC：CPEC: China-Pakistan Economic Corridor's Impact on Pakistan's Development and Economy - times of islamabad
-- 2026-11-22 06:17 UTC：Heavy Snowfall Cuts Off Gilgit-Baltistan Districts - Bloom Pakistan
 - 2026-11-22 00:11 UTC：Harsh winter exacerbates misery in Gilgit-Baltistan - Dawn
 
 ## 卡洛特水电站（720 MW）
@@ -73,26 +70,23 @@
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
 - 2026-11-21 13:51 UTC：Why Pakistan Is Missing Out On Its 60,000 MW Hydropower Wealth - The Friday Times。https://news.google.com/rss/articles/CBMikAFBVV95cUxQTlJ5V1FqTlZ6S0huWmp1Q0RFYkZYM0twSURQQjN2UXJ4di03Z282UlAwVGd1amt5RlBIMFdjUHl2VG9QRzNiaWxPMXI4VlpqaVphaUtGUnRpb0RVcXBjZ0xpMy1KOVpLbnlnNlJjMndVZGVHS2VUNUhZcHFOVVhnNGpBUU9McGxLaWloeTNvZ3E?oc=5
 
-近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-20 11:47 UTC：Chinese Consul General in Cebu Li Nan Publishes an Article in the Irish News Titled “China’s green development benefits every corner of the world”_Ministry of Foreign Affairs of the People's Republic 
-
 ## 瓜达尔港
 
 周边自然事件：扫描期间没有记录。
 
 近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
+- 2026-11-27 06:53 UTC：Pakistan’s Gwadar Port Dream Collapses: From Dubai Promise To Ghost Port - DD News。https://news.google.com/rss/articles/CBMinAFBVV95cUxOeG1JUUtzbGhHa2NfQ2ZVa2JsRFVwUWRrRUtZVVFCWkRSRnF6NWxhZ0VCeE5RanpKVXRNUTdMWjlEYmpZdU1WRFpJbGpjLUFDS1NMSlAxeXQ3WlpydkRxTjJ4QVhPdUY1LU1WQ1ZEMDlOanZpaEZSSDVkclQ1Rnp1X1VXWWJXZWY3X1lqZDQ0c3BEaGxrSmFaQ2dBTUo?oc=5
 - 2026-11-25 13:38 UTC：Security Forces Disperse Protesters During Gwadar Baloch Raaji Muchi Clashes - Balochistan Pulse。https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdnAzNGMzTXlTQTlrdGhTejdBTS1UV2FIeWNjSERmV3pCMDA2QW5WVU1CZ09LQjNTS2FoTVo3bGduZ1NPdVB5bGxQQTJ0bWYzSnF5SnQ5dEpfN25rQTAzWk00ZlpKTnM0MFpjNTVMc1ZxY1dWcFVIX3V3SEE4Q2xDWFliaEtRbEdBNmJ2ZnN1Rl9tMlh1dlpnbW9yYW1SSEVDYkZoeDRFTGNsTjJBVFpYV2doWVBYU3lYMGlHYWlFOHNXVFIxN1pQSnlmOTJvV25pTE9DZndVS0Rwb1BGeFVkLVQyYWsyQQ?oc=5
-- 2026-11-25 06:41 UTC：Pakistan’s Gwadar Port Dream Collapses: From Dubai Promise To Ghost Port - DD News。https://news.google.com/rss/articles/CBMinAFBVV95cUxOeG1JUUtzbGhHa2NfQ2ZVa2JsRFVwUWRrRUtZVVFCWkRSRnF6NWxhZ0VCeE5RanpKVXRNUTdMWjlEYmpZdU1WRFpJbGpjLUFDS1NMSlAxeXQ3WlpydkRxTjJ4QVhPdUY1LU1WQ1ZEMDlOanZpaEZSSDVkclQ1Rnp1X1VXWWJXZWY3X1lqZDQ0c3BEaGxrSmFaQ2dBTUo?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-27 14:25 UTC：Gwadar Tehsil to Be Upgraded to Municipal Corporation, Bugti Announces - UrduPoint
+- 2026-11-27 13:01 UTC：99 Secondary School Teachers Receive Merit-Based Appointment Orders in Gwadar - https://quettavoice.com/
+- 2026-11-27 11:15 UTC：Balochistan CM hands appointment orders to 99 Gwadar teachers - UrduPoint
+- 2026-11-27 10:22 UTC：Ahsan pushes major CPEC projects, Gwadar shipping revival in China talks - | Associated Press Of Pakistan
+- 2026-11-27 09:57 UTC：Upgrade work under way at Gwadar’s Jannat Bazaar Breaking - Independent News Pakistan
 - 2026-11-26 23:00 UTC：Pakistan, Iran Expand Gwadar Power Line, Electricity Trade - times of islamabad
 - 2026-11-26 22:00 UTC：Pakistan-Iran Joint Energy Working Group: Gwadar Power Line and Electricity Trade in Focus - News and Statistics - IndexBox
-- 2026-11-26 18:32 UTC：GDA Directs Acceleration of Desalination Project to Address Gwadar’s Water Needs - Daily Independent
-- 2026-11-26 15:33 UTC：CM Balochistan to Review Gwadar Development Projects, Basic Facilities - https://quettavoice.com/
-- 2026-11-26 14:49 UTC：Gwadar Set to Transform Pakistan’s Economy as Global Investors Show Interest - Tapmad
-- 2026-11-26 11:14 UTC：WATCH: Customs Seize 40,000 Litres of Smuggled Diesel Off Gwadar Coast - times of islamabad
-- 2026-11-26 09:42 UTC：Customs seize 40,000 litres of smuggled diesel off Gwadar coast - The Nation (Pakistan )
-- 2026-11-26 09:05 UTC：Pakistan Customs seizes 40,000 litres of smuggled diesel off Gwadar coast - UrduPoint
+- 2026-11-26 18:51 UTC：Gwadar Displays Banners Highlighting Pakistan’s Human Space Mission - Daily Independent
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

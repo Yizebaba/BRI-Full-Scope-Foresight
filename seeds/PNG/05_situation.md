@@ -8,8 +8,7 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-23 10:39 UTC：M4.6，30 km SW of Finschhafen, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucy7 
-- 2026-11-20 05:17 UTC：M4.9，54 km W of Madang, Papua New Guinea。https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc6c 
 
 ## 灾害警报（GDACS，近 14 天）
 
-- 2026-11-19 00:00 UTC：Green 级 WF，Forest fires in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1034104&episodeid=1&eventtype=WF 
+- 2026-11-19 00:00 UTC：Green 级 WF，Forest fires in Papua New Guinea。https://www.gdacs.org/report.aspx?eventid=1034104&episodeid=3&eventtype=WF 
