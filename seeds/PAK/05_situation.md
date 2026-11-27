@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-26 22:55 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-27 04:55 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -49,11 +49,15 @@
 
 周边自然事件：扫描期间没有记录。
 
+近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-20 08:00 UTC：Karakoram Highway | Facts, Completion Date, & Khunjerab Pass - Britannica
+
 ## 喀喇昆仑公路二期（塔科特—哈维连）
 
 周边自然事件：扫描期间没有记录。
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-26 19:00 UTC：Fazl warns of shutdown if barred from entering Sargodha - The News Pakistan
 - 2026-11-26 11:48 UTC：MNJC motorway project to be built in Khyber Pakhtunkhwa - Pakistan Connect
 - 2026-11-26 11:17 UTC：New Motorway to Ease Traffic Burden on Karakoram Highway - ProPakistani
 - 2026-11-25 19:00 UTC：Aleem Khan says MNJC Motorway to be alternative to KKH - The News Pakistan
@@ -81,14 +85,14 @@
 - 2026-11-25 06:41 UTC：Pakistan’s Gwadar Port Dream Collapses: From Dubai Promise To Ghost Port - DD News。https://news.google.com/rss/articles/CBMinAFBVV95cUxOeG1JUUtzbGhHa2NfQ2ZVa2JsRFVwUWRrRUtZVVFCWkRSRnF6NWxhZ0VCeE5RanpKVXRNUTdMWjlEYmpZdU1WRFpJbGpjLUFDS1NMSlAxeXQ3WlpydkRxTjJ4QVhPdUY1LU1WQ1ZEMDlOanZpaEZSSDVkclQ1Rnp1X1VXWWJXZWY3X1lqZDQ0c3BEaGxrSmFaQ2dBTUo?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-26 23:00 UTC：Pakistan, Iran Expand Gwadar Power Line, Electricity Trade - times of islamabad
 - 2026-11-26 22:00 UTC：Pakistan-Iran Joint Energy Working Group: Gwadar Power Line and Electricity Trade in Focus - News and Statistics - IndexBox
-- 2026-11-26 18:51 UTC：Gwadar Displays Banners Highlighting Pakistan’s Human Space Mission - Daily Independent
-- 2026-11-26 18:33 UTC：Restoration of Gwadar’s Historic Jannat Bazaar Gets Underway - Daily Independent
-- 2026-11-26 18:32 UTC：GDA Directs Acceleration of Desalination Project to Address Gwadar’s Water Needs - www.dailyindependent.com.pk
-- 2026-11-26 18:30 UTC：Gwadar Residents Highlight Key Issues at Public Consultation - www.dailyindependent.com.pk
+- 2026-11-26 18:32 UTC：GDA Directs Acceleration of Desalination Project to Address Gwadar’s Water Needs - Daily Independent
 - 2026-11-26 15:33 UTC：CM Balochistan to Review Gwadar Development Projects, Basic Facilities - https://quettavoice.com/
 - 2026-11-26 14:49 UTC：Gwadar Set to Transform Pakistan’s Economy as Global Investors Show Interest - Tapmad
+- 2026-11-26 11:14 UTC：WATCH: Customs Seize 40,000 Litres of Smuggled Diesel Off Gwadar Coast - times of islamabad
 - 2026-11-26 09:42 UTC：Customs seize 40,000 litres of smuggled diesel off Gwadar coast - The Nation (Pakistan )
+- 2026-11-26 09:05 UTC：Pakistan Customs seizes 40,000 litres of smuggled diesel off Gwadar coast - UrduPoint
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

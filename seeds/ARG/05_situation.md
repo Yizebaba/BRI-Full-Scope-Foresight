@@ -8,4 +8,3 @@
 ## 地震（USGS，M4.5+，近 7 天）
 
 - 2026-11-21 19:03 UTC：M4.9，88 km WNW of El Aguilar, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucni 
-- 2026-11-20 02:57 UTC：M4.8，24 km ESE of Calingasta, Argentina。https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc5s 
