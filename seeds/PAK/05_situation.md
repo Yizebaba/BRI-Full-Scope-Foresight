@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-27 14:54 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-27 23:22 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -54,10 +54,9 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-27 10:33 UTC：New Motorway Project Aims to Ease Traffic Burden on Karakoram Highway - Al Sadat Marketing
+- 2026-11-27 10:32 UTC：New Motorway Project Aims to Ease Traffic Burden on Karakoram Highway - Al Sadat Marketing
 - 2026-11-27 09:40 UTC：Ahsan Iqbal seeks to boost Pakistani exports with duty-free access to China - ARYnews.tv
 - 2026-11-26 19:00 UTC：Fazl warns of shutdown if barred from entering Sargodha - The News Pakistan
-- 2026-11-26 11:48 UTC：MNJC motorway project to be built in Khyber Pakhtunkhwa - Pakistan Connect
 - 2026-11-26 11:17 UTC：New Motorway to Ease Traffic Burden on Karakoram Highway - ProPakistani
 - 2026-11-25 19:00 UTC：Aleem Khan says MNJC Motorway to be alternative to KKH - The News Pakistan
 - 2026-11-25 00:51 UTC：CPEC: China-Pakistan Economic Corridor's Impact on Pakistan's Development and Economy - times of islamabad
@@ -79,14 +78,14 @@
 - 2026-11-25 13:38 UTC：Security Forces Disperse Protesters During Gwadar Baloch Raaji Muchi Clashes - Balochistan Pulse。https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdnAzNGMzTXlTQTlrdGhTejdBTS1UV2FIeWNjSERmV3pCMDA2QW5WVU1CZ09LQjNTS2FoTVo3bGduZ1NPdVB5bGxQQTJ0bWYzSnF5SnQ5dEpfN25rQTAzWk00ZlpKTnM0MFpjNTVMc1ZxY1dWcFVIX3V3SEE4Q2xDWFliaEtRbEdBNmJ2ZnN1Rl9tMlh1dlpnbW9yYW1SSEVDYkZoeDRFTGNsTjJBVFpYV2doWVBYU3lYMGlHYWlFOHNXVFIxN1pQSnlmOTJvV25pTE9DZndVS0Rwb1BGeFVkLVQyYWsyQQ?oc=5
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
+- 2026-11-27 21:09 UTC：Balochistan slaps ban on transporting Iranian oil along Makran route - Business Recorder
+- 2026-11-27 16:03 UTC：Pakistan Seeks Duty-Free Chinese Market Access, Gwadar Port Revival - times of islamabad
+- 2026-11-27 15:28 UTC：CM Sarfraz Bugti Directly Reviews Public Complaints in Gwadar, Seeks Feedback from Citizens - https://quettavoice.com/
 - 2026-11-27 14:25 UTC：Gwadar Tehsil to Be Upgraded to Municipal Corporation, Bugti Announces - UrduPoint
 - 2026-11-27 13:01 UTC：99 Secondary School Teachers Receive Merit-Based Appointment Orders in Gwadar - https://quettavoice.com/
 - 2026-11-27 11:15 UTC：Balochistan CM hands appointment orders to 99 Gwadar teachers - UrduPoint
+- 2026-11-27 10:24 UTC：China, Pakistan explore graphene research cooperation - Gwadar Pro
 - 2026-11-27 10:22 UTC：Ahsan pushes major CPEC projects, Gwadar shipping revival in China talks - | Associated Press Of Pakistan
-- 2026-11-27 09:57 UTC：Upgrade work under way at Gwadar’s Jannat Bazaar Breaking - Independent News Pakistan
-- 2026-11-26 23:00 UTC：Pakistan, Iran Expand Gwadar Power Line, Electricity Trade - times of islamabad
-- 2026-11-26 22:00 UTC：Pakistan-Iran Joint Energy Working Group: Gwadar Power Line and Electricity Trade in Focus - News and Statistics - IndexBox
-- 2026-11-26 18:51 UTC：Gwadar Displays Banners Highlighting Pakistan’s Human Space Mission - Daily Independent
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 
