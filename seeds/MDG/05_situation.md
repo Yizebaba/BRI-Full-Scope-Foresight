@@ -4,10 +4,3 @@
 
 - 美国国务院旅行建议：Madagascar - Level 2: Exercise Increased Caution（Fri, 05 Dec 2025）。https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mdg.html 
 - World Monitor 汇总的旅行建议级别：caution
-
-## 灾害警报（GDACS，近 14 天）
-
-- 2026-11-17 00:00 UTC：Green 级 WF，Forest fires in Madagascar。https://www.gdacs.org/report.aspx?eventid=1034035&episodeid=8&eventtype=WF 
-- 2026-11-17 00:00 UTC：Green 级 WF，Forest fires in Madagascar。https://www.gdacs.org/report.aspx?eventid=1034075&episodeid=5&eventtype=WF 
-- 2026-11-16 00:00 UTC：Green 级 WF，Forest fires in Madagascar。https://www.gdacs.org/report.aspx?eventid=1034051&episodeid=8&eventtype=WF 
-- 2026-11-11 00:00 UTC：Green 级 WF，Forest fires in Madagascar。https://www.gdacs.org/report.aspx?eventid=1034036&episodeid=6&eventtype=WF 

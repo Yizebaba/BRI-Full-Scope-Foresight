@@ -7,6 +7,6 @@
 
 ## 地震（USGS，M4.5+，近 7 天）
 
+- 2026-11-28 02:55 UTC：M4.6，26 km NNW of Cuya, Chile。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1k 
 - 2026-11-24 20:27 UTC：M4.6，49 km SW of Ovalle, Chile。https://earthquake.usgs.gov/earthquakes/eventpage/us6000udb8 
 - 2026-11-22 21:47 UTC：M4.5，54 km NNE of Calama, Chile。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucuj 
-- 2026-11-21 01:24 UTC：M4.7，38 km NE of Calama, Chile。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucg8 
