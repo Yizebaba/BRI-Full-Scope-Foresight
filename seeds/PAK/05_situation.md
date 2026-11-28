@@ -36,7 +36,7 @@
 - 2026-06-07 07:51 UTC：US Embassy Pakistan Demonstration Alert: June 9 Protests in Azad Kashmir。https://pk.usembassy.gov/demonstration-alert-june-9-protests-in-azad-kashmir/ 
 - 2026-04-24 03:48 UTC：US Embassy Pakistan Schedule of Fees for Consular Services。https://pk.usembassy.gov/schedule-of-fees-for-consular-services/ 
 
-# 巴基斯坦项目周边近期态势（截至 2026-11-28 04:56 UTC）
+# 巴基斯坦项目周边近期态势（截至 2026-11-28 14:04 UTC）
 
 本文件由程序从公开来源自动汇编，每条注明来源和时间，内容是来源原文的转述。
 
@@ -54,21 +54,16 @@
 周边自然事件：扫描期间没有记录。
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
-- 2026-11-28 01:19 UTC：Ahsan pushes major CPEC projects, Gwadar shipping revival in China talks - Pakistan Observer
+- 2026-11-28 13:17 UTC：Ahsan pushes major CPEC projects, Gwadar shipping revival in China talks - Pakistan Observer
 - 2026-11-27 10:32 UTC：New Motorway Project Aims to Ease Traffic Burden on Karakoram Highway - Al Sadat Marketing
 - 2026-11-27 09:40 UTC：Ahsan Iqbal seeks to boost Pakistani exports with duty-free access to China - ARYnews.tv
 - 2026-11-26 19:00 UTC：Fazl warns of shutdown if barred from entering Sargodha - The News Pakistan
 - 2026-11-26 11:17 UTC：New Motorway to Ease Traffic Burden on Karakoram Highway - ProPakistani
-- 2026-11-25 19:00 UTC：Aleem Khan says MNJC Motorway to be alternative to KKH - The News Pakistan
-- 2026-11-25 00:51 UTC：CPEC: China-Pakistan Economic Corridor's Impact on Pakistan's Development and Economy - times of islamabad
 - 2026-11-22 00:11 UTC：Harsh winter exacerbates misery in Gilgit-Baltistan - Dawn
 
 ## 卡洛特水电站（720 MW）
 
 周边自然事件：扫描期间没有记录。
-
-近 7 天新闻中与事故、灾害、安全相关的报道（标题原文）：
-- 2026-11-21 13:51 UTC：Why Pakistan Is Missing Out On Its 60,000 MW Hydropower Wealth - The Friday Times。https://news.google.com/rss/articles/CBMikAFBVV95cUxQTlJ5V1FqTlZ6S0huWmp1Q0RFYkZYM0twSURQQjN2UXJ4di03Z282UlAwVGd1amt5RlBIMFdjUHl2VG9QRzNiaWxPMXI4VlpqaVphaUtGUnRpb0RVcXBjZ0xpMy1KOVpLbnlnNlJjMndVZGVHS2VUNUhZcHFOVVhnNGpBUU9McGxLaWloeTNvZ3E?oc=5
 
 ## 瓜达尔港
 
@@ -80,13 +75,13 @@
 
 近 7 天其他相关报道（标题原文，按项目名匹配，可能含无关报道）：
 - 2026-11-28 00:54 UTC：Gwadar teachers receive job letters - The Express Tribune
-- 2026-11-28 00:05 UTC：CM bans transportation of Iranian oil via passenger buses on Makran route - Daily Times
 - 2026-11-27 16:03 UTC：Pakistan Seeks Duty-Free Chinese Market Access, Gwadar Port Revival - times of islamabad
 - 2026-11-27 15:28 UTC：CM Sarfraz Bugti Directly Reviews Public Complaints in Gwadar, Seeks Feedback from Citizens - https://quettavoice.com/
 - 2026-11-27 14:25 UTC：Gwadar Tehsil to Be Upgraded to Municipal Corporation, Bugti Announces - UrduPoint
 - 2026-11-27 13:01 UTC：99 Secondary School Teachers Receive Merit-Based Appointment Orders in Gwadar - https://quettavoice.com/
 - 2026-11-27 11:15 UTC：Balochistan CM hands appointment orders to 99 Gwadar teachers - UrduPoint
 - 2026-11-27 10:22 UTC：Ahsan pushes major CPEC projects, Gwadar shipping revival in China talks - | Associated Press Of Pakistan
+- 2026-11-27 09:57 UTC：Upgrade work under way at Gwadar’s Jannat Bazaar Breaking - Independent News Pakistan
 
 ## 已核实的冲突事件（UCDP，经 World Monitor）
 

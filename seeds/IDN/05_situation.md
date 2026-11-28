@@ -11,4 +11,5 @@
 
 ## 地震（USGS，M4.5+，近 7 天）
 
+- 2026-11-28 11:07 UTC：M4.7，46 km S of Tobelo, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue3f 
 - 2026-11-21 23:16 UTC：M4.6，60 km WNW of Abepura, Indonesia。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucpj 

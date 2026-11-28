@@ -19,4 +19,5 @@
 
 ## 地震（USGS，M4.5+，近 7 天）
 
+- 2026-11-28 13:15 UTC：M6.7，62 km NNW of Yelizovo, Russia。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue3p 
 - 2026-11-23 10:39 UTC：M4.7，52 km SW of Tyrma, Russia。https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucy6 
